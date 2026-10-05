@@ -1,0 +1,44 @@
+[
+  {
+    "wine": "Moulin Haut Laroque",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000715.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/000715.jpg",
+    "visibleVintage": "2019",
+    "status": "flat authentic label; 2019 verified visually"
+  },
+  {
+    "wine": "haut-brion",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=2201",
+    "imageURL": "https://www.farrvintners.com/img/labels/10480.png",
+    "visibleVintage": null,
+    "status": "flat authentic label; vintage-free artwork"
+  },
+  {
+    "wine": "petrus",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=3894",
+    "imageURL": "https://www.farrvintners.com/img/labels/10577.jpg",
+    "visibleVintage": null,
+    "status": "flat authentic label; vintage-free artwork"
+  },
+  {
+    "wine": "leoville-las-cases",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=2938",
+    "imageURL": "https://www.farrvintners.com/img/labels/10529.jpg",
+    "visibleVintage": null,
+    "status": "flat authentic label; vintage-free artwork"
+  },
+  {
+    "wine": "nenin",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=3559",
+    "imageURL": "https://www.farrvintners.com/img/labels/10563.jpg",
+    "visibleVintage": null,
+    "status": "flat authentic label; vintage-free artwork"
+  },
+  {
+    "wine": "Chateau Mont-Perat",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001579.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/001579.jpg",
+    "visibleVintage": "2006",
+    "status": "flat label inset on black promotional canvas, no bottle; label is small (roughly 97x220)"
+  }
+]

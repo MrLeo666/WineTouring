@@ -1,0 +1,373 @@
+[
+  {
+    "match": "塩尻",
+    "lat": 36.11,
+    "lng": 137.95,
+    "place": "日本 · 长野 · 盐尻",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "山梨",
+    "lat": 35.66,
+    "lng": 138.57,
+    "place": "日本 · 山梨",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "長野",
+    "lat": 36.3,
+    "lng": 138.1,
+    "place": "日本 · 长野",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "北海道",
+    "lat": 43.2,
+    "lng": 142,
+    "place": "日本 · 北海道",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "岩手",
+    "lat": 39.5,
+    "lng": 141.1,
+    "place": "日本 · 岩手",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "山形",
+    "lat": 38.3,
+    "lng": 140.1,
+    "place": "日本 · 山形",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "埼玉",
+    "lat": 36,
+    "lng": 139.2,
+    "place": "日本 · 埼玉",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "静岡",
+    "lat": 34.9,
+    "lng": 138.8,
+    "place": "日本 · 静冈",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "熊本",
+    "lat": 32.8,
+    "lng": 130.7,
+    "place": "日本 · 熊本",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "島根",
+    "lat": 35.2,
+    "lng": 132.8,
+    "place": "日本 · 岛根",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "京都",
+    "lat": 35.2,
+    "lng": 135.5,
+    "place": "日本 · 京都",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "フリウ",
+    "lat": 46.05,
+    "lng": 13.2,
+    "place": "意大利 · 弗留利",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "カラブリア",
+    "lat": 39.2,
+    "lng": 16.6,
+    "place": "意大利 · 卡拉布里亚",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "シチリア",
+    "lat": 37.6,
+    "lng": 14,
+    "place": "意大利 · 西西里",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "アブルッツォ",
+    "lat": 42.2,
+    "lng": 13.8,
+    "place": "意大利 · 阿布鲁佐",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "ロンバルディア",
+    "lat": 45.5,
+    "lng": 10.1,
+    "place": "意大利 · 伦巴第",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "カンパーニャ",
+    "lat": 40.9,
+    "lng": 14.8,
+    "place": "意大利 · 坎帕尼亚",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "バジリカータ",
+    "lat": 40.9,
+    "lng": 15.7,
+    "place": "意大利 · 巴斯利卡塔",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "マルケ",
+    "lat": 43.2,
+    "lng": 13.3,
+    "place": "意大利 · 马尔凯",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "アルト・アディジェ",
+    "lat": 46.47,
+    "lng": 11.25,
+    "place": "意大利 · 上阿迪杰",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "ピエモンテ",
+    "lat": 44.7,
+    "lng": 8,
+    "place": "意大利 · 皮埃蒙特",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "トスカーナ",
+    "lat": 43.4,
+    "lng": 11.3,
+    "place": "意大利 · 托斯卡纳",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "ヴェネト",
+    "lat": 45.5,
+    "lng": 11.7,
+    "place": "意大利 · 威尼托",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "モーゼル",
+    "lat": 49.95,
+    "lng": 6.9,
+    "place": "德国 · 摩泽尔",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "ミッテルライン",
+    "lat": 50.06,
+    "lng": 7.75,
+    "place": "德国 · 中莱茵",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "オレゴン",
+    "lat": 44.8,
+    "lng": -123.1,
+    "place": "美国 · 俄勒冈",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "ワシントン",
+    "lat": 46.3,
+    "lng": -119.5,
+    "place": "美国 · 华盛顿州",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "カリフォルニア",
+    "lat": 36.7,
+    "lng": -119.5,
+    "place": "美国 · 加利福尼亚",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "マイポ",
+    "lat": -33.6,
+    "lng": -70.7,
+    "place": "智利 · 迈坡谷",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "リベラ・デル・デュエロ",
+    "lat": 41.65,
+    "lng": -3.7,
+    "place": "西班牙 · 杜埃罗河岸",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "リベラ・デル・ドゥエロ",
+    "lat": 41.65,
+    "lng": -3.7,
+    "place": "西班牙 · 杜埃罗河岸",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "モンサン",
+    "lat": 41.14,
+    "lng": 0.82,
+    "place": "西班牙 · 蒙桑特",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "カラタユ",
+    "lat": 41.35,
+    "lng": -1.64,
+    "place": "西班牙 · 卡拉塔尤德",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "アルマンサ",
+    "lat": 38.87,
+    "lng": -1.1,
+    "place": "西班牙 · 阿尔曼萨",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "アリカンテ",
+    "lat": 38.45,
+    "lng": -0.7,
+    "place": "西班牙 · 阿利坎特",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "フミーリャ",
+    "lat": 38.48,
+    "lng": -1.32,
+    "place": "西班牙 · 胡米亚",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "ペネデス",
+    "lat": 41.35,
+    "lng": 1.7,
+    "place": "西班牙 · 佩内德斯",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "リオハ",
+    "lat": 42.46,
+    "lng": -2.45,
+    "place": "西班牙 · 里奥哈",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "ガリシア",
+    "lat": 42.55,
+    "lng": -7.8,
+    "place": "西班牙 · 加利西亚",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "ガルシア",
+    "lat": 42.55,
+    "lng": -7.8,
+    "place": "西班牙 · 加利西亚",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "マドリッド",
+    "lat": 40.3,
+    "lng": -4,
+    "place": "西班牙 · 马德里",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "カスティーリャ・ラマンチャ",
+    "lat": 39.5,
+    "lng": -3.5,
+    "place": "西班牙 · 卡斯蒂利亚-拉曼恰",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "カスティーリャ・レオン",
+    "lat": 41.5,
+    "lng": -4.7,
+    "place": "西班牙 · 卡斯蒂利亚-莱昂",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "カタルーニャ",
+    "lat": 41.5,
+    "lng": 1.5,
+    "place": "西班牙 · 加泰罗尼亚",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "シャンパーニュ",
+    "lat": 49.04,
+    "lng": 3.96,
+    "place": "法国 · 香槟",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "ソーテルヌ",
+    "lat": 44.534,
+    "lng": -0.34,
+    "place": "法国 · 波尔多 · 苏玳",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "ボルドー",
+    "lat": 44.95,
+    "lng": -0.55,
+    "place": "法国 · 波尔多",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "ブルゴーニュ",
+    "lat": 47,
+    "lng": 4.8,
+    "place": "法国 · 勃艮第",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "ローヌ",
+    "lat": 44.65,
+    "lng": 4.8,
+    "place": "法国 · 罗讷河谷",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "ロワール",
+    "lat": 47.3,
+    "lng": 0.7,
+    "place": "法国 · 卢瓦尔河谷",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "ジュラ",
+    "lat": 46.75,
+    "lng": 5.65,
+    "place": "法国 · 汝拉",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "アルザス",
+    "lat": 48.1,
+    "lng": 7.35,
+    "place": "法国 · 阿尔萨斯",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  },
+  {
+    "match": "ラングド",
+    "lat": 43.3,
+    "lng": 3.1,
+    "place": "法国 · 朗格多克",
+    "coordinateMethod": "manually selected broad-region schematic point, not estate coordinates"
+  }
+]

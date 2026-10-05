@@ -1,0 +1,1330 @@
+[
+  {
+    "estate": "Château Beau-Séjour Bécot",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=11396",
+    "imageURL": "https://www.farrvintners.com/img/labels/12448.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/beausejourbecot.jpg",
+    "dimensions": [
+      230,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "beau-sejour-becot-grand",
+    "estateId": "beau-sejour-becot",
+    "src": "labels/se-beau-sejour-becot.jpg"
+  },
+  {
+    "estate": "Château Beauséjour Duffau-Lagarrosse",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=9936",
+    "imageURL": "https://www.farrvintners.com/img/labels/12003.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/beausejourduffaulagarrosse.jpg",
+    "dimensions": [
+      225,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "beausejour-duffau-lagarrosse-grand",
+    "estateId": "beausejour-duffau-lagarrosse",
+    "src": "labels/se-beausejour-duffau-lagarrosse.jpg"
+  },
+  {
+    "estate": "Château Bélair-Monange",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=21423",
+    "imageURL": "https://www.farrvintners.com/img/labels/16409.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/belairmonange.jpg",
+    "dimensions": [
+      224,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "belair-monange-grand",
+    "estateId": "belair-monange",
+    "src": "labels/se-belair-monange.jpg"
+  },
+  {
+    "estate": "Château Canon",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=549",
+    "imageURL": "https://www.farrvintners.com/img/labels/10389.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/canon.jpg",
+    "dimensions": [
+      245,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "canon-grand",
+    "estateId": "canon",
+    "src": "labels/se-canon.jpg"
+  },
+  {
+    "estate": "Château Canon la Gaffelière",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=593",
+    "imageURL": "https://www.farrvintners.com/img/labels/10390.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/canonlagaffeliere.jpg",
+    "dimensions": [
+      298,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "canon-la-gaffeliere-grand",
+    "estateId": "canon-la-gaffeliere",
+    "src": "labels/se-canon-la-gaffeliere.jpg"
+  },
+  {
+    "estate": "Clos Fourtet",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=1013",
+    "imageURL": "https://www.farrvintners.com/img/labels/10409.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/closfourtet.jpg",
+    "dimensions": [
+      300,
+      225
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "clos-fourtet-grand",
+    "estateId": "clos-fourtet",
+    "src": "labels/se-clos-fourtet.jpg"
+  },
+  {
+    "estate": "La Mondotte",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=12381",
+    "imageURL": "https://www.farrvintners.com/img/labels/12777.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/lamondotte.jpg",
+    "dimensions": [
+      300,
+      254
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "la-mondotte-grand",
+    "estateId": "la-mondotte",
+    "src": "labels/se-la-mondotte.jpg"
+  },
+  {
+    "estate": "Château Larcis Ducasse",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=11635",
+    "imageURL": "https://www.farrvintners.com/img/labels/12530.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/larcisducasse.jpg",
+    "dimensions": [
+      226,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "larcis-ducasse-grand",
+    "estateId": "larcis-ducasse",
+    "src": "labels/se-larcis-ducasse.jpg"
+  },
+  {
+    "estate": "Château Balestard la Tonnelle",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=11818",
+    "imageURL": "https://www.farrvintners.com/img/labels/12566.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/balestardlatonnelle.jpg",
+    "dimensions": [
+      213,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "balestard-la-tonnelle-grand",
+    "estateId": "balestard-la-tonnelle",
+    "src": "labels/se-balestard-la-tonnelle.jpg"
+  },
+  {
+    "estate": "Château Barde-Haut",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=1093",
+    "imageURL": "https://www.farrvintners.com/img/labels/10412.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/bardehaut.jpg",
+    "dimensions": [
+      259,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "barde-haut-grand",
+    "estateId": "barde-haut",
+    "src": "labels/se-barde-haut.jpg"
+  },
+  {
+    "estate": "Château Bellefont Belcier",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=11823",
+    "imageURL": "https://www.farrvintners.com/img/labels/12567.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/bellefontbelcier.jpg",
+    "dimensions": [
+      211,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "bellefont-belcier-grand",
+    "estateId": "bellefont-belcier",
+    "src": "labels/se-bellefont-belcier.jpg"
+  },
+  {
+    "estate": "Château Berliquet",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=16432",
+    "imageURL": "https://www.farrvintners.com/img/labels/13987.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/berliquet.jpg",
+    "dimensions": [
+      271,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "berliquet-grand",
+    "estateId": "berliquet",
+    "src": "labels/se-berliquet.jpg"
+  },
+  {
+    "estate": "Château Cap de Mourlin",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=6283",
+    "imageURL": "https://www.farrvintners.com/img/labels/10966.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/capdemourlin.jpg",
+    "dimensions": [
+      300,
+      266
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "cap-de-mourlin-grand",
+    "estateId": "cap-de-mourlin",
+    "src": "labels/se-cap-de-mourlin.jpg"
+  },
+  {
+    "estate": "Château Chauvin",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=11201",
+    "imageURL": "https://www.farrvintners.com/img/labels/12387.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/chauvin.jpg",
+    "dimensions": [
+      281,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "chauvin-grand",
+    "estateId": "chauvin",
+    "src": "labels/se-chauvin.jpg"
+  },
+  {
+    "estate": "Château Clos de Sarpe",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=62185",
+    "imageURL": "https://www.farrvintners.com/img/labels/12778.png",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/closdesarpe.jpg",
+    "dimensions": [
+      300,
+      299
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "clos-de-sarpe-grand",
+    "estateId": "clos-de-sarpe",
+    "src": "labels/se-clos-de-sarpe.png"
+  },
+  {
+    "estate": "Château Corbin",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=16439",
+    "imageURL": "https://www.farrvintners.com/img/labels/13989.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/corbin.jpg",
+    "dimensions": [
+      259,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "corbin-grand",
+    "estateId": "corbin",
+    "src": "labels/se-corbin.jpg"
+  },
+  {
+    "estate": "Château Corbin Michotte",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=12488",
+    "imageURL": "https://www.farrvintners.com/img/labels/12801.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/corbinmichotte.jpg",
+    "dimensions": [
+      300,
+      237
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "manga-74417b419b0d",
+    "estateId": "corbin-michotte",
+    "src": "labels/se-corbin-michotte.jpg"
+  },
+  {
+    "estate": "Château Croix de Labrie",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=11304",
+    "imageURL": "https://www.farrvintners.com/img/labels/12421.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/croixdelabrie.jpg",
+    "dimensions": [
+      300,
+      268
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "croix-de-labrie-grand",
+    "estateId": "croix-de-labrie",
+    "src": "labels/se-croix-de-labrie.jpg"
+  },
+  {
+    "estate": "Château Côte de Baleau",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=13955",
+    "imageURL": "https://www.farrvintners.com/img/labels/13343.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/cotedebaleau.jpg",
+    "dimensions": [
+      222,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "cote-de-baleau-grand",
+    "estateId": "cote-de-baleau",
+    "src": "labels/se-cote-de-baleau.jpg"
+  },
+  {
+    "estate": "Château Destieux",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=19551",
+    "imageURL": "https://www.farrvintners.com/img/labels/15476.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/destieux.jpg",
+    "dimensions": [
+      209,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "destieux-grand",
+    "estateId": "destieux",
+    "src": "labels/se-destieux.jpg"
+  },
+  {
+    "estate": "Château Faugères",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=4547",
+    "imageURL": "https://www.farrvintners.com/img/labels/10641.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/faugeres.jpg",
+    "dimensions": [
+      300,
+      214
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "faugeres-grand",
+    "estateId": "estate-faugeres",
+    "src": "labels/se-estate-faugeres.jpg"
+  },
+  {
+    "estate": "Château Fleur Cardinale",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=8510",
+    "imageURL": "https://www.farrvintners.com/img/labels/11689.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/fleurcardinale.jpg",
+    "dimensions": [
+      275,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "fleur-cardinale-grand",
+    "estateId": "fleur-cardinale",
+    "src": "labels/se-fleur-cardinale.jpg"
+  },
+  {
+    "estate": "Château Fombrauge",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=11285",
+    "imageURL": "https://www.farrvintners.com/img/labels/12420.png",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/fombrauge.jpg",
+    "dimensions": [
+      300,
+      282
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "fombrauge-grand",
+    "estateId": "fombrauge",
+    "src": "labels/se-fombrauge.png"
+  },
+  {
+    "estate": "Château Fonplégade",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=12556",
+    "imageURL": "https://www.farrvintners.com/img/labels/12819.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/fonplegade.jpg",
+    "dimensions": [
+      202,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "fonplegade-grand",
+    "estateId": "fonplegade",
+    "src": "labels/se-fonplegade.jpg"
+  },
+  {
+    "estate": "Château Fonroque",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=1618",
+    "imageURL": "https://www.farrvintners.com/img/labels/10435.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/fonroque.jpg",
+    "dimensions": [
+      300,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "fonroque-grand",
+    "estateId": "fonroque",
+    "src": "labels/se-fonroque.jpg"
+  },
+  {
+    "estate": "Château Franc Mayne",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=6463",
+    "imageURL": "https://www.farrvintners.com/img/labels/11010.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/francmayne.jpg",
+    "dimensions": [
+      281,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "franc-mayne-grand",
+    "estateId": "franc-mayne",
+    "src": "labels/se-franc-mayne.jpg"
+  },
+  {
+    "estate": "Château Grand Corbin",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=39566",
+    "imageURL": "https://www.farrvintners.com/img/labels/13693.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/grandcorbin.jpg",
+    "dimensions": [
+      259,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "grand-corbin-grand",
+    "estateId": "grand-corbin",
+    "src": "labels/se-grand-corbin.jpg"
+  },
+  {
+    "estate": "Château Grand Corbin-Despagne",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=11368",
+    "imageURL": "https://www.farrvintners.com/img/labels/12439.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/grandcorbindespagne.jpg",
+    "dimensions": [
+      224,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "grand-corbin-despagne-grand",
+    "estateId": "grand-corbin-despagne",
+    "src": "labels/se-grand-corbin-despagne.jpg"
+  },
+  {
+    "estate": "Château Grand Mayne",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=11658",
+    "imageURL": "https://www.farrvintners.com/img/labels/12532.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/grandmayne.jpg",
+    "dimensions": [
+      275,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "grand-mayne-grand",
+    "estateId": "grand-mayne",
+    "src": "labels/se-grand-mayne.jpg"
+  },
+  {
+    "estate": "Château La Fleur Morange",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=19554",
+    "imageURL": "https://www.farrvintners.com/img/labels/15477.png",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/lafleurmorange.jpg",
+    "dimensions": [
+      300,
+      201
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "la-fleur-morange-grand",
+    "estateId": "la-fleur-morange",
+    "src": "labels/se-la-fleur-morange.png"
+  },
+  {
+    "estate": "Château Laniote",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=16512",
+    "imageURL": "https://www.farrvintners.com/img/labels/14030.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/laniote.jpg",
+    "dimensions": [
+      190,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "laniote-grand",
+    "estateId": "laniote",
+    "src": "labels/se-laniote.jpg"
+  },
+  {
+    "estate": "Château Larmande",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=2704",
+    "imageURL": "https://www.farrvintners.com/img/labels/10522.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/larmande.jpg",
+    "dimensions": [
+      257,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "larmande-grand",
+    "estateId": "larmande",
+    "src": "labels/se-larmande.jpg"
+  },
+  {
+    "estate": "Château Laroque",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=76743",
+    "imageURL": "https://www.farrvintners.com/img/labels/17493.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/laroque.jpg",
+    "dimensions": [
+      219,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "laroque-grand",
+    "estateId": "laroque",
+    "src": "labels/se-laroque.jpg"
+  },
+  {
+    "estate": "Château Laroze",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=29666",
+    "imageURL": "https://www.farrvintners.com/img/labels/13984.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/laroze.jpg",
+    "dimensions": [
+      300,
+      210
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "laroze-grand",
+    "estateId": "laroze",
+    "src": "labels/se-laroze.jpg"
+  },
+  {
+    "estate": "Château la Confession",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=16572",
+    "imageURL": "https://www.farrvintners.com/img/labels/14059.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/laconfession.jpg",
+    "dimensions": [
+      225,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "la-confession-grand",
+    "estateId": "la-confession",
+    "src": "labels/se-la-confession.jpg"
+  },
+  {
+    "estate": "Château la Couspaude",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=11770",
+    "imageURL": "https://www.farrvintners.com/img/labels/12553.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/lacouspaude.jpg",
+    "dimensions": [
+      300,
+      272
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "la-couspaude-grand",
+    "estateId": "la-couspaude",
+    "src": "labels/se-la-couspaude.jpg"
+  },
+  {
+    "estate": "Château la Dominique",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=1307",
+    "imageURL": "https://www.farrvintners.com/img/labels/10423.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/ladominique.jpg",
+    "dimensions": [
+      235,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "la-dominique-grand",
+    "estateId": "la-dominique",
+    "src": "labels/se-la-dominique.jpg"
+  },
+  {
+    "estate": "Château la Serre",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=2541",
+    "imageURL": "https://www.farrvintners.com/img/labels/10514.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/laserre.jpg",
+    "dimensions": [
+      300,
+      260
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "la-serre-grand",
+    "estateId": "la-serre",
+    "src": "labels/se-la-serre.jpg"
+  },
+  {
+    "estate": "Château la Tour Figeac",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=6264",
+    "imageURL": "https://www.farrvintners.com/img/labels/10965.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/latourfigeac.jpg",
+    "dimensions": [
+      186,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "la-tour-figeac-grand",
+    "estateId": "la-tour-figeac",
+    "src": "labels/se-la-tour-figeac.jpg"
+  },
+  {
+    "estate": "Clos Dubreuil",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=11092",
+    "imageURL": "https://www.farrvintners.com/img/labels/12364.png",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/closdubreuil.jpg",
+    "dimensions": [
+      300,
+      212
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "clos-dubreuil-grand",
+    "estateId": "clos-dubreuil",
+    "src": "labels/se-clos-dubreuil.png"
+  },
+  {
+    "estate": "Clos Saint-Martin",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=5342",
+    "imageURL": "https://www.farrvintners.com/img/labels/10778.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/clossaintmartin.jpg",
+    "dimensions": [
+      247,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "clos-saint-martin-grand",
+    "estateId": "clos-saint-martin",
+    "src": "labels/se-clos-saint-martin.jpg"
+  },
+  {
+    "estate": "Clos de l'Oratoire",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=9233",
+    "imageURL": "https://www.farrvintners.com/img/labels/11809.png",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/closdeloratoire.jpg",
+    "dimensions": [
+      300,
+      232
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "clos-de-l-oratoire-grand",
+    "estateId": "clos-de-l-oratoire",
+    "src": "labels/se-clos-de-l-oratoire.png"
+  },
+  {
+    "estate": "Clos des Jacobins",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=977",
+    "imageURL": "https://www.farrvintners.com/img/labels/10407.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/closdesjacobins.jpg",
+    "dimensions": [
+      204,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "clos-des-jacobins-grand",
+    "estateId": "clos-des-jacobins",
+    "src": "labels/se-clos-des-jacobins.jpg"
+  },
+  {
+    "estate": "Couvent des Jacobins",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=11221",
+    "imageURL": "https://www.farrvintners.com/img/labels/12390.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/couventdesjacobins.jpg",
+    "dimensions": [
+      300,
+      251
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed Farr Vintners product label asset. Printed vintage absent or not confidently legible; product-page vintage must not be inferred.",
+    "imagekind": "flat-label",
+    "wineId": "couvent-des-jacobins-grand",
+    "estateId": "couvent-des-jacobins",
+    "src": "labels/se-couvent-des-jacobins.jpg"
+  },
+  {
+    "estate": "Château Boutisse",
+    "sourcePage": "https://vintus.com/wines/chateau-boutisse/chateau-boutisse-2015/",
+    "imageURL": "https://vintus.com/wp-content/uploads/2018/12/Ch-Boutisse.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/boutisse.jpg",
+    "dimensions": [
+      1350,
+      935
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed authentic detached label from importer Vintus resource section; no printed vintage.",
+    "imagekind": "flat-label",
+    "wineId": "boutisse-grand",
+    "estateId": "boutisse",
+    "src": "labels/se-boutisse.jpg"
+  },
+  {
+    "estate": "Château Badette",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/003036.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/003036.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/badette.jpg",
+    "dimensions": [
+      222,
+      300
+    ],
+    "visibleVintage": "2016",
+    "notes": "Visually reviewed authentic label from Bordeaux-Kompass estate/wine profile. Detached/flat label asset; vintage recorded only where readable on image.",
+    "imagekind": "flat-label",
+    "wineId": "badette-grand",
+    "estateId": "badette",
+    "src": "labels/se-badette.jpg"
+  },
+  {
+    "estate": "Château Haut-Sarpe",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000525.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/000525.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/haut-sarpe.jpg",
+    "dimensions": [
+      223,
+      300
+    ],
+    "visibleVintage": "2010",
+    "notes": "Visually reviewed authentic label from Bordeaux-Kompass estate/wine profile. Detached/flat label asset; vintage recorded only where readable on image.",
+    "imagekind": "flat-label",
+    "wineId": "haut-sarpe-grand",
+    "estateId": "haut-sarpe",
+    "src": "labels/se-haut-sarpe.jpg"
+  },
+  {
+    "estate": "Château Jean Faure",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000549.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/000549.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/jeanfaure.jpg",
+    "dimensions": [
+      246,
+      300
+    ],
+    "visibleVintage": "2014",
+    "notes": "Visually reviewed authentic label from Bordeaux-Kompass estate/wine profile. Photograph tightly cropped to label; visible curvature, not a detached flat scan.",
+    "imagekind": "curved-label-crop",
+    "wineId": "jean-faure-grand",
+    "estateId": "jean-faure",
+    "src": "labels/se-jean-faure.jpg"
+  },
+  {
+    "estate": "Château Bellevue",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000082.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/000082.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/kompass-000082.jpg",
+    "dimensions": [
+      245,
+      300
+    ],
+    "visibleVintage": "2018",
+    "notes": "Visually reviewed authentic label from Bordeaux-Kompass estate/wine profile. Detached/flat label asset; vintage recorded only where readable on image.",
+    "imagekind": "flat-label",
+    "wineId": "bellevue-grand",
+    "estateId": "bellevue",
+    "src": "labels/se-bellevue.jpg"
+  },
+  {
+    "estate": "Château Cadet-Bon",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000135.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/000135.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/kompass-000135.jpg",
+    "dimensions": [
+      200,
+      300
+    ],
+    "visibleVintage": "2005",
+    "notes": "Visually reviewed authentic label from Bordeaux-Kompass estate/wine profile. Detached/flat label asset; vintage recorded only where readable on image.",
+    "imagekind": "flat-label",
+    "wineId": "cadet-bon-grand",
+    "estateId": "cadet-bon",
+    "src": "labels/se-cadet-bon.jpg"
+  },
+  {
+    "estate": "Château Guadet",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000481.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/000481.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/kompass-000481.jpg",
+    "dimensions": [
+      336,
+      300
+    ],
+    "visibleVintage": "2009",
+    "notes": "Visually reviewed authentic label from Bordeaux-Kompass estate/wine profile. Detached/flat label asset; vintage recorded only where readable on image.",
+    "imagekind": "flat-label",
+    "wineId": "guadet-grand",
+    "estateId": "guadet",
+    "src": "labels/se-guadet.jpg"
+  },
+  {
+    "estate": "Château de Ferrand",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000362.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/000362.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/kompass-000362.jpg",
+    "dimensions": [
+      328,
+      300
+    ],
+    "visibleVintage": "2021",
+    "notes": "Visually reviewed authentic label from Bordeaux-Kompass estate/wine profile. Detached/flat label asset; vintage recorded only where readable on image.",
+    "imagekind": "flat-label",
+    "wineId": "de-ferrand-grand",
+    "estateId": "de-ferrand",
+    "src": "labels/se-de-ferrand.jpg"
+  },
+  {
+    "estate": "Château de Pressac",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001198.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/001198.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/kompass-001198.jpg",
+    "dimensions": [
+      399,
+      300
+    ],
+    "visibleVintage": "2012",
+    "notes": "Visually reviewed authentic label from Bordeaux-Kompass estate/wine profile. Detached/flat label asset; vintage recorded only where readable on image.",
+    "imagekind": "flat-label",
+    "wineId": "de-pressac-grand",
+    "estateId": "de-pressac",
+    "src": "labels/se-de-pressac.jpg"
+  },
+  {
+    "estate": "Château la Commanderie",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000255.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/000255.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/kompass-000255.jpg",
+    "dimensions": [
+      171,
+      300
+    ],
+    "visibleVintage": "2015",
+    "notes": "Visually reviewed authentic label from Bordeaux-Kompass estate/wine profile. Photograph tightly cropped to label; visible curvature, not a detached flat scan.",
+    "imagekind": "curved-label-crop",
+    "wineId": "la-commanderie-grand",
+    "estateId": "la-commanderie",
+    "src": "labels/se-la-commanderie.jpg"
+  },
+  {
+    "estate": "Château la Croizille",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001165.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/001165.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/kompass-001165.jpg",
+    "dimensions": [
+      364,
+      300
+    ],
+    "visibleVintage": "2010",
+    "notes": "Visually reviewed authentic label from Bordeaux-Kompass estate/wine profile. Detached/flat label asset; vintage recorded only where readable on image.",
+    "imagekind": "flat-label",
+    "wineId": "la-croizille-grand",
+    "estateId": "la-croizille",
+    "src": "labels/se-la-croizille.jpg"
+  },
+  {
+    "estate": "Château la Marzelle",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001232.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/001232.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/kompass-001232.jpg",
+    "dimensions": [
+      312,
+      300
+    ],
+    "visibleVintage": "2014",
+    "notes": "Visually reviewed authentic label from Bordeaux-Kompass estate/wine profile. Photograph tightly cropped to label; visible curvature, not a detached flat scan.",
+    "imagekind": "curved-label-crop",
+    "wineId": "la-marzelle-grand",
+    "estateId": "la-marzelle",
+    "src": "labels/se-la-marzelle.jpg"
+  },
+  {
+    "estate": "Clos Badon Thunevin",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001090.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/001090.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/kompass-001090.jpg",
+    "dimensions": [
+      275,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed authentic label from Bordeaux-Kompass estate/wine profile. Detached/flat label asset; vintage recorded only where readable on image.",
+    "imagekind": "flat-label",
+    "wineId": "clos-badon-thunevin-grand",
+    "estateId": "clos-badon-thunevin",
+    "src": "labels/se-clos-badon-thunevin.jpg"
+  },
+  {
+    "estate": "Lassegue",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001186.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/001186.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/kompass-001186.jpg",
+    "dimensions": [
+      265,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed authentic label from Bordeaux-Kompass estate/wine profile. Detached/flat label asset; vintage recorded only where readable on image.",
+    "imagekind": "flat-label",
+    "wineId": "lassegue-grand",
+    "estateId": "lassegue",
+    "src": "labels/se-lassegue.jpg"
+  },
+  {
+    "estate": "Château Dassault",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000302.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/000302.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/kompass-000302.jpg",
+    "dimensions": [
+      305,
+      300
+    ],
+    "visibleVintage": "2016",
+    "notes": "Visually reviewed authentic label from Bordeaux-Kompass estate/wine profile. Photograph tightly cropped to label; visible curvature, not a detached flat scan.",
+    "imagekind": "curved-label-crop",
+    "wineId": "dassault-grand",
+    "estateId": "dassault",
+    "src": "labels/se-dassault.jpg"
+  },
+  {
+    "estate": "Clos Saint-Julien",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001160.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/001160.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-a/clos-saint-julien.jpg",
+    "dimensions": [
+      249,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually reviewed authentic label from Bordeaux-Kompass estate/wine profile. Detached/flat label asset; vintage recorded only where readable on image.",
+    "imagekind": "flat-label",
+    "wineId": "clos-saint-julien-grand",
+    "estateId": "clos-saint-julien",
+    "src": "labels/se-clos-saint-julien.jpg"
+  },
+  {
+    "estate": "Château Trolong Mondot",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=69497",
+    "imageURL": "https://www.farrvintners.com/img/labels/10703-2009.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/ch-teau-trolong-mondot.jpg",
+    "dimensions": [
+      300,
+      231
+    ],
+    "visibleVintage": null,
+    "kind": "label",
+    "notes": "Visually verified detached flat label; vintage not printed. Farr image may differ from product-page vintage.",
+    "wineId": "trolong-mondot-grand",
+    "estateId": "trolong-mondot",
+    "src": "labels/se-trolong-mondot.jpg"
+  },
+  {
+    "estate": "Château Valandraud",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=95021",
+    "imageURL": "https://www.farrvintners.com/img/labels/10938.png",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/ch-teau-valandraud.jpg",
+    "dimensions": [
+      257,
+      300
+    ],
+    "visibleVintage": null,
+    "kind": "label",
+    "notes": "Visually verified detached flat label; vintage not printed. Farr image may differ from product-page vintage.",
+    "wineId": "valandraud-grand",
+    "estateId": "valandraud",
+    "src": "labels/se-valandraud.png"
+  },
+  {
+    "estate": "Château Le Prieuré",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=69433",
+    "imageURL": "https://www.farrvintners.com/img/labels/10528.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/ch-teau-le-prieur.jpg",
+    "dimensions": [
+      226,
+      300
+    ],
+    "visibleVintage": null,
+    "kind": "label",
+    "notes": "Visually verified detached flat label; vintage not printed. Farr image may differ from product-page vintage.",
+    "wineId": "le-prieure-grand",
+    "estateId": "le-prieure",
+    "src": "labels/se-le-prieure.jpg"
+  },
+  {
+    "estate": "Château Monbousquet",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=60681",
+    "imageURL": "https://www.farrvintners.com/img/labels/11744.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/ch-teau-monbousquet.jpg",
+    "dimensions": [
+      300,
+      272
+    ],
+    "visibleVintage": null,
+    "kind": "label",
+    "notes": "Visually verified detached flat label; vintage not printed. Farr image may differ from product-page vintage.",
+    "wineId": "monbousquet-grand",
+    "estateId": "monbousquet",
+    "src": "labels/se-monbousquet.jpg"
+  },
+  {
+    "estate": "Château Peby Faugères",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=45999",
+    "imageURL": "https://www.farrvintners.com/img/labels/13344.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/ch-teau-peby-faug-res.jpg",
+    "dimensions": [
+      300,
+      289
+    ],
+    "visibleVintage": null,
+    "kind": "label",
+    "notes": "Visually verified detached flat label; vintage not printed. Farr image may differ from product-page vintage.",
+    "wineId": "peby-faugeres-grand",
+    "estateId": "peby-faugeres",
+    "src": "labels/se-peby-faugeres.jpg"
+  },
+  {
+    "estate": "Château Rol Valentin",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=76619",
+    "imageURL": "https://www.farrvintners.com/img/labels/12033.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/ch-teau-rol-valentin.jpg",
+    "dimensions": [
+      243,
+      300
+    ],
+    "visibleVintage": null,
+    "kind": "label",
+    "notes": "Visually verified detached flat label; vintage not printed. Farr image may differ from product-page vintage.",
+    "wineId": "rol-valentin-grand",
+    "estateId": "rol-valentin",
+    "src": "labels/se-rol-valentin.jpg"
+  },
+  {
+    "estate": "Château Yon-Figeac",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=13516",
+    "imageURL": "https://www.farrvintners.com/img/labels/13199.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/ch-teau-yon-figeac.jpg",
+    "dimensions": [
+      300,
+      237
+    ],
+    "visibleVintage": null,
+    "kind": "label",
+    "notes": "Visually verified detached flat label; vintage not printed. Farr image may differ from product-page vintage.",
+    "wineId": "yon-figeac-grand",
+    "estateId": "yon-figeac",
+    "src": "labels/se-yon-figeac.jpg"
+  },
+  {
+    "estate": "Château Pavie Macquin",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=99155",
+    "imageURL": "https://www.farrvintners.com/img/labels/10953.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/ch-teau-pavie-macquin.jpg",
+    "dimensions": [
+      300,
+      293
+    ],
+    "visibleVintage": null,
+    "kind": "label",
+    "notes": "Visually verified detached flat label; vintage not printed. Farr image may differ from product-page vintage.",
+    "wineId": "pavie-macquin-grand",
+    "estateId": "pavie-macquin",
+    "src": "labels/se-pavie-macquin.jpg"
+  },
+  {
+    "estate": "Château Trottevieille",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=69501",
+    "imageURL": "https://www.farrvintners.com/img/labels/10761.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/ch-teau-trottevieille.jpg",
+    "dimensions": [
+      218,
+      300
+    ],
+    "visibleVintage": null,
+    "kind": "label",
+    "notes": "Visually verified detached flat label; vintage not printed. Farr image may differ from product-page vintage.",
+    "wineId": "trottevieille-grand",
+    "estateId": "trottevieille",
+    "src": "labels/se-trottevieille.jpg"
+  },
+  {
+    "estate": "Château Sansonnet",
+    "sourcePage": "https://chateau-sansonnet.com/en/downloads/",
+    "imageURL": "https://chateau-sansonnet.com/wp-content/uploads/2023/03/Etiq-Sansonnet-750ml-021.pdf",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/sansonnet.png",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "visibleVintage": "2021",
+    "kind": "label",
+    "notes": "Official detached front-label PDF rendered directly to PNG. Visually inspected.",
+    "wineId": "sansonnet-grand",
+    "estateId": "sansonnet",
+    "src": "labels/se-sansonnet.png"
+  },
+  {
+    "estate": "Château Moulin du Cadet",
+    "sourcePage": "https://chateau-sansonnet.com/en/downloads/",
+    "imageURL": "https://chateau-sansonnet.com/wp-content/uploads/2023/03/Etiq_Ch_Moulin_de_Cadet_020%E2%80%A2-01.pdf",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/moulin-du-cadet.png",
+    "dimensions": [
+      1200,
+      1067
+    ],
+    "visibleVintage": "2020",
+    "kind": "label",
+    "notes": "Official detached front-label PDF rendered directly to PNG. Visually inspected.",
+    "wineId": "moulin-du-cadet-grand",
+    "estateId": "moulin-du-cadet",
+    "src": "labels/se-moulin-du-cadet.png"
+  },
+  {
+    "estate": "Château Soutard",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=7276",
+    "imageURL": "https://www.farrvintners.com/img/labels/11272.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/ch-teau-soutard.jpg",
+    "dimensions": [
+      216,
+      300
+    ],
+    "visibleVintage": null,
+    "kind": "label",
+    "notes": "Visually verified detached flat label; no printed vintage.",
+    "wineId": "soutard-grand",
+    "estateId": "soutard",
+    "src": "labels/se-soutard.jpg"
+  },
+  {
+    "estate": "Château Mangot",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000658.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/000658.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/kompass-000658.jpg",
+    "dimensions": [
+      240,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually verified same-name front label from Bordeaux Kompass estate profile. Source image is already cropped close to bottle label; perspective/curvature/shading remains. No whole bottle or substituted wine.",
+    "kind": "label-crop",
+    "wineId": "mangot-grand",
+    "estateId": "mangot",
+    "src": "labels/se-mangot.jpg"
+  },
+  {
+    "estate": "Château Montlabert",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001193.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/001193.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/kompass-001193.jpg",
+    "dimensions": [
+      245,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually verified same-name front label from Bordeaux Kompass estate profile. Source image is already cropped close to bottle label; perspective/curvature/shading remains. No whole bottle or substituted wine.",
+    "kind": "label-crop",
+    "wineId": "montlabert-grand",
+    "estateId": "montlabert",
+    "src": "labels/se-montlabert.jpg"
+  },
+  {
+    "estate": "Château Montlisse",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001621.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/001621.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/kompass-001621.jpg",
+    "dimensions": [
+      411,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually verified same-name front label from Bordeaux Kompass estate profile. Detached flat label. No year inferred from profile or URL.",
+    "kind": "label",
+    "wineId": "montlisse-grand",
+    "estateId": "montlisse",
+    "src": "labels/se-montlisse.jpg"
+  },
+  {
+    "estate": "Château Petit Faurie de Soutard",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000772.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/000772.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/kompass-000772.jpg",
+    "dimensions": [
+      214,
+      300
+    ],
+    "visibleVintage": "2012",
+    "notes": "Visually verified same-name front label from Bordeaux Kompass estate profile. Source image is already cropped close to bottle label; perspective/curvature/shading remains. No whole bottle or substituted wine.",
+    "kind": "label-crop",
+    "wineId": "petit-faurie-de-soutard-grand",
+    "estateId": "petit-faurie-de-soutard",
+    "src": "labels/se-petit-faurie-de-soutard.jpg"
+  },
+  {
+    "estate": "Château Ripeau",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000850.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/000850.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/kompass-000850.jpg",
+    "dimensions": [
+      270,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually verified same-name front label from Bordeaux Kompass estate profile. Source image is already cropped close to bottle label; perspective/curvature/shading remains. No whole bottle or substituted wine.",
+    "kind": "label-crop",
+    "wineId": "ripeau-grand",
+    "estateId": "ripeau",
+    "src": "labels/se-ripeau.jpg"
+  },
+  {
+    "estate": "Château Rochebelle",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000858.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/000858.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/kompass-000858.jpg",
+    "dimensions": [
+      282,
+      300
+    ],
+    "visibleVintage": "2012",
+    "notes": "Visually verified same-name front label from Bordeaux Kompass estate profile. Source image is already cropped close to bottle label; perspective/curvature/shading remains. No whole bottle or substituted wine.",
+    "kind": "label-crop",
+    "wineId": "rochebelle-grand",
+    "estateId": "rochebelle",
+    "src": "labels/se-rochebelle.jpg"
+  },
+  {
+    "estate": "Château Saint-Georges-Cote-Pavie",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000899.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/000899.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/kompass-000899.jpg",
+    "dimensions": [
+      242,
+      300
+    ],
+    "visibleVintage": "2008",
+    "notes": "Visually verified same-name front label from Bordeaux Kompass estate profile. Detached flat label. No year inferred from profile or URL.",
+    "kind": "label",
+    "wineId": "saint-georges-cote-pavie-grand",
+    "estateId": "saint-georges-cote-pavie",
+    "src": "labels/se-saint-georges-cote-pavie.jpg"
+  },
+  {
+    "estate": "Château Tour Baladoz",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000960.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/000960.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/kompass-000960.jpg",
+    "dimensions": [
+      251,
+      300
+    ],
+    "visibleVintage": null,
+    "notes": "Visually verified same-name front label from Bordeaux Kompass estate profile. Source image is already cropped close to bottle label; perspective/curvature/shading remains. No whole bottle or substituted wine.",
+    "kind": "label-crop",
+    "wineId": "tour-baladoz-grand",
+    "estateId": "tour-baladoz",
+    "src": "labels/se-tour-baladoz.jpg"
+  },
+  {
+    "estate": "Château Tour Saint-Christophe",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/003035.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/003035.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/kompass-003035.jpg",
+    "dimensions": [
+      300,
+      300
+    ],
+    "visibleVintage": "2012",
+    "notes": "Visually verified same-name front label from Bordeaux Kompass estate profile. Detached flat label. No year inferred from profile or URL.",
+    "kind": "label",
+    "wineId": "tour-saint-christophe-grand",
+    "estateId": "tour-saint-christophe",
+    "src": "labels/se-tour-saint-christophe.jpg"
+  },
+  {
+    "estate": "Château Villemaurine",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001039.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/001039.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/kompass-001039.jpg",
+    "dimensions": [
+      289,
+      300
+    ],
+    "visibleVintage": "2014",
+    "notes": "Visually verified same-name front label from Bordeaux Kompass estate profile. Detached flat label. No year inferred from profile or URL.",
+    "kind": "label",
+    "wineId": "villemaurine-grand",
+    "estateId": "villemaurine",
+    "src": "labels/se-villemaurine.jpg"
+  },
+  {
+    "estate": "Château le Chatelet",
+    "sourcePage": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001156.html",
+    "imageURL": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/LABELS/001156.jpg",
+    "localFile": "/workspace/scratch/63cb685a6651/se-label-assets-b/kompass-001156.jpg",
+    "dimensions": [
+      300,
+      300
+    ],
+    "visibleVintage": "2010",
+    "notes": "Visually verified same-name front label from Bordeaux Kompass estate profile. Detached flat label. No year inferred from profile or URL.",
+    "kind": "label",
+    "wineId": "le-chatelet-grand",
+    "estateId": "le-chatelet",
+    "src": "labels/se-le-chatelet.jpg"
+  }
+]

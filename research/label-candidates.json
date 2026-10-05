@@ -1,0 +1,98 @@
+[
+  {
+    "wine": "Roumier Les Amoureuses 2001",
+    "source": "https://www.chateau-le-puy.com/wp-content/uploads/2024/01/2023-05-16-www.thedrinksbusiness.com-16-mai-2023-50000000368823450.pdf",
+    "status": "label closeup with thin visible glass border; 2001 verified visually",
+    "candidateFile": "asset-002.jpg"
+  },
+  {
+    "wine": "Palmer 1999",
+    "source": "https://farrvintners.com/wine.php?wine=3658",
+    "image": "https://www.farrvintners.com/img/labels/10567.png",
+    "status": "pure label, no vintage visible",
+    "candidateFile": "palmer-farr.png"
+  },
+  {
+    "wine": "Pegau Da Capo 2000",
+    "source": "https://www.chateau-le-puy.com/wp-content/uploads/2024/01/2023-05-16-www.thedrinksbusiness.com-16-mai-2023-50000000368823450.pdf",
+    "status": "NOT PURE LABEL: angled bottle closeup; vintage not visible",
+    "candidateFile": "asset-007.jpg"
+  },
+  {
+    "wine": "Lafleur 1994",
+    "source": "https://farrvintners.com/wine.php?wine=2524",
+    "image": "https://farrvintners.com/img/labels/10513.jpg",
+    "status": "pure label, no vintage visible",
+    "candidateFile": "lafleur-farr.jpg"
+  },
+  {
+    "wine": "Colin Deleger Chevalier Montrachet 2000",
+    "source": "https://www.chateau-le-puy.com/wp-content/uploads/2024/01/2023-05-16-www.thedrinksbusiness.com-16-mai-2023-50000000368823450.pdf",
+    "status": "NOT PURE LABEL: bottle closeup; 2000 verified",
+    "candidateFile": "asset-011.jpg"
+  },
+  {
+    "wine": "Sandrone Cannubi Boschis 2001",
+    "source": "https://www.chateau-le-puy.com/wp-content/uploads/2024/01/2023-05-16-www.thedrinksbusiness.com-16-mai-2023-50000000368823450.pdf",
+    "status": "pure label; 2001 verified",
+    "candidateFile": "asset-013.jpg"
+  },
+  {
+    "wine": "Sine Qua Non The Inaugural Eleven Confessions 2003",
+    "source": "https://www.sinequanon.com/wines/2003-2/",
+    "image": "https://www.sinequanon.com/wp-content/uploads/wine-label-the-inaugural.png",
+    "status": "pure label composite; visible 2003; producer page says Estate Syrah/Grenache; no variety visible on image",
+    "candidateFile": "sqn-inaugural.png"
+  },
+  {
+    "wine": "Selosse Exquise NV",
+    "source": "https://www.chateau-le-puy.com/wp-content/uploads/2024/01/2023-05-16-www.thedrinksbusiness.com-16-mai-2023-50000000368823450.pdf",
+    "status": "NOT PURE LABEL: angled bottle closeup; Exquise verified",
+    "candidateFile": "asset-017.jpg"
+  },
+  {
+    "wine": "Poggio di Sotto Brunello 2005",
+    "source": "https://www.chateau-le-puy.com/wp-content/uploads/2024/01/2023-05-16-www.thedrinksbusiness.com-16-mai-2023-50000000368823450.pdf",
+    "status": "NOT PURE LABEL: angled bottle closeup; no vintage visible",
+    "candidateFile": "asset-019.jpg"
+  },
+  {
+    "wine": "Sirugue Grands Echezeaux 2002",
+    "source": "https://www.chateau-le-puy.com/wp-content/uploads/2024/01/2023-05-16-www.thedrinksbusiness.com-16-mai-2023-50000000368823450.pdf",
+    "status": "NOT PURE LABEL: manga illustration of bottle, not real label; 2002 visible",
+    "candidateFile": "asset-020.jpg"
+  },
+  {
+    "wine": "Ferrer Bobet Seleccio Especial 2008",
+    "source": "https://www.chateau-le-puy.com/wp-content/uploads/2024/01/2023-05-16-www.thedrinksbusiness.com-16-mai-2023-50000000368823450.pdf",
+    "status": "NOT PURE LABEL: bottle beside manga; 2008 and Seleccio Especial verified",
+    "candidateFile": "asset-022.jpg"
+  },
+  {
+    "wine": "Yquem 1976",
+    "source": "https://www.chateau-le-puy.com/wp-content/uploads/2024/01/2023-05-16-www.thedrinksbusiness.com-16-mai-2023-50000000368823450.pdf",
+    "status": "NOT PURE LABEL: bottle; 1976 verified",
+    "candidateFile": "asset-024.png"
+  },
+  {
+    "wine": "Original manga artwork and logo",
+    "source": "https://morning.kodansha.co.jp/c/kaminoshizuku.html",
+    "image": "https://morning.kodansha.co.jp/content/images/c/kaminoshizuku/wide.jpg",
+    "status": "publisher official manga art, original Japanese red logo at lower left; not isolated logo",
+    "candidateFile": "manga-wide.jpg"
+  },
+  {
+    "wine": "Yquem 1976",
+    "source": "https://www.ebay.com/itm/227489657509",
+    "image": "https://i.ebayimg.com/images/g/xisAAeSwKA1qS7qE/s-l1600.webp",
+    "status": "real detached label on blue fabric; 1976 verified visually; perforated upper-left; seller provenance not independently authenticated",
+    "candidateFile": "yquem-1976-ebay.webp"
+  },
+  {
+    "wine": "Poggio di Sotto Brunello di Montalcino",
+    "source": "https://www.winebow.com/trade-tools/labels/30882",
+    "image": "https://winebow-files.s3.amazonaws.com/public/styles/pos_thumbnail/public/2026-05/Brunello%20FRONT.jpg?VersionId=dVOUlzgKO71nA4jr_b6UubIAYfoLiHC9&itok=MINHt7d7",
+    "status": "pure front label from importer, no visible vintage; current label states ColleMassari ownership, so not a 2005-era label",
+    "candidateFile": "poggio-winebow.jpg"
+  }
+]

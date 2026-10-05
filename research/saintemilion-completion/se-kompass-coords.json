@@ -1,0 +1,434 @@
+[
+  {
+    "id": "cheval",
+    "name": "Château Cheval Blanc",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000206.html",
+    "mapLinks": [
+      "https://goo.gl/maps/qSDe8oHBFJo"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+Cheval+Blanc/@44.919648,-0.1920287,17z/data=!3m1!4b1!4m2!3m1!1s0xd554e842a389847:0xe2c099b060e132ab?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.919648",
+        "-0.1920287"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "ausone",
+    "name": "Château Ausone",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000024.html",
+    "mapLinks": [
+      "https://goo.gl/maps/vVdPR1qZ8Qw"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+Ausone/@44.88908,-0.1564908,15z/data=!4m2!3m1!1s0x0:0x5aa2e5b2ca3d1927?shorturl=1",
+    "coordinates": [
+      [
+        "44.88908",
+        "-0.1564908"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "canon",
+    "name": "Château Canon",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000145.html",
+    "mapLinks": [
+      "https://goo.gl/maps/JCWma8bxzHU2"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+Canon,+33126+Saint-Michel-de-Fronsac,+Frankreich/@44.9266153,-0.303075,17z/data=!3m1!4b1!4m2!3m1!1s0xd5535ffa32e79ff:0x61fed966a3742bc3?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.9266153",
+        "-0.303075"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "la-mondotte",
+    "name": "La Mondotte",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000701.html",
+    "mapLinks": [
+      "https://goo.gl/maps/CTyxyyq4FXU2"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+Canon+La+Gaffeli%C3%A8re/@44.881183,-0.1633519,17z/data=!3m1!4b1!4m2!3m1!1s0xd554fcdf2852631:0xf3b76a8838d576aa?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.881183",
+        "-0.1633519"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "pavie",
+    "name": "Château Pavie",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000757.html",
+    "mapLinks": [
+      "https://goo.gl/maps/O4hgZ"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+Pavie/@44.883367,-0.148902,17z/data=!3m1!4b1!4m2!3m1!1s0xd55502a1cd271cb:0x2e8854c997ced229?hl=de",
+    "coordinates": [
+      [
+        "44.883367",
+        "-0.148902"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "trottevieille",
+    "name": "Château Trottevieille",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001000.html",
+    "mapLinks": [
+      "https://goo.gl/maps/11cj9"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+Trotte+Vieille/@44.893672,-0.145103,17z/data=!3m1!4b1!4m2!3m1!1s0xd554e2f152c1e07:0x9c8f479fd7846a25?hl=de",
+    "coordinates": [
+      [
+        "44.893672",
+        "-0.145103"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "valandraud",
+    "name": "Château Valandraud",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001008.html",
+    "mapLinks": [
+      "https://goo.gl/maps/rDurs"
+    ],
+    "resolved": "https://www.google.de/maps/place/Chateau+Valandraud/@44.887773,-0.085359,17z/data=!3m1!4b1!4m2!3m1!1s0xd5550d8745372cb:0x9678590fc5afb1d8?hl=de",
+    "coordinates": [
+      [
+        "44.887773",
+        "-0.085359"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "badette",
+    "name": "Château Badette",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/003036.html",
+    "mapLinks": [
+      "https://goo.gl/maps/dot8uDwpVbr"
+    ],
+    "resolved": "https://www.google.de/maps/place/SCEA+Du+Chateau+Badette/@44.9073535,-0.1792023,13z/data=!4m8!1m2!2m1!1sch%C3%A2teau+in+der+N%C3%A4he+von+Badette,+Saint-Christophe-des-Bardes,+Frankreich!3m4!1s0xd5551c15a83a593:0x61eb764562e48d21!8m2!3d44.902494!4d-0.134994?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.902494",
+        "-0.134994"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "barde-haut",
+    "name": "Château Barde-Haut",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000031.html",
+    "mapLinks": [
+      "https://goo.gl/maps/BMdKY79XCYB2"
+    ],
+    "resolved": "https://www.google.de/maps/place/44%C2%B053'31.6%22N+0%C2%B007'57.8%22W/@44.892105,-0.1348997,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.892105",
+        "-0.1348997"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "berliquet",
+    "name": "Château Berliquet",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000088.html",
+    "mapLinks": [
+      "https://goo.gl/maps/Sqkb7vxTHadr5ZWy6"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+Berliquet/@44.8890819,-0.1670794,17z/data=!3m1!4b1!4m5!3m4!1s0xd554e3534ab016f:0xf55561d784a910e7!8m2!3d44.8890781!4d-0.1648854?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.8890781",
+        "-0.1648854"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "clos-de-sarpe",
+    "name": "Château Clos de Sarpe",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000243.html",
+    "mapLinks": [
+      "https://goo.gl/maps/6jyTJ"
+    ],
+    "resolved": "https://www.google.de/maps/place/44%C2%B053'47.6%22N+0%C2%B008'18.3%22W/@44.896544,-0.138413,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0?hl=de",
+    "coordinates": [
+      [
+        "44.896544",
+        "-0.138413"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "corbin-michotte",
+    "name": "Château Corbin Michotte",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000260.html",
+    "mapLinks": [
+      "https://goo.gl/maps/lgrKF"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+Corbin+Michotte/@44.92383,-0.180168,17z/data=!3m1!4b1!4m2!3m1!1s0xd554e78f4696d53:0x55430845cacb1db7?hl=de",
+    "coordinates": [
+      [
+        "44.92383",
+        "-0.180168"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "cote-de-baleau",
+    "name": "Château Côte de Baleau",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000265.html",
+    "mapLinks": [
+      "https://goo.gl/maps/KhsLO"
+    ],
+    "resolved": "https://www.google.de/maps/place/44%C2%B054'22.1%22N+0%C2%B009'52.2%22W/@44.906134,-0.164495,514m/data=!3m1!1e3!4m2!3m1!1s0x0:0x0?hl=de",
+    "coordinates": [
+      [
+        "44.906134",
+        "-0.164495"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "fleur-cardinale",
+    "name": "Château Fleur Cardinale",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000371.html",
+    "mapLinks": [
+      "https://goo.gl/maps/kCmQ1dDW33z"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+Fleur+Cardinale/@44.8897926,-0.084648,17z/data=!3m1!4b1!4m2!3m1!1s0xd55512874ba4885:0x768bc3da25b6202a?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.8897926",
+        "-0.084648"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "fonplegade",
+    "name": "Château Fonplégade",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000386.html",
+    "mapLinks": [
+      "https://goo.gl/maps/rR8XuwMcrkF2"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+Fonplegade/@44.8850327,-0.1677069,514m/data=!3m2!1e3!4b1!4m2!3m1!1s0xd554fca65ff3243:0x8f6185ffd348a91f?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.8850327",
+        "-0.1677069"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "monbousquet",
+    "name": "Château Monbousquet",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000696.html",
+    "mapLinks": [
+      "https://goo.gl/maps/C3QbE"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+Monbousquet/@44.877077,-0.170107,17z/data=!3m1!4b1!4m2!3m1!1s0xd554fb849cfb6d5:0xdd70166d9f1dac5?hl=de",
+    "coordinates": [
+      [
+        "44.877077",
+        "-0.170107"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "montlisse",
+    "name": "Château Montlisse",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001621.html",
+    "mapLinks": [
+      "https://goo.gl/maps/aNDenf8Umgz"
+    ],
+    "resolved": "https://www.google.de/maps/place/Dauriac/@44.88377,-0.1281595,14z/data=!4m2!3m1!1s0xd5550ff37450c5f:0x37eb374c3627c1cc?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.88377",
+        "-0.1281595"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "saint-georges-cote-pavie",
+    "name": "Château Saint-Georges-Cote-Pavie",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000899.html",
+    "mapLinks": [
+      "https://goo.gl/maps/kfpRnoKiMME2"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+Saint-Georges+C%C3%B4te+Pavie/@44.8847215,-0.1567879,17z/data=!3m1!4b1!4m2!3m1!1s0xd554fd38ef36715:0xdd4814d663d826e6?shorturl=1",
+    "coordinates": [
+      [
+        "44.8847215",
+        "-0.1567879"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "tour-baladoz",
+    "name": "Château Tour Baladoz",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000960.html",
+    "mapLinks": [
+      "https://goo.gl/maps/YuVXGx8uCkt"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+Tour+Baladoz+GFA/@44.878142,-0.1327507,17z/data=!3m1!4b1!4m2!3m1!1s0xd555047f9132907:0xbe14cbe2106f5654?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.878142",
+        "-0.1327507"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "la-confession",
+    "name": "Château la Confession",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001850.html",
+    "mapLinks": [
+      "https://goo.gl/maps/e9JA8S6DnTt"
+    ],
+    "resolved": "https://www.google.de/maps/place/SCEA+Chateau+la+Confession/@44.899852,-0.1651657,17z/data=!3m1!4b1!4m2!3m1!1s0xd554e3bd21dc919:0x25d1f55f9596442?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.899852",
+        "-0.1651657"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "la-couspaude",
+    "name": "Château la Couspaude",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000275.html",
+    "mapLinks": [
+      "https://goo.gl/maps/eHv5NsgoqbN2"
+    ],
+    "resolved": "https://www.google.de/maps/place/44%C2%B053'47.5%22N+0%C2%B009'01.3%22W/@44.896527,-0.1525597,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.896527",
+        "-0.1525597"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "la-marzelle",
+    "name": "Château la Marzelle",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001232.html",
+    "mapLinks": [
+      "https://goo.gl/maps/xsLYKEWbfP22"
+    ],
+    "resolved": "https://www.google.de/maps/place/SCEA+Ch%C3%A2teau+La+Marzelle/@44.9104954,-0.1934084,16z/data=!4m2!3m1!1s0xd554e8c8145a651:0x120ef310844f9a51?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.9104954",
+        "-0.1934084"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "la-serre",
+    "name": "Château la Serre",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000925.html",
+    "mapLinks": [
+      "https://goo.gl/maps/pYmbT"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+La+Serre/@44.892953,-0.15099,17z/data=!3m1!4b1!4m2!3m1!1s0xd554e298c1c8db3:0x60b2894329ad7e1c?hl=de",
+    "coordinates": [
+      [
+        "44.892953",
+        "-0.15099"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "clos-badon-thunevin",
+    "name": "Clos Badon Thunevin",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001090.html",
+    "mapLinks": [
+      "https://goo.gl/maps/D9UPqgkJ47J2"
+    ],
+    "resolved": "https://www.google.de/maps/place/Etablissements+Thunevin/@44.8951343,-0.1573691,17z/data=!3m1!4b1!4m2!3m1!1s0xd554e2e97ddc37b:0x4227410539a880dd?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.8951343",
+        "-0.1573691"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "clos-saint-martin",
+    "name": "Clos Saint-Martin",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000241.html",
+    "mapLinks": [
+      "https://goo.gl/maps/D33jC"
+    ],
+    "resolved": "https://www.google.de/maps/@44.89388,-0.162438,3a,75y,253.7h,79.28t/data=!3m4!1e1!3m2!1sLRb68-PdXPQnQPhkbNl4Fw!2e0?hl=de",
+    "coordinates": [
+      [
+        "44.89388",
+        "-0.162438"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "clos-de-l-oratoire",
+    "name": "Clos de l'Oratoire",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000236.html",
+    "mapLinks": [
+      "https://goo.gl/maps/77HKawWKYZm"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+Canon+La+Gaffeli%C3%A8re/@44.881183,-0.1633519,17z/data=!3m1!4b1!4m2!3m1!1s0xd554fcdf2852631:0xf3b76a8838d576aa?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.881183",
+        "-0.1633519"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "lassegue",
+    "name": "Lassegue",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001186.html",
+    "mapLinks": [
+      "https://goo.gl/maps/A7Dn3RUbhd22"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+Lass%C3%A8gue,+33330+Saint-Hippolyte,+Frankreich/@44.8774279,-0.1282843,17z/data=!3m1!4b1!4m2!3m1!1s0xd555045e0119fff:0xf0827eda51eb92ac?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.8774279",
+        "-0.1282843"
+      ]
+    ],
+    "mapTextCandidates": []
+  }
+]

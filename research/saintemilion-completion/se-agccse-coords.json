@@ -1,0 +1,397 @@
+[
+  {
+    "source": "https://agccse.fr/chateau/chateau-badette/",
+    "name": "Château Badette",
+    "coords": [
+      [
+        "44.902111628564704",
+        "-0.1377868447613476"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-bellefont-belcier/",
+    "name": "Château Bellefont-Belcier",
+    "coords": [
+      [
+        "44.8804606",
+        "-0.1383467"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-bellevue/",
+    "name": "ChâteauBellevue",
+    "coords": [
+      [
+        "44.894372",
+        "-0.173713"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-cadet-bon/",
+    "name": "ChâteauCadet-Bon",
+    "coords": []
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-chauvin/",
+    "name": "ChâteauChauvin",
+    "coords": [
+      [
+        "44.917292",
+        "-0.168797"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-clos-de-sarpe/",
+    "name": "ChâteauClos de Sarpe",
+    "coords": [
+      [
+        "44.896628",
+        "-0.138507"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-corbin/",
+    "name": "ChâteauCorbin",
+    "coords": [
+      [
+        "44.922074",
+        "-"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-croix-de-labrie/",
+    "name": "Château Croix de Labrie",
+    "coords": [
+      [
+        "44.89468676314584",
+        "-0.11907630586516058"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-dassault/",
+    "name": "ChâteauDassault",
+    "coords": [
+      [
+        "44.931752",
+        "-0.138931"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-de-ferrand/",
+    "name": "ChâteauDe Ferrand",
+    "coords": [
+      [
+        "44.883698",
+        "-0.118554"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-de-pressac/",
+    "name": "ChâteauDe Pressac",
+    "coords": [
+      [
+        "44.8833",
+        "-0.0864"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-des-jacobins/",
+    "name": "Clos des Jacobins",
+    "coords": [
+      [
+        "44.9033",
+        "-0.172567"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-destieux/",
+    "name": "ChâteauDestieux",
+    "coords": []
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-faugeres/",
+    "name": "ChâteauFaugères",
+    "coords": [
+      [
+        "44.880087",
+        "-0.086958"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-fombrauge/",
+    "name": "ChâteauFombrauge",
+    "coords": []
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-fonroque/",
+    "name": "ChâteauFonroque",
+    "coords": [
+      [
+        "44.904097",
+        "-0.159397"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-franc-mayne/",
+    "name": "ChâteauFranc Mayne",
+    "coords": []
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-grand-corbin-despagne/",
+    "name": "ChâteauGrand Corbin-Despagne",
+    "coords": [
+      [
+        "44.9231986",
+        "-0.1776244"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-grand-corbin/",
+    "name": "Château Grand Corbin",
+    "coords": [
+      [
+        "44.920393",
+        "-0.169670"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-haut-sarpe/",
+    "name": "ChâteauHaut Sarpe",
+    "coords": [
+      [
+        "44.8959",
+        "-0.140539"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-la-commanderie/",
+    "name": "ChâteauLa Commanderie",
+    "coords": [
+      [
+        "44.91643336387672",
+        "-0.17782434416730775"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-la-confession/",
+    "name": "Château La Confession",
+    "coords": [
+      [
+        "44.90021678367745",
+        "-0.1629770000159286"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-la-couspaude/",
+    "name": "ChâteauLa Couspaude",
+    "coords": [
+      [
+        "44.8964",
+        "-0.150151"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-la-croizille/",
+    "name": "Château La Croizille",
+    "coords": [
+      [
+        "44.884405",
+        "-0.134786"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-la-fleur-morange/",
+    "name": "ChâteauLa Fleur Morange",
+    "coords": [
+      [
+        "44.8559043",
+        "-0.1106838"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-la-marzelle/",
+    "name": "ChâteauLa Marzelle",
+    "coords": [
+      [
+        "44.90852",
+        "-0.191703"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-la-serre/",
+    "name": "ChâteauLa Serre",
+    "coords": []
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-la-tour-figeac/",
+    "name": "ChâteauLa Tour Figeac",
+    "coords": []
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-laniote/",
+    "name": "ChâteauLaniote",
+    "coords": [
+      [
+        "44.90523",
+        "-0.16065"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-laroque/",
+    "name": "ChâteauLaroque",
+    "coords": [
+      [
+        "44.8907105",
+        "-0.1185232"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-montlabert/",
+    "name": "Château Montlabert",
+    "coords": [
+      [
+        "44.909910190247096",
+        "-0.18230773862359922"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-montlisse/",
+    "name": "Château Montlisse",
+    "coords": [
+      [
+        "44.8833972505928",
+        "-0.11022014614691972"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-moulin-du-cadet/",
+    "name": "ChâteauMoulin Du Cadet",
+    "coords": []
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-peby-faugeres/",
+    "name": "Château Péby Faugères",
+    "coords": [
+      [
+        "44.88292318076864",
+        "-0.08165245396931806"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-petit-faurie-de-soutard/",
+    "name": "Château Petit Faurie de Soutard",
+    "coords": []
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-ripeau/",
+    "name": "ChâteauRipeau",
+    "coords": [
+      [
+        "44.5504",
+        "-0.10412"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-sansonnet/",
+    "name": "ChâteauSansonnet",
+    "coords": []
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-tour-baladoz/",
+    "name": "Château Tour Baladoz",
+    "coords": [
+      [
+        "44.884405",
+        "-0.134786"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-tour-saint-christophe/",
+    "name": "Château Tour Saint Christophe",
+    "coords": [
+      [
+        "48.856614",
+        "2.352221"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-villemaurine/",
+    "name": "ChâteauVillemaurine",
+    "coords": [
+      [
+        "44.8955",
+        "-0.153685"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/chateau-yon-figeac/",
+    "name": "ChâteauYon-Figeac",
+    "coords": [
+      [
+        "44.9052522",
+        "-0.1825035"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/clos-badon-thunevin/",
+    "name": "Clos Badon Thunevin",
+    "coords": []
+  },
+  {
+    "source": "https://agccse.fr/chateau/clos-de-loratoire/",
+    "name": "Clos de l'Oratoire",
+    "coords": [
+      [
+        "44.905835",
+        "-0.139531"
+      ]
+    ]
+  },
+  {
+    "source": "https://agccse.fr/chateau/clos-dubreuil/",
+    "name": "Clos Dubreuil",
+    "coords": []
+  },
+  {
+    "source": "https://agccse.fr/chateau/couvent-des-jacobins/",
+    "name": "Couvent des Jacobins",
+    "coords": [
+      [
+        "44.8945777",
+        "-0.1548523"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,4443 @@
+{
+  "checkedAt": "2026-09-29",
+  "scope": "First national expansion; not a complete census",
+  "research": [
+    {
+      "researchedOn": "2026-09-29",
+      "scope": "representative learning subset, not exhaustive",
+      "nodes": [
+        {
+          "id": "saintjulien",
+          "parent": "medoc",
+          "name": "圣朱利安",
+          "en": "Saint-Julien",
+          "lat": 45.16,
+          "lng": -0.74,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Cabernet Sauvignon",
+            "Merlot",
+            "Cabernet Franc",
+            "Petit Verdot"
+          ],
+          "soil": "加龙河沉积砾石岗，排水与储热作用突出。",
+          "climate": "温和海洋性；大西洋与吉伦特河口调节温度，年际降雨影响成熟。",
+          "classification": "村镇AOC；1855酒庄分级与AOC并行，不代表每块葡萄园的等级。",
+          "sourceUrls": [
+            "https://www.bordeaux.com/en/designations/medoc/saint-julien/"
+          ],
+          "kind": "aoc"
+        },
+        {
+          "id": "saintestephe",
+          "parent": "medoc",
+          "name": "圣埃斯泰夫",
+          "en": "Saint-Estèphe",
+          "lat": 45.26,
+          "lng": -0.77,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Cabernet Sauvignon",
+            "Merlot",
+            "Cabernet Franc",
+            "Petit Verdot"
+          ],
+          "soil": "砾石表土与较丰富黏土底层并存，地质差异大。",
+          "climate": "温和海洋性；大西洋与吉伦特河口调节温度，年际降雨影响成熟。",
+          "classification": "村镇AOC；部分酒庄属于1855列级体系。",
+          "sourceUrls": [
+            "https://saint-estephe.fr/en/terroir"
+          ],
+          "kind": "aoc"
+        },
+        {
+          "id": "moulis",
+          "parent": "medoc",
+          "name": "穆利",
+          "en": "Moulis-en-Médoc",
+          "lat": 45.06,
+          "lng": -0.77,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Merlot",
+            "Cabernet Sauvignon",
+            "Cabernet Franc",
+            "Petit Verdot"
+          ],
+          "soil": "砾石、黏土和石灰岩构成不同地块。",
+          "climate": "温和海洋性；大西洋与吉伦特河口调节温度，年际降雨影响成熟。",
+          "classification": "村镇AOC；无1855列级酒庄不等于低品质；其他分级须核验适用年份。",
+          "sourceUrls": [
+            "https://www.bordeaux.com/en/designations/medoc/moulis/"
+          ],
+          "kind": "aoc"
+        },
+        {
+          "id": "listrac",
+          "parent": "medoc",
+          "name": "利斯特拉克",
+          "en": "Listrac-Médoc",
+          "lat": 45.07,
+          "lng": -0.79,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Merlot",
+            "Cabernet Sauvignon",
+            "Cabernet Franc",
+            "Petit Verdot"
+          ],
+          "soil": "西部黏土石灰岩；东部加龙河砾石沉积。",
+          "climate": "温和海洋性；大西洋与吉伦特河口调节温度，年际降雨影响成熟。",
+          "classification": "村镇AOC；不要把1855等级套在整个产区。",
+          "sourceUrls": [
+            "https://www.bordeaux.com/en/designations/medoc/listrac-medoc/"
+          ],
+          "kind": "aoc"
+        },
+        {
+          "id": "fronsac",
+          "parent": "rightbank",
+          "name": "弗龙萨克",
+          "en": "Fronsac",
+          "lat": 44.94,
+          "lng": -0.28,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Merlot",
+            "Cabernet Franc",
+            "Cabernet Sauvignon"
+          ],
+          "soil": "石灰岩台地、黏土石灰岩坡地与弗龙萨克砂质泥灰岩。",
+          "climate": "温和海洋性；大西洋与吉伦特河口调节温度，年际降雨影响成熟。",
+          "classification": "Fronsac与Canon-Fronsac是两个独立AOC；无通用酒庄一至五级体系。",
+          "sourceUrls": [
+            "https://www.vins-fronsac.com/en/the-vineyards/le-terroir/"
+          ],
+          "kind": "aoc"
+        },
+        {
+          "id": "saintemilion",
+          "parent": "rightbank",
+          "name": "圣埃美隆",
+          "en": "Saint-Émilion",
+          "lat": 44.89,
+          "lng": -0.16,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Merlot",
+            "Cabernet Franc",
+            "Cabernet Sauvignon"
+          ],
+          "soil": "石灰岩台地、黏土石灰岩坡地与砂质地块。",
+          "climate": "温和海洋性；大西洋与吉伦特河口调节温度，年际降雨影响成熟。",
+          "classification": "Saint-Émilion与Saint-Émilion Grand Cru是AOC；Grand Cru不自动等于Grand Cru Classé。现行2022酒庄分级另有名录。",
+          "sourceUrls": [
+            "https://vins-saint-emilion.com/en/welcome-in-the-vineyard/the-2022-classification/"
+          ],
+          "kind": "aoc"
+        },
+        {
+          "id": "pomerol",
+          "parent": "rightbank",
+          "name": "波美侯",
+          "en": "Pomerol",
+          "lat": 44.93,
+          "lng": -0.2,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Merlot",
+            "Cabernet Franc"
+          ],
+          "soil": "黏土、砾石、砂土交错；地块差异重要。",
+          "climate": "温和海洋性；大西洋与吉伦特河口调节温度，年际降雨影响成熟。",
+          "classification": "无官方酒庄等级排名；Petrus不能称为1855一级庄。Lafleur自2025年份改用Vin de France。",
+          "sourceUrls": [
+            "https://www.bordeaux.com/en/designations/saint-emilion-pomerol-fronsac/pomerol/"
+          ],
+          "kind": "aoc"
+        },
+        {
+          "id": "pessac",
+          "parent": "graves",
+          "name": "佩萨克-雷奥良",
+          "en": "Pessac-Léognan",
+          "lat": 44.76,
+          "lng": -0.62,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Cabernet Sauvignon",
+            "Merlot",
+            "Cabernet Franc",
+            "Petit Verdot"
+          ],
+          "soil": "砾石岗与砂、黏土底层。",
+          "climate": "温和海洋性；大西洋与吉伦特河口调节温度，年际降雨影响成熟。",
+          "classification": "红白葡萄酒AOC；格拉夫列级按红/白酒授予且不设一至五级。Haut-Brion另具1855一级身份。",
+          "sourceUrls": [
+            "https://www.haut-brion.com/terroir/"
+          ],
+          "kind": "aoc"
+        },
+        {
+          "id": "chalonnaise",
+          "parent": "burgundy",
+          "name": "夏隆内丘",
+          "en": "Côte Chalonnaise",
+          "lat": 46.78,
+          "lng": 4.7,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Pinot Noir",
+            "Gamay"
+          ],
+          "soil": "石灰岩、泥灰岩及黏土坡地。",
+          "climate": "半大陆性；冬冷夏暖，春霜与生长期降雨构成年份风险，坡向影响成熟。",
+          "classification": "地理子区；下辖村庄AOC与一级园，不能视为酒庄等级。",
+          "sourceUrls": [
+            "https://www.bourgogne-wines.com/gallery_files/site/12881/12882/26314.pdf"
+          ],
+          "kind": "subregion"
+        },
+        {
+          "id": "morey",
+          "parent": "nuits",
+          "name": "莫雷-圣丹尼",
+          "en": "Morey-Saint-Denis",
+          "lat": 47.2,
+          "lng": 4.96,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Pinot Noir"
+          ],
+          "soil": "石灰岩与黏土，坡上土层较薄。",
+          "climate": "半大陆性；冬冷夏暖，春霜与生长期降雨构成年份风险，坡向影响成熟。",
+          "classification": "村庄AOC及其Premier Cru地块；等级属于地理产地，不是整个酒庄。村内另有独立Grand Cru AOC，不能把村庄酒直接称为特级园。",
+          "sourceUrls": [
+            "https://www.bourgogne-wines.com/wine-and-terroir/bourgogne-and-its-appellations/morey-saint-denis,2458,9253.html?args=Y29tcF9pZD0yMjc4JmFjdGlvbj12aWV3RmljaGUmaWQ9MzU4Jnw="
+          ],
+          "kind": "aoc"
+        },
+        {
+          "id": "chambolle",
+          "parent": "nuits",
+          "name": "香波-慕西尼",
+          "en": "Chambolle-Musigny",
+          "lat": 47.18,
+          "lng": 4.95,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Pinot Noir"
+          ],
+          "soil": "石灰岩基底、薄层土壤与裂隙；下坡黏土比例增加。",
+          "climate": "半大陆性；冬冷夏暖，春霜与生长期降雨构成年份风险，坡向影响成熟。",
+          "classification": "村庄AOC及其Premier Cru地块；等级属于地理产地，不是整个酒庄。村内另有独立Grand Cru AOC，不能把村庄酒直接称为特级园。",
+          "sourceUrls": [
+            "https://www.bourgogne-wines.com/wine-and-terroir/bourgogne-and-its-appellations/chambolle-musigny,2458,9253.html?args=Y29tcF9pZD0yMjc4JmFjdGlvbj12aWV3RmljaGUmaWQ9MjY4Jnw="
+          ],
+          "kind": "aoc"
+        },
+        {
+          "id": "nuitssaintgeorges",
+          "parent": "nuits",
+          "name": "夜圣乔治",
+          "en": "Nuits-Saint-Georges",
+          "lat": 47.13,
+          "lng": 4.95,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Pinot Noir"
+          ],
+          "soil": "北部坡积砾石与河流粉土；南部泥灰岩石灰岩，坡顶岩石近地表。",
+          "climate": "半大陆性；冬冷夏暖，春霜与生长期降雨构成年份风险，坡向影响成熟。",
+          "classification": "村庄AOC及其Premier Cru地块；等级属于地理产地，不是整个酒庄。本村没有Grand Cru AOC。",
+          "sourceUrls": [
+            "https://www.bourgogne-wines.com/wine-and-terroir/bourgogne-and-its-appellations/nuits-saint-georges,2458,9253.html?args=Y29tcF9pZD0yMjc4JmFjdGlvbj12aWV3RmljaGUmaWQ9MzYyJnw="
+          ],
+          "kind": "aoc"
+        },
+        {
+          "id": "volnay",
+          "parent": "beaune",
+          "name": "沃尔奈",
+          "en": "Volnay",
+          "lat": 47.0,
+          "lng": 4.78,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Pinot Noir"
+          ],
+          "soil": "石灰岩、泥灰岩与坡下较厚沉积土。",
+          "climate": "半大陆性；冬冷夏暖，春霜与生长期降雨构成年份风险，坡向影响成熟。",
+          "classification": "村庄AOC及其Premier Cru地块；等级属于地理产地，不是整个酒庄。本村没有Grand Cru AOC。",
+          "sourceUrls": [
+            "https://www.bourgogne-wines.com/wine-and-terroir/bourgogne-and-its-appellations/volnay,2458,9253.html?args=Y29tcF9pZD0yMjc4JmFjdGlvbj12aWV3RmljaGUmaWQ9NDA0Jnw="
+          ],
+          "kind": "aoc"
+        },
+        {
+          "id": "beaune-aoc",
+          "parent": "beaune",
+          "name": "伯恩",
+          "en": "Beaune",
+          "lat": 47.03,
+          "lng": 4.83,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Pinot Noir"
+          ],
+          "soil": "坡地石灰岩、泥灰岩与棕色钙质土，南北与坡位有差异。",
+          "climate": "半大陆性；冬冷夏暖，春霜与生长期降雨构成年份风险，坡向影响成熟。",
+          "classification": "村庄AOC及其Premier Cru地块；等级属于地理产地，不是整个酒庄。本村没有Grand Cru AOC。",
+          "sourceUrls": [
+            "https://www.bourgogne-wines.com/wine-and-terroir/bourgogne-and-its-appellations/beaune,2458,9253.html?args=Y29tcF9pZD0yMjc4JmFjdGlvbj12aWV3RmljaGUmaWQ9MjE4Jnw="
+          ],
+          "kind": "aoc"
+        },
+        {
+          "id": "mercurey",
+          "parent": "chalonnaise",
+          "name": "梅尔居雷",
+          "en": "Mercurey",
+          "lat": 46.84,
+          "lng": 4.72,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Pinot Noir"
+          ],
+          "soil": "泥灰岩与石灰岩土，部分坡地混合砾石。",
+          "climate": "半大陆性；冬冷夏暖，春霜与生长期降雨构成年份风险，坡向影响成熟。",
+          "classification": "村庄AOC及其Premier Cru地块；等级属于地理产地，不是整个酒庄。本村没有Grand Cru AOC。",
+          "sourceUrls": [
+            "https://www.bourgogne-wines.com/wine-and-terroir/bourgogne-and-its-appellations/mercurey,2458,9253.html?args=Y29tcF9pZD0yMjc4JmFjdGlvbj12aWV3RmljaGUmaWQ9MzQ3Jnw="
+          ],
+          "kind": "aoc"
+        },
+        {
+          "id": "givry",
+          "parent": "chalonnaise",
+          "name": "日夫里",
+          "en": "Givry",
+          "lat": 46.78,
+          "lng": 4.74,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Pinot Noir"
+          ],
+          "soil": "石灰岩风化形成棕色土与钙质土，混有黏土。",
+          "climate": "半大陆性；冬冷夏暖，春霜与生长期降雨构成年份风险，坡向影响成熟。",
+          "classification": "村庄AOC及其Premier Cru地块；等级属于地理产地，不是整个酒庄。本村没有Grand Cru AOC。",
+          "sourceUrls": [
+            "https://www.bourgogne-wines.com/wine-and-terroir/bourgogne-and-its-appellations/givry,2458,9253.html?args=Y29tcF9pZD0yMjc4JmFjdGlvbj12aWV3RmljaGUmaWQ9MzExJnw="
+          ],
+          "kind": "aoc"
+        },
+        {
+          "id": "alsace-pinot-noir",
+          "parent": "alsace",
+          "name": "阿尔萨斯黑皮诺",
+          "en": "Alsace Pinot Noir",
+          "lat": 48.05,
+          "lng": 7.3,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Pinot Noir"
+          ],
+          "soil": "花岗岩、石灰岩、泥灰岩、砂岩等多样土壤；须看具体地点。",
+          "climate": "孚日山雨影带来相对干燥的半大陆性气候。",
+          "classification": "Alsace AOC的红酒类型，不是独立Pinot Noir AOC；红酒Grand Cru资格限获准产地与年份，不能泛化至全区。",
+          "sourceUrls": [
+            "https://www.vinsalsace.com/assets/files/presse/Brochure_D8_L_Alsace_son_vignoble_ses_vins_en.pdf"
+          ],
+          "kind": "aoc"
+        },
+        {
+          "id": "hengst",
+          "parent": "alsace",
+          "name": "亨斯特特级园",
+          "en": "Alsace Grand Cru Hengst",
+          "lat": 48.06,
+          "lng": 7.28,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Pinot Noir"
+          ],
+          "soil": "泥灰岩、石灰岩与砂岩。",
+          "climate": "温暖、较干燥的受庇护坡地。",
+          "classification": "Hengst黑皮诺自2022年份获准使用Grand Cru；旧年份Grand H不可倒推为Grand Cru。",
+          "sourceUrls": [
+            "https://www.albertmann.com/actualite-albert-mann/pinot-noir-grand-cru-hengst-2022-obtient-un-100-100-chez-james-suckling",
+            "https://www.vinsalsace.com/en/grands-crus/hengst/"
+          ],
+          "kind": "aoc"
+        },
+        {
+          "id": "jura",
+          "parent": null,
+          "name": "汝拉",
+          "en": "Jura",
+          "lat": 46.85,
+          "lng": 5.65,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Poulsard",
+            "Trousseau",
+            "Pinot Noir"
+          ],
+          "soil": "泥灰岩、黏土与石灰岩。",
+          "climate": "大陆性并受山地影响，降雨较多。",
+          "classification": "大产区；地理AOC与特殊酒类型AOC并存，无波尔多式酒庄排名。",
+          "sourceUrls": [
+            "https://www.jura-vins.com/medias/documents-a-telecharger/docs-utiles/CIVJ_PLQ_Pro_2009_GB_web.pdf"
+          ],
+          "kind": "region"
+        },
+        {
+          "id": "arbois",
+          "parent": "jura",
+          "name": "阿尔布瓦",
+          "en": "Arbois",
+          "lat": 46.9,
+          "lng": 5.77,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Poulsard",
+            "Trousseau",
+            "Pinot Noir"
+          ],
+          "soil": "泥灰岩、黏土与石灰岩坡地。",
+          "climate": "大陆性山麓气候；成熟受坡向及年份影响。",
+          "classification": "地理AOC，可酿红白桃红；Pupillin是获准补充地理名称，非酒庄级别。",
+          "sourceUrls": [
+            "https://www.inao.gouv.fr/en/node/6286"
+          ],
+          "kind": "aoc"
+        },
+        {
+          "id": "savoie",
+          "parent": null,
+          "name": "萨瓦",
+          "en": "Savoie",
+          "lat": 45.65,
+          "lng": 5.98,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Mondeuse",
+            "Gamay",
+            "Pinot Noir"
+          ],
+          "soil": "山麓石灰岩崩积物与冰川沉积，地块差异显著。",
+          "climate": "阿尔卑斯山地影响，向阳坡可获得较好热量。",
+          "classification": "区域含多个AOC；cru常表示地理名称，非1855式等级。",
+          "sourceUrls": [
+            "https://vindesavoie.fr/en/arbin-2"
+          ],
+          "kind": "region"
+        },
+        {
+          "id": "arbin",
+          "parent": "savoie",
+          "name": "阿尔班蒙杜斯",
+          "en": "Vin de Savoie Arbin",
+          "lat": 45.51,
+          "lng": 6.07,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Mondeuse"
+          ],
+          "soil": "博日山脉石灰岩崩积土。",
+          "climate": "东南向山坡，日照有利于蒙杜斯成熟；山地气候保留酸度。",
+          "classification": "Arbin为Vin de Savoie AOC的地理名称，以Mondeuse红酒为教学重点。",
+          "sourceUrls": [
+            "https://vindesavoie.fr/en/arbin-2"
+          ],
+          "kind": "aoc"
+        },
+        {
+          "id": "champagne",
+          "parent": null,
+          "name": "香槟产区的静止红酒",
+          "en": "Champagne region",
+          "lat": 49.05,
+          "lng": 4.03,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Pinot Noir",
+            "Meunier"
+          ],
+          "soil": "白垩、石灰岩与泥灰岩分布随子区而变。",
+          "climate": "北部凉爽气候，成熟度与选址至关重要。",
+          "classification": "此图聚焦Coteaux Champenois静止红酒；Champagne AOC是另一套起泡酒产地规范。",
+          "sourceUrls": [
+            "https://inao.gouv.fr/produit/coteaux-champenois-rouge-21053"
+          ],
+          "kind": "region"
+        },
+        {
+          "id": "coteauxchampenois",
+          "parent": "champagne",
+          "name": "香槟山坡红酒",
+          "en": "Coteaux Champenois rouge",
+          "lat": 49.07,
+          "lng": 4.03,
+          "coordinateAccuracy": "approximate area center, not vineyard boundary or producer position",
+          "grapes": [
+            "Pinot Noir",
+            "Meunier"
+          ],
+          "soil": "白垩或石灰岩、泥灰岩基底随地点变化。",
+          "climate": "北部凉爽气候，较成熟地块与年份对静止红酒尤其重要。",
+          "classification": "独立静止酒AOC；不要直接套用香槟起泡酒酒庄分级。",
+          "sourceUrls": [
+            "https://inao.gouv.fr/produit/coteaux-champenois-rouge-21053"
+          ],
+          "kind": "aoc"
+        }
+      ],
+      "producers": [
+        {
+          "id": "leoville-las-cases",
+          "parent": "saintjulien",
+          "name": "雄狮酒庄",
+          "en": "Château Léoville Las Cases",
+          "mainRedWine": "Château Léoville Las Cases",
+          "classification": "1855二级列级庄",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "核心葡萄园Grand Clos位于圣朱利安通往波亚克一侧。",
+            "Clos du Marquis来自不同风土地块，不宜笼统称作Las Cases副牌；Le Petit Lion自2007年份推出。"
+          ],
+          "sourceUrls": [
+            "https://www.domaines-delon.com/en/leoville-chateau_leoville_las_cases_vins.html",
+            "https://gcc-1855.fr/classement-grands-crus-classes-1855/"
+          ]
+        },
+        {
+          "id": "ducru-beaucaillou",
+          "parent": "saintjulien",
+          "name": "宝嘉龙酒庄",
+          "en": "Château Ducru-Beaucaillou",
+          "mainRedWine": "Château Ducru-Beaucaillou",
+          "classification": "1855二级列级庄",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "酒庄名称意为美丽的石头，指当地砾石。",
+            "1855被列为二级；阅读等级时区分酒庄身份与具体年份表现。"
+          ],
+          "sourceUrls": [
+            "https://www.chateau-ducru-beaucaillou.com/en/ducru-beaucaillou/",
+            "https://www.chateau-ducru-beaucaillou.com/en/300-years-of-inspiration/"
+          ]
+        },
+        {
+          "id": "leoville-barton",
+          "parent": "saintjulien",
+          "name": "巴顿酒庄",
+          "en": "Château Léoville Barton",
+          "mainRedWine": "Château Léoville Barton",
+          "classification": "1855二级列级庄",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "Hugh Barton于1826年购入原Léoville的一部分葡萄园。",
+            "La Réserve de Léoville Barton是副牌，原料包括年轻葡萄藤与未入正牌的批次。"
+          ],
+          "sourceUrls": [
+            "https://ugcb.net/en/chateaux/chateau-leoville-barton-2/",
+            "https://www.leoville-barton.com/en/wines/1/la-reserve-de-leoville-barton/2016"
+          ]
+        },
+        {
+          "id": "cos-destournel",
+          "parent": "saintestephe",
+          "name": "爱士图尔酒庄",
+          "en": "Cos d’Estournel",
+          "mainRedWine": "Cos d’Estournel",
+          "classification": "1855二级列级庄",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "创始人为Louis Gaspard d’Estournel。",
+            "创始人去世于官方1855分级确立前两年；今天官网仍明确列为二级庄。"
+          ],
+          "sourceUrls": [
+            "https://www.estournel.com/en/cos/commitment-louis-gaspard-destournel/",
+            "https://www.estournel.com/en/"
+          ]
+        },
+        {
+          "id": "montrose",
+          "parent": "saintestephe",
+          "name": "玫瑰酒庄",
+          "en": "Château Montrose",
+          "mainRedWine": "Château Montrose",
+          "classification": "1855二级列级庄",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "葡萄园始建于1815年。",
+            "当前酒庄强调砾石Terrace No.4作为正牌酒的核心风土，赤霞珠是风格骨架。"
+          ],
+          "sourceUrls": [
+            "https://www.chateau-montrose.com/en/",
+            "https://www.chateau-montrose.com/racines/"
+          ]
+        },
+        {
+          "id": "calon-segur",
+          "parent": "saintestephe",
+          "name": "凯隆世家",
+          "en": "Château Calon Ségur",
+          "mainRedWine": "Château Calon Ségur",
+          "classification": "1855三级列级庄",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "厚砾石覆盖黏土底层，表面另有薄层湖相黏土。",
+            "正牌以赤霞珠表达为风格核心；应区分葡萄园种植比例与逐年调配比例。"
+          ],
+          "sourceUrls": [
+            "https://www.calon-segur.fr/en/technical_sheet/2707/",
+            "https://www.calon-segur.fr/en/unique-terroir/"
+          ]
+        },
+        {
+          "id": "chasse-spleen",
+          "parent": "moulis",
+          "name": "忘忧堡",
+          "en": "Château Chasse-Spleen",
+          "mainRedWine": "Château Chasse-Spleen",
+          "classification": "Moulis AOC；本研究不授予未经2025现行名录核实的Cru Bourgeois级别",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "风土包括砾石覆盖黏土石灰岩，以及黏土覆盖石灰岩两大类型。",
+            "L’Oratoire de Chasse-Spleen为副牌；与来自Haut-Médoc地块的L’Héritage应区分。"
+          ],
+          "sourceUrls": [
+            "https://www.chasse-spleen.com/autres-vins/",
+            "https://www.chasse-spleen.com/wp-content/uploads/2024/07/ORATOIRE-CHS-2022-FR.pdf"
+          ]
+        },
+        {
+          "id": "poujeaux",
+          "parent": "moulis",
+          "name": "宝捷酒庄",
+          "en": "Château Poujeaux",
+          "mainRedWine": "Château Poujeaux",
+          "classification": "Moulis AOC；不采用未核实现行适用期的旧Cru Bourgeois Exceptionnel称号",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "位于Moulis，所属为Cuvelier家族。",
+            "酒款为波尔多品种混酿；酒庄种植组成与每年成酒比例不相同。"
+          ],
+          "sourceUrls": [
+            "https://vincod.com/23JR1E",
+            "https://www.bordeaux-tradition.com/wp-content/uploads/2018/05/Fiche-Technique-2023_Chateau-Poujeaux_GB.pdf"
+          ],
+          "sourceQuality": "producer-distributed technical sheet / trade-hosted"
+        },
+        {
+          "id": "haut-brion",
+          "parent": "pessac",
+          "name": "侯伯王酒庄",
+          "en": "Château Haut-Brion",
+          "mainRedWine": "Château Haut-Brion Rouge",
+          "classification": "1855一级列级庄；同时为格拉夫列级红酒",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "位于Pessac-Léognan，属于Graves区域。",
+            "同时具备1855一级庄与格拉夫列级身份；砾石台地由两条小溪界定。"
+          ],
+          "sourceUrls": [
+            "https://www.haut-brion.com/terroir/"
+          ]
+        },
+        {
+          "id": "pape-clement",
+          "parent": "pessac",
+          "name": "黑教皇酒庄",
+          "en": "Château Pape Clément",
+          "mainRedWine": "Château Pape Clément Rouge",
+          "classification": "Graves Cru Classé（红酒）；不是1855一级至五级",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "名称纪念1305年当选教皇的Clément V。",
+            "红白酒均有生产；本条列级身份应与红酒相连。"
+          ],
+          "sourceUrls": [
+            "https://www.pessac-leognan.com/nos-chateaux/chateau-pape-clement/",
+            "https://bernard-magrez.com/collections/vins/grands-crus-classes/chateau-pape-clement/"
+          ]
+        },
+        {
+          "id": "petrus",
+          "parent": "pomerol",
+          "name": "柏翠",
+          "en": "Petrus",
+          "mainRedWine": "Petrus",
+          "classification": "Pomerol AOC；没有官方酒庄分级",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "现行进口商资料说明只生产一款酒，以Merlot酿成。",
+            "稀有蓝黏土坡地是理解Merlot水分管理的核心线索；蓝黏土不应与铁质crasse de fer直接等同。"
+          ],
+          "sourceUrls": [
+            "https://vineyardbrandscollective.com/pages/petrus"
+          ],
+          "sourceQuality": "official importer, not estate website"
+        },
+        {
+          "id": "lafleur",
+          "parent": "pomerol",
+          "name": "花堡",
+          "en": "Lafleur（原Château Lafleur）",
+          "mainRedWine": "Lafleur",
+          "classification": "自2025年份：Vin de France；2024及更早年份历史上为Pomerol AOC",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "2025年8月24日家族致客户信宣布，自2025收成不再申报Pomerol/Bordeaux。",
+            "葡萄园地理位置仍在Pomerol；地图地理归属不能误写成现行AOC资格。",
+            "传统混酿结合Merlot与当地称Bouchet的Cabernet Franc。"
+          ],
+          "sourceUrls": [
+            "https://www.terredevins.com/actualites/chateau-lafleur-se-retire-de-laoc-pomerol",
+            "https://www.larvf.com/chateau-lafleur-quitte-les-appellations-pomerol-et-bordeaux,4906380.asp",
+            "https://www.decanter.com/premium/producer-profile-chateau-lafleur-441364/"
+          ],
+          "classificationSourceDate": "2025-08-24 producer letter reported in trade press",
+          "parentRelationship": "geographic / historical, NOT current AOC membership",
+          "sourceQuality": "trade press quoting producer letter"
+        },
+        {
+          "id": "ausone",
+          "parent": "saintemilion",
+          "name": "欧颂酒庄",
+          "en": "Château Ausone",
+          "mainRedWine": "Château Ausone",
+          "classification": "Saint-Émilion Grand Cru AOC；不在2022现行酒庄分级名录内，历史A等级仅限历史语境",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "葡萄园以Cabernet Franc为主，另种Merlot。",
+            "Chapelle d’Ausone自1995年份推出；Grand Cru AOC用语与Grand Cru Classé酒庄分级不同。"
+          ],
+          "sourceUrls": [
+            "https://www.chateau-ausone.fr/en/spirit-and-practices/",
+            "https://www.vignobles-vauthier.com/fr_FR/news/mars-2025",
+            "https://vins-saint-emilion.com/en/welcome-in-the-vineyard/the-2022-classification/"
+          ],
+          "classificationSourceDate": "2022 classification"
+        },
+        {
+          "id": "fourrier",
+          "parent": "gevrey",
+          "name": "富里耶酒庄",
+          "en": "Domaine Fourrier",
+          "mainRedWine": "Gevrey-Chambertin 1er Cru Les Cherbaudes Vieille Vigne",
+          "classification": "所选酒：Gevrey-Chambertin Premier Cru；不是酒庄统一等级",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "Les Cherbaudes为热夫雷村一级园酒款。",
+            "酒庄亦生产Griotte-Chambertin及Clos Saint-Jacques等不同产地酒；比较时应保持园名与等级。"
+          ],
+          "sourceUrls": [
+            "https://goldencellars.wine/en/vignerons/fourrier/",
+            "https://www.thewinesociety.com/product/domaine-fourrier-gevrey-chambertin-pc-les-cherbaudes-2018/"
+          ],
+          "sourceQuality": "importer / merchant; estate source not found"
+        },
+        {
+          "id": "roumier",
+          "parent": "chambolle",
+          "name": "卢米酒庄",
+          "en": "Domaine Georges Roumier",
+          "mainRedWine": "Chambolle-Musigny 1er Cru Les Cras",
+          "classification": "所选酒：Premier Cru",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "Les Cras底土为上巴柔阶钙质泥灰岩，并含牡蛎化石。",
+            "酒庄另酿村庄级Chambolle-Musigny；同一生产者的不同园名不能合并成同一等级。"
+          ],
+          "sourceUrls": [
+            "https://www.roumier.com/fr_FR/vin/chambolle-musigny-1er-cru-les-cras",
+            "https://www.roumier.com/fr_FR/vin/chambolle-musigny"
+          ]
+        },
+        {
+          "id": "dujac",
+          "parent": "morey",
+          "name": "杜雅克酒庄",
+          "en": "Domaine Dujac",
+          "mainRedWine": "Morey-Saint-Denis Rouge",
+          "classification": "所选酒：村庄AOC；酒庄还生产Premier Cru与Grand Cru",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "Jacques Seysses于1968年创立酒庄。",
+            "酿造按年份采用少量或不去梗的整串发酵，并用本土酵母；整串比例不宜写成所有年份固定数。"
+          ],
+          "sourceUrls": [
+            "https://www.dujac.com/en/"
+          ],
+          "note": "避免混淆Domaine Dujac自产酒与Dujac Fils & Père酒商业务。"
+        },
+        {
+          "id": "marquis-dangerville",
+          "parent": "volnay",
+          "name": "安杰维尔侯爵酒庄",
+          "en": "Domaine Marquis d’Angerville",
+          "mainRedWine": "Volnay 1er Cru Clos des Ducs Monopole",
+          "classification": "所选酒：Premier Cru；Monopole表示独占所有权，不是更高一级",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "Clos des Ducs由酒庄独占。",
+            "庄园于1804年进入家族；今天也生产Volnay村庄酒及其他村庄酒。"
+          ],
+          "sourceUrls": [
+            "https://www.domainedangerville.fr/",
+            "https://www.domainedangerville.fr/notre-histoire/",
+            "https://www.domainedangerville.fr/nos-vins-new/"
+          ]
+        },
+        {
+          "id": "faiveley",
+          "parent": "mercurey",
+          "name": "法维莱酒庄",
+          "en": "Domaine Faiveley",
+          "mainRedWine": "Mercurey 1er Cru Clos des Myglands Monopole",
+          "classification": "所选酒：Premier Cru；Monopole是独占园",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "Clos des Myglands位于Mercurey东北部。",
+            "同一Faiveley酒庄跨夜丘、伯恩丘和夏隆内丘多AOC生产；不可按AOC重复统计为多个酒庄。"
+          ],
+          "sourceUrls": [
+            "https://domaine-faiveley.com/en/wine-detail/mercurey-clos-des-myglands-premier-cru/",
+            "https://domaine-faiveley.com/en/our-oustanding-wines-and-terroirs/"
+          ],
+          "dedupeKey": "faiveley",
+          "alsoAocs": [
+            "nuitssaintgeorges",
+            "gevrey",
+            "chambolle",
+            "corton"
+          ]
+        },
+        {
+          "id": "albert-mann",
+          "parent": "hengst",
+          "name": "阿尔伯特曼酒庄",
+          "en": "Domaine Albert Mann",
+          "mainRedWine": "Pinot Noir Grand H — Alsace Grand Cru Hengst",
+          "classification": "Grand Cru Hengst（2022年份起的黑皮诺）；旧年份需按酒标区分",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "Grand H、Grand P、Clos de la Faille与Les Saintes Claires为不同黑皮诺酒款。",
+            "2022 Grand H以Alsace Grand Cru Hengst出现；Grand H名称中的Grand本身不等于法律Grand Cru。"
+          ],
+          "sourceUrls": [
+            "https://www.albertmann.com/les-vins-domaine-albert-mann",
+            "https://www.albertmann.com/actualite-albert-mann/pinot-noir-grand-cru-hengst-2022-obtient-un-100-100-chez-james-suckling"
+          ],
+          "classificationSourceDate": "2022 vintage"
+        },
+        {
+          "id": "puffeney",
+          "parent": "arbois",
+          "name": "雅克普芬尼",
+          "en": "Jacques Puffeney",
+          "mainRedWine": "Arbois Trousseau Cuvée Les Bérangères",
+          "classification": "Arbois AOC；历史生产者，不设列级酒庄排名",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "2014年完成第52个年份后退休，主要葡萄园转交Domaine du Pélican。",
+            "保留小块葡萄园后仍有少量Bérangères至2017年份；不要表述为仍在常规生产的现役庄园。"
+          ],
+          "sourceUrls": [
+            "https://www.vinetrail.co.uk/growers/jacques-puffeney/1000"
+          ],
+          "status": "historical",
+          "sourceQuality": "importer"
+        },
+        {
+          "id": "arbin-trosset",
+          "parent": "arbin",
+          "name": "夏尔特罗塞之子酒庄",
+          "en": "Les Fils de Charles Trosset / Le Chai des Moulins",
+          "mainRedWine": "Mondeuse Confidentiel",
+          "classification": "Vin de Savoie Arbin；地理名称不是酒庄等级",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "葡萄园位于Arbin上方、博日山脉山麓，面向伊泽尔河谷。",
+            "土壤含石灰岩与铁；Mondeuse为红酒核心。",
+            "这是Louis Trosset相关酒庄，不是Fabien Trosset的Domaine Trosset。"
+          ],
+          "sourceUrls": [
+            "https://lechaidesmoulins.com/",
+            "https://www.vigneron-independant.com/scea-les-fils-de-charles-trosset"
+          ]
+        },
+        {
+          "id": "egly-ouriet",
+          "parent": "coteauxchampenois",
+          "name": "埃格利-乌利耶",
+          "en": "Egly-Ouriet",
+          "mainRedWine": "Ambonnay Rouge Cuvée des Grands Côtés Vieilles Vignes",
+          "classification": "Coteaux Champenois AOC静止红酒；不写成波尔多式列级庄",
+          "classificationCheckedOn": "2026-09-29",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "learningNotes": [
+            "酒款来自Ambonnay的老藤Pinot Noir。",
+            "与本庄起泡香槟分开学习：此酒属于Coteaux Champenois静止酒AOC。"
+          ],
+          "sourceUrls": [
+            "https://www.caves-carriere.fr/en/egly-ouriet/45496-ambonnay-rouge-cuvee-des-grands-cotes-vieilles-vignes",
+            "https://www.plus-de-bulles.com/fr/champagne-egly-ouriet/ambonnay-rouge-2023.html"
+          ],
+          "sourceQuality": "merchant; no producer public sheet found"
+        }
+      ],
+      "currentCompleteCounts": [],
+      "warnings": [
+        "Coordinates are deliberately approximate area centers only; no producer coordinates invented.",
+        "Nodes saintemilion/pomerol/pessac enrich existing ids; beaune-aoc avoids collision with existing beaune subregion.",
+        "Alsace Grand Cru Pinot Noir regulatory expansion beyond Hengst/Kirchberg needs current legal text check; no claim of exactly two or three authorized crus.",
+        "No current Cru Bourgeois rank assigned to Chasse-Spleen or Poujeaux; old 2003 status must not be shown as current.",
+        "Historical producer Puffeney and Lafleur current Vin de France require visible caveats."
+      ]
+    },
+    {
+      "researchDate": "2026-09-29",
+      "scope": "法国罗讷河谷、卢瓦尔河谷及博若莱红葡萄酒教学资料",
+      "coordinatePolicy": "所有产区坐标仅为地图导航的大致区域中心，不是法定边界或酒庄坐标；酒庄均 mapLocated=false。",
+      "classificationNote": "Cru 在罗讷河谷与博若莱指具有独立地理身份的法定产区，不是波尔多1855酒庄等级。AOC/AOP是地理来源及生产规范，不能直接当作质量评分。",
+      "regions": [
+        {
+          "id": "rhone-north",
+          "parent": "rhone",
+          "nameChinese": "北罗讷",
+          "en": "Northern Rhône",
+          "lat": 45.1,
+          "lng": 4.8,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "西拉 Syrah"
+          ],
+          "soil": "花岗岩及变质岩坡地；局部冲积土",
+          "climate": "半大陆性，带地中海影响",
+          "classification": "地理子区域，不是独立AOC",
+          "sourceUrls": [
+            "https://www.vins-rhone.com/en/"
+          ],
+          "type": "subregion"
+        },
+        {
+          "id": "rhone-south",
+          "parent": "rhone",
+          "nameChinese": "南罗讷",
+          "en": "Southern Rhône",
+          "lat": 44.12,
+          "lng": 4.9,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "歌海娜 Grenache",
+            "西拉 Syrah",
+            "慕合怀特 Mourvèdre"
+          ],
+          "soil": "鹅卵石、黏土、石灰岩与砂土镶嵌分布",
+          "climate": "地中海气候，受密斯托拉风影响",
+          "classification": "地理子区域，不是独立AOC",
+          "sourceUrls": [
+            "https://www.vins-rhone.com/en/"
+          ],
+          "type": "subregion"
+        },
+        {
+          "id": "cote-rotie",
+          "parent": "rhone-north",
+          "nameChinese": "罗第丘",
+          "en": "Côte-Rôtie",
+          "lat": 45.49,
+          "lng": 4.8,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "西拉 Syrah",
+            "维欧尼 Viognier（允许用于红酒混酿）"
+          ],
+          "soil": "云母片岩、片麻岩及混合岩",
+          "climate": "半大陆性，受地中海影响",
+          "classification": "独立AOC／罗讷河谷Cru；地理产区而非酒庄分级",
+          "sourceUrls": [
+            "https://www.vins-rhone.com/en/cotes-du-rhone-cru-aoc-cote-rotie"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "hermitage",
+          "parent": "rhone-north",
+          "nameChinese": "埃米塔日",
+          "en": "Hermitage",
+          "lat": 45.08,
+          "lng": 4.84,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "西拉 Syrah",
+            "玛珊/瑚珊（允许少量用于红酒）"
+          ],
+          "soil": "花岗岩、黏土、砂土及砾石",
+          "climate": "半大陆性，受地中海影响",
+          "classification": "独立AOC／罗讷河谷Cru；地理产区而非酒庄分级",
+          "sourceUrls": [
+            "https://www.vins-rhone.com/en/cotes-du-rhone-cru-aoc-hermitage"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "cornas",
+          "parent": "rhone-north",
+          "nameChinese": "科纳斯",
+          "en": "Cornas",
+          "lat": 44.96,
+          "lng": 4.85,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "西拉 Syrah"
+          ],
+          "soil": "以分解花岗岩坡地为代表",
+          "climate": "半大陆性，受地中海影响",
+          "classification": "独立AOC／罗讷河谷Cru；地理产区而非酒庄分级",
+          "sourceUrls": [
+            "https://www.vins-rhone.com/en/cotes-du-rhone-cru-aoc-cornas"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "saint-joseph",
+          "parent": "rhone-north",
+          "nameChinese": "圣约瑟夫",
+          "en": "Saint-Joseph",
+          "lat": 45.17,
+          "lng": 4.77,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "西拉 Syrah",
+            "玛珊/瑚珊（允许少量用于红酒）"
+          ],
+          "soil": "以花岗岩陡坡和梯田为代表",
+          "climate": "半大陆性，受地中海影响",
+          "classification": "独立AOC／罗讷河谷Cru；地理产区而非酒庄分级",
+          "sourceUrls": [
+            "https://www.vins-rhone.com/en/cotes-du-rhone-cru-aoc-saint-joseph"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "crozes-hermitage",
+          "parent": "rhone-north",
+          "nameChinese": "克罗兹-埃米塔日",
+          "en": "Crozes-Hermitage",
+          "lat": 45.08,
+          "lng": 4.9,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "西拉 Syrah",
+            "玛珊/瑚珊（允许少量用于红酒）"
+          ],
+          "soil": "北部花岗岩坡地，南部砾石冲积阶地",
+          "climate": "半大陆性，受地中海影响",
+          "classification": "独立AOC／罗讷河谷Cru；地理产区而非酒庄分级",
+          "sourceUrls": [
+            "https://www.vins-rhone.com/en/cotes-du-rhone-cru-aoc-crozes-hermitage"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "chateauneuf-du-pape",
+          "parent": "rhone-south",
+          "nameChinese": "教皇新堡",
+          "en": "Châteauneuf-du-Pape",
+          "lat": 44.06,
+          "lng": 4.83,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "歌海娜 Grenache",
+            "西拉 Syrah",
+            "慕合怀特 Mourvèdre",
+            "其他许可品种依AOC规定"
+          ],
+          "soil": "鹅卵石阶地、砂土与石灰岩等多种风土",
+          "climate": "地中海气候；夏季温暖干燥，密斯托拉风影响明显",
+          "classification": "1936年获AOC；Cru指产区",
+          "sourceUrls": [
+            "https://www.vins-rhone.com/en/cotes-du-rhone-cru-aoc-chateauneuf-du-pape"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "gigondas",
+          "parent": "rhone-south",
+          "nameChinese": "吉恭达斯",
+          "en": "Gigondas",
+          "lat": 44.16,
+          "lng": 5.0,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "歌海娜 Grenache",
+            "西拉 Syrah",
+            "慕合怀特 Mourvèdre",
+            "其他许可品种依AOC规定"
+          ],
+          "soil": "蒙米拉伊山麓石灰岩、泥灰岩、黏土及砂土",
+          "climate": "地中海气候；夏季温暖干燥，密斯托拉风影响明显",
+          "classification": "1971年成为独立Cru；另有白与桃红酒",
+          "sourceUrls": [
+            "https://www.vins-rhone.com/en/cotes-du-rhone-cru-aoc-gigondas"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "vacqueyras",
+          "parent": "rhone-south",
+          "nameChinese": "瓦给拉斯",
+          "en": "Vacqueyras",
+          "lat": 44.14,
+          "lng": 4.98,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "歌海娜 Grenache",
+            "西拉 Syrah",
+            "慕合怀特 Mourvèdre",
+            "其他许可品种依AOC规定"
+          ],
+          "soil": "冲积阶地、砂质黏土及圆砾石",
+          "climate": "地中海气候；夏季温暖干燥，密斯托拉风影响明显",
+          "classification": "1990年成为独立AOC／Cru",
+          "sourceUrls": [
+            "https://www.vins-rhone.com/en/cotes-du-rhone-cru-aoc-vacqueyras"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "rasteau",
+          "parent": "rhone-south",
+          "nameChinese": "拉斯多",
+          "en": "Rasteau",
+          "lat": 44.23,
+          "lng": 4.99,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "歌海娜 Grenache",
+            "西拉 Syrah",
+            "慕合怀特 Mourvèdre",
+            "其他许可品种依AOC规定"
+          ],
+          "soil": "黏土石灰岩、泥灰岩与砂岩红土，局部圆砾",
+          "climate": "地中海气候；朝南坡地较避密斯托拉风",
+          "classification": "干红于2010年成为Cru；勿与1944年获认定的天然甜酒混淆",
+          "sourceUrls": [
+            "https://www.vins-rhone.com/en/cotes-du-rhone-cru-aoc-rasteau"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "cairanne",
+          "parent": "rhone-south",
+          "nameChinese": "凯拉讷",
+          "en": "Cairanne",
+          "lat": 44.23,
+          "lng": 4.94,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "歌海娜 Grenache",
+            "西拉 Syrah",
+            "慕合怀特 Mourvèdre",
+            "其他许可品种依AOC规定"
+          ],
+          "soil": "艾格河阶地的砂土、黏土与砾石；北部石灰岩泥灰岩坡地",
+          "climate": "地中海气候；夏季温暖干燥，密斯托拉风影响明显",
+          "classification": "2016年成为独立Cru",
+          "sourceUrls": [
+            "https://www.vins-rhone.com/en/cotes-du-rhone-cru-aoc-cairanne"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "touraine",
+          "parent": "loire",
+          "nameChinese": "都兰",
+          "en": "Touraine",
+          "lat": 47.25,
+          "lng": 0.5,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "品丽珠 Cabernet Franc"
+          ],
+          "soil": "河流冲积砂砾与白垩质tuffeau坡地",
+          "climate": "海洋性向大陆性过渡",
+          "classification": "此处作为地理子区域；勿与Touraine AOC范围等同",
+          "sourceUrls": [
+            "https://www.vinsdeloire.fr/en/"
+          ],
+          "type": "subregion"
+        },
+        {
+          "id": "anjou-saumur",
+          "parent": "loire",
+          "nameChinese": "安茹-索米尔",
+          "en": "Anjou-Saumur",
+          "lat": 47.25,
+          "lng": -0.1,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "品丽珠 Cabernet Franc"
+          ],
+          "soil": "索米尔以tuffeau石灰岩著称",
+          "climate": "温和海洋性影响，卢瓦尔河调节",
+          "classification": "地理子区域",
+          "sourceUrls": [
+            "https://www.vinsdeloire.fr/en/"
+          ],
+          "type": "subregion"
+        },
+        {
+          "id": "centre-loire",
+          "parent": "loire",
+          "nameChinese": "中央卢瓦尔",
+          "en": "Centre-Loire",
+          "lat": 47.28,
+          "lng": 2.7,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "黑皮诺 Pinot Noir"
+          ],
+          "soil": "石灰岩、泥灰岩和燧石土",
+          "climate": "大陆性影响更强",
+          "classification": "地理子区域",
+          "sourceUrls": [
+            "https://www.vins-centre-loire.com/fr/nos-appellations1/"
+          ],
+          "type": "subregion"
+        },
+        {
+          "id": "chinon",
+          "parent": "touraine",
+          "nameChinese": "希农",
+          "en": "Chinon",
+          "lat": 47.16,
+          "lng": 0.24,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "品丽珠 Cabernet Franc（主导）"
+          ],
+          "soil": "维埃纳河冲积砂砾、tuffeau石灰岩坡地及高地黏土",
+          "climate": "温和海洋性影响；河流与坡向造成局部差异",
+          "classification": "独立AOC；不是酒庄等级",
+          "sourceUrls": [
+            "https://www.vinsdeloire.fr/fr/vins-loire/chinon/tout-sur-chinon"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "bourgueil",
+          "parent": "touraine",
+          "nameChinese": "布尔格伊",
+          "en": "Bourgueil",
+          "lat": 47.29,
+          "lng": 0.17,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "品丽珠 Cabernet Franc（主导）"
+          ],
+          "soil": "卢瓦尔河砂砾阶地与tuffeau石灰岩坡地",
+          "climate": "温和海洋性影响；河流与坡向造成局部差异",
+          "classification": "独立AOC；不是酒庄等级",
+          "sourceUrls": [
+            "https://www.vinbourgueil.com/le-vignoble/les-terroirs/"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "saint-nicolas-de-bourgueil",
+          "parent": "touraine",
+          "nameChinese": "圣尼古拉-德-布尔格伊",
+          "en": "Saint-Nicolas-de-Bourgueil",
+          "lat": 47.28,
+          "lng": 0.12,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "品丽珠 Cabernet Franc（主导）"
+          ],
+          "soil": "以砂砾冲积阶地为主，北部坡地有tuffeau",
+          "climate": "温和海洋性影响；河流与坡向造成局部差异",
+          "classification": "独立AOC；不是酒庄等级",
+          "sourceUrls": [
+            "https://www.inao.gouv.fr/node/579"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "saumur-champigny",
+          "parent": "anjou-saumur",
+          "nameChinese": "索米尔-尚皮尼",
+          "en": "Saumur-Champigny",
+          "lat": 47.22,
+          "lng": -0.03,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "品丽珠 Cabernet Franc（主导）"
+          ],
+          "soil": "白垩质tuffeau基岩及黏土石灰岩",
+          "climate": "温和海洋性影响；河流与坡向造成局部差异",
+          "classification": "独立AOC；不是酒庄等级",
+          "sourceUrls": [
+            "https://saumur-champigny.com/en/appellation/"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "sancerre",
+          "parent": "centre-loire",
+          "nameChinese": "桑塞尔（红酒）",
+          "en": "Sancerre (red)",
+          "lat": 47.33,
+          "lng": 2.84,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "黑皮诺 Pinot Noir"
+          ],
+          "soil": "石灰岩caillottes、黏土泥灰岩terres blanches与燧石土",
+          "climate": "大陆性影响较强",
+          "classification": "Sancerre AOC的红葡萄酒；红及桃红于1959年获认定",
+          "sourceUrls": [
+            "https://www.vins-centre-loire.com/fr/les-vins-de-sancerre/"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "brouilly",
+          "parent": "beaujolais",
+          "nameChinese": "布鲁伊",
+          "en": "Brouilly",
+          "lat": 46.11,
+          "lng": 4.64,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "佳美 Gamay"
+          ],
+          "soil": "粉红花岗岩、蓝石、石灰岩及黏土",
+          "climate": "温和，兼具大陆性、海洋性和地中海影响；海拔与坡向影响成熟",
+          "classification": "博若莱十大Cru之一，独立地理AOC；不是酒庄等级",
+          "sourceUrls": [
+            "https://www.beaujolais.com/en/appellation/brouilly/"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "cote-de-brouilly",
+          "parent": "beaujolais",
+          "nameChinese": "布鲁伊丘",
+          "en": "Côte de Brouilly",
+          "lat": 46.11,
+          "lng": 4.65,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "佳美 Gamay"
+          ],
+          "soil": "蓝色火山岩、花岗岩和坡积物",
+          "climate": "温和，兼具大陆性、海洋性和地中海影响；海拔与坡向影响成熟",
+          "classification": "博若莱十大Cru之一，独立地理AOC；不是酒庄等级",
+          "sourceUrls": [
+            "https://www.beaujolais.com/en/appellation/cote-de-brouilly/"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "morgon",
+          "parent": "beaujolais",
+          "nameChinese": "莫尔贡",
+          "en": "Morgon",
+          "lat": 46.16,
+          "lng": 4.68,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "佳美 Gamay"
+          ],
+          "soil": "花岗岩及风化变质岩；Côte du Py的蓝石风土",
+          "climate": "温和，兼具大陆性、海洋性和地中海影响；海拔与坡向影响成熟",
+          "classification": "博若莱十大Cru之一，独立地理AOC；不是酒庄等级",
+          "sourceUrls": [
+            "https://www.beaujolais.com/en/appellation/morgon/"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "fleurie",
+          "parent": "beaujolais",
+          "nameChinese": "弗勒里",
+          "en": "Fleurie",
+          "lat": 46.19,
+          "lng": 4.69,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "佳美 Gamay"
+          ],
+          "soil": "以粉红花岗岩及其风化砂为代表",
+          "climate": "温和，兼具大陆性、海洋性和地中海影响；海拔与坡向影响成熟",
+          "classification": "博若莱十大Cru之一，独立地理AOC；不是酒庄等级",
+          "sourceUrls": [
+            "https://www.beaujolais.com/en/appellation/fleurie/"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "moulin-a-vent",
+          "parent": "beaujolais",
+          "nameChinese": "风车磨坊",
+          "en": "Moulin-à-Vent",
+          "lat": 46.22,
+          "lng": 4.72,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "佳美 Gamay"
+          ],
+          "soil": "花岗岩与风化砂土，局部含锰",
+          "climate": "温和，兼具大陆性、海洋性和地中海影响；海拔与坡向影响成熟",
+          "classification": "博若莱十大Cru之一，独立地理AOC；不是酒庄等级",
+          "sourceUrls": [
+            "https://www.beaujolais.com/en/appellation/moulin-a-vent/"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "chenas",
+          "parent": "beaujolais",
+          "nameChinese": "谢纳",
+          "en": "Chénas",
+          "lat": 46.21,
+          "lng": 4.72,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "佳美 Gamay"
+          ],
+          "soil": "花岗岩与山麓沉积物",
+          "climate": "温和，兼具大陆性、海洋性和地中海影响；海拔与坡向影响成熟",
+          "classification": "博若莱十大Cru之一，独立地理AOC；不是酒庄等级",
+          "sourceUrls": [
+            "https://www.beaujolais.com/en/appellation/chenas/"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "chiroubles",
+          "parent": "beaujolais",
+          "nameChinese": "希鲁布勒",
+          "en": "Chiroubles",
+          "lat": 46.18,
+          "lng": 4.64,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "佳美 Gamay"
+          ],
+          "soil": "粉红花岗岩；高海拔环形坡地",
+          "climate": "温和，兼具大陆性、海洋性和地中海影响；海拔与坡向影响成熟",
+          "classification": "博若莱十大Cru之一，独立地理AOC；不是酒庄等级",
+          "sourceUrls": [
+            "https://www.beaujolais.com/en/appellation/chiroubles/"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "julienas",
+          "parent": "beaujolais",
+          "nameChinese": "朱丽耶纳",
+          "en": "Juliénas",
+          "lat": 46.24,
+          "lng": 4.71,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "佳美 Gamay"
+          ],
+          "soil": "蓝石、花岗岩及坡积物",
+          "climate": "温和，兼具大陆性、海洋性和地中海影响；海拔与坡向影响成熟",
+          "classification": "博若莱十大Cru之一，独立地理AOC；不是酒庄等级",
+          "sourceUrls": [
+            "https://www.beaujolais.com/en/appellation/julienas/"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "saint-amour",
+          "parent": "beaujolais",
+          "nameChinese": "圣阿穆尔",
+          "en": "Saint-Amour",
+          "lat": 46.24,
+          "lng": 4.74,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "佳美 Gamay"
+          ],
+          "soil": "多样土壤，包括花岗岩、黏土和坡积物",
+          "climate": "温和，兼具大陆性、海洋性和地中海影响；海拔与坡向影响成熟",
+          "classification": "博若莱十大Cru之一，独立地理AOC；不是酒庄等级",
+          "sourceUrls": [
+            "https://www.beaujolais.com/en/appellation/saint-amour-2/"
+          ],
+          "type": "appellation"
+        },
+        {
+          "id": "regnie",
+          "parent": "beaujolais",
+          "nameChinese": "雷涅",
+          "en": "Régnié",
+          "lat": 46.14,
+          "lng": 4.64,
+          "coordinateType": "approximate-area-centre",
+          "grapes": [
+            "佳美 Gamay"
+          ],
+          "soil": "花岗岩及山麓沉积物",
+          "climate": "温和，兼具大陆性、海洋性和地中海影响；海拔与坡向影响成熟",
+          "classification": "博若莱十大Cru之一，独立地理AOC；不是酒庄等级",
+          "sourceUrls": [
+            "https://www.beaujolais.com/en/appellation/regnie/"
+          ],
+          "type": "appellation"
+        }
+      ],
+      "estates": [
+        {
+          "id": "guigal",
+          "nameChinese": "吉佳乐",
+          "en": "E. Guigal",
+          "primaryAppellation": "cote-rotie",
+          "mapLocated": false,
+          "profile": "安普伊的罗讷生产商；可用其不同罗第丘酒款比较地块。",
+          "mainWines": [
+            {
+              "name": "Côte-Rôtie La Mouline",
+              "appellationId": "cote-rotie",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.guigal.com/en/wine/cote-rotie-la-mouline/"
+              ]
+            },
+            {
+              "name": "Côte-Rôtie La Turque",
+              "appellationId": "cote-rotie",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.guigal.com/en/wine/cote-rotie-la-turque/"
+              ]
+            },
+            {
+              "name": "Côte-Rôtie La Landonne",
+              "appellationId": "cote-rotie",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.guigal.com/en/wine/cote-rotie-la-landonne/"
+              ]
+            }
+          ],
+          "learningNotes": [
+            "三款均属于Côte-Rôtie AOC。",
+            "酒款名称是地块／特酿名，不是三个酒庄。"
+          ],
+          "sourceUrls": [
+            "https://www.guigal.com/en/"
+          ],
+          "sourceType": "producer-official",
+          "classification": "无本图谱适用的1855酒庄等级；按每款酒所属AOC学习"
+        },
+        {
+          "id": "chave",
+          "nameChinese": "让-路易·沙夫",
+          "en": "Domaine Jean-Louis Chave",
+          "primaryAppellation": "hermitage",
+          "mapLocated": false,
+          "profile": "家族酒庄在Mauves，以Hermitage和Saint-Joseph为核心。",
+          "mainWines": [
+            {
+              "name": "Hermitage Rouge",
+              "appellationId": "hermitage",
+              "color": "red",
+              "sourceUrls": [
+                "https://grandcruselections.com/domaine-jeanlouis-chave"
+              ]
+            },
+            {
+              "name": "Saint-Joseph Rouge",
+              "appellationId": "saint-joseph",
+              "color": "red",
+              "sourceUrls": [
+                "https://grandcruselections.com/domaine-jeanlouis-chave"
+              ]
+            }
+          ],
+          "learningNotes": [
+            "酒庄官网标示家族自1481年酿酒。",
+            "Domaine Jean-Louis Chave与Jean-Louis Chave Sélections为不同产品系列，需读清酒标。"
+          ],
+          "sourceUrls": [
+            "https://www.domainejlchave.fr/",
+            "https://grandcruselections.com/domaine-jeanlouis-chave"
+          ],
+          "sourceType": "producer-official + importer",
+          "classification": "无本图谱适用的1855酒庄等级；按每款酒所属AOC学习"
+        },
+        {
+          "id": "clape",
+          "nameChinese": "克拉普",
+          "en": "Domaine Clape",
+          "primaryAppellation": "cornas",
+          "mapLocated": false,
+          "profile": "以传统Cornas红酒为核心的家族酒庄。",
+          "mainWines": [
+            {
+              "name": "Cornas",
+              "appellationId": "cornas",
+              "color": "red",
+              "sourceUrls": [
+                "https://shop.kermitlynch.com/collection/clape/"
+              ]
+            },
+            {
+              "name": "Cornas Renaissance",
+              "appellationId": "cornas",
+              "color": "red",
+              "sourceUrls": [
+                "https://shop.kermitlynch.com/product/detail/18FCL09/"
+              ]
+            }
+          ],
+          "learningNotes": [
+            "Cornas的唯一许可葡萄为西拉。",
+            "Renaissance与Cornas同属一个AOC，应作为不同酒款而不是不同等级酒庄。"
+          ],
+          "sourceUrls": [
+            "https://shop.kermitlynch.com/collection/clape/",
+            "https://www.rhone-crussol-tourisme.com/fr/catalogue/detail/cornas-3023617/domaine-clape-138098/"
+          ],
+          "sourceType": "official-tourism + importer",
+          "classification": "无本图谱适用的1855酒庄等级；按每款酒所属AOC学习"
+        },
+        {
+          "id": "allemand",
+          "nameChinese": "蒂埃里·阿勒芒",
+          "en": "Thierry Allemand",
+          "primaryAppellation": "cornas",
+          "mapLocated": false,
+          "profile": "Cornas生产者；以Chaillot和Reynard两款西拉为代表。",
+          "mainWines": [
+            {
+              "name": "Cornas Chaillot",
+              "appellationId": "cornas",
+              "color": "red",
+              "sourceUrls": [
+                "https://kermitlynch.com/newsletters/1112-December2011.pdf"
+              ]
+            },
+            {
+              "name": "Cornas Reynard",
+              "appellationId": "cornas",
+              "color": "red",
+              "sourceUrls": [
+                "https://kermitlynch.com/grower/thierry-allemand"
+              ]
+            }
+          ],
+          "learningNotes": [
+            "两款均为Cornas AOC西拉。",
+            "进口商资料将Chaillot相关葡萄园写作Les Chaillots；酒款常用Chaillot。"
+          ],
+          "sourceUrls": [
+            "https://kermitlynch.com/grower/thierry-allemand",
+            "https://www.aoc-cornas.fr/EN/cornas-producteurs.html"
+          ],
+          "sourceType": "appellation-official + importer",
+          "classification": "无本图谱适用的1855酒庄等级；按每款酒所属AOC学习"
+        },
+        {
+          "id": "jaboulet",
+          "nameChinese": "保罗·佳布乐",
+          "en": "Paul Jaboulet Aîné",
+          "primaryAppellation": "crozes-hermitage",
+          "mapLocated": false,
+          "profile": "历史悠久的罗讷生产商，Thalabert是学习克罗兹-埃米塔日的重要酒款。",
+          "mainWines": [
+            {
+              "name": "Crozes-Hermitage Domaine de Thalabert Rouge",
+              "appellationId": "crozes-hermitage",
+              "color": "red",
+              "sourceUrls": [
+                "https://jaboulet.com/products/crozes-hermitage-domaine-de-thalabert-rouge/"
+              ]
+            }
+          ],
+          "learningNotes": [
+            "Thalabert自1834年归Jaboulet所有。",
+            "该酒款为红酒；Mule Blanche是白酒，应分开记录。"
+          ],
+          "sourceUrls": [
+            "https://jaboulet.com/products/crozes-hermitage-domaine-de-thalabert-rouge/"
+          ],
+          "sourceType": "producer-official",
+          "classification": "无本图谱适用的1855酒庄等级；按每款酒所属AOC学习"
+        },
+        {
+          "id": "beaucastel",
+          "nameChinese": "博卡斯特",
+          "en": "Château de Beaucastel",
+          "primaryAppellation": "chateauneuf-du-pape",
+          "mapLocated": false,
+          "profile": "教皇新堡的Perrin家族酒庄，以多品种混酿著称。",
+          "mainWines": [
+            {
+              "name": "Château de Beaucastel Châteauneuf-du-Pape Rouge",
+              "appellationId": "chateauneuf-du-pape",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.beaucastel.com/"
+              ]
+            },
+            {
+              "name": "Hommage à Jacques Perrin",
+              "appellationId": "chateauneuf-du-pape",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.beaucastel.com/en/products/hommage-a-jacques-perrin-chateauneuf-du-pape-rouge-2021"
+              ]
+            }
+          ],
+          "learningNotes": [
+            "Hommage à Jacques Perrin是独立特酿名称。",
+            "慕合怀特对Hommage的风格十分重要。"
+          ],
+          "sourceUrls": [
+            "https://www.beaucastel.com/",
+            "https://www.beaucastel.com/en/products/hommage-a-jacques-perrin-chateauneuf-du-pape-rouge-2021"
+          ],
+          "sourceType": "producer-official",
+          "classification": "无本图谱适用的1855酒庄等级；按每款酒所属AOC学习"
+        },
+        {
+          "id": "pegau",
+          "nameChinese": "佩高",
+          "en": "Domaine du Pegau",
+          "primaryAppellation": "chateauneuf-du-pape",
+          "mapLocated": false,
+          "profile": "教皇新堡生产者，Cuvée Réservée为标志性酒款。",
+          "mainWines": [
+            {
+              "name": "Cuvée Réservée Rouge",
+              "appellationId": "chateauneuf-du-pape",
+              "color": "red",
+              "sourceUrls": [
+                "https://pegau.com/vin/cuvee-reservee-rouge/"
+              ]
+            },
+            {
+              "name": "Cuvée Laurence Rouge",
+              "appellationId": "chateauneuf-du-pape",
+              "color": "red",
+              "sourceUrls": [
+                "https://pegau.com/vins-domaine-chateau/"
+              ]
+            },
+            {
+              "name": "Cuvée Da Capo Rouge",
+              "appellationId": "chateauneuf-du-pape",
+              "color": "red",
+              "sourceUrls": [
+                "https://pegau.com/vins-domaine-chateau/"
+              ]
+            }
+          ],
+          "learningNotes": [
+            "Réservée以歌海娜、西拉和慕合怀特为主。",
+            "Réservée同时有白酒，检索时应加Rouge。"
+          ],
+          "sourceUrls": [
+            "https://pegau.com/vins-domaine-chateau/"
+          ],
+          "sourceType": "producer-official",
+          "classification": "无本图谱适用的1855酒庄等级；按每款酒所属AOC学习"
+        },
+        {
+          "id": "vieux-telegraphe",
+          "nameChinese": "老电报",
+          "en": "Domaine du Vieux Télégraphe",
+          "primaryAppellation": "chateauneuf-du-pape",
+          "mapLocated": false,
+          "profile": "Brunier家族的教皇新堡酒庄。",
+          "mainWines": [
+            {
+              "name": "Vieux Télégraphe Rouge",
+              "appellationId": "chateauneuf-du-pape",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.vieux-telegraphe.fr/en/"
+              ]
+            },
+            {
+              "name": "Télégramme Rouge",
+              "appellationId": "chateauneuf-du-pape",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.vieux-telegraphe.fr/en/"
+              ]
+            },
+            {
+              "name": "Piedlong Rouge",
+              "appellationId": "chateauneuf-du-pape",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.vieux-telegraphe.fr/en/"
+              ]
+            }
+          ],
+          "learningNotes": [
+            "家族历史始于1891年。",
+            "Brunier还参与Gigondas的Les Pallières，不能将家族所有酒款都归入教皇新堡。"
+          ],
+          "sourceUrls": [
+            "https://www.vieux-telegraphe.fr/en/",
+            "https://www.vieux-telegraphe.fr/histoire/"
+          ],
+          "sourceType": "producer-official",
+          "classification": "无本图谱适用的1855酒庄等级；按每款酒所属AOC学习"
+        },
+        {
+          "id": "saint-cosme",
+          "nameChinese": "圣科姆",
+          "en": "Château de Saint Cosme",
+          "primaryAppellation": "gigondas",
+          "mapLocated": false,
+          "profile": "吉恭达斯历史酒庄，拥有多个具名地块酒款。",
+          "mainWines": [
+            {
+              "name": "Gigondas",
+              "appellationId": "gigondas",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.gigondas-vin.com/en/vigneron/chateau-de%E2%80%A8-saint-cosme-2/"
+              ]
+            },
+            {
+              "name": "Gigondas Le Claux",
+              "appellationId": "gigondas",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.gigondas-vin.com/en/vigneron/chateau-de%E2%80%A8-saint-cosme-2/"
+              ]
+            },
+            {
+              "name": "Gigondas Le Poste",
+              "appellationId": "gigondas",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.gigondas-vin.com/en/vigneron/chateau-de%E2%80%A8-saint-cosme-2/"
+              ]
+            },
+            {
+              "name": "Gigondas Hominis Fides",
+              "appellationId": "gigondas",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.gigondas-vin.com/en/vigneron/chateau-de%E2%80%A8-saint-cosme-2/"
+              ]
+            },
+            {
+              "name": "Gigondas Valbelle",
+              "appellationId": "gigondas",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.gigondas-vin.com/en/vigneron/chateau-de%E2%80%A8-saint-cosme-2/"
+              ]
+            }
+          ],
+          "learningNotes": [
+            "上述酒款均属Gigondas AOC。",
+            "酒庄保留了古罗马时期的酿酒槽。"
+          ],
+          "sourceUrls": [
+            "https://www.gigondas-vin.com/en/vigneron/chateau-de%E2%80%A8-saint-cosme-2/",
+            "https://www.saintcosme.com/upload/fichier/livret-2024-en.pdf"
+          ],
+          "sourceType": "producer-official + appellation-official",
+          "classification": "无本图谱适用的1855酒庄等级；按每款酒所属AOC学习"
+        },
+        {
+          "id": "baudry",
+          "nameChinese": "贝尔纳·博德里",
+          "en": "Bernard Baudry",
+          "primaryAppellation": "chinon",
+          "mapLocated": false,
+          "profile": "通过希农不同土壤的单品种红酒展现风土。",
+          "mainWines": [
+            {
+              "name": "La Croix Boissée Rouge",
+              "appellationId": "chinon",
+              "color": "red",
+              "sourceUrls": [
+                "https://bernardbaudry.com/vins/la-croix-boissee-2/"
+              ]
+            }
+          ],
+          "learningNotes": [
+            "红酒使用品丽珠，白酒使用白诗南。",
+            "La Croix Boissée同时有白酒，学习红酒时必须核对颜色。"
+          ],
+          "sourceUrls": [
+            "https://bernardbaudry.com/les-vins/",
+            "https://bernardbaudry.com/vins/la-croix-boissee-2/"
+          ],
+          "sourceType": "producer-official",
+          "classification": "无本图谱适用的1855酒庄等级；按每款酒所属AOC学习"
+        },
+        {
+          "id": "couly-dutheil",
+          "nameChinese": "库利-迪泰伊",
+          "en": "Couly-Dutheil",
+          "primaryAppellation": "chinon",
+          "mapLocated": false,
+          "profile": "希农生产商，拥有Clos de l’Echo和Clos de l’Olive。",
+          "mainWines": [
+            {
+              "name": "Clos de l'Echo",
+              "appellationId": "chinon",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.coulydutheil-chinon.com/visites-5.html"
+              ]
+            },
+            {
+              "name": "Clos de l'Olive",
+              "appellationId": "chinon",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.coulydutheil-chinon.com/visites-5.html"
+              ]
+            },
+            {
+              "name": "Clos de l'Echo Cuvée Crescendo",
+              "appellationId": "chinon",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.coulydutheil-chinon.com/visites-5.html"
+              ]
+            }
+          ],
+          "learningNotes": [
+            "两个Clos是酒庄独占园。",
+            "Crescendo属于酒款名称，不是法定酒庄等级。"
+          ],
+          "sourceUrls": [
+            "https://www.coulydutheil-chinon.com/visites-5.html",
+            "https://www.coulydutheil-chinon.com/le-domaine-10.html"
+          ],
+          "sourceType": "producer-official",
+          "classification": "无本图谱适用的1855酒庄等级；按每款酒所属AOC学习"
+        },
+        {
+          "id": "breton",
+          "nameChinese": "卡特琳与皮埃尔·布勒东",
+          "en": "Catherine et Pierre Breton",
+          "primaryAppellation": "bourgueil",
+          "mapLocated": false,
+          "profile": "卢瓦尔生产者，以品丽珠红酒与风土表达为学习重点。",
+          "mainWines": [
+            {
+              "name": "Nuits d'Ivresse",
+              "appellationId": "bourgueil",
+              "color": "red",
+              "sourceUrls": [
+                "https://domainebreton.net/en/products/nuits-divresse"
+              ]
+            },
+            {
+              "name": "Les Perrières",
+              "appellationId": "bourgueil",
+              "color": "red",
+              "sourceUrls": [
+                "https://domainebreton.net/en/collections/les-incontournables"
+              ]
+            }
+          ],
+          "learningNotes": [
+            "Nuits d’Ivresse来自tuffeau石灰岩风土的品丽珠。",
+            "该酒款官网说明酿造、熟成及装瓶均不添加二氧化硫；不要将此自动套用全部酒款。"
+          ],
+          "sourceUrls": [
+            "https://domainebreton.net/en/products/nuits-divresse"
+          ],
+          "sourceType": "producer-official",
+          "classification": "无本图谱适用的1855酒庄等级；按每款酒所属AOC学习"
+        },
+        {
+          "id": "clos-rougeard",
+          "nameChinese": "罗佳园",
+          "en": "Clos Rougeard",
+          "primaryAppellation": "saumur-champigny",
+          "mapLocated": false,
+          "profile": "位于Chacé的酒庄，以三个索米尔-尚皮尼品丽珠红酒为核心。",
+          "mainWines": [
+            {
+              "name": "Le Clos",
+              "appellationId": "saumur-champigny",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.clos-rougeard.com/en/"
+              ]
+            },
+            {
+              "name": "Les Poyeux",
+              "appellationId": "saumur-champigny",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.clos-rougeard.com/en/"
+              ]
+            },
+            {
+              "name": "Le Bourg",
+              "appellationId": "saumur-champigny",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.clos-rougeard.com/en/"
+              ]
+            }
+          ],
+          "learningNotes": [
+            "Le Clos来自多个黏土石灰岩地块。",
+            "Les Poyeux含风积砂，Le Bourg以浅黏土覆盖石灰岩为特色。",
+            "Brézé是白诗南白酒，不应列入主红酒。"
+          ],
+          "sourceUrls": [
+            "https://www.clos-rougeard.com/en/"
+          ],
+          "sourceType": "producer-official",
+          "classification": "无本图谱适用的1855酒庄等级；按每款酒所属AOC学习"
+        },
+        {
+          "id": "vacheron",
+          "nameChinese": "瓦谢龙",
+          "en": "Domaine Vacheron",
+          "primaryAppellation": "sancerre",
+          "mapLocated": false,
+          "profile": "桑塞尔家族酒庄，红酒展示中央卢瓦尔黑皮诺。",
+          "mainWines": [
+            {
+              "name": "Sancerre Rouge Belle Dame",
+              "appellationId": "sancerre",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.europeancellars.com/wine/sancerre-rouge-belle-dame/"
+              ]
+            }
+          ],
+          "learningNotes": [
+            "Belle Dame是桑塞尔红酒，葡萄为黑皮诺。",
+            "桑塞尔也产长相思白酒，不能以产区名称直接推断颜色。"
+          ],
+          "sourceUrls": [
+            "https://www.europeancellars.com/wine/sancerre-rouge-belle-dame/",
+            "https://www.europeancellars.com/producer/domaine-vacheron/"
+          ],
+          "sourceType": "importer",
+          "classification": "无本图谱适用的1855酒庄等级；按每款酒所属AOC学习"
+        },
+        {
+          "id": "lapierre",
+          "nameChinese": "马塞尔·拉皮埃尔",
+          "en": "Domaine Marcel Lapierre",
+          "primaryAppellation": "morgon",
+          "mapLocated": false,
+          "profile": "位于Villié-Morgon的家族酒庄，以佳美与Morgon红酒为核心。",
+          "mainWines": [
+            {
+              "name": "Morgon",
+              "appellationId": "morgon",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.marcel-lapierre.com/en/product/morgon/"
+              ]
+            }
+          ],
+          "learningNotes": [
+            "酒庄创建于1909年。",
+            "主要葡萄为Gamay noir à jus blanc，即黑皮白汁佳美。"
+          ],
+          "sourceUrls": [
+            "https://www.marcel-lapierre.com/en/product/morgon/",
+            "https://www.marcel-lapierre.com/en/home/"
+          ],
+          "sourceType": "producer-official",
+          "classification": "无本图谱适用的1855酒庄等级；按每款酒所属AOC学习"
+        },
+        {
+          "id": "foillard",
+          "nameChinese": "让·福瓦雅",
+          "en": "Jean Foillard",
+          "primaryAppellation": "morgon",
+          "mapLocated": false,
+          "profile": "以Morgon的Côte du Py和Corcelette地块为代表。",
+          "mainWines": [
+            {
+              "name": "Morgon Côte du Py",
+              "appellationId": "morgon",
+              "color": "red",
+              "sourceUrls": [
+                "https://kermitlynch.com/grower/jean-foillard/"
+              ]
+            },
+            {
+              "name": "Morgon Cuvée Corcelette",
+              "appellationId": "morgon",
+              "color": "red",
+              "sourceUrls": [
+                "https://kermitlynch.com/grower/jean-foillard/"
+              ]
+            }
+          ],
+          "learningNotes": [
+            "两款均使用佳美并属于Morgon AOC。",
+            "Côte du Py与Corcelette是地块身份，不是酒庄的分级。"
+          ],
+          "sourceUrls": [
+            "https://kermitlynch.com/grower/jean-foillard/",
+            "https://kermitlynch.com/files/jean-foillard.pdf"
+          ],
+          "sourceType": "importer",
+          "classification": "无本图谱适用的1855酒庄等级；按每款酒所属AOC学习"
+        },
+        {
+          "id": "thivin",
+          "nameChinese": "蒂万",
+          "en": "Château Thivin",
+          "primaryAppellation": "cote-de-brouilly",
+          "mapLocated": false,
+          "profile": "Mont Brouilly的历史酒庄，葡萄园主要分布在Côte de Brouilly和Brouilly。",
+          "mainWines": [
+            {
+              "name": "Côte de Brouilly Les sept vignes",
+              "appellationId": "cote-de-brouilly",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.chateau-thivin.com/en/wine/cote-brouilly-sept-vignes-8.php"
+              ]
+            },
+            {
+              "name": "Côte de Brouilly La Chapelle",
+              "appellationId": "cote-de-brouilly",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.chateau-thivin.com/en/wine/cote-brouilly-chapelle-6.php"
+              ]
+            }
+          ],
+          "learningNotes": [
+            "Les sept vignes是七个地块的混合酒。",
+            "Brouilly与Côte de Brouilly是两个独立AOC。"
+          ],
+          "sourceUrls": [
+            "https://www.chateau-thivin.com/en/wine/cote-brouilly-sept-vignes-8.php",
+            "https://www.chateau-thivin.com/en/"
+          ],
+          "sourceType": "producer-official",
+          "classification": "无本图谱适用的1855酒庄等级；按每款酒所属AOC学习"
+        },
+        {
+          "id": "roilette",
+          "nameChinese": "罗耶特园",
+          "en": "Clos de la Roilette",
+          "primaryAppellation": "fleurie",
+          "mapLocated": false,
+          "profile": "Alain Coudert的Fleurie生产者。",
+          "mainWines": [
+            {
+              "name": "Fleurie Clos de la Roilette",
+              "appellationId": "fleurie",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.laroilette.com/index.php?page=vins"
+              ]
+            },
+            {
+              "name": "Fleurie Clos de la Roilette Cuvée Tardive",
+              "appellationId": "fleurie",
+              "color": "red",
+              "sourceUrls": [
+                "https://www.laroilette.com/index.php?page=vins"
+              ]
+            }
+          ],
+          "learningNotes": [
+            "Cuvée Tardive属于Fleurie AOC。",
+            "普通款与Tardive是同一生产者的不同酒款。"
+          ],
+          "sourceUrls": [
+            "https://www.laroilette.com/index.php?page=vins"
+          ],
+          "sourceType": "producer-official",
+          "classification": "无本图谱适用的1855酒庄等级；按每款酒所属AOC学习"
+        }
+      ],
+      "qualityNotes": [
+        "条目为精选学习资料，非全部酒庄名录；不提供虚构酒庄总数。",
+        "葡萄字段列主要红葡萄与有教学意义的允许辅用品种，非逐条完整法规。",
+        "同一酒庄仅一个estate对象；酒款分别关联appellationId。",
+        "个别酒庄无可读取的产品官网，已显式标记进口商来源。",
+        "Beaujolais五个页面初次可检索但深页读取超时，土壤采用保守概述，未加入百分比。"
+      ]
+    },
+    {
+      "roots": [
+        {
+          "id": "roussillon",
+          "name": "鲁西荣",
+          "nameEn": "Roussillon",
+          "lat": 42.75,
+          "lng": 2.73,
+          "description": "比利牛斯山与地中海之间的法国加泰罗尼亚葡萄酒产地。红葡萄以歌海娜、佳丽酿、西拉、慕合怀特为主；干红与天然甜酒必须区分。",
+          "soil": "片岩、花岗岩、石灰岩与冲积土并存",
+          "climate": "地中海气候，炎热干燥，受 Tramontane 风影响",
+          "grapes": [
+            "歌海娜 Grenache",
+            "佳丽酿 Carignan",
+            "西拉 Syrah",
+            "慕合怀特 Mourvèdre"
+          ],
+          "sources": [
+            "https://www.roussillon.wine/vins-et-terroirs/nos-aoc-et-igp/"
+          ]
+        },
+        {
+          "id": "southwest",
+          "name": "法国西南",
+          "nameEn": "Southwest France / Sud-Ouest",
+          "lat": 44.1,
+          "lng": 0.8,
+          "description": "由多条河谷和比利牛斯山麓产地组成的葡萄酒大区，不是一个统一 AOC。",
+          "soil": "洛特河石灰岩台地、河流砾石阶地、黏土及山麓砂岩等",
+          "climate": "大西洋影响为主，东部带地中海过渡，山麓受地形与焚风影响",
+          "grapes": [
+            "马尔贝克 Malbec",
+            "丹娜 Tannat",
+            "梅洛 Merlot",
+            "赤霞珠 Cabernet Sauvignon",
+            "品丽珠 Cabernet Franc",
+            "布罗科尔 Braucol",
+            "杜拉 Duras"
+          ],
+          "sources": [
+            "https://www.vignobles-sudouest.fr/us/appellations/"
+          ]
+        },
+        {
+          "id": "corsica",
+          "name": "科西嘉",
+          "nameEn": "Corsica / Corse",
+          "lat": 42.1,
+          "lng": 9.03,
+          "description": "地中海山地岛屿产区。Niellucciu 与 Sciaccarellu 是理解当地干红的重要品种；地域归属与酒标等级分开记录。",
+          "soil": "西南以花岗岩为主，北部兼有石灰岩与片岩",
+          "climate": "地中海气候，海风、山地与海拔形成局部差异",
+          "grapes": [
+            "尼埃鲁秋 Niellucciu",
+            "夏卡雷洛 Sciaccarellu"
+          ],
+          "sources": [
+            "https://www.visit-corsica.com/fr/La-destination-Corse/Inspirations-corses/Inspirations-autour-du-vin/Un-terroir-renomme-et-des-vins-a-forte-identite"
+          ]
+        }
+      ],
+      "regions": [
+        {
+          "id": "pic-saint-loup",
+          "rootId": "languedoc",
+          "parentId": "languedoc",
+          "name": "圣卢峰",
+          "nameEn": "Pic Saint-Loup",
+          "lat": 43.78,
+          "lng": 3.82,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "石灰岩碎屑、泥灰岩及局部冲积土",
+          "climate": "较内陆且偏凉，夏季昼夜温差明显",
+          "grapes": [
+            "Syrah",
+            "Grenache",
+            "Mourvèdre"
+          ],
+          "classificationNotes": "独立 AOC/AOP；红与桃红，不是酒庄等级",
+          "sources": [
+            "https://www.inao.gouv.fr/en/node/4855"
+          ]
+        },
+        {
+          "id": "terrasses-du-larzac",
+          "rootId": "languedoc",
+          "parentId": "languedoc",
+          "name": "拉扎克台地",
+          "nameEn": "Terrasses du Larzac",
+          "lat": 43.72,
+          "lng": 3.43,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "石灰岩、黏土、砾石；局部片岩与火山岩",
+          "climate": "地中海气候，拉扎克高原带来夜间降温",
+          "grapes": [
+            "Grenache",
+            "Syrah",
+            "Mourvèdre",
+            "Carignan",
+            "Cinsault"
+          ],
+          "classificationNotes": "干红 AOC/AOP；地理展示区域并不意味着区内所有酒都使用该 AOC",
+          "sources": [
+            "https://terrasses-du-larzac.com/en/home/"
+          ]
+        },
+        {
+          "id": "minervois-la-liviniere",
+          "rootId": "languedoc",
+          "parentId": "languedoc",
+          "name": "拉利维尼耶尔（旧称米内瓦拉利维尼耶尔）",
+          "nameEn": "La Livinière",
+          "lat": 43.32,
+          "lng": 2.64,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "石灰岩、泥灰岩、黏土及石质坡地",
+          "climate": "黑山南麓的地中海气候",
+          "grapes": [
+            "Syrah",
+            "Grenache",
+            "Mourvèdre",
+            "Carignan"
+          ],
+          "classificationNotes": "现行 INAO 名称 La Livinière；Minervois La Livinière 为历史名称和旧酒标常见名称",
+          "sources": [
+            "https://www.inao.gouv.fr/produit/la-liviniere-18966"
+          ]
+        },
+        {
+          "id": "corbieres-boutenac",
+          "rootId": "languedoc",
+          "parentId": "languedoc",
+          "name": "布特纳克（旧称科比埃布特纳克）",
+          "nameEn": "Boutenac",
+          "lat": 43.14,
+          "lng": 2.79,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "砂岩、砾石、黏土与石灰岩",
+          "climate": "温暖干燥的地中海气候，风力显著",
+          "grapes": [
+            "Carignan",
+            "Grenache",
+            "Syrah",
+            "Mourvèdre"
+          ],
+          "classificationNotes": "现行 INAO 名称 Boutenac；原 Corbières-Boutenac，突出佳丽酿的独立干红产地",
+          "sources": [
+            "https://www.inao.gouv.fr/produit/boutenac-18976"
+          ]
+        },
+        {
+          "id": "faugeres",
+          "rootId": "languedoc",
+          "parentId": "languedoc",
+          "name": "福热尔",
+          "nameEn": "Faugères",
+          "lat": 43.56,
+          "lng": 3.19,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "片岩是辨识核心",
+          "climate": "地中海气候，内陆山麓地形与海拔调节",
+          "grapes": [
+            "Carignan",
+            "Grenache",
+            "Syrah",
+            "Mourvèdre",
+            "Cinsault"
+          ],
+          "classificationNotes": "AOC/AOP；此处学习重点为红葡萄酒",
+          "sources": [
+            "https://www.languedoc-aoc.com/appellation/aop-faugeres"
+          ]
+        },
+        {
+          "id": "saint-chinian",
+          "rootId": "languedoc",
+          "parentId": "languedoc",
+          "name": "圣希尼安",
+          "nameEn": "Saint-Chinian",
+          "lat": 43.43,
+          "lng": 2.95,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "北部片岩、南部石灰岩形成鲜明对照",
+          "climate": "地中海气候，山地与方向造成局地变化",
+          "grapes": [
+            "Syrah",
+            "Grenache",
+            "Mourvèdre",
+            "Carignan",
+            "Cinsault"
+          ],
+          "classificationNotes": "AOC/AOP；Berlou 与 Roquebrun 为附加地理名称，不是酒庄分级",
+          "sources": [
+            "https://languedoc-wines.com/appellations/saint-chinian/"
+          ]
+        },
+        {
+          "id": "fitou",
+          "rootId": "languedoc",
+          "parentId": "languedoc",
+          "name": "菲图",
+          "nameEn": "Fitou",
+          "lat": 42.91,
+          "lng": 2.96,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "沿海石灰岩与内陆片岩等多样土壤",
+          "climate": "炎热干燥、多风；分沿海与内陆两个片区",
+          "grapes": [
+            "Carignan",
+            "Grenache",
+            "Syrah",
+            "Mourvèdre"
+          ],
+          "classificationNotes": "干红 AOC/AOP；地图中心仅代表两个分离片区的大致位置",
+          "sources": [
+            "https://www.languedoc-aoc.com/appellation/aoc-fitou"
+          ]
+        },
+        {
+          "id": "collioure",
+          "rootId": "roussillon",
+          "parentId": "roussillon",
+          "name": "科利乌尔",
+          "nameEn": "Collioure",
+          "lat": 42.47,
+          "lng": 3.1,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "陡坡梯田灰色片岩",
+          "climate": "地中海海岸，阳光强烈、海风与 Tramontane",
+          "grapes": [
+            "Grenache",
+            "Mourvèdre",
+            "Syrah",
+            "Carignan"
+          ],
+          "classificationNotes": "干型葡萄酒 AOC；同一沿海地带的 Banyuls 天然甜酒是不同酒标类别",
+          "sources": [
+            "https://uk.winesofroussillon.com/2021/07/05/fab-at-fifty-aop-collioure-rouge/"
+          ]
+        },
+        {
+          "id": "cotes-du-roussillon-villages",
+          "rootId": "roussillon",
+          "parentId": "roussillon",
+          "name": "鲁西荣丘村庄",
+          "nameEn": "Côtes du Roussillon Villages",
+          "lat": 42.77,
+          "lng": 2.64,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "片岩、石灰岩、花岗岩及砾石等",
+          "climate": "炎热干燥的地中海气候，北部内陆受山地与强风影响",
+          "grapes": [
+            "Grenache",
+            "Carignan",
+            "Syrah",
+            "Mourvèdre"
+          ],
+          "classificationNotes": "仅红葡萄酒 AOC；可附加 Caramany、Latour de France、Lesquerde、Tautavel、Les Aspres 等地理名称",
+          "sources": [
+            "https://www.inao.gouv.fr/produit/cotes-du-roussillon-villages-24344"
+          ]
+        },
+        {
+          "id": "maury-sec",
+          "rootId": "roussillon",
+          "parentId": "roussillon",
+          "name": "莫里干红",
+          "nameEn": "Maury Sec",
+          "lat": 42.81,
+          "lng": 2.59,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "黑色片岩与泥灰岩丘坡",
+          "climate": "炎热干燥、多风，阿格利河谷内陆",
+          "grapes": [
+            "Grenache",
+            "Carignan",
+            "Mourvèdre",
+            "Syrah"
+          ],
+          "classificationNotes": "明确为干红；不得与加酒精的 Maury VDN 天然甜酒混为一项",
+          "sources": [
+            "https://www.roussillon.wine/vins-et-terroirs/nos-aoc-et-igp/aop-maury-sec/"
+          ]
+        },
+        {
+          "id": "bandol",
+          "rootId": "provence",
+          "parentId": "provence",
+          "name": "邦多勒",
+          "nameEn": "Bandol",
+          "lat": 43.2,
+          "lng": 5.76,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "黏土石灰岩与梯田",
+          "climate": "温暖的地中海气候，海洋调节适合晚熟慕合怀特",
+          "grapes": [
+            "Mourvèdre",
+            "Grenache",
+            "Cinsault"
+          ],
+          "classificationNotes": "AOC/AOP；红酒以慕合怀特为核心，无 1855 式酒庄等级",
+          "sources": [
+            "https://www.inao.gouv.fr/en/node/67"
+          ]
+        },
+        {
+          "id": "les-baux-de-provence",
+          "rootId": "provence",
+          "parentId": "provence",
+          "name": "普罗旺斯莱博",
+          "nameEn": "Les Baux de Provence",
+          "lat": 43.74,
+          "lng": 4.81,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "阿尔皮耶山石灰岩、黏土与石质土",
+          "climate": "地中海气候，Mistral 密斯特拉风影响明显",
+          "grapes": [
+            "Grenache",
+            "Syrah",
+            "Mourvèdre",
+            "Cabernet Sauvignon"
+          ],
+          "classificationNotes": "AOC/AOP；Trévallon 虽在邻近阿尔皮耶地域，其代表红酒是 IGP Alpilles",
+          "sources": [
+            "https://extranet.inao.gouv.fr/fichier/PNO2024AOPLesBauxdeProvence.pdf"
+          ]
+        },
+        {
+          "id": "bellet",
+          "rootId": "provence",
+          "parentId": "provence",
+          "name": "贝莱",
+          "nameEn": "Bellet",
+          "lat": 43.74,
+          "lng": 7.19,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "砾岩 poudingue、硅质石灰岩与河流圆砾",
+          "climate": "尼斯山坡，海风与阿尔卑斯山麓凉风共同影响",
+          "grapes": [
+            "Folle Noire",
+            "Braquet",
+            "Grenache"
+          ],
+          "classificationNotes": "AOC/AOP；Folle Noire 与 Braquet 是重要地方红品种",
+          "sources": [
+            "https://www.inao.gouv.fr/node/79"
+          ]
+        },
+        {
+          "id": "cahors",
+          "rootId": "southwest",
+          "parentId": "southwest",
+          "name": "卡奥尔",
+          "nameEn": "Cahors",
+          "lat": 44.47,
+          "lng": 1.27,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "洛特河阶地砂砾、黏土与石灰岩台地",
+          "climate": "海洋性影响向内陆过渡，温暖夏季",
+          "grapes": [
+            "Malbec",
+            "Merlot",
+            "Tannat"
+          ],
+          "classificationNotes": "红酒 AOC；Malbec 又称 Côt / Auxerrois，混酿中至少 70%",
+          "sources": [
+            "https://www.vignobles-sudouest.fr/us/red-grape-varieties/"
+          ]
+        },
+        {
+          "id": "madiran",
+          "rootId": "southwest",
+          "parentId": "southwest",
+          "name": "马迪朗",
+          "nameEn": "Madiran",
+          "lat": 43.55,
+          "lng": -0.06,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "黏土石灰岩、黏土硅质土及圆砾",
+          "climate": "大西洋影响的温暖山麓气候",
+          "grapes": [
+            "Tannat",
+            "Cabernet Franc",
+            "Cabernet Sauvignon"
+          ],
+          "classificationNotes": "红酒 AOC；丹娜为核心，不使用波尔多列级庄等级",
+          "sources": [
+            "https://www.vignobles-sudouest.fr/denominations/"
+          ]
+        },
+        {
+          "id": "bergerac",
+          "rootId": "southwest",
+          "parentId": "southwest",
+          "name": "贝尔热拉克",
+          "nameEn": "Bergerac",
+          "lat": 44.83,
+          "lng": 0.49,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "多尔多涅河两岸黏土石灰岩、砂砾与阶地土",
+          "climate": "温和海洋性气候，河流调节",
+          "grapes": [
+            "Merlot",
+            "Cabernet Sauvignon",
+            "Cabernet Franc",
+            "Malbec"
+          ],
+          "classificationNotes": "AOC 同时生产多种颜色；此处仅讨论干红，不把 Monbazillac 甜白列为代表红酒",
+          "sources": [
+            "https://www.vins-bergeracduras.fr/"
+          ]
+        },
+        {
+          "id": "pecharmant",
+          "rootId": "southwest",
+          "parentId": "southwest",
+          "name": "佩夏尔芒",
+          "nameEn": "Pécharmant",
+          "lat": 44.87,
+          "lng": 0.54,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "佩里戈尔砂砾，深层含铁黏土称 tran",
+          "climate": "海洋性气候，贝尔热拉克东北向阳丘坡",
+          "grapes": [
+            "Merlot",
+            "Cabernet Sauvignon",
+            "Cabernet Franc",
+            "Malbec"
+          ],
+          "classificationNotes": "独立干红 AOC，地理上属贝尔热拉克区域，不是 Bergerac 的酒庄等级",
+          "sources": [
+            "https://www.vins-bergeracduras.fr/nos-appellations/pecharmant/"
+          ]
+        },
+        {
+          "id": "gaillac",
+          "rootId": "southwest",
+          "parentId": "southwest",
+          "name": "加亚克",
+          "nameEn": "Gaillac",
+          "lat": 43.91,
+          "lng": 1.9,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "塔恩河砂砾阶地及黏土石灰岩丘陵",
+          "climate": "大西洋与地中海气候交汇，受 Autan 风影响",
+          "grapes": [
+            "Braucol",
+            "Duras",
+            "Syrah",
+            "Prunelart"
+          ],
+          "classificationNotes": "多酒型 AOC；本页关注干红，Braucol 是 Fer Servadou 的当地名",
+          "sources": [
+            "https://www.vignobles-sudouest.fr/us/red-grape-varieties/"
+          ]
+        },
+        {
+          "id": "irouleguy",
+          "rootId": "southwest",
+          "parentId": "southwest",
+          "name": "伊鲁莱吉",
+          "nameEn": "Irouléguy",
+          "lat": 43.17,
+          "lng": -1.3,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "红色砂岩、黏土及石灰岩坡地",
+          "climate": "巴斯克山麓海洋性气候，降水较多，坡向与焚风有重要作用",
+          "grapes": [
+            "Tannat",
+            "Cabernet Franc",
+            "Cabernet Sauvignon"
+          ],
+          "classificationNotes": "AOC/AOP；陡坡梯田是地理识别重点",
+          "sources": [
+            "https://www.irouleguy.net/domaine-brana/"
+          ]
+        },
+        {
+          "id": "patrimonio",
+          "rootId": "corsica",
+          "parentId": "corsica",
+          "name": "帕特里莫尼奥",
+          "nameEn": "Patrimonio",
+          "lat": 42.7,
+          "lng": 9.36,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "以石灰岩与黏土为标志，兼有其他岩性",
+          "climate": "北科西嘉地中海气候，海湾与山地调节",
+          "grapes": [
+            "Niellucciu",
+            "Grenache",
+            "Sciaccarellu"
+          ],
+          "classificationNotes": "独立 AOC；红酒以 Niellucciu 为核心",
+          "sources": [
+            "https://www.visit-corsica.com/fr/La-destination-Corse/Inspirations-corses/Inspirations-autour-du-vin/Un-terroir-renomme-et-des-vins-a-forte-identite"
+          ]
+        },
+        {
+          "id": "ajaccio",
+          "rootId": "corsica",
+          "parentId": "corsica",
+          "name": "阿雅克肖",
+          "nameEn": "Ajaccio",
+          "lat": 41.97,
+          "lng": 8.79,
+          "coordinateType": "approximate-appellation-center",
+          "soil": "花岗岩风化形成的砂质土",
+          "climate": "地中海气候，海洋与山地共同影响",
+          "grapes": [
+            "Sciaccarellu",
+            "Niellucciu",
+            "Grenache"
+          ],
+          "classificationNotes": "独立 AOC；邻近 Taravo 的 Abbatucci Faustine 使用 Vin de France，不能硬归入 Ajaccio AOC",
+          "sources": [
+            "https://www.ajaccio-tourisme.com/decouvrir/patrimoine-identitaire/les-vins-aop-dajaccio-lempreinte-dun-terroir-dexception/"
+          ]
+        }
+      ],
+      "estates": [
+        {
+          "id": "mas-daumas-gassac",
+          "rootId": "languedoc",
+          "geographicRegionId": "terrasses-du-larzac",
+          "name": "达玛斯嘉萨克",
+          "nameEn": "Mas de Daumas Gassac",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "representativeWine": {
+            "nameEn": "Mas de Daumas Gassac Rouge",
+            "type": "dry-red",
+            "label": "IGP Saint-Guilhem-le-Désert – Cité d’Aniane",
+            "grapes": [
+              "Cabernet Sauvignon"
+            ]
+          },
+          "learningNotes": [
+            "代表红酒以赤霞珠为骨架，说明朗格多克优质红酒并不只限于地中海品种混酿。",
+            "酒庄位于 Aniane / Gassac 河谷；地理上可与拉扎克台地一起学习，但不能把其 IGP 改写为 Terrasses du Larzac AOC。"
+          ],
+          "sources": [
+            "https://www.daumas-gassac.com/fr/millesime/mas-de-daumas-gassac-rouge-2024/"
+          ],
+          "classificationNotes": "无适用的1855列级；代表酒的酒标类别与酒庄地理归属分别记录。"
+        },
+        {
+          "id": "grange-des-peres",
+          "rootId": "languedoc",
+          "geographicRegionId": "terrasses-du-larzac",
+          "name": "格朗佩尔",
+          "nameEn": "Domaine de la Grange des Pères",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "representativeWine": {
+            "nameEn": "Domaine de la Grange des Pères Rouge",
+            "type": "dry-red",
+            "label": "IGP Pays d’Hérault",
+            "grapes": [
+              "Syrah",
+              "Mourvèdre",
+              "Cabernet Sauvignon",
+              "Counoise"
+            ]
+          },
+          "learningNotes": [
+            "Vaillé 家族在 Aniane 酿造；2021 进口商技术表列出西拉、慕合怀特、赤霞珠和 Counoise 的混酿。",
+            "葡萄园土壤含石灰岩与冰川碎屑；代表酒采用 Pays d’Hérault IGP，不是 Terrasses du Larzac AOC。"
+          ],
+          "sources": [
+            "https://shop.kermitlynch.com/product/detail/21FLV01/"
+          ],
+          "classificationNotes": "无适用的1855列级；代表酒的酒标类别与酒庄地理归属分别记录。"
+        },
+        {
+          "id": "mas-jullien",
+          "rootId": "languedoc",
+          "geographicRegionId": "terrasses-du-larzac",
+          "name": "朱利安庄园",
+          "nameEn": "Mas Jullien",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "representativeWine": {
+            "nameEn": "Autour de Jonquières",
+            "type": "dry-red",
+            "label": "AOC Terrasses du Larzac",
+            "grapes": [
+              "Carignan",
+              "Mourvèdre",
+              "Syrah"
+            ]
+          },
+          "learningNotes": [
+            "1985 年创立，葡萄园分布于 Jonquières 与 Saint-Privat 等地。",
+            "Autour de Jonquières 是理解庄园地中海品种混酿和拉扎克台地风格的代表酒。"
+          ],
+          "sources": [
+            "https://www.vignerons-independants.com/annuaire-des-vignerons-independants-de-france/mas-jullien",
+            "https://www.saq.com/fr/14514555"
+          ],
+          "classificationNotes": "无适用的1855列级；代表酒的酒标类别与酒庄地理归属分别记录。"
+        },
+        {
+          "id": "hortus",
+          "rootId": "languedoc",
+          "geographicRegionId": "pic-saint-loup",
+          "name": "奥图斯酒庄",
+          "nameEn": "Domaine de l’Hortus",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "representativeWine": {
+            "nameEn": "Grande Cuvée Rouge",
+            "type": "dry-red",
+            "label": "AOP Pic Saint Loup",
+            "grapes": [
+              "Syrah",
+              "Mourvèdre",
+              "Grenache"
+            ]
+          },
+          "learningNotes": [
+            "混合 Hortus 南向崖脚与 Pic Saint-Loup 北向崖脚两类微气候；南向较热，适合慕合怀特，北向较凉，适合西拉。",
+            "两处均为石灰岩碎屑坡土壤；Grande Cuvée 红酒使用西拉、慕合怀特、歌海娜。"
+          ],
+          "sources": [
+            "https://www.domaine-hortus.fr/nos-vins/domaine-de-lhortus/"
+          ],
+          "classificationNotes": "无适用的1855列级；代表酒的酒标类别与酒庄地理归属分别记录。"
+        },
+        {
+          "id": "gerard-bertrand",
+          "rootId": "languedoc",
+          "geographicRegionId": "minervois-la-liviniere",
+          "name": "杰拉德贝特朗",
+          "nameEn": "Gérard Bertrand",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "representativeWine": {
+            "nameEn": "Clos d’Ora",
+            "type": "dry-red",
+            "label": "AOP Minervois La Livinière / La Livinière",
+            "grapes": [
+              "Syrah",
+              "Grenache",
+              "Mourvèdre",
+              "Carignan"
+            ]
+          },
+          "learningNotes": [
+            "Clos d’Ora 位于 La Livinière，是由干石墙围起的葡萄园，而非整个 Gérard Bertrand 集团的统一产区。",
+            "该酒首个年份为 2012；酒庄介绍强调生物动力种植，混酿采用西拉、歌海娜、慕合怀特、佳丽酿。"
+          ],
+          "sources": [
+            "https://www.gerard-bertrand.com/pages/domaines-et-chateaux/clos-d-ora",
+            "https://cdn.accentuate.io/4832347291702/1612368524666/Clos-dOra---EN.pdf?v=0"
+          ],
+          "classificationNotes": "无适用的1855列级；代表酒的酒标类别与酒庄地理归属分别记录。"
+        },
+        {
+          "id": "leon-barral",
+          "rootId": "languedoc",
+          "geographicRegionId": "faugeres",
+          "name": "莱昂巴拉尔",
+          "nameEn": "Domaine Léon Barral",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "representativeWine": {
+            "nameEn": "Jadis",
+            "type": "dry-red",
+            "label": "AOC Faugères",
+            "grapes": [
+              "Carignan",
+              "Syrah",
+              "Grenache"
+            ]
+          },
+          "learningNotes": [
+            "Didier Barral 在 Faugères 的 Lenthéric 酿酒；片岩土壤是理解酒庄所在地的重要线索。",
+            "Jadis 与 Valinière 是不同红酒特酿；名字不是村庄或法定等级。"
+          ],
+          "sources": [
+            "https://faugeres.com/producteurs-visages/domaine-leon-barral",
+            "https://shop.kermitlynch.com/product/detail/21FLV01/"
+          ],
+          "classificationNotes": "无适用的1855列级；代表酒的酒标类别与酒庄地理归属分别记录。"
+        },
+        {
+          "id": "gauby",
+          "rootId": "roussillon",
+          "geographicRegionId": "cotes-du-roussillon-villages",
+          "name": "高比酒庄",
+          "nameEn": "Domaine Gauby",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "representativeWine": {
+            "nameEn": "Muntada",
+            "type": "dry-red",
+            "label": "IGP Côtes Catalanes",
+            "grapes": [
+              "Grenache",
+              "Carignan",
+              "Syrah"
+            ]
+          },
+          "learningNotes": [
+            "庄园位于 Calce，葡萄园与林地、草地及灌丛共同构成农业环境。",
+            "Muntada 为代表性红酒；这里选用已核实的 IGP Côtes Catalanes 酒标，不沿用旧年份可能出现的 Côtes du Roussillon Villages 名称。"
+          ],
+          "sources": [
+            "https://closcachet.com.au/pages/domaine-gauby",
+            "https://www.saq.com/en/14567315"
+          ],
+          "classificationNotes": "无适用的1855列级；代表酒的酒标类别与酒庄地理归属分别记录。"
+        },
+        {
+          "id": "clos-des-fees",
+          "rootId": "roussillon",
+          "geographicRegionId": "cotes-du-roussillon-villages",
+          "name": "仙女园",
+          "nameEn": "Domaine du Clos des Fées",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "representativeWine": {
+            "nameEn": "Vieilles Vignes Rouge",
+            "type": "dry-red",
+            "label": "AOC Côtes du Roussillon Villages",
+            "grapes": [
+              "Grenache",
+              "Carignan",
+              "Syrah",
+              "Mourvèdre"
+            ]
+          },
+          "learningNotes": [
+            "Vieilles Vignes Rouge 的酒标为 Côtes du Roussillon Villages；Les Sorcières Rouge 则使用 Côtes du Roussillon，不能把全庄酒款归入同一 AOC。",
+            "Vieilles Vignes 意为老藤，是特酿名与种植描述，不是法国统一法定等级。"
+          ],
+          "sources": [
+            "https://www.vigneronsdexception.com/fr/le-clos-des-fees-herve-bizeul/2905-le-clos-des-fees-vieilles-vignes-rouge-2016.html",
+            "https://www.saq.com/fr/11016016"
+          ],
+          "classificationNotes": "无适用的1855列级；代表酒的酒标类别与酒庄地理归属分别记录。"
+        },
+        {
+          "id": "coume-del-mas",
+          "rootId": "roussillon",
+          "geographicRegionId": "collioure",
+          "name": "库姆德玛斯",
+          "nameEn": "Coume del Mas",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "representativeWine": {
+            "nameEn": "Quadratur",
+            "type": "dry-red",
+            "label": "AOC Collioure",
+            "grapes": [
+              "Grenache",
+              "Mourvèdre",
+              "Carignan"
+            ]
+          },
+          "learningNotes": [
+            "首个年份为 2001，葡萄园分布于 Banyuls 与 Collioure。",
+            "Quadratur 来自一条特定山谷，使用歌海娜、慕合怀特和佳丽酿；它是 Collioure 干红，不是 Banyuls 天然甜酒。"
+          ],
+          "sources": [
+            "https://www.coumedelmas.com/fr/les-vins/les-specialites/quadratur.html",
+            "https://www.coumedelmas.com/fr/presentation.html"
+          ],
+          "classificationNotes": "无适用的1855列级；代表酒的酒标类别与酒庄地理归属分别记录。"
+        },
+        {
+          "id": "tempier",
+          "rootId": "provence",
+          "geographicRegionId": "bandol",
+          "name": "唐皮耶酒庄",
+          "nameEn": "Domaine Tempier",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "representativeWine": {
+            "nameEn": "Lulu & Lucien Rouge (formerly Cuvée Classique)",
+            "type": "dry-red",
+            "label": "AOC Bandol",
+            "grapes": [
+              "Mourvèdre",
+              "Grenache",
+              "Cinsault",
+              "Carignan"
+            ]
+          },
+          "learningNotes": [
+            "传统 Cuvée Classique 的后续酒款以 Lulu & Lucien 名称销售，学习时应注明名称随年份变化。",
+            "经典混酿与 La Tourtine、La Migoua、Cabassaou 等地块酒应分开；慕合怀特是红酒核心。"
+          ],
+          "sources": [
+            "https://www.domainetempier.com/les-vins/",
+            "https://www.domainetempier.com/les-terroirs/",
+            "https://www.saq.com/fr/15550216"
+          ],
+          "classificationNotes": "无适用的1855列级；代表酒的酒标类别与酒庄地理归属分别记录。"
+        },
+        {
+          "id": "pibarnon",
+          "rootId": "provence",
+          "geographicRegionId": "bandol",
+          "name": "皮巴侬酒庄",
+          "nameEn": "Château de Pibarnon",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "representativeWine": {
+            "nameEn": "Château de Pibarnon Rouge",
+            "type": "dry-red",
+            "label": "AOC Bandol",
+            "grapes": [
+              "Mourvèdre",
+              "Grenache"
+            ]
+          },
+          "learningNotes": [
+            "官网将 Le Rouge 作为标志性红酒列于 AOC Bandol。",
+            "红酒以慕合怀特为主并配歌海娜；适合与同产区 Tempier 对照，而不使用波尔多列级名次。"
+          ],
+          "sources": [
+            "https://www.pibarnon.com/vin/vins/vins-emblematiques/le-rouge-2022/"
+          ],
+          "classificationNotes": "无适用的1855列级；代表酒的酒标类别与酒庄地理归属分别记录。"
+        },
+        {
+          "id": "trevallon",
+          "rootId": "provence",
+          "geographicRegionId": "les-baux-de-provence",
+          "name": "特雷瓦隆",
+          "nameEn": "Domaine de Trévallon",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "representativeWine": {
+            "nameEn": "Domaine de Trévallon Rouge",
+            "type": "dry-red",
+            "label": "IGP Alpilles",
+            "grapes": [
+              "Cabernet Sauvignon",
+              "Syrah"
+            ]
+          },
+          "learningNotes": [
+            "位于阿尔皮耶山北侧，葡萄扎根于石灰岩地貌。",
+            "标志性红酒组合为赤霞珠与西拉；应明确记为 IGP Alpilles，不能因邻近 Les Baux 地域而写成该 AOC。"
+          ],
+          "sources": [
+            "https://www.domainedetrevallon.com/en/domaine-de-trevallon-rouge.php",
+            "https://www.domainedetrevallon.com/note.php?lang=en&vincod=2GV6WF"
+          ],
+          "classificationNotes": "无适用的1855列级；代表酒的酒标类别与酒庄地理归属分别记录。"
+        },
+        {
+          "id": "clos-saint-vincent",
+          "rootId": "provence",
+          "geographicRegionId": "bellet",
+          "name": "圣樊尚园",
+          "nameEn": "Clos Saint-Vincent",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "representativeWine": {
+            "nameEn": "Le Clos Rouge",
+            "type": "dry-red",
+            "label": "AOP Bellet",
+            "grapes": [
+              "Folle Noire",
+              "Grenache"
+            ]
+          },
+          "learningNotes": [
+            "位于尼斯西侧山坡，受海风与南阿尔卑斯凉风双重影响。",
+            "庄园的硅质石灰岩、圆砾与砾岩土壤，以及 Folle Noire 等地方品种，提供与邦多勒不同的普罗旺斯红酒路径。"
+          ],
+          "sources": [
+            "https://www.clos-st-vincent.fr/",
+            "https://grandsbourgognes.com/fr/clos-saint-vincent/bellet-rouge-le-clos-21889.html"
+          ],
+          "classificationNotes": "无适用的1855列级；代表酒的酒标类别与酒庄地理归属分别记录。"
+        },
+        {
+          "id": "cedre",
+          "rootId": "southwest",
+          "geographicRegionId": "cahors",
+          "name": "雪松堡",
+          "nameEn": "Château du Cèdre",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "representativeWine": {
+            "nameEn": "Le Cèdre",
+            "type": "dry-red",
+            "label": "AOC Cahors",
+            "grapes": [
+              "Malbec"
+            ]
+          },
+          "learningNotes": [
+            "Le Cèdre 为 100% Malbec，不应与酒庄所有酒款的配比混同。",
+            "官网列出石灰岩坡脚崩积锥与洛特河古老高阶地两种土壤，陈酿使用大木桶与 500 升桶。"
+          ],
+          "sources": [
+            "https://www.chateauducedre.com/cuvee/le-cedre"
+          ],
+          "classificationNotes": "无适用的1855列级；代表酒的酒标类别与酒庄地理归属分别记录。"
+        },
+        {
+          "id": "cosse-maison-neuve",
+          "rootId": "southwest",
+          "geographicRegionId": "cahors",
+          "name": "科斯梅松讷夫",
+          "nameEn": "Cosse & Maisonneuve",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "representativeWine": {
+            "nameEn": "Les Laquets",
+            "type": "dry-red",
+            "label": "AOC Cahors",
+            "grapes": [
+              "Malbec"
+            ]
+          },
+          "learningNotes": [
+            "庄园以 Malbec 的 Cahors 为重心，并将生物动力种植纳入其理念。",
+            "其 Cabernet Franc 酒款 Carmenet、Sidérolithe 使用 Vin de France；不能将同一生产者的所有红酒都标为 Cahors。"
+          ],
+          "sources": [
+            "https://www.cosse-maisonneuve.fr/"
+          ],
+          "classificationNotes": "无适用的1855列级；代表酒的酒标类别与酒庄地理归属分别记录。"
+        },
+        {
+          "id": "montus",
+          "rootId": "southwest",
+          "geographicRegionId": "madiran",
+          "name": "蒙图斯堡",
+          "nameEn": "Château Montus",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "representativeWine": {
+            "nameEn": "Château Montus Rouge",
+            "type": "dry-red",
+            "label": "AOC Madiran",
+            "grapes": [
+              "Tannat",
+              "Cabernet Sauvignon"
+            ]
+          },
+          "learningNotes": [
+            "Alain Brumont 于 1980 年买下 Montus；产地有醒目的红色圆砾。",
+            "Montus Rouge 与 La Tyre 是不同酒款，核心学习品种是丹娜，经典 Rouge 亦使用赤霞珠。"
+          ],
+          "sources": [
+            "https://www.brumont.fr/fr/NosDomaines",
+            "https://www.brumont.fr/pdf/vin/33/fr/montus-rouge"
+          ],
+          "classificationNotes": "无适用的1855列级；代表酒的酒标类别与酒庄地理归属分别记录。"
+        },
+        {
+          "id": "plageoles",
+          "rootId": "southwest",
+          "geographicRegionId": "gaillac",
+          "name": "普拉若勒",
+          "nameEn": "Domaine Plageoles",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "representativeWine": {
+            "nameEn": "Braucol",
+            "type": "dry-red",
+            "label": "AOP Gaillac",
+            "grapes": [
+              "Braucol (Fer Servadou)"
+            ]
+          },
+          "learningNotes": [
+            "Braucol 为单品种红酒，来自黏土硅质土与黏土石灰岩地块。",
+            "官网记载分别采用去梗发酵与整串二氧化碳浸渍，发酵后调配并在罐中熟成；展示当地品种与不同工艺的结合。"
+          ],
+          "sources": [
+            "https://www.vins-plageoles.com/nos-vins/braucol/"
+          ],
+          "classificationNotes": "无适用的1855列级；代表酒的酒标类别与酒庄地理归属分别记录。"
+        },
+        {
+          "id": "brana",
+          "rootId": "southwest",
+          "geographicRegionId": "irouleguy",
+          "name": "布拉纳",
+          "nameEn": "Domaine Brana",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "representativeWine": {
+            "nameEn": "Ohitza Rouge",
+            "type": "dry-red",
+            "label": "AOC Irouléguy",
+            "grapes": [
+              "Tannat",
+              "Cabernet Franc",
+              "Cabernet Sauvignon"
+            ]
+          },
+          "learningNotes": [
+            "Brana 家族的酒业历史可追溯至 1897 年在 Ustaritz 的葡萄酒贸易。",
+            "Ohitza Rouge 是伊鲁莱吉红酒；葡萄酒与酒庄知名的蒸馏烈酒应分开记录。"
+          ],
+          "sources": [
+            "https://www.irouleguy.net/domaine-brana/",
+            "https://www.regalwine.com/wine/irouleguy-rouge-ohitza/"
+          ],
+          "classificationNotes": "无适用的1855列级；代表酒的酒标类别与酒庄地理归属分别记录。"
+        },
+        {
+          "id": "antoine-arena",
+          "rootId": "corsica",
+          "geographicRegionId": "patrimonio",
+          "name": "安托万阿雷纳",
+          "nameEn": "Antoine Arena",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "representativeWine": {
+            "nameEn": "Patrimonio Rouge “Morta Maio” (2020)",
+            "type": "dry-red",
+            "label": "AOC Patrimonio",
+            "grapes": [
+              "Niellucciu"
+            ]
+          },
+          "learningNotes": [
+            "以 Niellucciu 酿造 Patrimonio 红酒；这里采用可核对生产者身份的 2020 Morta Maio。",
+            "家族后续由 Antoine-Marie 与 Jean-Baptiste 分别发展独立酒庄；不把后代的新酒标无说明地并入 Antoine Arena。"
+          ],
+          "sources": [
+            "https://shop.kermitlynch.com/product/detail/20FAN08/",
+            "https://kermitlynch.com/wine/antoine-arena/388/AN08"
+          ],
+          "classificationNotes": "无适用的1855列级；代表酒的酒标类别与酒庄地理归属分别记录。"
+        },
+        {
+          "id": "comte-abbatucci",
+          "rootId": "corsica",
+          "geographicRegionId": "ajaccio",
+          "name": "阿巴图奇伯爵",
+          "nameEn": "Domaine Comte Abbatucci",
+          "mapLocated": false,
+          "lat": null,
+          "lng": null,
+          "representativeWine": {
+            "nameEn": "Faustine Rouge",
+            "type": "dry-red",
+            "label": "Vin de France",
+            "grapes": [
+              "Sciaccarello",
+              "Nielluccio"
+            ]
+          },
+          "learningNotes": [
+            "位于科西嘉南部 Taravo 河谷的花岗岩风化坡地，庄园重视当地老品种与生物动力耕作。",
+            "Faustine Rouge 以 Sciaccarello 为主并配 Nielluccio；该酒为 Vin de France，Ajaccio 仅可作附近地理学习参照，不能作为其酒标 AOC。"
+          ],
+          "sources": [
+            "https://www.domaine-abbatucci.com/fr/vins-de-terroir/faustine",
+            "https://kermitlynch.com/files/domaine-abbatucci.pdf"
+          ],
+          "classificationNotes": "无适用的1855列级；代表酒的酒标类别与酒庄地理归属分别记录。"
+        }
+      ],
+      "editorialNotes": [
+        "所有 AOC 坐标为学习地图示意中心，非界址或酒庄地址。",
+        "层级用于葡萄酒地理导航，不把独立 AOC 当作彼此法定子级。",
+        "没有 1855 列级制度适用于这些酒庄；AOC、IGP、Vin de France 是酒标类别，不是质量排名。",
+        "中文名为学习用译名，英文/法文原名作为检索标识。"
+      ],
+      "checkedAt": "2026-09-29",
+      "sourcePolicy": "优先生产者、INAO、产区协会；少数酒款以直接进口商或政府酒类零售机构技术页补充，个别酒款另列经销商核对来源。",
+      "subregions": [
+        {
+          "id": "languedoc-inland",
+          "rootId": "languedoc",
+          "name": "朗格多克内陆山麓",
+          "nameEn": "Inland Languedoc",
+          "type": "geographic-group",
+          "regionIds": [
+            "pic-saint-loup",
+            "terrasses-du-larzac",
+            "faugeres",
+            "saint-chinian"
+          ]
+        },
+        {
+          "id": "minervois-corbieres",
+          "rootId": "languedoc",
+          "name": "米内瓦与科比埃",
+          "nameEn": "Minervois & Corbières",
+          "type": "geographic-group",
+          "regionIds": [
+            "minervois-la-liviniere",
+            "corbieres-boutenac",
+            "fitou"
+          ]
+        },
+        {
+          "id": "agly-calce",
+          "rootId": "roussillon",
+          "name": "阿格利河谷与卡尔斯",
+          "nameEn": "Agly Valley & Calce",
+          "type": "geographic-group",
+          "regionIds": [
+            "cotes-du-roussillon-villages",
+            "maury-sec"
+          ]
+        },
+        {
+          "id": "cote-vermeille",
+          "rootId": "roussillon",
+          "name": "朱红海岸",
+          "nameEn": "Côte Vermeille",
+          "type": "geographic-group",
+          "regionIds": [
+            "collioure"
+          ]
+        },
+        {
+          "id": "bergeracois",
+          "rootId": "southwest",
+          "name": "贝尔热拉克地区",
+          "nameEn": "Bergeracois",
+          "type": "geographic-group",
+          "regionIds": [
+            "bergerac",
+            "pecharmant"
+          ]
+        },
+        {
+          "id": "lot-valley",
+          "rootId": "southwest",
+          "name": "洛特河谷",
+          "nameEn": "Lot Valley",
+          "type": "geographic-group",
+          "regionIds": [
+            "cahors"
+          ]
+        },
+        {
+          "id": "tarn-valley",
+          "rootId": "southwest",
+          "name": "塔恩河谷",
+          "nameEn": "Tarn Valley",
+          "type": "geographic-group",
+          "regionIds": [
+            "gaillac"
+          ]
+        },
+        {
+          "id": "pyrenean-foothills",
+          "rootId": "southwest",
+          "name": "比利牛斯山麓",
+          "nameEn": "Pyrenean Foothills",
+          "type": "geographic-group",
+          "regionIds": [
+            "madiran",
+            "irouleguy"
+          ]
+        },
+        {
+          "id": "corsica-north",
+          "rootId": "corsica",
+          "name": "科西嘉北部",
+          "nameEn": "Northern Corsica",
+          "type": "geographic-group",
+          "regionIds": [
+            "patrimonio"
+          ]
+        },
+        {
+          "id": "corsica-west",
+          "rootId": "corsica",
+          "name": "科西嘉西部与塔拉沃",
+          "nameEn": "Western Corsica & Taravo",
+          "type": "geographic-group",
+          "regionIds": [
+            "ajaccio"
+          ]
+        }
+      ]
+    }
+  ],
+  "images": {
+    "leoville-las-cases-grand": {
+      "wineName": "Grand Vin de Léoville du Marquis de Las Cases — Saint-Julien",
+      "sourcePage": "https://www.lagunacellar.com/chateau-leoville-las-cases-2020",
+      "imageUrl": "https://www.lagunacellar.com/media/catalog/product/l/e/leoville_las_cases_2020_et.jpg",
+      "sourceCredit": "Laguna Cellar",
+      "visibleVintage": 2020,
+      "kind": "label",
+      "wine": "Grand Vin de Léoville du Marquis de Las Cases — Saint-Julien",
+      "src": "labels/national-leoville-las-cases.jpg",
+      "file": "national-leoville-las-cases.jpg",
+      "displayNote": ""
+    },
+    "ducru-beaucaillou-grand": {
+      "wineName": "Ducru-Beaucaillou — Saint-Julien",
+      "sourcePage": "https://www.lagunacellar.com/chateau-ducru-beaucaillou-2018",
+      "imageUrl": "https://www.lagunacellar.com/media/catalog/product/d/u/ducru_beaucaillou_2018_et.jpg",
+      "sourceCredit": "Laguna Cellar",
+      "visibleVintage": 2018,
+      "kind": "label",
+      "wine": "Ducru-Beaucaillou — Saint-Julien",
+      "src": "labels/national-ducru-beaucaillou.jpg",
+      "file": "national-ducru-beaucaillou.jpg",
+      "displayNote": ""
+    },
+    "leoville-barton-grand": {
+      "wineName": "Château Léoville Barton — Saint-Julien",
+      "sourcePage": "https://www.lagunacellar.com/chateau-leoville-barton-2018",
+      "imageUrl": "https://www.lagunacellar.com/media/catalog/product/l/e/leoville_barton_2018_et.jpg",
+      "sourceCredit": "Laguna Cellar",
+      "visibleVintage": 2018,
+      "kind": "label",
+      "wine": "Château Léoville Barton — Saint-Julien",
+      "src": "labels/national-leoville-barton.jpg",
+      "file": "national-leoville-barton.jpg",
+      "displayNote": ""
+    },
+    "cos-destournel-grand": {
+      "wineName": "Cos d’Estournel — Saint-Estèphe",
+      "sourcePage": "https://www.lagunacellar.com/chateau-cos-destournel-2019",
+      "imageUrl": "https://www.lagunacellar.com/media/catalog/product/c/o/cos_d_estournel_2019_et_1.jpg",
+      "sourceCredit": "Laguna Cellar",
+      "visibleVintage": 2019,
+      "kind": "label",
+      "wine": "Cos d’Estournel — Saint-Estèphe",
+      "src": "labels/national-cos-destournel.jpg",
+      "file": "national-cos-destournel.jpg",
+      "displayNote": ""
+    },
+    "montrose-grand": {
+      "wineName": "Château Montrose — Saint-Estèphe",
+      "sourcePage": "https://www.lagunacellar.com/chateau-montrose-2019",
+      "imageUrl": "https://www.lagunacellar.com/media/catalog/product/m/o/montrose_2019_et_1.jpg",
+      "sourceCredit": "Laguna Cellar",
+      "visibleVintage": 2019,
+      "kind": "label",
+      "wine": "Château Montrose — Saint-Estèphe",
+      "src": "labels/national-montrose.jpg",
+      "file": "national-montrose.jpg",
+      "displayNote": ""
+    },
+    "calon-segur-grand": {
+      "wineName": "Château Calon Ségur — Saint-Estèphe",
+      "sourcePage": "https://www.lagunacellar.com/chateau-calon-segur-2019",
+      "imageUrl": "https://www.lagunacellar.com/media/catalog/product/c/a/calon_segur_2019_et_2.jpg",
+      "sourceCredit": "Laguna Cellar",
+      "visibleVintage": 2019,
+      "kind": "label",
+      "wine": "Château Calon Ségur — Saint-Estèphe",
+      "src": "labels/national-calon-segur.jpg",
+      "file": "national-calon-segur.jpg",
+      "displayNote": ""
+    },
+    "haut-brion-grand": {
+      "wineName": "Château Haut-Brion — Premier Grand Cru Classé",
+      "sourcePage": "https://www.lagunacellar.com/chateau-haut-brion-2019",
+      "imageUrl": "https://www.lagunacellar.com/media/catalog/product/h/a/haut_brion_2019_et.jpg",
+      "sourceCredit": "Laguna Cellar",
+      "visibleVintage": 2019,
+      "kind": "label",
+      "wine": "Château Haut-Brion — Premier Grand Cru Classé",
+      "src": "labels/national-haut-brion.jpg",
+      "file": "national-haut-brion.jpg",
+      "displayNote": ""
+    },
+    "pape-clement-grand": {
+      "wineName": "Château Pape Clément — Pessac-Léognan",
+      "sourcePage": "https://www.lagunacellar.com/chateau-pape-clement-2019",
+      "imageUrl": "https://www.lagunacellar.com/media/catalog/product/p/a/pape_clement_rouge_2019_et_1.jpg",
+      "sourceCredit": "Laguna Cellar",
+      "visibleVintage": 2019,
+      "kind": "label",
+      "wine": "Château Pape Clément — Pessac-Léognan",
+      "src": "labels/national-pape-clement.jpg",
+      "file": "national-pape-clement.jpg",
+      "displayNote": ""
+    },
+    "ausone-grand": {
+      "wineName": "Château Ausone — Saint-Émilion",
+      "sourcePage": "https://www.lagunacellar.com/chateau-ausone-2019",
+      "imageUrl": "https://www.lagunacellar.com/media/catalog/product/a/u/ausone_2019_et.jpg",
+      "sourceCredit": "Laguna Cellar",
+      "visibleVintage": 2019,
+      "kind": "label",
+      "wine": "Château Ausone — Saint-Émilion",
+      "src": "labels/national-ausone.jpg",
+      "file": "national-ausone.jpg",
+      "displayNote": "2019 酒标保留历史 A 等级；酒庄不在 2022 现行分级名录内。"
+    },
+    "poujeaux-grand": {
+      "imageUrl": "https://cdn11.bigcommerce.com/s-hw4h0s3mr6/products/260269/images/28034/354725__13962.1753300998.386.513.jpg?c=1",
+      "sourcePage": "https://whwc.com/poujeaux-moulis-en-medoc-2022/",
+      "sourceCredit": "Woodland Hills Wine Company",
+      "wineName": "Grand Vin Château Poujeaux — Moulis-en-Médoc",
+      "visibleVintage": null,
+      "kind": "label",
+      "wine": "Grand Vin Château Poujeaux — Moulis-en-Médoc",
+      "src": "labels/national-poujeaux.jpg",
+      "file": "national-poujeaux.jpg",
+      "displayNote": ""
+    },
+    "petrus-grand": {
+      "imageUrl": "https://www.osteria.ru/upload/iblock/2a3/hmv8jqegvdf2q8uug5qmiw26jvdxy0sq/3_3.jpg",
+      "sourcePage": "https://www.osteria.ru/wine/750ml/",
+      "sourceCredit": "Osteria",
+      "wineName": "Petrus — Pomerol Grand Vin",
+      "visibleVintage": 2013,
+      "kind": "label-crop",
+      "crop": {
+        "x": 126,
+        "y": 42,
+        "width": 650,
+        "height": 1120,
+        "imageWidth": 900,
+        "imageHeight": 1200
+      },
+      "wine": "Petrus — Pomerol Grand Vin",
+      "src": "labels/national-petrus.jpg",
+      "file": "national-petrus.jpg",
+      "displayNote": ""
+    },
+    "chasse-spleen-grand": {
+      "imageUrl": "https://www.lagunacellar.com/media/catalog/product/c/h/chasse_spleen_et_1.jpg",
+      "wineName": "Château Chasse-Spleen — Moulis en Médoc",
+      "visibleVintage": null,
+      "kind": "label",
+      "sourcePage": "https://www.lagunacellar.com/chateau-chasse-spleen-1996",
+      "sourceCredit": "Laguna Cellar",
+      "wine": "Château Chasse-Spleen — Moulis en Médoc",
+      "src": "labels/national-chasse-spleen.jpg",
+      "file": "national-chasse-spleen.jpg",
+      "displayNote": ""
+    },
+    "egly-ouriet-ambonnay-rouge-cuvee-des-grands-cotes-vieilles-vignes": {
+      "imageUrl": "https://chapfour.com/cdn/shop/files/egly_coteaux_ambonnay_red_vv_2020_a.jpg",
+      "wineName": "Ambonnay Rouge — Cuvée des Grands Côtés Vieilles Vignes — Coteaux Champenois",
+      "visibleVintage": 2020,
+      "kind": "label-crop",
+      "sourcePage": "https://chapfour.com/products/egly-ouriet-coteaux-champenois-cuvee-grands-cotes-vv-2020-amal",
+      "sourceCredit": "Chapter 4 Fine + Rare",
+      "crop": {
+        "x": 357,
+        "y": 620,
+        "width": 2101,
+        "height": 2390,
+        "imageWidth": 3024,
+        "imageHeight": 4032
+      },
+      "wine": "Ambonnay Rouge — Cuvée des Grands Côtés Vieilles Vignes — Coteaux Champenois",
+      "src": "labels/national-egly-ouriet.jpg",
+      "file": "national-egly-ouriet.jpg",
+      "displayNote": ""
+    },
+    "lafleur-grand": {
+      "imageUrl": "https://www.finewinedirect.co.uk/cdn/shop/files/lafleur_pomerol_53103389-1ed7-4b05-b950-b326919714b0_531x531.png?v=1710606873",
+      "wineName": "Château Lafleur — Pomerol",
+      "visibleVintage": null,
+      "kind": "label-crop",
+      "sourcePage": "https://www.finewinedirect.co.uk/products/chateau-lafleur-2023-pomerol",
+      "sourceCredit": "Fine Wine Direct",
+      "crop": {
+        "x": 205,
+        "y": 223,
+        "width": 120,
+        "height": 189,
+        "imageWidth": 531,
+        "imageHeight": 531
+      },
+      "wine": "Château Lafleur — Pomerol",
+      "src": "labels/national-lafleur.png",
+      "file": "national-lafleur.png",
+      "displayNote": "此图为历史 Pomerol 酒标；2025 收成起改为 Vin de France。图上未能辨认年份。",
+      "resolutionNote": "当前酒标原图分辨率较低。"
+    },
+    "fourrier-gevrey-chambertin-vieille-vigne-domaine-fourrier": {
+      "wineName": "Gevrey-Chambertin Vieille Vigne — Domaine Fourrier",
+      "sourcePage": "https://www.wine.com/product/domaine-fourrier-gevrey-chambertin-vieilles-vignes-2014/163165",
+      "imageUrl": "https://res.cloudinary.com/winecom/image/upload/163165.jpg",
+      "sourceCredit": "Wine.com",
+      "visibleVintage": null,
+      "kind": "label-crop",
+      "crop": {
+        "x": 0,
+        "y": 226,
+        "width": 600,
+        "height": 451,
+        "imageWidth": 900,
+        "imageHeight": 900
+      },
+      "wine": "Gevrey-Chambertin Vieille Vigne — Domaine Fourrier",
+      "src": "labels/national-fourrier.jpg",
+      "file": "national-fourrier.jpg",
+      "displayNote": ""
+    },
+    "roumier-chambolle-musigny-domaine-g-roumier": {
+      "wineName": "Chambolle-Musigny — Domaine G. Roumier",
+      "sourcePage": "https://www.wine.com/product/domaine-georges-and-christophe-roumier-chambolle-musigny-2014/368803",
+      "imageUrl": "https://res.cloudinary.com/winecom/image/upload/512324_ref-0.jpg",
+      "sourceCredit": "Wine.com",
+      "visibleVintage": null,
+      "kind": "label",
+      "wine": "Chambolle-Musigny — Domaine G. Roumier",
+      "src": "labels/national-roumier.jpg",
+      "file": "national-roumier.jpg",
+      "displayNote": ""
+    },
+    "dujac-morey-saint-denis-domaine-dujac": {
+      "wineName": "Morey-Saint-Denis — Domaine Dujac",
+      "visibleVintage": 2012,
+      "sourcePage": "https://www.dujac.com/en/pdf/12-morey-saint-denis-rouge-domaine.pdf",
+      "imageUrl": "https://www.dujac.com/en/pdf/12-morey-saint-denis-rouge-domaine.pdf",
+      "sourceCredit": "Domaine Dujac (embedded original product image in producer technical sheet)",
+      "kind": "label-crop",
+      "crop": {
+        "x": 0,
+        "y": 827,
+        "width": 356,
+        "height": 378,
+        "imageWidth": 356,
+        "imageHeight": 1300
+      },
+      "wine": "Morey-Saint-Denis — Domaine Dujac",
+      "src": "labels/national-dujac.png",
+      "file": "national-dujac.png",
+      "displayNote": ""
+    },
+    "marquis-dangerville-volnay-premier-cru-clos-des-angles-domaine-marquis-dangerville": {
+      "wineName": "Volnay Premier Cru Clos des Angles — Domaine Marquis d’Angerville",
+      "visibleVintage": 2019,
+      "sourcePage": "https://www.kogodwine.com/products/2019-dangerville-volnay-1er-cru-clos-des-angles",
+      "imageUrl": "https://www.kogodwine.com/cdn/shop/files/2019-dangerville-volnay-1er-cru-clos-des-angles-535_grande.webp?v=1709678547",
+      "sourceCredit": "Kogod Wine Merchant",
+      "kind": "label-crop",
+      "crop": {
+        "x": 181,
+        "y": 33,
+        "width": 246,
+        "height": 266,
+        "imageWidth": 600,
+        "imageHeight": 421
+      },
+      "wine": "Volnay Premier Cru Clos des Angles — Domaine Marquis d’Angerville",
+      "src": "labels/national-marquis-dangerville.webp",
+      "file": "national-marquis-dangerville.webp",
+      "displayNote": ""
+    },
+    "arbin-trosset-arbin-mondeuse-vin-de-savoie-les-fils-de-charles-trosset": {
+      "wineName": "Arbin Mondeuse — Vin de Savoie — Les Fils de Charles Trosset",
+      "visibleVintage": null,
+      "sourcePage": "https://www.quigoute.com/products/harmonie-2018-les-fils-de-charles-trosset",
+      "imageUrl": "https://www.quigoute.com/cdn/shop/files/Harmonie.jpg?v=1705568627",
+      "sourceCredit": "Qui Goûte ?",
+      "kind": "label-crop",
+      "crop": {
+        "x": 655,
+        "y": 1660,
+        "width": 501,
+        "height": 750,
+        "imageWidth": 1800,
+        "imageHeight": 2700
+      },
+      "note": "Retailer lists Harmonie 2018; front label itself says Arbin Mondeuse and has no visible Harmonie or vintage.",
+      "wine": "Arbin Mondeuse — Vin de Savoie — Les Fils de Charles Trosset",
+      "src": "labels/national-arbin-trosset.jpg",
+      "file": "national-arbin-trosset.jpg",
+      "displayNote": ""
+    },
+    "albert-mann-pinot-noir-grand-p-vin-dalsace-albert-mann": {
+      "wineName": "Pinot Noir Grand P — Vin d’Alsace — Albert Mann",
+      "visibleVintage": null,
+      "sourcePage": "https://www.chaisdoeuvre.fr/products/alsace-pinot-noir-grand-p-vi04051",
+      "imageUrl": "https://www.chaisdoeuvre.fr/cdn/shop/files/bd8d626704679e2bd44ac9c7815c846c.png?v=1770843581",
+      "sourceCredit": "Chais d’œuvre",
+      "kind": "label-crop",
+      "crop": {
+        "x": 7,
+        "y": 309,
+        "width": 111,
+        "height": 134,
+        "imageWidth": 128,
+        "imageHeight": 480
+      },
+      "note": "Small source image; no legible vintage on front. Grand P cuvée, not Grand H.",
+      "wine": "Pinot Noir Grand P — Vin d’Alsace — Albert Mann",
+      "src": "labels/national-albert-mann.png",
+      "file": "national-albert-mann.png",
+      "displayNote": "",
+      "resolutionNote": "当前酒标原图分辨率较低。"
+    },
+    "puffeney-arbois-poulsard-jacques-puffeney": {
+      "wineName": "Arbois Poulsard — Jacques Puffeney",
+      "visibleVintage": null,
+      "sourcePage": "https://europeanwineresource.com/products/2011-jacques-puffeney-arbois-poulsard",
+      "imageUrl": "https://europeanwineresource.com/cdn/shop/files/PuffeneyArboisPoulsard.png?v=1773181271",
+      "sourceCredit": "European Wine Resource",
+      "kind": "label-crop",
+      "crop": {
+        "x": 758,
+        "y": 1138,
+        "width": 532,
+        "height": 800,
+        "imageWidth": 2048,
+        "imageHeight": 2048
+      },
+      "note": "Retailer lists 2011; front shows lot L-P 11-01 but no explicit vintage, so visibleVintage null.",
+      "wine": "Arbois Poulsard — Jacques Puffeney",
+      "src": "labels/national-puffeney.png",
+      "file": "national-puffeney.png",
+      "displayNote": ""
+    },
+    "clape-cornas": {
+      "wineName": "Domaine A. Clape Cornas",
+      "appellation": "Cornas",
+      "sourcePage": "https://www.wine.com/product/auguste-clape-cornas-2017/564621",
+      "imageUrl": "https://res.cloudinary.com/winecom/image/upload/qmgoq7uyyadqibbr8tzm.jpg",
+      "sourceCredit": "Wine.com / producer label",
+      "visibleVintage": null,
+      "kind": "label",
+      "wine": "Domaine A. Clape Cornas",
+      "src": "labels/national-clape.jpg",
+      "file": "national-clape.jpg",
+      "displayNote": ""
+    },
+    "guigal-e-guigal-brune-et-blonde": {
+      "wineName": "E. Guigal Brune et Blonde",
+      "appellation": "Côte-Rôtie",
+      "sourcePage": "https://www.wine.com/product/e-guigal-cote-rotie-brune-et-blonde-2012/161523",
+      "imageUrl": "https://res.cloudinary.com/winecom/image/upload/161523.jpg",
+      "sourceCredit": "Wine.com / producer label",
+      "visibleVintage": null,
+      "kind": "label",
+      "wine": "E. Guigal Brune et Blonde",
+      "src": "labels/national-guigal.jpg",
+      "file": "national-guigal.jpg",
+      "displayNote": ""
+    },
+    "beaucastel-chateau-de-beaucastel-chateauneuf-du-pape-rouge": {
+      "wineName": "Château de Beaucastel Rouge",
+      "appellation": "Châteauneuf-du-Pape",
+      "sourcePage": "https://www.wine.com/product/chateau-de-beaucastel-chateauneuf-du-pape-2017/552206",
+      "imageUrl": "https://res.cloudinary.com/winecom/image/upload/uzdrteuq2jq40qjropoq.jpg",
+      "sourceCredit": "Wine.com / producer label",
+      "visibleVintage": null,
+      "kind": "label",
+      "wine": "Château de Beaucastel Rouge",
+      "src": "labels/national-beaucastel.jpg",
+      "file": "national-beaucastel.jpg",
+      "displayNote": ""
+    },
+    "pegau-cuvee-reservee-rouge": {
+      "wineName": "Domaine du Pégau Cuvée Réservée",
+      "appellation": "Châteauneuf-du-Pape",
+      "sourcePage": "https://www.wine.com/product/domaine-pegau-chateauneuf-du-pape-cuvee-reservee-2017/644352",
+      "imageUrl": "https://res.cloudinary.com/winecom/image/upload/j2lrkxzojptqqop48yfv.jpg",
+      "sourceCredit": "Wine.com / producer label",
+      "visibleVintage": null,
+      "kind": "label",
+      "wine": "Domaine du Pégau Cuvée Réservée",
+      "src": "labels/national-pegau.jpg",
+      "file": "national-pegau.jpg",
+      "displayNote": ""
+    },
+    "vieux-telegraphe-vieux-telegraphe-rouge": {
+      "wineName": "Domaine du Vieux Télégraphe La Crau Rouge",
+      "appellation": "Châteauneuf-du-Pape",
+      "sourcePage": "https://www.wine.com/product/domaine-du-vieux-telegraphe-chateauneuf-du-pape-la-crau-rouge-2018/667282",
+      "imageUrl": "https://res.cloudinary.com/winecom/image/upload/oshoejvcmmw7blww07by.jpg",
+      "sourceCredit": "Wine.com / producer label",
+      "visibleVintage": null,
+      "kind": "label",
+      "wine": "Domaine du Vieux Télégraphe La Crau Rouge",
+      "src": "labels/national-vieux-telegraphe.jpg",
+      "file": "national-vieux-telegraphe.jpg",
+      "displayNote": ""
+    },
+    "saint-cosme-gigondas": {
+      "wineName": "Château de Saint Cosme Gigondas",
+      "appellation": "Gigondas",
+      "sourcePage": "https://www.wine.com/product/chateau-de-saint-cosme-gigondas-2015/271167",
+      "imageUrl": "https://res.cloudinary.com/winecom/image/upload/271167.jpg",
+      "sourceCredit": "Wine.com / producer label",
+      "visibleVintage": 2015,
+      "kind": "label",
+      "wine": "Château de Saint Cosme Gigondas",
+      "src": "labels/national-saint-cosme.jpg",
+      "file": "national-saint-cosme.jpg",
+      "displayNote": ""
+    },
+    "vacheron-domaine-vacheron-sancerre-rouge": {
+      "wineName": "Domaine Vacheron Sancerre Rouge",
+      "appellation": "Sancerre",
+      "sourcePage": "https://www.wine.com/product/domaine-vacheron-sancerre-rouge-2022/1901919",
+      "imageUrl": "https://res.cloudinary.com/winecom/image/upload/slojjxrduspmutwfzla3.jpg",
+      "sourceCredit": "Wine.com / producer label",
+      "visibleVintage": null,
+      "kind": "label",
+      "wine": "Domaine Vacheron Sancerre Rouge",
+      "src": "labels/national-vacheron.jpg",
+      "file": "national-vacheron.jpg",
+      "displayNote": ""
+    },
+    "breton-les-perrieres": {
+      "wineName": "Catherine & Pierre Breton Les Perrières",
+      "appellation": "Bourgueil",
+      "sourcePage": "https://www.wine.com/product/catherine-and-pierre-breton-bourgueil-les-perrieres-2013/381039",
+      "imageUrl": "https://res.cloudinary.com/winecom/image/upload/381039.jpg",
+      "sourceCredit": "Wine.com / producer label",
+      "visibleVintage": null,
+      "kind": "label",
+      "wine": "Catherine & Pierre Breton Les Perrières",
+      "src": "labels/national-breton.jpg",
+      "file": "national-breton.jpg",
+      "displayNote": ""
+    },
+    "couly-dutheil-clos-de-l-olive": {
+      "wineName": "Couly-Dutheil Clos de l’Olive",
+      "appellation": "Chinon",
+      "sourcePage": "https://www.wine.com/product/couly-dutheil-clos-de-lolive-chinon-1989/213552",
+      "imageUrl": "https://res.cloudinary.com/winecom/image/upload/97868_refDetail-0.jpg",
+      "sourceCredit": "Wine.com / producer label",
+      "visibleVintage": null,
+      "kind": "label",
+      "wine": "Couly-Dutheil Clos de l’Olive",
+      "src": "labels/national-couly-dutheil.jpg",
+      "file": "national-couly-dutheil.jpg",
+      "displayNote": ""
+    },
+    "baudry-domaine-bernard-baudry-le-domaine": {
+      "wineName": "Domaine Bernard Baudry Le Domaine",
+      "appellation": "Chinon",
+      "sourcePage": "https://www.wine.com/product/bernard-baudry-chinon-2014/164196",
+      "imageUrl": "https://res.cloudinary.com/winecom/image/upload/164196.jpg",
+      "sourceCredit": "Wine.com / producer label",
+      "visibleVintage": null,
+      "kind": "label",
+      "wine": "Domaine Bernard Baudry Le Domaine",
+      "src": "labels/national-baudry.jpg",
+      "file": "national-baudry.jpg",
+      "displayNote": ""
+    },
+    "thivin-chateau-thivin-cote-de-brouilly": {
+      "wineName": "Château Thivin Côte de Brouilly",
+      "appellation": "Côte de Brouilly",
+      "sourcePage": "https://www.wine.com/product/chateau-thivin-cote-de-brouilly-2020/780321",
+      "imageUrl": "https://res.cloudinary.com/winecom/image/upload/eoa8grndujswgj1qnk7e.jpg",
+      "sourceCredit": "Wine.com / producer label",
+      "visibleVintage": null,
+      "kind": "label",
+      "wine": "Château Thivin Côte de Brouilly",
+      "src": "labels/national-thivin.jpg",
+      "file": "national-thivin.jpg",
+      "displayNote": ""
+    },
+    "lapierre-morgon": {
+      "wineName": "Marcel Lapierre Morgon",
+      "appellation": "Morgon",
+      "sourcePage": "https://www.wine.com/product/domaine-lapierre-morgon-2007/99894",
+      "imageUrl": "https://res.cloudinary.com/winecom/image/upload/99894.jpg",
+      "sourceCredit": "Wine.com / producer label",
+      "visibleVintage": 2007,
+      "kind": "label",
+      "wine": "Marcel Lapierre Morgon",
+      "src": "labels/national-lapierre.jpg",
+      "file": "national-lapierre.jpg",
+      "displayNote": ""
+    },
+    "roilette-fleurie-clos-de-la-roilette": {
+      "wineName": "Clos de la Roilette Fleurie",
+      "appellation": "Fleurie",
+      "sourcePage": "https://www.wine.com/product/clos-de-la-roilette-fleurie-2019/657809",
+      "imageUrl": "https://res.cloudinary.com/winecom/image/upload/xblvv44s4rkusw3zw4z7.jpg",
+      "sourceCredit": "Wine.com / producer label",
+      "visibleVintage": null,
+      "kind": "label",
+      "wine": "Clos de la Roilette Fleurie",
+      "src": "labels/national-roilette.jpg",
+      "file": "national-roilette.jpg",
+      "displayNote": ""
+    },
+    "foillard-morgon-cote-du-py": {
+      "wineName": "Jean Foillard Côte du Py",
+      "appellation": "Morgon",
+      "sourcePage": "https://www.wine.com/product/domaine-jean-foillard-morgon-cote-du-py-2014/230871",
+      "imageUrl": "https://res.cloudinary.com/winecom/image/upload/281383_refDetail-0.jpg",
+      "sourceCredit": "Wine.com / producer label",
+      "visibleVintage": null,
+      "kind": "label",
+      "wine": "Jean Foillard Côte du Py",
+      "src": "labels/national-foillard.jpg",
+      "file": "national-foillard.jpg",
+      "displayNote": ""
+    },
+    "chave-hermitage-rouge": {
+      "wineName": "Domaine Jean-Louis Chave Hermitage Rouge",
+      "appellation": "Hermitage",
+      "sourcePage": "https://www.wine.com/product/jean-louis-chave-hermitage-1997/134489",
+      "imageUrl": "https://res.cloudinary.com/winecom/image/upload/134489.jpg",
+      "sourceCredit": "Wine.com / producer label",
+      "visibleVintage": null,
+      "kind": "label",
+      "wine": "Domaine Jean-Louis Chave Hermitage Rouge",
+      "src": "labels/national-chave.jpg",
+      "file": "national-chave.jpg",
+      "displayNote": ""
+    },
+    "clos-rougeard-le-clos": {
+      "wineName": "Clos Rougeard Le Clos",
+      "appellation": "Saumur-Champigny",
+      "sourcePage": "https://www.wine.com/product/clos-rougeard-saumur-champigny-le-clos-2009/213383",
+      "imageUrl": "https://res.cloudinary.com/winecom/image/upload/96011_refDetail-0.jpg",
+      "sourceCredit": "Wine.com / producer label",
+      "visibleVintage": null,
+      "kind": "label",
+      "wine": "Clos Rougeard Le Clos",
+      "src": "labels/national-clos-rougeard.jpg",
+      "file": "national-clos-rougeard.jpg",
+      "displayNote": ""
+    },
+    "allemand-cornas-reynard": {
+      "wineName": "Thierry Allemand Reynard",
+      "appellation": "Cornas",
+      "sourcePage": "https://www.wine.com/product/thierry-allemand-cornas-reynard-2011/273863",
+      "imageUrl": "https://res.cloudinary.com/winecom/image/upload/395040_refDetail-0.jpg",
+      "sourceCredit": "Wine.com / producer label",
+      "visibleVintage": 2011,
+      "kind": "label",
+      "wine": "Thierry Allemand Reynard",
+      "src": "labels/national-allemand.jpg",
+      "file": "national-allemand.jpg",
+      "displayNote": ""
+    },
+    "jaboulet-crozes-hermitage-domaine-de-thalabert-rouge": {
+      "wineName": "Paul Jaboulet Aîné Domaine de Thalabert",
+      "appellation": "Crozes-Hermitage",
+      "sourcePage": "https://www.wine.com/product/jaboulet-crozes-hermitage-domaine-de-thalabert-2016/515570",
+      "imageUrl": "https://res.cloudinary.com/winecom/image/upload/fwskqzd5zuvjiehxn80q.jpg",
+      "sourceCredit": "Wine.com / producer label",
+      "visibleVintage": null,
+      "kind": "label",
+      "wine": "Paul Jaboulet Aîné Domaine de Thalabert",
+      "src": "labels/national-jaboulet.jpg",
+      "file": "national-jaboulet.jpg",
+      "displayNote": ""
+    },
+    "grange-des-peres-domaine-de-la-grange-des-peres-rouge": {
+      "wineName": "Domaine de la Grange des Pères Rouge",
+      "appellation": "Pays d’Hérault IGP",
+      "sourcePage": "https://crushwineco.com/blogs/offers/seductive-grandeur-2014-grange-des-peres-vdp-lherault",
+      "imageUrl": "https://s3.amazonaws.com/crush-online-assets/GrangedePeres2014.jpg",
+      "sourceCredit": "crushwineco.com",
+      "visibleVintage": "2014",
+      "kind": "label-crop",
+      "crop": {
+        "x": 80,
+        "y": 18,
+        "width": 425,
+        "height": 552,
+        "imageWidth": 600,
+        "imageHeight": 600
+      },
+      "wine": "Domaine de la Grange des Pères Rouge",
+      "src": "labels/national-grange-des-peres.jpg",
+      "file": "national-grange-des-peres.jpg",
+      "displayNote": ""
+    },
+    "mas-jullien-mas-jullien-rouge": {
+      "wineName": "Mas Jullien Rouge",
+      "appellation": "Coteaux du Languedoc AOC",
+      "sourcePage": "https://www.lecarredesvins.com/5115-mas-jullien-terrasses-du-larzac-rouge-2006-2001800.html",
+      "imageUrl": "https://www.lecarredesvins.com/11349-large_default/mas-jullien-terrasses-du-larzac-rouge-2006.jpg",
+      "sourceCredit": "www.lecarredesvins.com",
+      "visibleVintage": null,
+      "kind": "label-crop",
+      "crop": {
+        "x": 318,
+        "y": 356,
+        "width": 167,
+        "height": 267,
+        "imageWidth": 800,
+        "imageHeight": 800
+      },
+      "wine": "Mas Jullien Rouge",
+      "src": "labels/national-mas-jullien.jpg",
+      "file": "national-mas-jullien.jpg",
+      "displayNote": "历史酒标显示 Coteaux du Languedoc，不改写为现行 Terrasses du Larzac。",
+      "resolutionNote": "当前酒标原图分辨率较低。"
+    },
+    "gerard-bertrand-clos-dora": {
+      "wineName": "Clos d’Ora Rouge",
+      "appellation": "Minervois-La Livinière AOC",
+      "sourcePage": "https://www.majestic.co.uk/wines/gerard-bertrand-clos-dora-09095",
+      "imageUrl": "https://img-majestic-live.mncdn.com/mnpadding/400/400/ffffff/Content/Images/Originals/0047952_0.jpeg",
+      "sourceCredit": "www.majestic.co.uk",
+      "visibleVintage": null,
+      "kind": "label-crop",
+      "crop": {
+        "x": 154,
+        "y": 162,
+        "width": 93,
+        "height": 176,
+        "imageWidth": 400,
+        "imageHeight": 400
+      },
+      "wine": "Clos d’Ora Rouge",
+      "src": "labels/national-gerard-bertrand.jpg",
+      "file": "national-gerard-bertrand.jpg",
+      "displayNote": "",
+      "resolutionNote": "当前酒标原图分辨率较低。"
+    },
+    "gauby-roque-rouge": {
+      "wineName": "Roque Rouge",
+      "appellation": "Côtes du Roussillon Villages AOC",
+      "sourcePage": "https://www.lecarredesvins.com/6273-domaine-gauby-la-roque-rouge-2015-2287700.html",
+      "imageUrl": "https://www.lecarredesvins.com/18300-large_default/domaine-gauby-la-roque-rouge-2015.jpg",
+      "sourceCredit": "www.lecarredesvins.com",
+      "visibleVintage": null,
+      "kind": "label-crop",
+      "crop": {
+        "x": 323,
+        "y": 365,
+        "width": 161,
+        "height": 232,
+        "imageWidth": 800,
+        "imageHeight": 800
+      },
+      "notes": "Exact cuvée Roque (source listing La Roque rouge 2015); no vintage printed on supplied front label.",
+      "wine": "Roque Rouge",
+      "src": "labels/national-gauby.jpg",
+      "file": "national-gauby.jpg",
+      "displayNote": "Exact cuvée Roque (source listing La Roque rouge 2015); no vintage printed on supplied front label.",
+      "resolutionNote": "当前酒标原图分辨率较低。"
+    },
+    "coume-del-mas-schistes-rouge": {
+      "wineName": "Schistes Rouge",
+      "appellation": "Collioure AOC",
+      "sourcePage": "https://www.butlers-winecellar.co.uk/products/coume-del-mas-schistes-collioure-2023",
+      "imageUrl": "https://www.butlers-winecellar.co.uk/cdn/shop/files/Image_20251204_115840_330_1200x.jpg?v=1764850212",
+      "sourceCredit": "www.butlers-winecellar.co.uk",
+      "visibleVintage": "2023",
+      "kind": "label-crop",
+      "crop": {
+        "x": 282,
+        "y": 222,
+        "width": 640,
+        "height": 840,
+        "imageWidth": 1200,
+        "imageHeight": 1200
+      },
+      "wine": "Schistes Rouge",
+      "src": "labels/national-coume-del-mas.jpg",
+      "file": "national-coume-del-mas.jpg",
+      "displayNote": ""
+    },
+    "tempier-lulu-lucien-rouge-formerly-cuvee-classique": {
+      "wineName": "Lulu & Lucien Rouge",
+      "appellation": "Bandol AOC",
+      "sourcePage": "https://tradinggrapes.com/products/domaine-tempier-bandol-rouge-lulu-lucien-2022",
+      "imageUrl": "https://tradinggrapes.com/cdn/shop/files/DomaineTempierBandol2022-FRONT.webp?v=1755170708&width=1200",
+      "sourceCredit": "tradinggrapes.com",
+      "visibleVintage": "2022",
+      "kind": "label-crop",
+      "crop": {
+        "x": 432,
+        "y": 630,
+        "width": 336,
+        "height": 518,
+        "imageWidth": 1200,
+        "imageHeight": 1440
+      },
+      "wine": "Lulu & Lucien Rouge",
+      "src": "labels/national-tempier.jpg",
+      "file": "national-tempier.jpg",
+      "displayNote": ""
+    },
+    "pibarnon-chateau-de-pibarnon-rouge": {
+      "wineName": "Château de Pibarnon Rouge",
+      "appellation": "Bandol AOC",
+      "sourcePage": "https://www.cavesdefrance.be/products/bandol-rouge",
+      "imageUrl": "https://www.cavesdefrance.be/cdn/shop/files/Pibarnon_20Rouge.png?crop=center&height=1200&v=1764592236&width=1200",
+      "sourceCredit": "www.cavesdefrance.be",
+      "visibleVintage": null,
+      "kind": "label-crop",
+      "crop": {
+        "x": 385,
+        "y": 496,
+        "width": 433,
+        "height": 538,
+        "imageWidth": 1200,
+        "imageHeight": 1200
+      },
+      "wine": "Château de Pibarnon Rouge",
+      "src": "labels/national-pibarnon.jpg",
+      "file": "national-pibarnon.jpg",
+      "displayNote": ""
+    },
+    "cedre-chateau-du-cedre-rouge": {
+      "wineName": "Château du Cèdre Rouge",
+      "appellation": "Cahors AOC",
+      "sourcePage": "https://www.schilliger.com/fr/catalogue/articles/31247-cahors-aop-prestige-chateau-du-cedre-2015-75cl-075-l/",
+      "imageUrl": "https://www.schilliger.com/media/img/gallery/BT.P38075.0000.0000.0000_Cahors_AOP_Prestige_Chateau_du_Cedre_2015_75cl_00_9rzmCHq.jpg",
+      "sourceCredit": "www.schilliger.com",
+      "visibleVintage": "2015",
+      "kind": "label-crop",
+      "crop": {
+        "x": 490,
+        "y": 567,
+        "width": 241,
+        "height": 304,
+        "imageWidth": 1200,
+        "imageHeight": 1200
+      },
+      "wine": "Château du Cèdre Rouge",
+      "src": "labels/national-cedre.jpg",
+      "file": "national-cedre.jpg",
+      "displayNote": ""
+    },
+    "brana-domaine-brana-rouge": {
+      "wineName": "Domaine Brana Rouge",
+      "appellation": "Irouléguy AOC",
+      "sourcePage": "https://www.viniou.fr/vins/pays/france/102_sud-ouest/159_irouleguy/108214_domaine-brana-2017",
+      "imageUrl": "https://media-viniou.com/wine-info/108214/vin-rouge-sec-domaine-brana-2017-france-sud-ouest-irouleguy-1.png",
+      "sourceCredit": "www.viniou.fr",
+      "visibleVintage": "2017",
+      "kind": "label-crop",
+      "crop": {
+        "x": 214,
+        "y": 228,
+        "width": 92,
+        "height": 111,
+        "imageWidth": 512,
+        "imageHeight": 512
+      },
+      "wine": "Domaine Brana Rouge",
+      "src": "labels/national-brana.jpg",
+      "file": "national-brana.jpg",
+      "displayNote": "",
+      "resolutionNote": "当前酒标原图分辨率较低。"
+    },
+    "antoine-arena-antoine-arena-grotte-di-sole-rouge": {
+      "wineName": "Antoine Arena Grotte di Sole Rouge",
+      "appellation": "Patrimonio AOC",
+      "sourcePage": "https://www.ipowines.com/wine/2013-arena-patrimonio-rouge-grotte-di-sole",
+      "imageUrl": "https://www.ipowines.com/images/wines/arena-patrimonio-rouge-grotte-di-sole-site.png",
+      "sourceCredit": "www.ipowines.com",
+      "visibleVintage": null,
+      "kind": "label-crop",
+      "crop": {
+        "x": 329,
+        "y": 1330,
+        "width": 542,
+        "height": 567,
+        "imageWidth": 1200,
+        "imageHeight": 2000
+      },
+      "notes": "Label explicitly reads Antoine Arena and Grotte di Sole; source page 2013 but no printed vintage visible.",
+      "wine": "Antoine Arena Grotte di Sole Rouge",
+      "src": "labels/national-antoine-arena.jpg",
+      "file": "national-antoine-arena.jpg",
+      "displayNote": "Label explicitly reads Antoine Arena and Grotte di Sole; source page 2013 but no printed vintage visible."
+    },
+    "comte-abbatucci-faustine-rouge": {
+      "wineName": "Faustine Vieilles Vignes Rouge",
+      "appellation": "Vin de France",
+      "sourcePage": "https://onekourtwine.com/products/domaine-comte-abbatucci-cuvee-faustine-rouge-corsica-2024",
+      "imageUrl": "https://onekourtwine.com/cdn/shop/files/rn-image_picker_lib_temp_3bd479b6-0190-4dfc-a212-bfbc7f1441fe.jpg?v=1775495715",
+      "sourceCredit": "onekourtwine.com",
+      "visibleVintage": "2024",
+      "kind": "label-crop",
+      "crop": {
+        "x": 1180,
+        "y": 1690,
+        "width": 655,
+        "height": 812,
+        "imageWidth": 3024,
+        "imageHeight": 4032
+      },
+      "notes": "Faustine Vieilles Vignes ROUGE 2024; source product page explicitly red. Vin de France designation supplied by task.",
+      "wine": "Faustine Vieilles Vignes Rouge",
+      "src": "labels/national-comte-abbatucci.jpg",
+      "file": "national-comte-abbatucci.jpg",
+      "displayNote": "Faustine Vieilles Vignes ROUGE 2024; source product page explicitly red. Vin de France designation supplied by task."
+    },
+    "trevallon-domaine-de-trevallon-rouge": {
+      "wineName": "Domaine de Trévallon Rouge",
+      "appellation": "Alpilles IGP",
+      "sourcePage": "https://vervewine.com/products/domaine-de-trevallon-igp-alpilles-rouge-2016",
+      "imageUrl": "https://vervewine.com/cdn/shop/products/cb9b24e91aa3a019358c17bc58a697dd-1_458b3af6-ae18-42c5-ac49-d8bc6e1609b9_1200x1200.png?v=1582515167",
+      "sourceCredit": "vervewine.com",
+      "visibleVintage": null,
+      "kind": "label-crop",
+      "crop": {
+        "x": 466,
+        "y": 579,
+        "width": 269,
+        "height": 446,
+        "imageWidth": 1200,
+        "imageHeight": 1200
+      },
+      "wine": "Domaine de Trévallon Rouge",
+      "src": "labels/national-trevallon.jpg",
+      "file": "national-trevallon.jpg",
+      "displayNote": ""
+    },
+    "mas-daumas-gassac-mas-de-daumas-gassac-rouge": {
+      "wineName": "Mas de Daumas Gassac Rouge",
+      "appellation": "Saint-Guilhem-le-Désert – Cité d’Aniane IGP",
+      "sourcePage": "https://www.viniou.fr/vins/pays/france/107_languedoc-et-roussillon/2291_non-specifie/8115_mas-de-daumas-gassac-2020",
+      "imageUrl": "https://media-viniou.com/wine-info/8115/vin-rouge-sec-mas-de-daumas-gassac-2020-france-languedoc-et-roussillon-2.png",
+      "sourceCredit": "www.viniou.fr",
+      "visibleVintage": "2020",
+      "kind": "label",
+      "wine": "Mas de Daumas Gassac Rouge",
+      "src": "labels/national-mas-daumas-gassac.jpg",
+      "file": "national-mas-daumas-gassac.jpg",
+      "displayNote": ""
+    },
+    "plageoles-braucol": {
+      "wineName": "Braucol Rouge",
+      "appellation": "Gaillac AOP",
+      "sourcePage": "https://www.mareehaute.vin/collections/domaine-plageoles",
+      "imageUrl": "https://www.mareehaute.vin/cdn/shop/files/29ce2836e7a1d5191288118d6cb1dec3.png?v=1752736040&width=750",
+      "sourceCredit": "www.mareehaute.vin",
+      "visibleVintage": "2021",
+      "kind": "label-crop",
+      "crop": {
+        "x": 294,
+        "y": 372,
+        "width": 156,
+        "height": 208,
+        "imageWidth": 750,
+        "imageHeight": 750
+      },
+      "appellationSource": "https://www.vins-plageoles.com/nos-vins/braucol/",
+      "wine": "Braucol Rouge",
+      "src": "labels/national-plageoles.jpg",
+      "file": "national-plageoles.jpg",
+      "displayNote": "",
+      "resolutionNote": "当前酒标原图分辨率较低。"
+    },
+    "clos-des-fees-vieilles-vignes-rouge": {
+      "wineName": "Vieilles Vignes Rouge",
+      "appellation": "Côtes du Roussillon Villages AOC",
+      "sourcePage": "https://thevintageclub.sg/products/domaine-du-clos-des-fees-vieilles-vignes-2020",
+      "imageUrl": "https://thevintageclub.sg/cdn/shop/files/Copie_de_93.png?v=1752806562",
+      "sourceCredit": "thevintageclub.sg",
+      "visibleVintage": null,
+      "kind": "label-crop",
+      "crop": {
+        "x": 594,
+        "y": 1046,
+        "width": 327,
+        "height": 299,
+        "imageWidth": 1500,
+        "imageHeight": 1500
+      },
+      "wine": "Vieilles Vignes Rouge",
+      "src": "labels/national-clos-des-fees.jpg",
+      "file": "national-clos-des-fees.jpg",
+      "displayNote": ""
+    },
+    "leon-barral-valiniere-rouge": {
+      "wineName": "Valinière Rouge",
+      "appellation": "Faugères AOC",
+      "sourcePage": "https://kawagoekadoya.shop/products/2019-domaine-leon-barral-faugeres-valiniere",
+      "imageUrl": "https://kawagoekadoya.shop/cdn/shop/files/C6DFEFB0-5619-4074-A683-62200948AD4D_1_201_a_3024x.heic?v=1688109167",
+      "sourceCredit": "kawagoekadoya.shop",
+      "visibleVintage": "2019",
+      "kind": "label-crop",
+      "crop": {
+        "x": 1186,
+        "y": 1833,
+        "width": 717,
+        "height": 870,
+        "imageWidth": 3024,
+        "imageHeight": 3024
+      },
+      "wine": "Valinière Rouge",
+      "src": "labels/national-leon-barral.jpg",
+      "file": "national-leon-barral.jpg",
+      "displayNote": ""
+    },
+    "montus-chateau-montus-rouge": {
+      "wineName": "Château Montus Rouge",
+      "appellation": "Madiran AOC",
+      "sourcePage": "https://www.harrogatefinewinecompany.com/products/2016-chateau-montus?srsltid=AfmBOoqtBF-xNzsiwjct1MlT02rKPor3sZ87XtNsxts78ta06LueB5Vj",
+      "imageUrl": "https://www.harrogatefinewinecompany.com/cdn/shop/products/image_4ea1eb7c-9d44-45cb-94a0-5fe61c102a98_1081x1080.jpg?v=1765384872",
+      "sourceCredit": "www.harrogatefinewinecompany.com",
+      "visibleVintage": null,
+      "kind": "label-crop",
+      "crop": {
+        "x": 466,
+        "y": 517,
+        "width": 213,
+        "height": 298,
+        "imageWidth": 1081,
+        "imageHeight": 1080
+      },
+      "wine": "Château Montus Rouge",
+      "src": "labels/national-montus.jpg",
+      "file": "national-montus.jpg",
+      "displayNote": ""
+    },
+    "cosse-maison-neuve-la-fage-rouge": {
+      "wineName": "La Fage Rouge",
+      "appellation": "Cahors AOC",
+      "sourcePage": "https://grandsbourgognes.com/en/domaine-cosse-maisonneuve/cahors-la-fage-16733.html",
+      "imageUrl": "https://grandsbourgognes.com/41253-large_default/cahors-la-fage.jpg",
+      "sourceCredit": "Grands Bourgognes",
+      "visibleVintage": "2021",
+      "kind": "label-crop",
+      "crop": {
+        "x": 302,
+        "y": 316,
+        "width": 389,
+        "height": 351,
+        "imageWidth": 800,
+        "imageHeight": 800
+      },
+      "notes": "Original source composite includes isolated full label at right; CSS crop selects that label.",
+      "wine": "La Fage Rouge",
+      "src": "labels/national-cosse-maison-neuve.jpg",
+      "file": "national-cosse-maison-neuve.jpg",
+      "displayNote": "Original source composite includes isolated full label at right; CSS crop selects that label."
+    },
+    "hortus-grande-cuvee-rouge": {
+      "wineName": "Grande Cuvée Rouge",
+      "appellation": "Pic Saint-Loup AOP",
+      "sourcePage": "https://persoonlijkwijnkado.nl/0020-domaine-de-lhortus-grande-cuvee",
+      "imageUrl": "https://persoonlijkwijnkado.nl/ProductImages/79/domaine-de-lhortus-grande-cuvee-rouge-2021-pic-saint-loup-aop.jpg",
+      "sourceCredit": "persoonlijkwijnkado.nl",
+      "visibleVintage": null,
+      "kind": "label-crop",
+      "crop": {
+        "x": 220,
+        "y": 379,
+        "width": 160,
+        "height": 179,
+        "imageWidth": 600,
+        "imageHeight": 600
+      },
+      "wine": "Grande Cuvée Rouge",
+      "src": "labels/national-hortus.jpg",
+      "file": "national-hortus.jpg",
+      "displayNote": "",
+      "resolutionNote": "当前酒标原图分辨率较低。"
+    },
+    "clos-saint-vincent-le-clos-rouge": {
+      "wineName": "Le Clos Rouge",
+      "appellation": "Bellet AOC",
+      "sourcePage": "https://grandsbourgognes.com/fr/clos-saint-vincent/bellet-rouge-le-clos-21889.html",
+      "imageUrl": "https://grandsbourgognes.com/52313-large_default/bellet-rouge-le-clos.jpg",
+      "sourceCredit": "grandsbourgognes.com",
+      "visibleVintage": "2023",
+      "kind": "label-crop",
+      "crop": {
+        "x": 373,
+        "y": 298,
+        "width": 244,
+        "height": 368,
+        "imageWidth": 800,
+        "imageHeight": 800
+      },
+      "wine": "Le Clos Rouge",
+      "src": "labels/national-clos-saint-vincent.jpg",
+      "file": "national-clos-saint-vincent.jpg",
+      "displayNote": ""
+    }
+  }
+}

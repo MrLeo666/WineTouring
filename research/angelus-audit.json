@@ -1,0 +1,13 @@
+{
+  "checkedAt": "2026-09-30",
+  "reason": "Catalog coverage omission: no existing Angélus / Angelus / 金钟 / 金鐘 records in regional or manga JS data. Not a duplicate-name or visibility bug. Existing directory explicitly describes representative selection, not exhaustive coverage.",
+  "estateId": "angelus",
+  "wineIds": ["angelus-grand", "angelus-carillon", "angelus-no3", "angelus-tempo"],
+  "officialRange": "https://www.angelus.com/en/the-wines.html",
+  "estateHistory": "https://www.angelus.com/en/the-property.html",
+  "historicClassification": "https://www.angelus.com/en/le-premier.html",
+  "withdrawal": "https://www.angelus.com/en/412-saint-emilion-2022-classification.html",
+  "classificationNote": "Official generic wine page still says Premier Grand Cru Classé A; the official 2022 withdrawal statement takes precedence for current classification.",
+  "geography": "Estate approximate point from official how-to-find-us map link. Tempo remains Bordeaux AOC and is associated with estate coordinates, not claimed vineyard coordinates.",
+  "manga": "No matching existing sourced manga record found; do not assert manga inclusion."
+}

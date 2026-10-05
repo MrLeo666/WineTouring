@@ -1,0 +1,165 @@
+[
+  {
+    "name": "Château Figeac",
+    "type": "estate-photo",
+    "localFile": "/workspace/scratch/63cb685a6651/france-assets/figeac.jpg",
+    "sourcePage": "https://www.chateau-figeac.com/en/",
+    "imageURL": "https://www.chateau-figeac.com/wp-content/uploads/2020/11/201030_FGC_004-1-900x599.52978056426-c-center.jpg",
+    "caption": "Figeac winery buildings beyond autumn vineyard rows",
+    "credit": "Château Figeac",
+    "visibleVintage": null,
+    "modified": false,
+    "dimensions": [
+      900,
+      599
+    ],
+    "bytes": 157253
+  },
+  {
+    "name": "Château Pavie",
+    "type": "estate-photo",
+    "localFile": "/workspace/scratch/63cb685a6651/france-assets/pavie-verified.jpg",
+    "sourcePage": "https://www.chateaupavie.com/fr_FR/visiter-chateau-pavie",
+    "imageURL": "https://www.chateaupavie.com/media/cache/background/media/rich-editor/chateaupavie2814-69ca4d66a0310.jpg",
+    "caption": "Rows of large wooden fermentation vats inside Château Pavie winery",
+    "credit": "Château Pavie official website; individual photographer not identified",
+    "visibleVintage": null,
+    "modified": false,
+    "dimensions": [
+      1600,
+      1067
+    ],
+    "bytes": 271219
+  },
+  {
+    "name": "Château La Mission Haut-Brion",
+    "type": "estate-photo",
+    "localFile": "/workspace/scratch/63cb685a6651/france-assets/mission-appellation.jpg",
+    "sourcePage": "https://www.pessac-leognan.com/en/nos-chateaux/chateau-la-mission-haut-brion/",
+    "imageURL": "https://www.pessac-leognan.com/wp-content/uploads/2024/05/Prncipale_Faade_Chteau_La_Mission_Haut-Brion.jpg",
+    "caption": "La Mission Haut-Brion façade, cloister and vineyard rows",
+    "credit": "Pessac-Léognan appellation website",
+    "visibleVintage": null,
+    "modified": false,
+    "dimensions": [
+      1500,
+      800
+    ],
+    "bytes": 159922
+  },
+  {
+    "name": "Château d’Yquem",
+    "type": "estate-photo",
+    "localFile": "/workspace/scratch/63cb685a6651/france-assets/yquem-estate.jpeg",
+    "sourcePage": "https://www.yquem.fr/en",
+    "imageURL": "https://www.yquem.fr/assets/contact-desktop-CIi-U3qU.jpeg",
+    "caption": "Château d’Yquem towers, gardens and vineyard",
+    "credit": "Château d’Yquem",
+    "visibleVintage": null,
+    "modified": false,
+    "dimensions": [
+      1024,
+      1274
+    ],
+    "bytes": 307837
+  },
+  {
+    "name": "Louis Roederer",
+    "type": "estate-photo",
+    "localFile": "/workspace/scratch/63cb685a6651/france-assets/roederer-large.jpg",
+    "sourcePage": "https://www.louis-roederer.com/en",
+    "imageURL": "https://www.louis-roederer.com/sites/all/themes/roederer/static/medias/images/250-ans_Headquarter@LouisRoederer.jpg",
+    "caption": "Louis Roederer headquarters courtyard and façade in Reims",
+    "credit": "Louis Roederer",
+    "visibleVintage": null,
+    "modified": false,
+    "dimensions": [
+      1500,
+      1000
+    ],
+    "bytes": 294937
+  },
+  {
+    "name": "Trimbach",
+    "type": "estate-photo",
+    "localFile": "/workspace/scratch/63cb685a6651/france-assets/trimbach.jpg",
+    "sourcePage": "https://www.trimbach.fr/en/",
+    "imageURL": "https://static.wixstatic.com/media/03bc04_bf09d4cdb47145eeae9f925fcf73244c~mv2.jpg",
+    "caption": "Trimbach half-timbered estate towers with vines behind",
+    "credit": "Trimbach",
+    "visibleVintage": null,
+    "modified": false,
+    "dimensions": [
+      2000,
+      1333
+    ],
+    "bytes": 650381
+  },
+  {
+    "name": "Zind-Humbrecht",
+    "type": "estate-photo",
+    "localFile": "/workspace/scratch/63cb685a6651/france-assets/zind.jpg",
+    "sourcePage": "https://www.zindhumbrecht.fr/en/",
+    "imageURL": "https://www.zindhumbrecht.fr/en/media/1920x990/1-lc20050428-photo-par-leif-carlsson.jpg",
+    "caption": "Rows of large wooden casks in the Zind-Humbrecht cellar",
+    "credit": "Leif Carlsson / Domaine Zind-Humbrecht (photographer named in official asset URL)",
+    "visibleVintage": null,
+    "modified": false,
+    "dimensions": [
+      1920,
+      990
+    ],
+    "bytes": 501068
+  },
+  {
+    "name": "Figeac",
+    "type": "flat-label",
+    "localFile": "/workspace/scratch/63cb685a6651/france-assets/figeac-label.png",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=1607",
+    "imageURL": "https://www.farrvintners.com/img/labels/10433.png",
+    "caption": "Figeac authentic vintage-free front label artwork",
+    "credit": "Farr Vintners",
+    "visibleVintage": null,
+    "modified": false,
+    "notes": "Older label artwork; no vintage printed. Source product page year2004 is not a visible label year.",
+    "dimensions": [
+      300,
+      229
+    ],
+    "bytes": 120599
+  },
+  {
+    "name": "Pavie",
+    "type": "flat-label",
+    "localFile": "/workspace/scratch/63cb685a6651/france-assets/pavie-label.jpg",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=3753",
+    "imageURL": "https://www.farrvintners.com/img/labels/10571.jpg",
+    "caption": "Pavie authentic vintage-free front label artwork",
+    "credit": "Farr Vintners",
+    "visibleVintage": null,
+    "modified": false,
+    "notes": "Older label artwork; no vintage printed. Source product page year2004 is not a visible label year.",
+    "dimensions": [
+      300,
+      235
+    ],
+    "bytes": 51043
+  },
+  {
+    "name": "La Mission Haut-Brion",
+    "type": "flat-label",
+    "localFile": "/workspace/scratch/63cb685a6651/france-assets/mission-label.jpg",
+    "sourcePage": "https://www.farrvintners.com/wine.php?wine=3351",
+    "imageURL": "https://www.farrvintners.com/img/labels/10553.jpg",
+    "caption": "La Mission Haut-Brion authentic vintage-free front label artwork",
+    "credit": "Farr Vintners",
+    "visibleVintage": null,
+    "modified": false,
+    "notes": "Older label artwork; no vintage printed. Source product page year2004 is not a visible label year.",
+    "dimensions": [
+      258,
+      300
+    ],
+    "bytes": 12901
+  }
+]

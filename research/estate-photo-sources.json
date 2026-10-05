@@ -1,0 +1,74 @@
+[
+  {
+    "estate": "Château Margaux",
+    "sourcePage": "https://chateau-margaux.com/en/le-domaine/notre-patrimoine",
+    "imageURL": "https://framerusercontent.com/images/HgQFMBeTSTP7N4embNTcEWGX9nE.webp?width=2160&height=1080",
+    "caption": "Château Margaux façade and lawn",
+    "credit": "Château Margaux — official estate website; photographer not identified on source page",
+    "width": 2160,
+    "height": 1080,
+    "bytes": 225756,
+    "verified": true,
+    "notes": "Authentic source photograph downloaded unchanged. Source attribution is not a claim of an open reuse license."
+  },
+  {
+    "estate": "Château Latour",
+    "sourcePage": "https://www.chateau-latour.com/en/in-the-beginning/the-land-of-pauillac",
+    "imageURL": "https://www.chateau-latour.com/assets/public/img/01-le-temps-de-la-creation/en-terre-de-pauillac/ete.jpg",
+    "caption": "Summer vineyard rows at Château Latour",
+    "credit": "Château Latour — official estate website; photographer not identified on source page",
+    "width": 742,
+    "height": 1066,
+    "bytes": 173445,
+    "verified": true,
+    "notes": "Authentic source photograph downloaded unchanged. Source attribution is not a claim of an open reuse license."
+  },
+  {
+    "estate": "Château Mouton Rothschild",
+    "sourcePage": "https://www.chateau-mouton-rothschild.com/",
+    "imageURL": "https://www.chateau-mouton-rothschild.com/cellar/uploads/Chateau_Mouton_Rothschild_vue_des_vignes_1440.jpg",
+    "caption": "Château Mouton Rothschild estate buildings beyond the vines",
+    "credit": "Château Mouton Rothschild — official estate website; photographer not identified on source page",
+    "width": 1440,
+    "height": 580,
+    "bytes": 995525,
+    "verified": true,
+    "notes": "Authentic source photograph downloaded unchanged. Source attribution is not a claim of an open reuse license."
+  },
+  {
+    "estate": "Château Lafite Rothschild",
+    "sourcePage": "https://www.lafite.com/domaines/chateau-lafite-rothschild/read/",
+    "imageURL": "https://www.lafite.com/wp-content/uploads/fly-images/1873/Lafite_Menu-630x866-c.jpg",
+    "caption": "Château Lafite Rothschild tower, clock and weather vane",
+    "credit": "Château Lafite Rothschild — official estate website; photographer not identified on source page",
+    "width": 630,
+    "height": 866,
+    "bytes": 498539,
+    "verified": true,
+    "notes": "Authentic source photograph downloaded unchanged. Source attribution is not a claim of an open reuse license."
+  },
+  {
+    "estate": "Château Palmer",
+    "sourcePage": "https://www.chateau-palmer.com/en/estate",
+    "imageURL": "https://cdn.prod.website-files.com/63a417a748979747a3239e66/63ef5eb7451dfb308128517d_chateau-closeup-min-p-1080.webp",
+    "caption": "Château Palmer rooftops and turrets amid trees",
+    "credit": "Château Palmer — official estate website; photographer not identified on source page",
+    "width": 1080,
+    "height": 1200,
+    "bytes": 208498,
+    "verified": true,
+    "notes": "Authentic source photograph downloaded unchanged. Source attribution is not a claim of an open reuse license."
+  },
+  {
+    "estate": "Château Pichon Baron",
+    "sourcePage": "https://www.pichonbaron.com/en/heritage",
+    "imageURL": "https://www.pichonbaron.com/image/images_site/2/heritage-background-site.jpg",
+    "caption": "Château Pichon Baron towers above autumn vines",
+    "credit": "Château Pichon Baron — official estate website; photographer not identified on source page",
+    "width": 1440,
+    "height": 900,
+    "bytes": 389754,
+    "verified": true,
+    "notes": "Authentic source photograph downloaded unchanged. Source attribution is not a claim of an open reuse license."
+  }
+]

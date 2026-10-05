@@ -1,0 +1,141 @@
+[
+  {
+    "name": "Château Angélus",
+    "localFile": "/workspace/scratch/63cb685a6651/angelus-assets/angelus-bottle.png",
+    "imageURL": "https://www.angelus.com/en/img/03-Bouteille-angelus.png",
+    "sourcePage": "https://www.angelus.com/en/the-wines.html",
+    "visibleVintage": 2015,
+    "type": "official bottle photograph, not flat label",
+    "suggestedCSSLabelViewport": {
+      "x": 6,
+      "y": 904,
+      "width": 565,
+      "height": 818
+    },
+    "notes": "Downloaded unchanged. Approximate CSS viewport can display label region; curved label edges and small bottle corners remain. No raster crop created.",
+    "dimensions": [
+      579,
+      2148
+    ],
+    "bytes": 1360815
+  },
+  {
+    "name": "Carillon d’Angélus",
+    "localFile": "/workspace/scratch/63cb685a6651/angelus-assets/carillon-bottle.png",
+    "imageURL": "https://www.angelus.com/en/img/03-Bt-carillion.png",
+    "sourcePage": "https://www.angelus.com/en/the-wines.html",
+    "visibleVintage": 2015,
+    "type": "official bottle photograph, not flat label",
+    "suggestedCSSLabelViewport": {
+      "x": 141,
+      "y": 916,
+      "width": 545,
+      "height": 760
+    },
+    "notes": "Downloaded unchanged. Approximate CSS viewport can display label region; curved label edges and small bottle corners remain. No raster crop created.",
+    "dimensions": [
+      692,
+      2273
+    ],
+    "bytes": 1255856
+  },
+  {
+    "name": "N°3 d’Angélus",
+    "localFile": "/workspace/scratch/63cb685a6651/angelus-assets/no3-bottle.png",
+    "imageURL": "https://www.angelus.com/en/img/03-bis-bt-number3.png",
+    "sourcePage": "https://www.angelus.com/en/the-wines.html",
+    "visibleVintage": 2018,
+    "type": "official bottle photograph, not flat label",
+    "suggestedCSSLabelViewport": {
+      "x": 5,
+      "y": 924,
+      "width": 532,
+      "height": 750
+    },
+    "notes": "Downloaded unchanged. Approximate CSS viewport can display label region; curved label edges and small bottle corners remain. No raster crop created.",
+    "dimensions": [
+      548,
+      2199
+    ],
+    "bytes": 259949
+  },
+  {
+    "name": "Tempo d’Angélus",
+    "localFile": "/workspace/scratch/63cb685a6651/angelus-assets/tempo-bottle.png",
+    "imageURL": "https://www.angelus.com/en/img/BouteilleTEMPO-solo.png",
+    "sourcePage": "https://www.angelus.com/en/the-wines.html",
+    "visibleVintage": 2019,
+    "type": "official bottle photograph, not flat label",
+    "suggestedCSSLabelViewport": {
+      "x": 18,
+      "y": 960,
+      "width": 501,
+      "height": 662
+    },
+    "notes": "Downloaded unchanged. Approximate CSS viewport can display label region; curved label edges and small bottle corners remain. No raster crop created.",
+    "dimensions": [
+      540,
+      2188
+    ],
+    "bytes": 368559
+  },
+  {
+    "name": "Carillon d’Angélus",
+    "localFile": "/workspace/scratch/63cb685a6651/angelus-assets/carillon-label-001.jpg",
+    "imageURL": "https://www.bordeaux-tradition.com/wp-content/uploads/2018/02/carillon-d-angelus-2019-ang.pdf",
+    "sourcePage": "https://www.bordeaux-tradition.com/wp-content/uploads/2018/02/carillon-d-angelus-2019-ang.pdf",
+    "visibleVintage": 2015,
+    "type": "authentic flat label extracted unchanged from PDF image stream",
+    "notes": "PDF filename says2019 but visible label says2015. Prefer this over bottle photograph.",
+    "dimensions": [
+      427,
+      429
+    ],
+    "bytes": 32036
+  },
+  {
+    "name": "Château Angélus estate",
+    "localFile": "/workspace/scratch/63cb685a6651/angelus-assets/estate-0.jpg",
+    "imageURL": "https://www.angelus.com/en/img/Visu-Caroussel-chai-0.jpg",
+    "sourcePage": "https://www.angelus.com/en/the-property.html",
+    "caption": "Suspended stainless-steel vats at Chai Angélus",
+    "type": "official estate photograph",
+    "credit": "Château Angélus — official website; individual photographer not identified",
+    "visibleVintage": null,
+    "dimensions": [
+      1949,
+      1152
+    ],
+    "bytes": 277970
+  },
+  {
+    "name": "Château Angélus estate",
+    "localFile": "/workspace/scratch/63cb685a6651/angelus-assets/estate-1.jpg",
+    "imageURL": "https://www.angelus.com/en/img/Visu-Caroussel-chai-1.jpg",
+    "sourcePage": "https://www.angelus.com/en/the-property.html",
+    "caption": "Chai Carillon exterior with vines",
+    "type": "official estate photograph",
+    "credit": "Château Angélus — official website; individual photographer not identified",
+    "visibleVintage": null,
+    "dimensions": [
+      1949,
+      1152
+    ],
+    "bytes": 334426
+  },
+  {
+    "name": "Château Angélus estate",
+    "localFile": "/workspace/scratch/63cb685a6651/angelus-assets/estate-2.jpg",
+    "imageURL": "https://www.angelus.com/en/img/Visu-Caroussel-chai-2.jpg",
+    "sourcePage": "https://www.angelus.com/en/the-property.html",
+    "caption": "Barrels and suspended vats inside Chai Carillon",
+    "type": "official estate photograph",
+    "credit": "Château Angélus — official website; individual photographer not identified",
+    "visibleVintage": null,
+    "dimensions": [
+      1949,
+      1152
+    ],
+    "bytes": 300056
+  }
+]

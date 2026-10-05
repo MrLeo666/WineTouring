@@ -1,0 +1,717 @@
+[
+  {
+    "id": "angelus",
+    "name": "Château Angélus",
+    "lat": 44.893,
+    "lng": -0.1715,
+    "source": "https://www.angelus.com/",
+    "precision": "既有酒庄近似位置；非入口导航坐标"
+  },
+  {
+    "id": "beau-sejour-becot",
+    "name": "Château Beau-Séjour Bécot",
+    "lat": 44.895,
+    "lng": -0.165568,
+    "source": "https://vins-saint-emilion.com/en/castle/chateau-beau-sejour-becot-2/",
+    "precision": "产区协会公布的酒庄位置"
+  },
+  {
+    "id": "beausejour-duffau-lagarrosse",
+    "name": "Château Beauséjour Duffau-Lagarrosse",
+    "lat": 44.892287594555,
+    "lng": -0.16467690467834,
+    "source": "https://vins-saint-emilion.com/en/castle/chateau-beausejour-heritiers-duffau-lagarrosse-2/",
+    "precision": "产区协会公布的酒庄位置"
+  },
+  {
+    "id": "canon-la-gaffeliere",
+    "name": "Château Canon la Gaffelière",
+    "lat": 44.8809,
+    "lng": -0.160718,
+    "source": "https://vins-saint-emilion.com/chateau/chateau-canon-la-gaffeliere/",
+    "precision": "产区协会公布的酒庄位置"
+  },
+  {
+    "id": "clos-fourtet",
+    "name": "Clos Fourtet",
+    "lat": 44.894414,
+    "lng": -0.158091,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1527?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "figeac",
+    "name": "Château Figeac",
+    "lat": 44.906951,
+    "lng": -0.183793,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1517?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "larcis-ducasse",
+    "name": "Château Larcis Ducasse",
+    "lat": 44.8806,
+    "lng": -0.145556,
+    "source": "https://vins-saint-emilion.com/en/castle/chateau-larcis-ducasse-2/",
+    "precision": "产区协会公布的酒庄位置"
+  },
+  {
+    "id": "pavie-macquin",
+    "name": "Château Pavie Macquin",
+    "lat": 44.8915,
+    "lng": -0.149764,
+    "source": "https://vins-saint-emilion.com/chateau/chateau-pavie-macquin/",
+    "precision": "产区协会公布的酒庄位置"
+  },
+  {
+    "id": "trolong-mondot",
+    "name": "Château Trolong Mondot",
+    "lat": 44.889476,
+    "lng": -0.143888,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1510?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "balestard-la-tonnelle",
+    "name": "Château Balestard la Tonnelle",
+    "lat": 44.8982351,
+    "lng": -0.1456052,
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000028.html",
+    "precision": "具名酒庄地图点；已排除旅游名录中的重复默认坐标"
+  },
+  {
+    "id": "bellefont-belcier",
+    "name": "Château Bellefont Belcier",
+    "lat": 44.8804606,
+    "lng": -0.1383467,
+    "source": "https://agccse.fr/chateau/chateau-bellefont-belcier/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "bellevue",
+    "name": "Château Bellevue",
+    "lat": 44.894372,
+    "lng": -0.173713,
+    "source": "https://agccse.fr/chateau/chateau-bellevue/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "boutisse",
+    "name": "Château Boutisse",
+    "lat": 44.887742207515,
+    "lng": -0.10488510131836,
+    "source": "https://vins-saint-emilion.com/en/castle/chateau-boutisse-2/",
+    "precision": "产区协会公布的酒庄位置"
+  },
+  {
+    "id": "cadet-bon",
+    "name": "Château Cadet-Bon",
+    "lat": 44.901615,
+    "lng": -0.153205,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1339?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "cap-de-mourlin",
+    "name": "Château Cap de Mourlin",
+    "lat": 44.9076,
+    "lng": -0.154,
+    "source": "https://vins-saint-emilion.com/en/castle/chateau-cap-de-mourlin-2/",
+    "precision": "产区协会公布的酒庄位置"
+  },
+  {
+    "id": "chauvin",
+    "name": "Château Chauvin",
+    "lat": 44.917292,
+    "lng": -0.168797,
+    "source": "https://agccse.fr/chateau/chateau-chauvin/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "corbin",
+    "name": "Château Corbin",
+    "lat": 44.922034,
+    "lng": -0.176724,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1357?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "croix-de-labrie",
+    "name": "Château Croix de Labrie",
+    "lat": 44.89468676314584,
+    "lng": -0.11907630586516058,
+    "source": "https://agccse.fr/chateau/chateau-croix-de-labrie/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "dassault",
+    "name": "Château Dassault",
+    "lat": 44.906608,
+    "lng": -0.142374,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1361?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "destieux",
+    "name": "Château Destieux",
+    "lat": 44.8916,
+    "lng": -0.168226,
+    "source": "https://vins-saint-emilion.com/en/castle/chateau-destieux-2/",
+    "precision": "产区协会公布的酒庄位置"
+  },
+  {
+    "id": "fombrauge",
+    "name": "Château Fombrauge",
+    "lat": 44.89661981973,
+    "lng": -0.1138436794281,
+    "source": "https://vins-saint-emilion.com/en/castle/chateau-fombrauge-2/",
+    "precision": "产区协会公布的酒庄位置"
+  },
+  {
+    "id": "fonroque",
+    "name": "Château Fonroque",
+    "lat": 44.904097,
+    "lng": -0.159397,
+    "source": "https://agccse.fr/chateau/chateau-fonroque/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "franc-mayne",
+    "name": "Château Franc Mayne",
+    "lat": 44.9008,
+    "lng": -0.170732,
+    "source": "https://vins-saint-emilion.com/en/castle/chateau-franc-mayne-2/",
+    "precision": "产区协会公布的酒庄位置"
+  },
+  {
+    "id": "grand-corbin",
+    "name": "Château Grand Corbin",
+    "lat": 44.920393,
+    "lng": -0.16967,
+    "source": "https://agccse.fr/chateau/chateau-grand-corbin/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "grand-corbin-despagne",
+    "name": "Château Grand Corbin-Despagne",
+    "lat": 44.9231986,
+    "lng": -0.1776244,
+    "source": "https://agccse.fr/chateau/chateau-grand-corbin-despagne/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "grand-mayne",
+    "name": "Château Grand Mayne",
+    "lat": 44.899526,
+    "lng": -0.17448,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1964?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "guadet",
+    "name": "Château Guadet",
+    "lat": 44.895255,
+    "lng": -0.155264,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1415?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "haut-sarpe",
+    "name": "Château Haut-Sarpe",
+    "lat": 44.8959,
+    "lng": -0.140539,
+    "source": "https://agccse.fr/chateau/chateau-haut-sarpe/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "jean-faure",
+    "name": "Château Jean Faure",
+    "lat": 44.920844,
+    "lng": -0.183167,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1416?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "la-fleur-morange",
+    "name": "Château La Fleur Morange",
+    "lat": 44.8559043,
+    "lng": -0.1106838,
+    "source": "https://agccse.fr/chateau/chateau-la-fleur-morange/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "laniote",
+    "name": "Château Laniote",
+    "lat": 44.90523,
+    "lng": -0.16065,
+    "source": "https://agccse.fr/chateau/chateau-laniote/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "larmande",
+    "name": "Château Larmande",
+    "lat": 44.905666,
+    "lng": -0.152636,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1460?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "laroque",
+    "name": "Château Laroque",
+    "lat": 44.8907105,
+    "lng": -0.1185232,
+    "source": "https://agccse.fr/chateau/chateau-laroque/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "laroze",
+    "name": "Château Laroze",
+    "lat": 44.902655,
+    "lng": -0.176948,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1459?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "le-prieure",
+    "name": "Château Le Prieuré",
+    "lat": 44.9417,
+    "lng": -0.175407,
+    "source": "https://vins-saint-emilion.com/en/castle/chateau-le-prieure-2/",
+    "precision": "产区协会公布的酒庄位置"
+  },
+  {
+    "id": "mangot",
+    "name": "Château Mangot",
+    "lat": 44.881893,
+    "lng": -0.076783,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1454?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "montlabert",
+    "name": "Château Montlabert",
+    "lat": 44.909910190247096,
+    "lng": -0.18230773862359922,
+    "source": "https://agccse.fr/chateau/chateau-montlabert/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "moulin-du-cadet",
+    "name": "Château Moulin du Cadet",
+    "lat": 44.9041,
+    "lng": -0.1548,
+    "source": "https://vins-saint-emilion.com/en/castle/chateau-moulin-du-cadet-2/",
+    "precision": "产区协会公布的酒庄位置"
+  },
+  {
+    "id": "peby-faugeres",
+    "name": "Château Peby Faugères",
+    "lat": 44.88292318076864,
+    "lng": -0.08165245396931806,
+    "source": "https://agccse.fr/chateau/chateau-peby-faugeres/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "petit-faurie-de-soutard",
+    "name": "Château Petit Faurie de Soutard",
+    "lat": 44.9016,
+    "lng": -0.1444,
+    "source": "https://vins-saint-emilion.com/en/castle/chateau-petit-faurie-de-soutard-2/",
+    "precision": "产区协会公布的酒庄位置"
+  },
+  {
+    "id": "rochebelle",
+    "name": "Château Rochebelle",
+    "lat": 44.883499,
+    "lng": -0.136447,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1498?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "rol-valentin",
+    "name": "Château Rol Valentin",
+    "lat": 44.888442,
+    "lng": -0.08322,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1496?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "sansonnet",
+    "name": "Château Sansonnet",
+    "lat": 44.896181,
+    "lng": -0.144306,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1491?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "soutard",
+    "name": "Château Soutard",
+    "lat": 44.901652,
+    "lng": -0.148679,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1487?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "tour-saint-christophe",
+    "name": "Château Tour Saint-Christophe",
+    "lat": 44.890973,
+    "lng": -0.129274,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1505?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "villemaurine",
+    "name": "Château Villemaurine",
+    "lat": 44.8955,
+    "lng": -0.153685,
+    "source": "https://agccse.fr/chateau/chateau-villemaurine/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "yon-figeac",
+    "name": "Château Yon-Figeac",
+    "lat": 44.9052522,
+    "lng": -0.1825035,
+    "source": "https://agccse.fr/chateau/chateau-yon-figeac/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "de-ferrand",
+    "name": "Château de Ferrand",
+    "lat": 44.883698,
+    "lng": -0.118554,
+    "source": "https://agccse.fr/chateau/chateau-de-ferrand/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "de-pressac",
+    "name": "Château de Pressac",
+    "lat": 44.8833,
+    "lng": -0.0864,
+    "source": "https://agccse.fr/chateau/chateau-de-pressac/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "la-commanderie",
+    "name": "Château la Commanderie",
+    "lat": 44.91643336387672,
+    "lng": -0.17782434416730775,
+    "source": "https://agccse.fr/chateau/chateau-la-commanderie/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "la-croizille",
+    "name": "Château la Croizille",
+    "lat": 44.884405,
+    "lng": -0.134786,
+    "source": "https://agccse.fr/chateau/chateau-la-croizille/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "la-dominique",
+    "name": "Château la Dominique",
+    "lat": 44.920724,
+    "lng": -0.186236,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1434?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "le-chatelet",
+    "name": "Château le Chatelet",
+    "lat": 44.89554,
+    "lng": -0.162977,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1458?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "clos-dubreuil",
+    "name": "Clos Dubreuil",
+    "lat": 44.893578,
+    "lng": -0.121115,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1528?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "clos-saint-julien",
+    "name": "Clos Saint-Julien",
+    "lat": 44.896527,
+    "lng": -0.15458,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/3586?fromP=50",
+    "precision": "旅游局公布的酒庄／接待点坐标"
+  },
+  {
+    "id": "clos-des-jacobins",
+    "name": "Clos des Jacobins",
+    "lat": 44.9033,
+    "lng": -0.172567,
+    "source": "https://agccse.fr/chateau/chateau-des-jacobins/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "couvent-des-jacobins",
+    "name": "Couvent des Jacobins",
+    "lat": 44.8945777,
+    "lng": -0.1548523,
+    "source": "https://agccse.fr/chateau/couvent-des-jacobins/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "estate-faugeres",
+    "name": "Château Faugères",
+    "lat": 44.880087,
+    "lng": -0.086958,
+    "source": "https://agccse.fr/chateau/chateau-faugeres/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "cheval",
+    "name": "Château Cheval Blanc",
+    "lat": 44.919648,
+    "lng": -0.1920287,
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000206.html",
+    "mapLink": "https://www.google.de/maps/place/Ch%C3%A2teau+Cheval+Blanc/@44.919648,-0.1920287,17z/data=!3m1!4b1!4m2!3m1!1s0xd554e842a389847:0xe2c099b060e132ab?hl=de&shorturl=1",
+    "precision": "酒庄名录地图链接的近似位置；入口待进一步核实"
+  },
+  {
+    "id": "ausone",
+    "name": "Château Ausone",
+    "lat": 44.88908,
+    "lng": -0.1564908,
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000024.html",
+    "mapLink": "https://www.google.de/maps/place/Ch%C3%A2teau+Ausone/@44.88908,-0.1564908,15z/data=!4m2!3m1!1s0x0:0x5aa2e5b2ca3d1927?shorturl=1",
+    "precision": "酒庄名录地图链接的近似位置；入口待进一步核实"
+  },
+  {
+    "id": "pavie",
+    "name": "Château Pavie",
+    "lat": 44.883367,
+    "lng": -0.148902,
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000757.html",
+    "mapLink": "https://www.google.de/maps/place/Ch%C3%A2teau+Pavie/@44.883367,-0.148902,17z/data=!3m1!4b1!4m2!3m1!1s0xd55502a1cd271cb:0x2e8854c997ced229?hl=de",
+    "precision": "酒庄名录地图链接的近似位置；入口待进一步核实"
+  },
+  {
+    "id": "trottevieille",
+    "name": "Château Trottevieille",
+    "lat": 44.893672,
+    "lng": -0.145103,
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001000.html",
+    "mapLink": "https://www.google.de/maps/place/Ch%C3%A2teau+Trotte+Vieille/@44.893672,-0.145103,17z/data=!3m1!4b1!4m2!3m1!1s0xd554e2f152c1e07:0x9c8f479fd7846a25?hl=de",
+    "precision": "酒庄名录地图链接的近似位置；入口待进一步核实"
+  },
+  {
+    "id": "valandraud",
+    "name": "Château Valandraud",
+    "lat": 44.887773,
+    "lng": -0.085359,
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001008.html",
+    "mapLink": "https://www.google.de/maps/place/Chateau+Valandraud/@44.887773,-0.085359,17z/data=!3m1!4b1!4m2!3m1!1s0xd5550d8745372cb:0x9678590fc5afb1d8?hl=de",
+    "precision": "酒庄名录地图链接的近似位置；入口待进一步核实"
+  },
+  {
+    "id": "badette",
+    "name": "Château Badette",
+    "lat": 44.902111628564704,
+    "lng": -0.1377868447613476,
+    "source": "https://agccse.fr/chateau/chateau-badette/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "barde-haut",
+    "lat": 44.8919532,
+    "lng": -0.132941,
+    "source": "https://www.cirkwi.com/fr/point-interet/260361-chateau-barde-haut-grand-cru",
+    "precision": "旅游局提供的酒庄位置（Cirkwi）"
+  },
+  {
+    "id": "berliquet",
+    "name": "Château Berliquet",
+    "lat": 44.8890781,
+    "lng": -0.1648854,
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000088.html",
+    "mapLink": "https://www.google.de/maps/place/Ch%C3%A2teau+Berliquet/@44.8890819,-0.1670794,17z/data=!3m1!4b1!4m5!3m4!1s0xd554e3534ab016f:0xf55561d784a910e7!8m2!3d44.8890781!4d-0.1648854?hl=de&shorturl=1",
+    "precision": "酒庄名录地图链接的近似位置；入口待进一步核实"
+  },
+  {
+    "id": "clos-de-sarpe",
+    "name": "Château Clos de Sarpe",
+    "lat": 44.896628,
+    "lng": -0.138507,
+    "source": "https://agccse.fr/chateau/chateau-clos-de-sarpe/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "corbin-michotte",
+    "name": "Château Corbin Michotte",
+    "lat": 44.92383,
+    "lng": -0.180168,
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000260.html",
+    "mapLink": "https://www.google.de/maps/place/Ch%C3%A2teau+Corbin+Michotte/@44.92383,-0.180168,17z/data=!3m1!4b1!4m2!3m1!1s0xd554e78f4696d53:0x55430845cacb1db7?hl=de",
+    "precision": "酒庄名录地图链接的近似位置；入口待进一步核实"
+  },
+  {
+    "id": "cote-de-baleau",
+    "name": "Château Côte de Baleau",
+    "lat": 44.906134,
+    "lng": -0.164495,
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000265.html",
+    "mapLink": "https://www.google.de/maps/place/44%C2%B054'22.1%22N+0%C2%B009'52.2%22W/@44.906134,-0.164495,514m/data=!3m1!1e3!4m2!3m1!1s0x0:0x0?hl=de",
+    "precision": "酒庄名录地图链接的近似位置；入口待进一步核实"
+  },
+  {
+    "id": "fleur-cardinale",
+    "name": "Château Fleur Cardinale",
+    "lat": 44.8897926,
+    "lng": -0.084648,
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000371.html",
+    "mapLink": "https://www.google.de/maps/place/Ch%C3%A2teau+Fleur+Cardinale/@44.8897926,-0.084648,17z/data=!3m1!4b1!4m2!3m1!1s0xd55512874ba4885:0x768bc3da25b6202a?hl=de&shorturl=1",
+    "precision": "酒庄名录地图链接的近似位置；入口待进一步核实"
+  },
+  {
+    "id": "fonplegade",
+    "name": "Château Fonplégade",
+    "lat": 44.8850327,
+    "lng": -0.1677069,
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000386.html",
+    "mapLink": "https://www.google.de/maps/place/Ch%C3%A2teau+Fonplegade/@44.8850327,-0.1677069,514m/data=!3m2!1e3!4b1!4m2!3m1!1s0xd554fca65ff3243:0x8f6185ffd348a91f?hl=de&shorturl=1",
+    "precision": "酒庄名录地图链接的近似位置；入口待进一步核实"
+  },
+  {
+    "id": "monbousquet",
+    "name": "Château Monbousquet",
+    "lat": 44.877077,
+    "lng": -0.170107,
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000696.html",
+    "mapLink": "https://www.google.de/maps/place/Ch%C3%A2teau+Monbousquet/@44.877077,-0.170107,17z/data=!3m1!4b1!4m2!3m1!1s0xd554fb849cfb6d5:0xdd70166d9f1dac5?hl=de",
+    "precision": "酒庄名录地图链接的近似位置；入口待进一步核实"
+  },
+  {
+    "id": "saint-georges-cote-pavie",
+    "name": "Château Saint-Georges-Cote-Pavie",
+    "lat": 44.8847215,
+    "lng": -0.1567879,
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000899.html",
+    "mapLink": "https://www.google.de/maps/place/Ch%C3%A2teau+Saint-Georges+C%C3%B4te+Pavie/@44.8847215,-0.1567879,17z/data=!3m1!4b1!4m2!3m1!1s0xd554fd38ef36715:0xdd4814d663d826e6?shorturl=1",
+    "precision": "酒庄名录地图链接的近似位置；入口待进一步核实"
+  },
+  {
+    "id": "tour-baladoz",
+    "name": "Château Tour Baladoz",
+    "lat": 44.884405,
+    "lng": -0.134786,
+    "source": "https://agccse.fr/chateau/chateau-tour-baladoz/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "la-confession",
+    "name": "Château la Confession",
+    "lat": 44.90021678367745,
+    "lng": -0.1629770000159286,
+    "source": "https://agccse.fr/chateau/chateau-la-confession/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "la-couspaude",
+    "name": "Château la Couspaude",
+    "lat": 44.8964,
+    "lng": -0.150151,
+    "source": "https://agccse.fr/chateau/chateau-la-couspaude/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "la-marzelle",
+    "name": "Château la Marzelle",
+    "lat": 44.90852,
+    "lng": -0.191703,
+    "source": "https://agccse.fr/chateau/chateau-la-marzelle/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "la-serre",
+    "name": "Château la Serre",
+    "lat": 44.892953,
+    "lng": -0.15099,
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000925.html",
+    "mapLink": "https://www.google.de/maps/place/Ch%C3%A2teau+La+Serre/@44.892953,-0.15099,17z/data=!3m1!4b1!4m2!3m1!1s0xd554e298c1c8db3:0x60b2894329ad7e1c?hl=de",
+    "precision": "酒庄名录地图链接的近似位置；入口待进一步核实"
+  },
+  {
+    "id": "clos-saint-martin",
+    "name": "Clos Saint-Martin",
+    "lat": 44.89388,
+    "lng": -0.162438,
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000241.html",
+    "mapLink": "https://www.google.de/maps/@44.89388,-0.162438,3a,75y,253.7h,79.28t/data=!3m4!1e1!3m2!1sLRb68-PdXPQnQPhkbNl4Fw!2e0?hl=de",
+    "precision": "酒庄名录地图链接的近似位置；入口待进一步核实"
+  },
+  {
+    "id": "lassegue",
+    "name": "Lassegue",
+    "lat": 44.8774279,
+    "lng": -0.1282843,
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/001186.html",
+    "mapLink": "https://www.google.de/maps/place/Ch%C3%A2teau+Lass%C3%A8gue,+33330+Saint-Hippolyte,+Frankreich/@44.8774279,-0.1282843,17z/data=!3m1!4b1!4m2!3m1!1s0xd555045e0119fff:0xf0827eda51eb92ac?hl=de&shorturl=1",
+    "precision": "酒庄名录地图链接的近似位置；入口待进一步核实"
+  },
+  {
+    "id": "ripeau",
+    "name": "Château Ripeau",
+    "lat": 44.9177795,
+    "lng": -0.1869405,
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000850.html",
+    "mapLink": "https://www.google.de/maps/place/Ch%C3%A2teau+Ripeau/@44.9177795,-0.1869405,15z/data=!4m2!3m1!1s0xd554e7a8c4923b1:0xb0a6d48ee1dbbf74?hl=de&shorturl=1",
+    "precision": "酒庄名录地图链接的近似位置；入口待进一步核实"
+  },
+  {
+    "id": "montlisse",
+    "name": "Château Montlisse",
+    "lat": 44.8833972505928,
+    "lng": -0.11022014614691972,
+    "source": "https://agccse.fr/chateau/chateau-montlisse/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "clos-de-l-oratoire",
+    "name": "Clos de l'Oratoire",
+    "lat": 44.905835,
+    "lng": -0.139531,
+    "source": "https://agccse.fr/chateau/clos-de-loratoire/",
+    "precision": "列级庄协会公布的酒庄／接待点位置"
+  },
+  {
+    "id": "clos-badon-thunevin",
+    "name": "Clos Badon-Thunevin – Le Garage",
+    "lat": 44.891796,
+    "lng": -0.155908,
+    "source": "https://www.saint-emilion-tourisme.com/en/viticole/fiche/1532?fromP=50",
+    "precision": "旅游局公布的 Le Garage 接待点；不是葡萄园位置"
+  },
+  {
+    "id": "belair-monange",
+    "lat": 44.8885175,
+    "lng": -0.160836,
+    "source": "https://www.cirkwi.com/fr/point-interet/2714085-chateau-belair-monange",
+    "precision": "旅游局提供的酒庄位置（Cirkwi）"
+  },
+  {
+    "id": "canon",
+    "lat": 44.892936,
+    "lng": -0.163272,
+    "source": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_Canon",
+    "precision": "百科档案所列酒庄近似位置"
+  },
+  {
+    "id": "la-mondotte",
+    "lat": 44.8855,
+    "lng": -0.1385,
+    "source": "https://cheval-et-vigne.fr/chateaux/chateaux-de-la-rive-droite/la-mondotte/",
+    "precision": "酒庄向导公布的 GPS 示意点；入口待进一步核实"
+  },
+  {
+    "id": "la-tour-figeac",
+    "lat": 44.915024,
+    "lng": -0.20197099999996,
+    "source": "https://latourfigeac.fr/contact-la-tour-figeac/",
+    "precision": "酒庄官网联系页公布的接待位置"
+  }
+]

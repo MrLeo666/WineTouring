@@ -1,0 +1,4088 @@
+Maison Billecart-Salmon - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/billecart-salmon)
+【turn106view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/billecart-salmon","lineno":null}); Total lines: 148
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Billecart-Salmon
+L3: 
+L4: ## Billecart-Salmon
+L5: 
+L6: 40 rue Carnot
+L7: 51160 MAREUIL-SUR-AY
+L8: 
+L9: Tel. (33) 326 52 60 22
+L10: 
+L11: billecart@champagne-billecart.fr
+L12: 
+L13: 【3†Official website†www.champagne-billecart.fr】
+L14: 
+L15: 【4†Image】
+L16: 
+L17: 【5†Image】
+L18: 
+L19: 【6†Image】
+L20: 
+L21: 【7†Image】
+L22: 
+L23: 【8†Image】
+L24: 
+L25: 【9†Image】
+L26: 
+L27: ### Key Figures
+L28: 
+L29: Salaried staff: 130
+L30: Vineyard estate: 100 ha
+L31: 
+L32: ### Identity
+L33: 
+L34: Date of foundation: 1818
+L35: Profile: S.A.
+L36: Company Registration Number: 335 480 075 00019
+L37: 
+L38: ### Flow chart
+L39: #### Management
+L40: 
+L41: Chairman of the Board: 【10†Mathieu Roland-Billecart】
+L42: Management Board: 【11†Antoine Roland-Billecart】
+L43: Chairman of the Supervisory board: 【12†François Roland-Billecart】
+L44: Managing Director: 【13†Alexandre Bader】
+L45: 
+L46: #### Grape supply
+L47: 
+L48: 【14†Denis Blée】
+L49: Vineyard estate: 【14†Denis Blée】
+L50: Winegrower collaboration: Eric Fournel
+L51: 
+L52: #### Financial and Administrative management
+L53: 
+L54: Finance: Maxime Renault
+L55: Human Resources: Patricia Fleury
+L56: #### Winemaking
+L57: 
+L58: Cellar master: 【15†Florent Nys】
+L59: Oenologist: 【15†Florent Nys】
+L60: Production: Jérôme Romagny
+L61: 
+L62: #### Commercialization
+L63: 
+L64: 【13†Alexandre Bader】
+L65: 
+L66: #### CSR
+L67: 
+L68: CSE: Patricia Fleury
+L69: 
+L70: #### Communication
+L71: 
+L72: Angélina Stephan
+L73: #### 【1†Houses】
+L74: 
+L75: [Button: The Champagne Houses]
+L76: 【16†Abelé 1757】 【17†Alfred Gratien】 【18†Ayala】 【19†Barons de Rothschild】 【20†Besserat de Bellefon】 【21†Billecart-Salmon】 【22†Bissinger & C°】 【23†Boizel】 【24†Bollinger】 【25†Brice】 【26†Bruno Paillard】 【27†Burtin】 【28†Canard-Duchêne】 【29†Cattier】 【30†Chanoine Frères】 【31†Charles de Cazanove】 【32†Charles Heidsieck】 【33†Charles Lafitte】 【34†Charles Mignon】 【35†Chaudron】 【36†Collery】 【37†Cristian Senez】 【38†Cuperly】 【39†de Castellane】 【40†de Venoge】 【41†Delamotte】 【42†Deutz】 【43†Dom Pérignon】 【44†Duval-Leroy】 【45†Edouard Brun & C°】 【46†Eugène Ralle】 【47†Ferdinand Bonnet】 【48†G.H.
+L77: Martel & Co】 【49†Gardet】 【50†Gosset】 【51†Gremillet】 【52†Heidsieck & C° Monopole】 【53†Henri Giraud】 【54†Henriot】 【55†Irroy】 【56†Jacquesson】 【57†Jacquinot & Fils】 【58†Janisson & Fils】 【59†Joseph Perrier】 【60†Krug】 【61†Lallier】 【62†Lanson】 【63†Laurent-Perrier】 【64†Leclerc Briant】 【65†Lenoble】 【66†Lombard】 【67†Louis de Sacy】 【68†Louis Massing】 【69†Louis Roederer】 【70†Malard】 【71†Mansard】 【72†Marie Stuart】 【73†Mercier】 【74†Moët & Chandon】 【75†Moutard】 【76†Mumm & Cie】 【77†Nicolas Gueusquin】 【78†Perrier Jouët】 【79†Philipponnat】 【80†Pierre Mignon】 【81†Piper-Heidsieck】 【82†Pol Roger】 【83†Pommery】 【84†Ruinart】 【85†Salon】 【86†Soutiran】 【87†Taittinger】 【88†Telmont】 【89†Thiénot】 【90†Veuve Cheurlin (J.Arnoult)】 【91†Veuve Clicquot】 【92†Vranken】
+L78: 【93†Cellar Visits】
+L79: 
+L80: 【94†Heritage】
+L81: 
+L82: 【95†The art of tasting】
+L83: 
+L84:   * 【96†Works (1)】
+L85:   * 【97†Heritage (1)】
+L86:   * 【98†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L87: 
+L88: 【99†Responsible Drinking】
+L89: 
+L90: 【100†Calorie Counter】
+L91: 
+L92: 【101†Champagne, Fundamentals】
+L93: 
+L94: 【102†Cellar visites】
+L95: ### 【1†Houses】
+L96: 
+L97:   * 【2†The Champagne Houses】
+L98:   * 【93†Cellar Visits】
+L99:   * 【94†Heritage】
+L100:   * 【95†The art of tasting】
+L101: 
+L102: ### 【103†Appellation】
+L103: 
+L104:   * 【104†Geographical area】
+L105:   * 【105†Stages in winemaking】
+L106:   * 【106†The Champagne Terroir: A living heritage】
+L107:   * 【107†Definition and protection】
+L108:   * 【108†The Champagne month by month】
+L109: 
+L110: ### 【109†Industry】
+L111: 
+L112:   * 【110†Sustainable development】
+L113:   * 【111†Organisation】
+L114:   * 【112†Professional Associations】
+L115:   * 【113†News】
+L116: ### 【114†Encyclopedias】
+L117: 
+L118:   * 【115†Champagne Guest Book】
+L119:   * 【116†Photothèque UMC】
+L120:   * 【117†Video Library】
+L121:   * 【118†Books about vines and wines】
+L122:   * 【119†Exceptional vintages】
+L123:   * 【120†The grand history of the Champagne Houses】
+L124:   * 【121†World’s Fairs】
+L125:   * 【122†Champagne, star of the seventh art】
+L126:   * 【123†Champagne and the arts】
+L127:   * 【124†Champagne people】
+L128: ### 【125†Professional】
+L129: 
+L130:   * 【126†UMC】
+L131: 
+L132:   * 【126†Contact】
+L133:   * 【127†Site map】
+L134:   * 【128†CGU】
+L135:   * 【129†alphamosa.fr†alphamosa.fr】
+L136:   * The abuse of alcohol is harmful to your health – consume in moderation
+L137:   * 【126†Contact】
+L138: 
+L139: 【127†Plan du site】
+L140: 
+L141: 【128†Mentions légales】
+L142: 
+L143: 【130†Politique de confidentialité】
+L144: 
+L145: 【129†alphamosa.fr†alphamosa.fr】
+L146: 
+L147: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+--------------------------------------------------------------------------------
+Maison Bollinger - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/bollinger)
+【turn106view1】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/bollinger","lineno":null}); Total lines: 157
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Bollinger
+L3: 
+L4: ## Bollinger
+L5: 
+L6: 16 rue Jules Lobet - BP 4
+L7: 51160 AY
+L8: 
+L9: Tel. (33) 326 53 33 66
+L10: 
+L11: contact@champagne-bollinger.fr
+L12: 
+L13: 【3†Official website†www.champagne-bollinger.com】
+L14: 
+L15: 【4†Image】
+L16: 
+L17: 【5†Image】
+L18: 
+L19: 【6†Image】
+L20: 
+L21: 【7†Image】
+L22: 
+L23: 【8†Image】
+L24: 
+L25: 【9†Image】
+L26: 
+L27: 【10†Image】
+L28: 
+L29: 【11†Image】
+L30: 
+L31: ### Key Figures
+L32: 
+L33: Salaried staff: 155
+L34: Vineyard estate: 178 ha
+L35: 
+L36: ### Identity
+L37: 
+L38: Date of foundation: 1829
+L39: Group: Bollinger
+L40: Profile: S.A.
+L41: Company Registration Number: 334 594 777 00016
+L42: 
+L43: ### Flow chart
+L44: #### Management
+L45: 
+L46: Chairman: Etienne Bizot
+L47: Managing Director: 【12†Charles-Armand de Belenet】
+L48: General Secretary: Benjamin Guizelin
+L49: 
+L50: #### Grape supply
+L51: 
+L52: Vineyard estate: 【13†Gaël Vuille】
+L53: Winegrower collaboration: 【13†Gaël Vuille】
+L54: 
+L55: #### Financial and Administrative management
+L56: 
+L57: Finance: Benjamin Guizelin
+L58: Human Resources: Delphine Langlois
+L59: 
+L60: #### Brand Home
+L61: 
+L62: cf. Direction Générale
+L63: 
+L64: #### Quality Control, Environment, CSR
+L65: 
+L66: Claire Régent
+L67: 
+L68: #### Winemaking
+L69: 
+L70: Wines: cf. Direction Générale
+L71: Operations: 【14†Benoit Pernod】
+L72: #### Commercialization
+L73: 
+L74: International: Cyril Delarue
+L75: 
+L76: #### Marketing
+L77: 
+L78: cf. Direction Générale
+L79: 
+L80: #### Communication
+L81: 
+L82: cf. Direction Générale
+L83: #### 【1†Houses】
+L84: 
+L85: [Button: The Champagne Houses]
+L86: 【15†Abelé 1757】 【16†Alfred Gratien】 【17†Ayala】 【18†Barons de Rothschild】 【19†Besserat de Bellefon】 【20†Billecart-Salmon】 【21†Bissinger & C°】 【22†Boizel】 【23†Bollinger】 【24†Brice】 【25†Bruno Paillard】 【26†Burtin】 【27†Canard-Duchêne】 【28†Cattier】 【29†Chanoine Frères】 【30†Charles de Cazanove】 【31†Charles Heidsieck】 【32†Charles Lafitte】 【33†Charles Mignon】 【34†Chaudron】 【35†Collery】 【36†Cristian Senez】 【37†Cuperly】 【38†de Castellane】 【39†de Venoge】 【40†Delamotte】 【41†Deutz】 【42†Dom Pérignon】 【43†Duval-Leroy】 【44†Edouard Brun & C°】 【45†Eugène Ralle】 【46†Ferdinand Bonnet】 【47†G.H.
+L87: Martel & Co】 【48†Gardet】 【49†Gosset】 【50†Gremillet】 【51†Heidsieck & C° Monopole】 【52†Henri Giraud】 【53†Henriot】 【54†Irroy】 【55†Jacquesson】 【56†Jacquinot & Fils】 【57†Janisson & Fils】 【58†Joseph Perrier】 【59†Krug】 【60†Lallier】 【61†Lanson】 【62†Laurent-Perrier】 【63†Leclerc Briant】 【64†Lenoble】 【65†Lombard】 【66†Louis de Sacy】 【67†Louis Massing】 【68†Louis Roederer】 【69†Malard】 【70†Mansard】 【71†Marie Stuart】 【72†Mercier】 【73†Moët & Chandon】 【74†Moutard】 【75†Mumm & Cie】 【76†Nicolas Gueusquin】 【77†Perrier Jouët】 【78†Philipponnat】 【79†Pierre Mignon】 【80†Piper-Heidsieck】 【81†Pol Roger】 【82†Pommery】 【83†Ruinart】 【84†Salon】 【85†Soutiran】 【86†Taittinger】 【87†Telmont】 【88†Thiénot】 【89†Veuve Cheurlin (J.Arnoult)】 【90†Veuve Clicquot】 【91†Vranken】
+L88: 【92†Cellar Visits】
+L89: 
+L90: 【93†Heritage】
+L91: 
+L92: 【94†The art of tasting】
+L93: 
+L94:   * 【95†Works (25)】
+L95:   * 【96†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L96: 
+L97: 【97†Responsible Drinking】
+L98: 
+L99: 【98†Calorie Counter】
+L100: 
+L101: 【99†Champagne, Fundamentals】
+L102: 
+L103: 【100†Cellar visites】
+L104: ### 【1†Houses】
+L105: 
+L106:   * 【2†The Champagne Houses】
+L107:   * 【92†Cellar Visits】
+L108:   * 【93†Heritage】
+L109:   * 【94†The art of tasting】
+L110: 
+L111: ### 【101†Appellation】
+L112: 
+L113:   * 【102†Geographical area】
+L114:   * 【103†Stages in winemaking】
+L115:   * 【104†The Champagne Terroir: A living heritage】
+L116:   * 【105†Definition and protection】
+L117:   * 【106†The Champagne month by month】
+L118: 
+L119: ### 【107†Industry】
+L120: 
+L121:   * 【108†Sustainable development】
+L122:   * 【109†Organisation】
+L123:   * 【110†Professional Associations】
+L124:   * 【111†News】
+L125: ### 【112†Encyclopedias】
+L126: 
+L127:   * 【113†Champagne Guest Book】
+L128:   * 【114†Photothèque UMC】
+L129:   * 【115†Video Library】
+L130:   * 【116†Books about vines and wines】
+L131:   * 【117†Exceptional vintages】
+L132:   * 【118†The grand history of the Champagne Houses】
+L133:   * 【119†World’s Fairs】
+L134:   * 【120†Champagne, star of the seventh art】
+L135:   * 【121†Champagne and the arts】
+L136:   * 【122†Champagne people】
+L137: ### 【123†Professional】
+L138: 
+L139:   * 【124†UMC】
+L140: 
+L141:   * 【124†Contact】
+L142:   * 【125†Site map】
+L143:   * 【126†CGU】
+L144:   * 【127†alphamosa.fr†alphamosa.fr】
+L145:   * The abuse of alcohol is harmful to your health – consume in moderation
+L146:   * 【124†Contact】
+L147: 
+L148: 【125†Plan du site】
+L149: 
+L150: 【126†Mentions légales】
+L151: 
+L152: 【128†Politique de confidentialité】
+L153: 
+L154: 【127†alphamosa.fr†alphamosa.fr】
+L155: 
+L156: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+--------------------------------------------------------------------------------
+Maison Charles Heidsieck - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/charles-heidsieck)
+【turn106view2】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/charles-heidsieck","lineno":null}); Total lines: 156
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Charles Heidsieck
+L3: 
+L4: ## Charles Heidsieck
+L5: 
+L6: 12 allée du Vignoble - CS 90024
+L7: 51726 REIMS Cedex
+L8: 
+L9: Tel. (33) 326 84 43 50
+L10: 
+L11: Charles@charlesheidsieck.com
+L12: 
+L13: 【3†Official website†charlesheidsieck.com】
+L14: 
+L15: 【4†Image】
+L16: 
+L17: 【5†Image】
+L18: 
+L19: 【6†Image】
+L20: 
+L21: 【7†Image】
+L22: 
+L23: 【8†Image】
+L24: 
+L25: 【9†Image】
+L26: 
+L27: 【10†Image】
+L28: 
+L29: ### Key Figures
+L30: 
+L31: Salaried staff: 140 (consolidé PH-CH)
+L32: Vineyard estate: 65 (consolidé Ph-Ch) ha
+L33: ### Identity
+L34: 
+L35: Date of foundation: 1851
+L36: Group: Piper & Charles Heidsieck - EPI
+L37: Profile: S.A.S
+L38: Company Registration Number: 879 810 695 00012
+L39: 
+L40: ### Flow chart
+L41: 
+L42: #### Management
+L43: 
+L44: Chairman: 【11†Nicolas Beckers】
+L45: Director of the House: 【12†Stephen Leroux】
+L46: 
+L47: #### Grape supply
+L48: 
+L49: Vineyard estate: Thierry Gomerieux
+L50: Vineyard estate: 【13†Emilien Erard】
+L51: Winegrower collaboration: Thierry Gomerieux
+L52: Winegrower collaboration: 【13†Emilien Erard】
+L53: #### Financial and Administrative management
+L54: 
+L55: Finance: Patrice Proth
+L56: Human Resources: Marie-Laure Barrault
+L57: 
+L58: #### Winemaking
+L59: 
+L60: Cellar master: 【13†Emilien Erard】
+L61: Production: Thierry Gomerieux
+L62: 
+L63: #### Commercialization
+L64: 
+L65: France: Antoine Trémel
+L66: America: Tim Norris
+L67: Asia: Maxime Watelet
+L68: Latin America: Philippe Bourrat
+L69: 
+L70: #### Marketing
+L71: 
+L72: 【12†Stephen Leroux】
+L73: 
+L74: #### Communication
+L75: 
+L76: 【12†Stephen Leroux】
+L77: ### Cuvees
+L78: 
+L79: - Champagnes : Charles Heidsieck Brut Réserve, Charles Heidsieck Rosé Réserve, Charles Heidsieck Blanc de Blancs, Brut Millésime 2006, Rosé Millésime 2005, Blanc des Millénaires 2004.
+L80: #### 【1†Houses】
+L81: 
+L82: [Button: The Champagne Houses]
+L83: 【14†Abelé 1757】 【15†Alfred Gratien】 【16†Ayala】 【17†Barons de Rothschild】 【18†Besserat de Bellefon】 【19†Billecart-Salmon】 【20†Bissinger & C°】 【21†Boizel】 【22†Bollinger】 【23†Brice】 【24†Bruno Paillard】 【25†Burtin】 【26†Canard-Duchêne】 【27†Cattier】 【28†Chanoine Frères】 【29†Charles de Cazanove】 【30†Charles Heidsieck】 【31†Charles Lafitte】 【32†Charles Mignon】 【33†Chaudron】 【34†Collery】 【35†Cristian Senez】 【36†Cuperly】 【37†de Castellane】 【38†de Venoge】 【39†Delamotte】 【40†Deutz】 【41†Dom Pérignon】 【42†Duval-Leroy】 【43†Edouard Brun & C°】 【44†Eugène Ralle】 【45†Ferdinand Bonnet】 【46†G.H.
+L84: Martel & Co】 【47†Gardet】 【48†Gosset】 【49†Gremillet】 【50†Heidsieck & C° Monopole】 【51†Henri Giraud】 【52†Henriot】 【53†Irroy】 【54†Jacquesson】 【55†Jacquinot & Fils】 【56†Janisson & Fils】 【57†Joseph Perrier】 【58†Krug】 【59†Lallier】 【60†Lanson】 【61†Laurent-Perrier】 【62†Leclerc Briant】 【63†Lenoble】 【64†Lombard】 【65†Louis de Sacy】 【66†Louis Massing】 【67†Louis Roederer】 【68†Malard】 【69†Mansard】 【70†Marie Stuart】 【71†Mercier】 【72†Moët & Chandon】 【73†Moutard】 【74†Mumm & Cie】 【75†Nicolas Gueusquin】 【76†Perrier Jouët】 【77†Philipponnat】 【78†Pierre Mignon】 【79†Piper-Heidsieck】 【80†Pol Roger】 【81†Pommery】 【82†Ruinart】 【83†Salon】 【84†Soutiran】 【85†Taittinger】 【86†Telmont】 【87†Thiénot】 【88†Veuve Cheurlin (J.Arnoult)】 【89†Veuve Clicquot】 【90†Vranken】
+L85: 【91†Cellar Visits】
+L86: 
+L87: 【92†Heritage】
+L88: 
+L89: 【93†The art of tasting】
+L90: 
+L91:   * 【94†Works (22)】
+L92:   * 【95†Heritage (2)】
+L93: 
+L94: 【96†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L95: 
+L96: 【97†Responsible Drinking】
+L97: 
+L98: 【98†Calorie Counter】
+L99: 
+L100: 【99†Champagne, Fundamentals】
+L101: 
+L102: 【100†Cellar visites】
+L103: ### 【1†Houses】
+L104: 
+L105:   * 【2†The Champagne Houses】
+L106:   * 【91†Cellar Visits】
+L107:   * 【92†Heritage】
+L108:   * 【93†The art of tasting】
+L109: 
+L110: ### 【101†Appellation】
+L111: 
+L112:   * 【102†Geographical area】
+L113:   * 【103†Stages in winemaking】
+L114:   * 【104†The Champagne Terroir: A living heritage】
+L115:   * 【105†Definition and protection】
+L116:   * 【106†The Champagne month by month】
+L117: 
+L118: ### 【107†Industry】
+L119: 
+L120:   * 【108†Sustainable development】
+L121:   * 【109†Organisation】
+L122:   * 【110†Professional Associations】
+L123:   * 【111†News】
+L124: ### 【112†Encyclopedias】
+L125: 
+L126:   * 【113†Champagne Guest Book】
+L127:   * 【114†Photothèque UMC】
+L128:   * 【115†Video Library】
+L129:   * 【116†Books about vines and wines】
+L130:   * 【117†Exceptional vintages】
+L131:   * 【118†The grand history of the Champagne Houses】
+L132:   * 【119†World’s Fairs】
+L133:   * 【120†Champagne, star of the seventh art】
+L134:   * 【121†Champagne and the arts】
+L135:   * 【122†Champagne people】
+L136: ### 【123†Professional】
+L137: 
+L138:   * 【124†UMC】
+L139: 
+L140:   * 【124†Contact】
+L141:   * 【125†Site map】
+L142:   * 【126†CGU】
+L143:   * 【127†alphamosa.fr†alphamosa.fr】
+L144:   * The abuse of alcohol is harmful to your health – consume in moderation
+L145:   * 【124†Contact】
+L146: 
+L147: 【125†Plan du site】
+L148: 
+L149: 【126†Mentions légales】
+L150: 
+L151: 【128†Politique de confidentialité】
+L152: 
+L153: 【127†alphamosa.fr†alphamosa.fr】
+L154: 
+L155: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+
+Maison de Venoge - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/de-venoge)
+【turn107view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/de-venoge","lineno":null}); Total lines: 155
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > de Venoge
+L3: 
+L4: ## de Venoge
+L5: 
+L6: 33 avenue de Champagne
+L7: 51200 EPERNAY
+L8: 
+L9: Tel. (33) 326 53 34 34
+L10: 
+L11: adv@champagnedevenoge.com
+L12: 
+L13: 【3†Cellar visits†champagnedevenoge.com】 【4†Official website†champagnedevenoge.com】
+L14: 
+L15: 【5†Image】
+L16: 
+L17: 【6†Image】
+L18: 
+L19: 【7†Image】
+L20: 
+L21: 【8†Image】
+L22: 
+L23: 【9†Image】
+L24: 
+L25: 【10†Image】
+L26: 
+L27: 【11†Image】
+L28: 
+L29: ### Key Figures
+L30: 
+L31: Salaried staff: 12
+L32: Vineyard estate: 12 ha
+L33: ### Identity
+L34: 
+L35: Date of foundation: 1837
+L36: Group: Lanson-BCC
+L37: Profile: S.A.S
+L38: Capital: 3 millions
+L39: Company Registration Number: 420 429 482 00037
+L40: 
+L41: ### Flow chart
+L42: 
+L43: #### Management
+L44: 
+L45: Chairman: 【12†Gilles de la Bassetière】
+L46: Managing Director: 【12†Gilles de la Bassetière】
+L47: 
+L48: #### Grape supply
+L49: 
+L50: Vineyard estate: 【12†Gilles de la Bassetière】
+L51: Winegrower collaboration: 【12†Gilles de la Bassetière】
+L52: 
+L53: #### Financial and Administrative management
+L54: 
+L55: Finance: David Seyler
+L56: Human Resources: cf. Direction Générale
+L57: #### Winemaking
+L58: 
+L59: Cellar master: 【13†Isabelle Tellier】
+L60: Oenologist: 【13†Isabelle Tellier】
+L61: Production: 【13†Isabelle Tellier】
+L62: 
+L63: #### Commercialization
+L64: 
+L65: Philippe Manfredini
+L66: 
+L67: #### Marketing
+L68: 
+L69: Emmanuelle Kerner
+L70: 
+L71: #### Communication
+L72: 
+L73: Guillaume Jourdan
+L74: PR: Guillaume Jourdan
+L75: 
+L76: ### Cuvees
+L77: 
+L78: Cordon Bleu : Brut, Extra Brut, Rosé, Blanc de Noirs, Demi Sec, Millésimé. Princes : Blanc de Blancs, Blanc de Noirs, Rosé, Extra Brut. Louis XV, Louis XV Rosé
+L79: #### 【1†Houses】
+L80: 
+L81: [Button: The Champagne Houses]
+L82: 【14†Abelé 1757】 【15†Alfred Gratien】 【16†Ayala】 【17†Barons de Rothschild】 【18†Besserat de Bellefon】 【19†Billecart-Salmon】 【20†Bissinger & C°】 【21†Boizel】 【22†Bollinger】 【23†Brice】 【24†Bruno Paillard】 【25†Burtin】 【26†Canard-Duchêne】 【27†Cattier】 【28†Chanoine Frères】 【29†Charles de Cazanove】 【30†Charles Heidsieck】 【31†Charles Lafitte】 【32†Charles Mignon】 【33†Chaudron】 【34†Collery】 【35†Cristian Senez】 【36†Cuperly】 【37†de Castellane】 【38†de Venoge】 【39†Delamotte】 【40†Deutz】 【41†Dom Pérignon】 【42†Duval-Leroy】 【43†Edouard Brun & C°】 【44†Eugène Ralle】 【45†Ferdinand Bonnet】 【46†G.H.
+L83: Martel & Co】 【47†Gardet】 【48†Gosset】 【49†Gremillet】 【50†Heidsieck & C° Monopole】 【51†Henri Giraud】 【52†Henriot】 【53†Irroy】 【54†Jacquesson】 【55†Jacquinot & Fils】 【56†Janisson & Fils】 【57†Joseph Perrier】 【58†Krug】 【59†Lallier】 【60†Lanson】 【61†Laurent-Perrier】 【62†Leclerc Briant】 【63†Lenoble】 【64†Lombard】 【65†Louis de Sacy】 【66†Louis Massing】 【67†Louis Roederer】 【68†Malard】 【69†Mansard】 【70†Marie Stuart】 【71†Mercier】 【72†Moët & Chandon】 【73†Moutard】 【74†Mumm & Cie】 【75†Nicolas Gueusquin】 【76†Perrier Jouët】 【77†Philipponnat】 【78†Pierre Mignon】 【79†Piper-Heidsieck】 【80†Pol Roger】 【81†Pommery】 【82†Ruinart】 【83†Salon】 【84†Soutiran】 【85†Taittinger】 【86†Telmont】 【87†Thiénot】 【88†Veuve Cheurlin (J.Arnoult)】 【89†Veuve Clicquot】 【90†Vranken】
+L84: 【91†Cellar Visits】
+L85: 
+L86: 【92†Heritage】
+L87: 
+L88: 【93†The art of tasting】
+L89: 
+L90:   * 【94†Works (5)】
+L91:   * 【95†Heritage (2)】
+L92: 
+L93: 【96†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L94: 
+L95: 【97†Responsible Drinking】
+L96: 
+L97: 【98†Calorie Counter】
+L98: 
+L99: 【99†Champagne, Fundamentals】
+L100: 
+L101: 【100†Cellar visites】
+L102: ### 【1†Houses】
+L103: 
+L104:   * 【2†The Champagne Houses】
+L105:   * 【91†Cellar Visits】
+L106:   * 【92†Heritage】
+L107:   * 【93†The art of tasting】
+L108: 
+L109: ### 【101†Appellation】
+L110: 
+L111:   * 【102†Geographical area】
+L112:   * 【103†Stages in winemaking】
+L113:   * 【104†The Champagne Terroir: A living heritage】
+L114:   * 【105†Definition and protection】
+L115:   * 【106†The Champagne month by month】
+L116: 
+L117: ### 【107†Industry】
+L118: 
+L119:   * 【108†Sustainable development】
+L120:   * 【109†Organisation】
+L121:   * 【110†Professional Associations】
+L122:   * 【111†News】
+L123: ### 【112†Encyclopedias】
+L124: 
+L125:   * 【113†Champagne Guest Book】
+L126:   * 【114†Photothèque UMC】
+L127:   * 【115†Video Library】
+L128:   * 【116†Books about vines and wines】
+L129:   * 【117†Exceptional vintages】
+L130:   * 【118†The grand history of the Champagne Houses】
+L131:   * 【119†World’s Fairs】
+L132:   * 【120†Champagne, star of the seventh art】
+L133:   * 【121†Champagne and the arts】
+L134:   * 【122†Champagne people】
+L135: ### 【123†Professional】
+L136: 
+L137:   * 【124†UMC】
+L138: 
+L139:   * 【124†Contact】
+L140:   * 【125†Site map】
+L141:   * 【126†CGU】
+L142:   * 【127†alphamosa.fr†alphamosa.fr】
+L143:   * The abuse of alcohol is harmful to your health – consume in moderation
+L144:   * 【124†Contact】
+L145: 
+L146: 【125†Plan du site】
+L147: 
+L148: 【126†Mentions légales】
+L149: 
+L150: 【128†Politique de confidentialité】
+L151: 
+L152: 【127†alphamosa.fr†alphamosa.fr】
+L153: 
+L154: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+--------------------------------------------------------------------------------
+Maison Delamotte - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/delamotte)
+【turn107view1】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/delamotte","lineno":null}); Total lines: 147
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Delamotte
+L3: 
+L4: ## Delamotte
+L5: 
+L6: SOCIETE A.S.
+L7: 5-7 rue de la Brèche d’Oger
+L8: CS40006
+L9: 51190 Le Mesnil-sur-Oger
+L10: 
+L11: Tel. (33) 326 57 51 65
+L12: 
+L13: champagne@salondelamotte.com
+L14: 
+L15: 【3†Official website†www.salondelamotte.com】
+L16: 
+L17: 【4†Image】
+L18: 
+L19: 【5†Image】
+L20: 
+L21: 【6†Image】
+L22: 
+L23: 【7†Image】
+L24: 
+L25: ### Key Figures
+L26: 
+L27: Salaried staff: 7 (Sté A.S)
+L28: 
+L29: ### Identity
+L30: 
+L31: Date of foundation: 1760
+L32: Group: Laurent-Perrier
+L33: Profile: S.A.
+L34: Company Registration Number: 095 751 038 00019
+L35: 
+L36: ### Flow chart
+L37: #### Management
+L38: 
+L39: Chairman: Stéphanie Meneux de Nonancourt
+L40: Managing Director: Stéphanie Meneux de Nonancourt
+L41: 
+L42: #### Grape supply
+L43: 
+L44: Vineyard estate: 【8†Michel Fauconnet】
+L45: Winegrower collaboration: Emmanuel Robinet
+L46: 
+L47: #### Financial and Administrative management
+L48: 
+L49: Finance: cf. Direction Générale
+L50: Human Resources: cf. Direction Générale
+L51: Legal: Flore Steinmetz
+L52: 
+L53: #### Winemaking
+L54: 
+L55: Cellar master: 【8†Michel Fauconnet】
+L56: Oenologist: 【8†Michel Fauconnet】
+L57: Production: 【8†Michel Fauconnet】
+L58: #### Commercialization
+L59: 
+L60: 【9†Didier Depond】
+L61: 
+L62: #### Marketing
+L63: 
+L64: 【9†Didier Depond】
+L65: 
+L66: #### Communication
+L67: 
+L68: 【9†Didier Depond】
+L69: PR: cf. Direction Générale
+L70: 
+L71: ### Cuvees
+L72: 
+L73: Delamotte Brut, Delamotte Blanc de Blancs, Delamotte Blanc de Blancs Millésimé, Delamotte Rosé.
+L74: #### 【1†Houses】
+L75: 
+L76: [Button: The Champagne Houses]
+L77: 【10†Abelé 1757】 【11†Alfred Gratien】 【12†Ayala】 【13†Barons de Rothschild】 【14†Besserat de Bellefon】 【15†Billecart-Salmon】 【16†Bissinger & C°】 【17†Boizel】 【18†Bollinger】 【19†Brice】 【20†Bruno Paillard】 【21†Burtin】 【22†Canard-Duchêne】 【23†Cattier】 【24†Chanoine Frères】 【25†Charles de Cazanove】 【26†Charles Heidsieck】 【27†Charles Lafitte】 【28†Charles Mignon】 【29†Chaudron】 【30†Collery】 【31†Cristian Senez】 【32†Cuperly】 【33†de Castellane】 【34†de Venoge】 【35†Delamotte】 【36†Deutz】 【37†Dom Pérignon】 【38†Duval-Leroy】 【39†Edouard Brun & C°】 【40†Eugène Ralle】 【41†Ferdinand Bonnet】 【42†G.H.
+L78: Martel & Co】 【43†Gardet】 【44†Gosset】 【45†Gremillet】 【46†Heidsieck & C° Monopole】 【47†Henri Giraud】 【48†Henriot】 【49†Irroy】 【50†Jacquesson】 【51†Jacquinot & Fils】 【52†Janisson & Fils】 【53†Joseph Perrier】 【54†Krug】 【55†Lallier】 【56†Lanson】 【57†Laurent-Perrier】 【58†Leclerc Briant】 【59†Lenoble】 【60†Lombard】 【61†Louis de Sacy】 【62†Louis Massing】 【63†Louis Roederer】 【64†Malard】 【65†Mansard】 【66†Marie Stuart】 【67†Mercier】 【68†Moët & Chandon】 【69†Moutard】 【70†Mumm & Cie】 【71†Nicolas Gueusquin】 【72†Perrier Jouët】 【73†Philipponnat】 【74†Pierre Mignon】 【75†Piper-Heidsieck】 【76†Pol Roger】 【77†Pommery】 【78†Ruinart】 【79†Salon】 【80†Soutiran】 【81†Taittinger】 【82†Telmont】 【83†Thiénot】 【84†Veuve Cheurlin (J.Arnoult)】 【85†Veuve Clicquot】 【86†Vranken】
+L79: 【87†Cellar Visits】
+L80: 
+L81: 【88†Heritage】
+L82: 
+L83: 【89†The art of tasting】
+L84: 
+L85:   * 【90†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L86: 
+L87: 【91†Responsible Drinking】
+L88: 
+L89: 【92†Calorie Counter】
+L90: 
+L91: 【93†Champagne, Fundamentals】
+L92: 
+L93: 【94†Cellar visites】
+L94: ### 【1†Houses】
+L95: 
+L96:   * 【2†The Champagne Houses】
+L97:   * 【87†Cellar Visits】
+L98:   * 【88†Heritage】
+L99:   * 【89†The art of tasting】
+L100: 
+L101: ### 【95†Appellation】
+L102: 
+L103:   * 【96†Geographical area】
+L104:   * 【97†Stages in winemaking】
+L105:   * 【98†The Champagne Terroir: A living heritage】
+L106:   * 【99†Definition and protection】
+L107:   * 【100†The Champagne month by month】
+L108: 
+L109: ### 【101†Industry】
+L110: 
+L111:   * 【102†Sustainable development】
+L112:   * 【103†Organisation】
+L113:   * 【104†Professional Associations】
+L114:   * 【105†News】
+L115: ### 【106†Encyclopedias】
+L116: 
+L117:   * 【107†Champagne Guest Book】
+L118:   * 【108†Photothèque UMC】
+L119:   * 【109†Video Library】
+L120:   * 【110†Books about vines and wines】
+L121:   * 【111†Exceptional vintages】
+L122:   * 【112†The grand history of the Champagne Houses】
+L123:   * 【113†World’s Fairs】
+L124:   * 【114†Champagne, star of the seventh art】
+L125:   * 【115†Champagne and the arts】
+L126:   * 【116†Champagne people】
+L127: ### 【117†Professional】
+L128: 
+L129:   * 【118†UMC】
+L130: 
+L131:   * 【118†Contact】
+L132:   * 【119†Site map】
+L133:   * 【120†CGU】
+L134:   * 【121†alphamosa.fr†alphamosa.fr】
+L135:   * The abuse of alcohol is harmful to your health – consume in moderation
+L136:   * 【118†Contact】
+L137: 
+L138: 【119†Plan du site】
+L139: 
+L140: 【120†Mentions légales】
+L141: 
+L142: 【122†Politique de confidentialité】
+L143: 
+L144: 【121†alphamosa.fr†alphamosa.fr】
+L145: 
+L146: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+--------------------------------------------------------------------------------
+Maison Deutz - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/deutz)
+【turn107view2】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/deutz","lineno":null}); Total lines: 150
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Deutz
+L3: 
+L4: ## Deutz
+L5: 
+L6: 16 rue Jeanson - BP 9 - 51160 AY
+L7: 
+L8: Tel. (33) 326 56 94 00
+L9: 
+L10: france@champagne-deutz.com
+L11: 
+L12: 【3†Official website†www.champagne-deutz.com】
+L13: 
+L14: 【4†Laurent Troude】
+L15: 
+L16: 【5†Image】
+L17: 
+L18: 【6†Image】
+L19: 
+L20: 【7†Image】
+L21: 
+L22: 【8†Image】
+L23: 
+L24: 【9†Image】
+L25: 
+L26: 【10†Image】
+L27: 
+L28: ### Key Figures
+L29: 
+L30: Salaried staff: 97
+L31: Vineyard estate: 45 ha
+L32: 
+L33: ### Identity
+L34: 
+L35: Date of foundation: 1838
+L36: Group: Louis Roederer
+L37: Profile: S.A.
+L38: Company Registration Number: 335 681 359 00014
+L39: 
+L40: ### Flow chart
+L41: #### Management
+L42: 
+L43: P.-D.G.: 【11†Marc Hoellinger】
+L44: Deputy Managing Director: Morgan Mobuchon
+L45: 
+L46: #### Grape supply
+L47: 
+L48: Vineyard estate: Cédric Georget
+L49: Winegrower collaboration: cf. Direction Générale
+L50: 
+L51: #### Financial and Administrative management
+L52: 
+L53: Finance: David Thionville
+L54: Human Resources: Jérémy Musiedlak
+L55: 
+L56: #### Winemaking
+L57: 
+L58: Cellar master: 【12†Caroline Latrive】
+L59: Production: 【13†Mélanie Landat】
+L60: 
+L61: #### Commercialization
+L62: 
+L63: France: Morgan Mobuchon
+L64: Export: Cyrille Harmel
+L65: 
+L66: #### Marketing
+L67: 
+L68: Elodie Sebag
+L69: #### Communication
+L70: 
+L71: Elodie Sebag
+L72: ### Cuvees
+L73: Deutz Brut Classic, Deutz Brut Rosé non millésimé, Deutz Brut Millésimé, Deutz Blanc de Blancs millésimé, Deutz Brut Rosé Millésimé, William Deutz, Amour de Deutz, Amour de Deutz Rosé. - Filiale : Delas Frères - C/O 16 rue Jeanson - 51160 AY Produits Products Origine Origin Marques Brands Tous les vins d'AOC Vallée du Rhône DELAS Frères Hermitage Cornas Côte Rotie, etc.
+L74: Saint Joseph Crozes Hermitage Côte du Rhône Condrieu Chateauneuf du Pape Gigondas Vacqueyras Ventoux Grignan les Adhémar Tavel Vins de pays Coteaux Ardèche Vins de pays de la Drôme Muscat Beaumes de Venise etc.
+L75: #### 【1†Houses】
+L76: 
+L77: [Button: The Champagne Houses]
+L78: 【14†Abelé 1757】 【15†Alfred Gratien】 【16†Ayala】 【17†Barons de Rothschild】 【18†Besserat de Bellefon】 【19†Billecart-Salmon】 【20†Bissinger & C°】 【21†Boizel】 【22†Bollinger】 【23†Brice】 【24†Bruno Paillard】 【25†Burtin】 【26†Canard-Duchêne】 【27†Cattier】 【28†Chanoine Frères】 【29†Charles de Cazanove】 【30†Charles Heidsieck】 【31†Charles Lafitte】 【32†Charles Mignon】 【33†Chaudron】 【34†Collery】 【35†Cristian Senez】 【36†Cuperly】 【37†de Castellane】 【38†de Venoge】 【39†Delamotte】 【40†Deutz】 【41†Dom Pérignon】 【42†Duval-Leroy】 【43†Edouard Brun & C°】 【44†Eugène Ralle】 【45†Ferdinand Bonnet】 【46†G.H.
+L79: Martel & Co】 【47†Gardet】 【48†Gosset】 【49†Gremillet】 【50†Heidsieck & C° Monopole】 【51†Henri Giraud】 【52†Henriot】 【53†Irroy】 【54†Jacquesson】 【55†Jacquinot & Fils】 【56†Janisson & Fils】 【57†Joseph Perrier】 【58†Krug】 【59†Lallier】 【60†Lanson】 【61†Laurent-Perrier】 【62†Leclerc Briant】 【63†Lenoble】 【64†Lombard】 【65†Louis de Sacy】 【66†Louis Massing】 【67†Louis Roederer】 【68†Malard】 【69†Mansard】 【70†Marie Stuart】 【71†Mercier】 【72†Moët & Chandon】 【73†Moutard】 【74†Mumm & Cie】 【75†Nicolas Gueusquin】 【76†Perrier Jouët】 【77†Philipponnat】 【78†Pierre Mignon】 【79†Piper-Heidsieck】 【80†Pol Roger】 【81†Pommery】 【82†Ruinart】 【83†Salon】 【84†Soutiran】 【85†Taittinger】 【86†Telmont】 【87†Thiénot】 【88†Veuve Cheurlin (J.Arnoult)】 【89†Veuve Clicquot】 【90†Vranken】
+L80: 【91†Cellar Visits】
+L81: 
+L82: 【92†Heritage】
+L83: 
+L84: 【93†The art of tasting】
+L85: 
+L86:   * 【94†Works (17)】
+L87:   * 【95†Heritage (1)】
+L88:   * 【96†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L89: 
+L90: 【97†Responsible Drinking】
+L91: 
+L92: 【98†Calorie Counter】
+L93: 
+L94: 【99†Champagne, Fundamentals】
+L95: 
+L96: 【100†Cellar visites】
+L97: ### 【1†Houses】
+L98: 
+L99:   * 【2†The Champagne Houses】
+L100:   * 【91†Cellar Visits】
+L101:   * 【92†Heritage】
+L102:   * 【93†The art of tasting】
+L103: 
+L104: ### 【101†Appellation】
+L105: 
+L106:   * 【102†Geographical area】
+L107:   * 【103†Stages in winemaking】
+L108:   * 【104†The Champagne Terroir: A living heritage】
+L109:   * 【105†Definition and protection】
+L110:   * 【106†The Champagne month by month】
+L111: 
+L112: ### 【107†Industry】
+L113: 
+L114:   * 【108†Sustainable development】
+L115:   * 【109†Organisation】
+L116:   * 【110†Professional Associations】
+L117:   * 【111†News】
+L118: ### 【112†Encyclopedias】
+L119: 
+L120:   * 【113†Champagne Guest Book】
+L121:   * 【114†Photothèque UMC】
+L122:   * 【115†Video Library】
+L123:   * 【116†Books about vines and wines】
+L124:   * 【117†Exceptional vintages】
+L125:   * 【118†The grand history of the Champagne Houses】
+L126:   * 【119†World’s Fairs】
+L127:   * 【120†Champagne, star of the seventh art】
+L128:   * 【121†Champagne and the arts】
+L129:   * 【122†Champagne people】
+L130: ### 【123†Professional】
+L131: 
+L132:   * 【124†UMC】
+L133: 
+L134:   * 【124†Contact】
+L135:   * 【125†Site map】
+L136:   * 【126†CGU】
+L137:   * 【127†alphamosa.fr†alphamosa.fr】
+L138:   * The abuse of alcohol is harmful to your health – consume in moderation
+L139:   * 【124†Contact】
+L140: 
+L141: 【125†Plan du site】
+L142: 
+L143: 【126†Mentions légales】
+L144: 
+L145: 【128†Politique de confidentialité】
+L146: 
+L147: 【127†alphamosa.fr†alphamosa.fr】
+L148: 
+L149: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+
+Maison Dom Pérignon - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/dom-perignon)
+【turn108view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/dom-perignon","lineno":null}); Total lines: 144
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Dom Pérignon
+L3: 
+L4: ## Dom Pérignon
+L5: 
+L6: 20 avenue de Champagne - BP 140
+L7: 51333 EPERNAY Cedex
+L8: 
+L9: 【3†https://www.domperignon.com/fr/nous-contacter†www.domperignon.com】
+L10: 
+L11: Tel. (33) 326 51 20 00
+L12: 
+L13: 【4†©Dom Pérignon】
+L14: 
+L15: 【5†©Dom Pérignon】
+L16: 
+L17: 【6†Image】
+L18: 
+L19: 【7†Image】
+L20: 
+L21: ### Key Figures
+L22: 
+L23: Salaried staff: NC
+L24: Vineyard estate: 1 600 (consolidé MHCS) ha
+L25: 
+L26: ### Identity
+L27: 
+L28: Date of foundation: 1668
+L29: Group: MHCS
+L30: Profile: SA
+L31: Company Registration Number: 509 553 459
+L32: 
+L33: ### Flow chart
+L34: #### Management
+L35: 
+L36: Chairman MHCS: 【8†Jean-Jacques Guiony】
+L37: Deputy Managing Director MHCS: 【9†Frédéric Dufour】
+L38: Chairman: 【10†Sibylle Scherer】
+L39: Managing Director: Jacques Giraco
+L40: 
+L41: #### Grape supply
+L42: 
+L43: 【11†Frédéric Gallois】
+L44: Vineyard estate: 【11†Frédéric Gallois】
+L45: Winegrower collaboration: Yann-Marie du Bourblanc
+L46: 
+L47: #### Financial and Administrative management
+L48: 
+L49: Finance: Jennifer Skorupka
+L50: Human Resources: Damien de Colombel
+L51: #### Winemaking
+L52: 
+L53: Cellar master: 【12†Vincent Chaperon】
+L54: Production: Ghislain Bonnet
+L55: QSE: Didier de Amorin
+L56: 
+L57: #### Commercialization
+L58: 
+L59: International: Maxime Balay
+L60: 
+L61: #### Marketing
+L62: 
+L63: Charlotte Joyeux
+L64: 
+L65: #### Communication
+L66: 
+L67: Julie Poiraud
+L68: #### 【1†Houses】
+L69: 
+L70: [Button: The Champagne Houses]
+L71: 【13†Abelé 1757】 【14†Alfred Gratien】 【15†Ayala】 【16†Barons de Rothschild】 【17†Besserat de Bellefon】 【18†Billecart-Salmon】 【19†Bissinger & C°】 【20†Boizel】 【21†Bollinger】 【22†Brice】 【23†Bruno Paillard】 【24†Burtin】 【25†Canard-Duchêne】 【26†Cattier】 【27†Chanoine Frères】 【28†Charles de Cazanove】 【29†Charles Heidsieck】 【30†Charles Lafitte】 【31†Charles Mignon】 【32†Chaudron】 【33†Collery】 【34†Cristian Senez】 【35†Cuperly】 【36†de Castellane】 【37†de Venoge】 【38†Delamotte】 【39†Deutz】 【40†Dom Pérignon】 【41†Duval-Leroy】 【42†Edouard Brun & C°】 【43†Eugène Ralle】 【44†Ferdinand Bonnet】 【45†G.H.
+L72: Martel & Co】 【46†Gardet】 【47†Gosset】 【48†Gremillet】 【49†Heidsieck & C° Monopole】 【50†Henri Giraud】 【51†Henriot】 【52†Irroy】 【53†Jacquesson】 【54†Jacquinot & Fils】 【55†Janisson & Fils】 【56†Joseph Perrier】 【57†Krug】 【58†Lallier】 【59†Lanson】 【60†Laurent-Perrier】 【61†Leclerc Briant】 【62†Lenoble】 【63†Lombard】 【64†Louis de Sacy】 【65†Louis Massing】 【66†Louis Roederer】 【67†Malard】 【68†Mansard】 【69†Marie Stuart】 【70†Mercier】 【71†Moët & Chandon】 【72†Moutard】 【73†Mumm & Cie】 【74†Nicolas Gueusquin】 【75†Perrier Jouët】 【76†Philipponnat】 【77†Pierre Mignon】 【78†Piper-Heidsieck】 【79†Pol Roger】 【80†Pommery】 【81†Ruinart】 【82†Salon】 【83†Soutiran】 【84†Taittinger】 【85†Telmont】 【86†Thiénot】 【87†Veuve Cheurlin (J.Arnoult)】 【88†Veuve Clicquot】 【89†Vranken】
+L73: 【90†Cellar Visits】
+L74: 
+L75: 【91†Heritage】
+L76: 
+L77: 【92†The art of tasting】
+L78: 
+L79:   * 【93†Works (3)】
+L80:   * 【94†Heritage (1)】
+L81: 
+L82: 【95†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L83: 
+L84: 【96†Responsible Drinking】
+L85: 
+L86: 【97†Calorie Counter】
+L87: 
+L88: 【98†Champagne, Fundamentals】
+L89: 
+L90: 【99†Cellar visites】
+L91: ### 【1†Houses】
+L92: 
+L93:   * 【2†The Champagne Houses】
+L94:   * 【90†Cellar Visits】
+L95:   * 【91†Heritage】
+L96:   * 【92†The art of tasting】
+L97: 
+L98: ### 【100†Appellation】
+L99: 
+L100:   * 【101†Geographical area】
+L101:   * 【102†Stages in winemaking】
+L102:   * 【103†The Champagne Terroir: A living heritage】
+L103:   * 【104†Definition and protection】
+L104:   * 【105†The Champagne month by month】
+L105: 
+L106: ### 【106†Industry】
+L107: 
+L108:   * 【107†Sustainable development】
+L109:   * 【108†Organisation】
+L110:   * 【109†Professional Associations】
+L111:   * 【110†News】
+L112: ### 【111†Encyclopedias】
+L113: 
+L114:   * 【112†Champagne Guest Book】
+L115:   * 【113†Photothèque UMC】
+L116:   * 【114†Video Library】
+L117:   * 【115†Books about vines and wines】
+L118:   * 【116†Exceptional vintages】
+L119:   * 【117†The grand history of the Champagne Houses】
+L120:   * 【118†World’s Fairs】
+L121:   * 【119†Champagne, star of the seventh art】
+L122:   * 【120†Champagne and the arts】
+L123:   * 【121†Champagne people】
+L124: ### 【122†Professional】
+L125: 
+L126:   * 【123†UMC】
+L127: 
+L128:   * 【123†Contact】
+L129:   * 【124†Site map】
+L130:   * 【125†CGU】
+L131:   * 【126†alphamosa.fr†alphamosa.fr】
+L132:   * The abuse of alcohol is harmful to your health – consume in moderation
+L133:   * 【123†Contact】
+L134: 
+L135: 【124†Plan du site】
+L136: 
+L137: 【125†Mentions légales】
+L138: 
+L139: 【127†Politique de confidentialité】
+L140: 
+L141: 【126†alphamosa.fr†alphamosa.fr】
+L142: 
+L143: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+--------------------------------------------------------------------------------
+Maison Duval-Leroy - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/duval-leroy)
+【turn108view1】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/duval-leroy","lineno":null}); Total lines: 149
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Duval-Leroy
+L3: 
+L4: ## Duval-Leroy
+L5: 
+L6: 69 avenue de Bammental - CS 20037
+L7: 51130 VERTUS
+L8: 
+L9: Tel. (33) 326 52 10 75
+L10: 
+L11: champagne@duval-leroy.com
+L12: 
+L13: 【3†Official website†www.duval-leroy.com】
+L14: 
+L15: 【4†Image】
+L16: 
+L17: 【5†Image】
+L18: 
+L19: 【6†Image】
+L20: 
+L21: 【7†Image】
+L22: 
+L23: 【8†Image】
+L24: 
+L25: 【9†Image】
+L26: 
+L27: ### Key Figures
+L28: 
+L29: Salaried staff: 48
+L30: Vineyard estate: 200 ha
+L31: 
+L32: ### Identity
+L33: 
+L34: Date of foundation: 1859
+L35: Profile: S.A.S certifiée ISO 9002, IFS, BRC et ISO 22000
+L36: Company Registration Number: 735 820 045 00020
+L37: 
+L38: ### Flow chart
+L39: #### Management
+L40: 
+L41: Chairman of the Board: Julien Duval-Leroy
+L42: Managing Director: Charles Duval-Leroy
+L43: 
+L44: #### Grape supply
+L45: 
+L46: Julien Duval-Leroy
+L47: Vineyard estate: Arnaud Terrier
+L48: 
+L49: #### Financial and Administrative management
+L50: 
+L51: Finance: William Gros-Begnin
+L52: Human Resources: Julien Duval-Leroy
+L53: 
+L54: #### Winemaking
+L55: 
+L56: Cellar master: 【10†Sandrine Logette-Jardin】
+L57: Oenologist: 【10†Sandrine Logette-Jardin】
+L58: Production: cf. Direction Générale
+L59: 
+L60: #### Commercialization
+L61: 
+L62: France: Charles Duval-Leroy
+L63: Export: Charles Duval-Leroy
+L64: #### Marketing
+L65: 
+L66: Charles Duval-Leroy
+L67: 
+L68: #### Communication
+L69: 
+L70: PR: Charles Duval-Leroy
+L71: 
+L72: ### Cuvees
+L73: 
+L74: - Gamme CHR et commerce traditionnel et vente aux particuliers : - Range Wine merchants, Hotels and Restaurants and traditional businesses and private sale: Fleur de Champagne - Femme de Champagne - Lady Rose.  - Gamme GMS : Champagne Duval-Leroy
+L75: #### 【1†Houses】
+L76: 
+L77: [Button: The Champagne Houses]
+L78: 【11†Abelé 1757】 【12†Alfred Gratien】 【13†Ayala】 【14†Barons de Rothschild】 【15†Besserat de Bellefon】 【16†Billecart-Salmon】 【17†Bissinger & C°】 【18†Boizel】 【19†Bollinger】 【20†Brice】 【21†Bruno Paillard】 【22†Burtin】 【23†Canard-Duchêne】 【24†Cattier】 【25†Chanoine Frères】 【26†Charles de Cazanove】 【27†Charles Heidsieck】 【28†Charles Lafitte】 【29†Charles Mignon】 【30†Chaudron】 【31†Collery】 【32†Cristian Senez】 【33†Cuperly】 【34†de Castellane】 【35†de Venoge】 【36†Delamotte】 【37†Deutz】 【38†Dom Pérignon】 【39†Duval-Leroy】 【40†Edouard Brun & C°】 【41†Eugène Ralle】 【42†Ferdinand Bonnet】 【43†G.H.
+L79: Martel & Co】 【44†Gardet】 【45†Gosset】 【46†Gremillet】 【47†Heidsieck & C° Monopole】 【48†Henri Giraud】 【49†Henriot】 【50†Irroy】 【51†Jacquesson】 【52†Jacquinot & Fils】 【53†Janisson & Fils】 【54†Joseph Perrier】 【55†Krug】 【56†Lallier】 【57†Lanson】 【58†Laurent-Perrier】 【59†Leclerc Briant】 【60†Lenoble】 【61†Lombard】 【62†Louis de Sacy】 【63†Louis Massing】 【64†Louis Roederer】 【65†Malard】 【66†Mansard】 【67†Marie Stuart】 【68†Mercier】 【69†Moët & Chandon】 【70†Moutard】 【71†Mumm & Cie】 【72†Nicolas Gueusquin】 【73†Perrier Jouët】 【74†Philipponnat】 【75†Pierre Mignon】 【76†Piper-Heidsieck】 【77†Pol Roger】 【78†Pommery】 【79†Ruinart】 【80†Salon】 【81†Soutiran】 【82†Taittinger】 【83†Telmont】 【84†Thiénot】 【85†Veuve Cheurlin (J.Arnoult)】 【86†Veuve Clicquot】 【87†Vranken】
+L80: 【88†Cellar Visits】
+L81: 
+L82: 【89†Heritage】
+L83: 
+L84: 【90†The art of tasting】
+L85: 
+L86:   * 【91†Works (2)】
+L87:   * 【92†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L88: 
+L89: 【93†Responsible Drinking】
+L90: 
+L91: 【94†Calorie Counter】
+L92: 
+L93: 【95†Champagne, Fundamentals】
+L94: 
+L95: 【96†Cellar visites】
+L96: ### 【1†Houses】
+L97: 
+L98:   * 【2†The Champagne Houses】
+L99:   * 【88†Cellar Visits】
+L100:   * 【89†Heritage】
+L101:   * 【90†The art of tasting】
+L102: 
+L103: ### 【97†Appellation】
+L104: 
+L105:   * 【98†Geographical area】
+L106:   * 【99†Stages in winemaking】
+L107:   * 【100†The Champagne Terroir: A living heritage】
+L108:   * 【101†Definition and protection】
+L109:   * 【102†The Champagne month by month】
+L110: 
+L111: ### 【103†Industry】
+L112: 
+L113:   * 【104†Sustainable development】
+L114:   * 【105†Organisation】
+L115:   * 【106†Professional Associations】
+L116:   * 【107†News】
+L117: ### 【108†Encyclopedias】
+L118: 
+L119:   * 【109†Champagne Guest Book】
+L120:   * 【110†Photothèque UMC】
+L121:   * 【111†Video Library】
+L122:   * 【112†Books about vines and wines】
+L123:   * 【113†Exceptional vintages】
+L124:   * 【114†The grand history of the Champagne Houses】
+L125:   * 【115†World’s Fairs】
+L126:   * 【116†Champagne, star of the seventh art】
+L127:   * 【117†Champagne and the arts】
+L128:   * 【118†Champagne people】
+L129: ### 【119†Professional】
+L130: 
+L131:   * 【120†UMC】
+L132: 
+L133:   * 【120†Contact】
+L134:   * 【121†Site map】
+L135:   * 【122†CGU】
+L136:   * 【123†alphamosa.fr†alphamosa.fr】
+L137:   * The abuse of alcohol is harmful to your health – consume in moderation
+L138:   * 【120†Contact】
+L139: 
+L140: 【121†Plan du site】
+L141: 
+L142: 【122†Mentions légales】
+L143: 
+L144: 【124†Politique de confidentialité】
+L145: 
+L146: 【123†alphamosa.fr†alphamosa.fr】
+L147: 
+L148: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+--------------------------------------------------------------------------------
+Maison Gosset - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/gosset)
+【turn108view2】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/gosset","lineno":null}); Total lines: 151
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Gosset
+L3: 
+L4: ## Gosset
+L5: 
+L6: 12 rue Godart Roger
+L7: 51200 EPERNAY
+L8: 
+L9: Tel. (33) 326 56 99 56
+L10: 
+L11: info@champagne-gosset.com
+L12: 
+L13: 【3†Official website†www.champagne-gosset.com】
+L14: 
+L15: 【4†Image】
+L16: 
+L17: 【5†Image】
+L18: 
+L19: 【6†Image】
+L20: 
+L21: 【7†Image】
+L22: 
+L23: 【8†Image】
+L24: 
+L25: 【9†Image】
+L26: 
+L27: 【10†Image】
+L28: 
+L29: 【11†Image】
+L30: 
+L31: ### Key Figures
+L32: 
+L33: Salaried staff: 32
+L34: Vineyard estate: NC ha
+L35: 
+L36: ### Identity
+L37: 
+L38: Date of foundation: 1584
+L39: Group: Iconics Nectars - Renaud Cointreau
+L40: Profile: S.A.S.
+L41: Company Registration Number: 335 681 524 00013
+L42: ### Flow chart
+L43: 
+L44: #### Management
+L45: 
+L46: Managing Director: 【12†Jean-Pierre Cointreau】
+L47: Deputy Managing Director: 【13†Odilon de Varine】
+L48: 
+L49: #### Grape supply
+L50: 
+L51: 【13†Odilon de Varine】
+L52: Vineyard estate: cf. Direction Générale
+L53: Winegrower collaboration: 【13†Odilon de Varine】
+L54: 
+L55: #### Financial and Administrative management
+L56: 
+L57: Finance: Grégory Pierson
+L58: Human Resources: Grégory Pierson
+L59: 
+L60: #### Winemaking
+L61: 
+L62: Cellar master: 【13†Odilon de Varine】
+L63: Head of Oenology: Pierre de Caffarelli
+L64: #### Commercialization
+L65: 
+L66: France: Julien Cointreau
+L67: Export: Amaury Cointreau
+L68: 
+L69: #### Marketing
+L70: 
+L71: Thibaut Le Mailloux
+L72: 
+L73: #### Communication
+L74: 
+L75: Thibaut Le Mailloux
+L76: #### 【1†Houses】
+L77: 
+L78: [Button: The Champagne Houses]
+L79: 【14†Abelé 1757】 【15†Alfred Gratien】 【16†Ayala】 【17†Barons de Rothschild】 【18†Besserat de Bellefon】 【19†Billecart-Salmon】 【20†Bissinger & C°】 【21†Boizel】 【22†Bollinger】 【23†Brice】 【24†Bruno Paillard】 【25†Burtin】 【26†Canard-Duchêne】 【27†Cattier】 【28†Chanoine Frères】 【29†Charles de Cazanove】 【30†Charles Heidsieck】 【31†Charles Lafitte】 【32†Charles Mignon】 【33†Chaudron】 【34†Collery】 【35†Cristian Senez】 【36†Cuperly】 【37†de Castellane】 【38†de Venoge】 【39†Delamotte】 【40†Deutz】 【41†Dom Pérignon】 【42†Duval-Leroy】 【43†Edouard Brun & C°】 【44†Eugène Ralle】 【45†Ferdinand Bonnet】 【46†G.H.
+L80: Martel & Co】 【47†Gardet】 【48†Gosset】 【49†Gremillet】 【50†Heidsieck & C° Monopole】 【51†Henri Giraud】 【52†Henriot】 【53†Irroy】 【54†Jacquesson】 【55†Jacquinot & Fils】 【56†Janisson & Fils】 【57†Joseph Perrier】 【58†Krug】 【59†Lallier】 【60†Lanson】 【61†Laurent-Perrier】 【62†Leclerc Briant】 【63†Lenoble】 【64†Lombard】 【65†Louis de Sacy】 【66†Louis Massing】 【67†Louis Roederer】 【68†Malard】 【69†Mansard】 【70†Marie Stuart】 【71†Mercier】 【72†Moët & Chandon】 【73†Moutard】 【74†Mumm & Cie】 【75†Nicolas Gueusquin】 【76†Perrier Jouët】 【77†Philipponnat】 【78†Pierre Mignon】 【79†Piper-Heidsieck】 【80†Pol Roger】 【81†Pommery】 【82†Ruinart】 【83†Salon】 【84†Soutiran】 【85†Taittinger】 【86†Telmont】 【87†Thiénot】 【88†Veuve Cheurlin (J.Arnoult)】 【89†Veuve Clicquot】 【90†Vranken】
+L81: 【91†Cellar Visits】
+L82: 
+L83: 【92†Heritage】
+L84: 
+L85: 【93†The art of tasting】
+L86: 
+L87:   * 【94†Works (12)】
+L88: 
+L89: 【95†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L90: 
+L91: 【96†Responsible Drinking】
+L92: 
+L93: 【97†Calorie Counter】
+L94: 
+L95: 【98†Champagne, Fundamentals】
+L96: 
+L97: 【99†Cellar visites】
+L98: ### 【1†Houses】
+L99: 
+L100:   * 【2†The Champagne Houses】
+L101:   * 【91†Cellar Visits】
+L102:   * 【92†Heritage】
+L103:   * 【93†The art of tasting】
+L104: 
+L105: ### 【100†Appellation】
+L106: 
+L107:   * 【101†Geographical area】
+L108:   * 【102†Stages in winemaking】
+L109:   * 【103†The Champagne Terroir: A living heritage】
+L110:   * 【104†Definition and protection】
+L111:   * 【105†The Champagne month by month】
+L112: 
+L113: ### 【106†Industry】
+L114: 
+L115:   * 【107†Sustainable development】
+L116:   * 【108†Organisation】
+L117:   * 【109†Professional Associations】
+L118:   * 【110†News】
+L119: ### 【111†Encyclopedias】
+L120: 
+L121:   * 【112†Champagne Guest Book】
+L122:   * 【113†Photothèque UMC】
+L123:   * 【114†Video Library】
+L124:   * 【115†Books about vines and wines】
+L125:   * 【116†Exceptional vintages】
+L126:   * 【117†The grand history of the Champagne Houses】
+L127:   * 【118†World’s Fairs】
+L128:   * 【119†Champagne, star of the seventh art】
+L129:   * 【120†Champagne and the arts】
+L130:   * 【121†Champagne people】
+L131: ### 【122†Professional】
+L132: 
+L133:   * 【123†UMC】
+L134: 
+L135:   * 【123†Contact】
+L136:   * 【124†Site map】
+L137:   * 【125†CGU】
+L138:   * 【126†alphamosa.fr†alphamosa.fr】
+L139:   * The abuse of alcohol is harmful to your health – consume in moderation
+L140:   * 【123†Contact】
+L141: 
+L142: 【124†Plan du site】
+L143: 
+L144: 【125†Mentions légales】
+L145: 
+L146: 【127†Politique de confidentialité】
+L147: 
+L148: 【126†alphamosa.fr†alphamosa.fr】
+L149: 
+L150: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+
+Maison Henri Giraud - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/henri-giraud)
+【turn109view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/henri-giraud","lineno":null}); Total lines: 149
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Henri Giraud
+L3: 
+L4: ## Henri Giraud
+L5: 
+L6: 71, boulevard Charles-de-Gaulle - BP 26 Bis
+L7: 51160 AY Cedex
+L8: 
+L9: Tel. (33) 326 55 18 55
+L10: 
+L11: contact@champagne-giraud.com
+L12: 
+L13: 【3†Official website†www.champagne-giraud.com】
+L14: 
+L15: 【4†Image】
+L16: 
+L17: 【5†Image】
+L18: 
+L19: 【6†Image】
+L20: 
+L21: 【7†Image】
+L22: 
+L23: 【8†Image】
+L24: 
+L25: ### Key Figures
+L26: 
+L27: Salaried staff: 19
+L28: Vineyard estate: 5.67 ha
+L29: 
+L30: ### Identity
+L31: 
+L32: Date of foundation: 1975
+L33: Profile: S.A.
+L34: Company Registration Number: 303 891 048 00017
+L35: 
+L36: ### Flow chart
+L37: #### Management
+L38: 
+L39: Chairman of the Board of Directors: Emmanuelle Giraud-Patour
+L40: Honorary Chairman: 【9†Claude Giraud】
+L41: Managing Director: 【10†Sébastien Le Golvet】
+L42: General Secretary: Karine Penit
+L43: 
+L44: #### Grape supply
+L45: 
+L46: Emmanuelle Giraud-Patour
+L47: 【10†Sébastien Le Golvet】
+L48: 
+L49: #### Financial and Administrative management
+L50: 
+L51: Finance: José Bouxin
+L52: Finance: Antoinette Giraud
+L53: Human Resources: Emmanuelle Giraud-Patour
+L54: 
+L55: #### Brand Home
+L56: 
+L57: Julien Decelle
+L58: #### Winemaking
+L59: 
+L60: Cellar master: 【10†Sébastien Le Golvet】
+L61: Production: Jordan Jullien
+L62: 
+L63: #### Commercialization
+L64: 
+L65: France: Olivier Patour
+L66: Export: Stéphane Barlerin
+L67: 
+L68: #### Communication
+L69: 
+L70: Karine Penit
+L71: 
+L72: ### Cuvees
+L73: 
+L74: CHAMPAGNES : Argonne 2014, MV17, MV Rosé, Esprit Nature, Hommage au Pinot Noir, Blanc de Craie, Dame-Jane. COTEAUX CHAMPENOIS : Coteaux Champenois Rouge 2018, Coteaux Champenois Blanc 2015. RATAFIA : Ratafia Solera S90-13, Ratafia Vieillissement Exceptionnel.
+L75: #### 【1†Houses】
+L76: 
+L77: [Button: The Champagne Houses]
+L78: 【11†Abelé 1757】 【12†Alfred Gratien】 【13†Ayala】 【14†Barons de Rothschild】 【15†Besserat de Bellefon】 【16†Billecart-Salmon】 【17†Bissinger & C°】 【18†Boizel】 【19†Bollinger】 【20†Brice】 【21†Bruno Paillard】 【22†Burtin】 【23†Canard-Duchêne】 【24†Cattier】 【25†Chanoine Frères】 【26†Charles de Cazanove】 【27†Charles Heidsieck】 【28†Charles Lafitte】 【29†Charles Mignon】 【30†Chaudron】 【31†Collery】 【32†Cristian Senez】 【33†Cuperly】 【34†de Castellane】 【35†de Venoge】 【36†Delamotte】 【37†Deutz】 【38†Dom Pérignon】 【39†Duval-Leroy】 【40†Edouard Brun & C°】 【41†Eugène Ralle】 【42†Ferdinand Bonnet】 【43†G.H.
+L79: Martel & Co】 【44†Gardet】 【45†Gosset】 【46†Gremillet】 【47†Heidsieck & C° Monopole】 【48†Henri Giraud】 【49†Henriot】 【50†Irroy】 【51†Jacquesson】 【52†Jacquinot & Fils】 【53†Janisson & Fils】 【54†Joseph Perrier】 【55†Krug】 【56†Lallier】 【57†Lanson】 【58†Laurent-Perrier】 【59†Leclerc Briant】 【60†Lenoble】 【61†Lombard】 【62†Louis de Sacy】 【63†Louis Massing】 【64†Louis Roederer】 【65†Malard】 【66†Mansard】 【67†Marie Stuart】 【68†Mercier】 【69†Moët & Chandon】 【70†Moutard】 【71†Mumm & Cie】 【72†Nicolas Gueusquin】 【73†Perrier Jouët】 【74†Philipponnat】 【75†Pierre Mignon】 【76†Piper-Heidsieck】 【77†Pol Roger】 【78†Pommery】 【79†Ruinart】 【80†Salon】 【81†Soutiran】 【82†Taittinger】 【83†Telmont】 【84†Thiénot】 【85†Veuve Cheurlin (J.Arnoult)】 【86†Veuve Clicquot】 【87†Vranken】
+L80: 【88†Cellar Visits】
+L81: 
+L82: 【89†Heritage】
+L83: 
+L84: 【90†The art of tasting】
+L85: 
+L86:   * 【91†Heritage (1)】
+L87:   * 【92†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L88: 
+L89: 【93†Responsible Drinking】
+L90: 
+L91: 【94†Calorie Counter】
+L92: 
+L93: 【95†Champagne, Fundamentals】
+L94: 
+L95: 【96†Cellar visites】
+L96: ### 【1†Houses】
+L97: 
+L98:   * 【2†The Champagne Houses】
+L99:   * 【88†Cellar Visits】
+L100:   * 【89†Heritage】
+L101:   * 【90†The art of tasting】
+L102: 
+L103: ### 【97†Appellation】
+L104: 
+L105:   * 【98†Geographical area】
+L106:   * 【99†Stages in winemaking】
+L107:   * 【100†The Champagne Terroir: A living heritage】
+L108:   * 【101†Definition and protection】
+L109:   * 【102†The Champagne month by month】
+L110: 
+L111: ### 【103†Industry】
+L112: 
+L113:   * 【104†Sustainable development】
+L114:   * 【105†Organisation】
+L115:   * 【106†Professional Associations】
+L116:   * 【107†News】
+L117: ### 【108†Encyclopedias】
+L118: 
+L119:   * 【109†Champagne Guest Book】
+L120:   * 【110†Photothèque UMC】
+L121:   * 【111†Video Library】
+L122:   * 【112†Books about vines and wines】
+L123:   * 【113†Exceptional vintages】
+L124:   * 【114†The grand history of the Champagne Houses】
+L125:   * 【115†World’s Fairs】
+L126:   * 【116†Champagne, star of the seventh art】
+L127:   * 【117†Champagne and the arts】
+L128:   * 【118†Champagne people】
+L129: ### 【119†Professional】
+L130: 
+L131:   * 【120†UMC】
+L132: 
+L133:   * 【120†Contact】
+L134:   * 【121†Site map】
+L135:   * 【122†CGU】
+L136:   * 【123†alphamosa.fr†alphamosa.fr】
+L137:   * The abuse of alcohol is harmful to your health – consume in moderation
+L138:   * 【120†Contact】
+L139: 
+L140: 【121†Plan du site】
+L141: 
+L142: 【122†Mentions légales】
+L143: 
+L144: 【124†Politique de confidentialité】
+L145: 
+L146: 【123†alphamosa.fr†alphamosa.fr】
+L147: 
+L148: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+--------------------------------------------------------------------------------
+Maison Henriot - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/henriot)
+【turn109view1】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/henriot","lineno":null}); Total lines: 149
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Henriot
+L3: 
+L4: ## Henriot
+L5: 
+L6: 81 rue Coquebert
+L7: 51100 REIMS
+L8: 
+L9: Tel. (33) 326 89 53 00
+L10: 
+L11: contact@champagne-henriot.com
+L12: 
+L13: 【3†Official website†www.champagne-henriot.com】
+L14: 
+L15: 【4†Image】
+L16: 
+L17: 【5†Image】
+L18: 
+L19: 【6†Image】
+L20: 
+L21: 【7†Image】
+L22: 
+L23: 【8†Image】
+L24: 
+L25: ### Key Figures
+L26: 
+L27: Salaried staff: 26
+L28: Vineyard estate: 30 ha
+L29: 
+L30: ### Identity
+L31: 
+L32: Date of foundation: 1808
+L33: Group: TEVC
+L34: Profile: S.A.S
+L35: Company Registration Number: 314 171 554 00046
+L36: 
+L37: ### Flow chart
+L38: #### Management
+L39: 
+L40: Managing Director: 【9†Guillaume Deglise】
+L41: Deputy Managing Director: 【10†Alice Tétienne】
+L42: General Secretary: Ludovic Machet
+L43: 
+L44: #### Grape supply
+L45: 
+L46: Vineyard estate: 【10†Alice Tétienne】
+L47: Winegrower collaboration: 【10†Alice Tétienne】
+L48: 
+L49: #### Financial and Administrative management
+L50: 
+L51: Finance: Ludovic Machet
+L52: Human Resources: Ludovic Machet
+L53: 
+L54: #### Winemaking
+L55: 
+L56: Cellar master: 【10†Alice Tétienne】
+L57: Oenologist: 【10†Alice Tétienne】
+L58: 
+L59: #### Commercialization
+L60: 
+L61: France: Pascal Lecavalier
+L62: Export: Pierre-Antoine Mairet
+L63: #### Marketing
+L64: 
+L65: 【10†Alice Tétienne】
+L66: 
+L67: #### Communication
+L68: 
+L69: 【10†Alice Tétienne】
+L70: 
+L71: ### Cuvees
+L72: 
+L73: Champagne Henriot : Brut Souverain, Blanc de Blancs, Brut Rosé, Brut Millésimé, Rosé Millésimé, Cuvée Hemera, Cuve 38.
+L74: #### 【1†Houses】
+L75: 
+L76: [Button: The Champagne Houses]
+L77: 【11†Abelé 1757】 【12†Alfred Gratien】 【13†Ayala】 【14†Barons de Rothschild】 【15†Besserat de Bellefon】 【16†Billecart-Salmon】 【17†Bissinger & C°】 【18†Boizel】 【19†Bollinger】 【20†Brice】 【21†Bruno Paillard】 【22†Burtin】 【23†Canard-Duchêne】 【24†Cattier】 【25†Chanoine Frères】 【26†Charles de Cazanove】 【27†Charles Heidsieck】 【28†Charles Lafitte】 【29†Charles Mignon】 【30†Chaudron】 【31†Collery】 【32†Cristian Senez】 【33†Cuperly】 【34†de Castellane】 【35†de Venoge】 【36†Delamotte】 【37†Deutz】 【38†Dom Pérignon】 【39†Duval-Leroy】 【40†Edouard Brun & C°】 【41†Eugène Ralle】 【42†Ferdinand Bonnet】 【43†G.H.
+L78: Martel & Co】 【44†Gardet】 【45†Gosset】 【46†Gremillet】 【47†Heidsieck & C° Monopole】 【48†Henri Giraud】 【49†Henriot】 【50†Irroy】 【51†Jacquesson】 【52†Jacquinot & Fils】 【53†Janisson & Fils】 【54†Joseph Perrier】 【55†Krug】 【56†Lallier】 【57†Lanson】 【58†Laurent-Perrier】 【59†Leclerc Briant】 【60†Lenoble】 【61†Lombard】 【62†Louis de Sacy】 【63†Louis Massing】 【64†Louis Roederer】 【65†Malard】 【66†Mansard】 【67†Marie Stuart】 【68†Mercier】 【69†Moët & Chandon】 【70†Moutard】 【71†Mumm & Cie】 【72†Nicolas Gueusquin】 【73†Perrier Jouët】 【74†Philipponnat】 【75†Pierre Mignon】 【76†Piper-Heidsieck】 【77†Pol Roger】 【78†Pommery】 【79†Ruinart】 【80†Salon】 【81†Soutiran】 【82†Taittinger】 【83†Telmont】 【84†Thiénot】 【85†Veuve Cheurlin (J.Arnoult)】 【86†Veuve Clicquot】 【87†Vranken】
+L79: 【88†Cellar Visits】
+L80: 
+L81: 【89†Heritage】
+L82: 
+L83: 【90†The art of tasting】
+L84: 
+L85:   * 【91†Works (10)】
+L86:   * 【92†Heritage (1)】
+L87:   * 【93†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L88: 
+L89: 【94†Responsible Drinking】
+L90: 
+L91: 【95†Calorie Counter】
+L92: 
+L93: 【96†Champagne, Fundamentals】
+L94: 
+L95: 【97†Cellar visites】
+L96: ### 【1†Houses】
+L97: 
+L98:   * 【2†The Champagne Houses】
+L99:   * 【88†Cellar Visits】
+L100:   * 【89†Heritage】
+L101:   * 【90†The art of tasting】
+L102: 
+L103: ### 【98†Appellation】
+L104: 
+L105:   * 【99†Geographical area】
+L106:   * 【100†Stages in winemaking】
+L107:   * 【101†The Champagne Terroir: A living heritage】
+L108:   * 【102†Definition and protection】
+L109:   * 【103†The Champagne month by month】
+L110: 
+L111: ### 【104†Industry】
+L112: 
+L113:   * 【105†Sustainable development】
+L114:   * 【106†Organisation】
+L115:   * 【107†Professional Associations】
+L116:   * 【108†News】
+L117: ### 【109†Encyclopedias】
+L118: 
+L119:   * 【110†Champagne Guest Book】
+L120:   * 【111†Photothèque UMC】
+L121:   * 【112†Video Library】
+L122:   * 【113†Books about vines and wines】
+L123:   * 【114†Exceptional vintages】
+L124:   * 【115†The grand history of the Champagne Houses】
+L125:   * 【116†World’s Fairs】
+L126:   * 【117†Champagne, star of the seventh art】
+L127:   * 【118†Champagne and the arts】
+L128:   * 【119†Champagne people】
+L129: ### 【120†Professional】
+L130: 
+L131:   * 【121†UMC】
+L132: 
+L133:   * 【121†Contact】
+L134:   * 【122†Site map】
+L135:   * 【123†CGU】
+L136:   * 【124†alphamosa.fr†alphamosa.fr】
+L137:   * The abuse of alcohol is harmful to your health – consume in moderation
+L138:   * 【121†Contact】
+L139: 
+L140: 【122†Plan du site】
+L141: 
+L142: 【123†Mentions légales】
+L143: 
+L144: 【125†Politique de confidentialité】
+L145: 
+L146: 【124†alphamosa.fr†alphamosa.fr】
+L147: 
+L148: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+--------------------------------------------------------------------------------
+Maison Jacquesson - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/jacquesson)
+【turn109view2】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/jacquesson","lineno":null}); Total lines: 135
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Jacquesson
+L3: 
+L4: ## Jacquesson
+L5: 
+L6: 68 rue du Colonel Fabien
+L7: 51530 DIZY
+L8: 
+L9: Tel. (33) 326 55 68 11
+L10: 
+L11: info@champagnejacquesson.com
+L12: 
+L13: 【3†Official website†www.champagnejacquesson.com】
+L14: 
+L15: 【4†Image】
+L16: 
+L17: ### Key Figures
+L18: 
+L19: Salaried staff: 34
+L20: Vineyard estate: 33 ha
+L21: 
+L22: ### Identity
+L23: 
+L24: Date of foundation: 1798
+L25: Group: Artémis Domaines
+L26: Profile: S.A.
+L27: Company Registration Number: 335 681 649 00026
+L28: 
+L29: ### Flow chart
+L30: 
+L31: #### Management
+L32: 
+L33: Managing Director: 【5†Jean Garandeau】
+L34: #### Grape supply
+L35: 
+L36: Vineyard estate: Mathilde Prier
+L37: Winegrower collaboration: Mathilde Prier
+L38: 
+L39: #### Financial and Administrative management
+L40: 
+L41: Finance: cf. Direction Générale
+L42: Human Resources: cf. Direction Générale
+L43: 
+L44: #### Winemaking
+L45: 
+L46: Cellar master: Yann le Gall
+L47: Oenologist: Yann le Gall
+L48: Production: Yann le Gall
+L49: 
+L50: #### Commercialization
+L51: 
+L52: Benjamin Vitrac
+L53: 
+L54: #### Marketing
+L55: 
+L56: cf. Direction Générale
+L57: 
+L58: #### Communication
+L59: 
+L60: cf. Direction Générale
+L61: #### 【1†Houses】
+L62: 
+L63: [Button: The Champagne Houses]
+L64: 【6†Abelé 1757】 【7†Alfred Gratien】 【8†Ayala】 【9†Barons de Rothschild】 【10†Besserat de Bellefon】 【11†Billecart-Salmon】 【12†Bissinger & C°】 【13†Boizel】 【14†Bollinger】 【15†Brice】 【16†Bruno Paillard】 【17†Burtin】 【18†Canard-Duchêne】 【19†Cattier】 【20†Chanoine Frères】 【21†Charles de Cazanove】 【22†Charles Heidsieck】 【23†Charles Lafitte】 【24†Charles Mignon】 【25†Chaudron】 【26†Collery】 【27†Cristian Senez】 【28†Cuperly】 【29†de Castellane】 【30†de Venoge】 【31†Delamotte】 【32†Deutz】 【33†Dom Pérignon】 【34†Duval-Leroy】 【35†Edouard Brun & C°】 【36†Eugène Ralle】 【37†Ferdinand Bonnet】 【38†G.H.
+L65: Martel & Co】 【39†Gardet】 【40†Gosset】 【41†Gremillet】 【42†Heidsieck & C° Monopole】 【43†Henri Giraud】 【44†Henriot】 【45†Irroy】 【46†Jacquesson】 【47†Jacquinot & Fils】 【48†Janisson & Fils】 【49†Joseph Perrier】 【50†Krug】 【51†Lallier】 【52†Lanson】 【53†Laurent-Perrier】 【54†Leclerc Briant】 【55†Lenoble】 【56†Lombard】 【57†Louis de Sacy】 【58†Louis Massing】 【59†Louis Roederer】 【60†Malard】 【61†Mansard】 【62†Marie Stuart】 【63†Mercier】 【64†Moët & Chandon】 【65†Moutard】 【66†Mumm & Cie】 【67†Nicolas Gueusquin】 【68†Perrier Jouët】 【69†Philipponnat】 【70†Pierre Mignon】 【71†Piper-Heidsieck】 【72†Pol Roger】 【73†Pommery】 【74†Ruinart】 【75†Salon】 【76†Soutiran】 【77†Taittinger】 【78†Telmont】 【79†Thiénot】 【80†Veuve Cheurlin (J.Arnoult)】 【81†Veuve Clicquot】 【82†Vranken】
+L66: 【83†Cellar Visits】
+L67: 
+L68: 【84†Heritage】
+L69: 
+L70: 【85†The art of tasting】
+L71: 
+L72:   * 【86†Works (3)】
+L73:   * 【87†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L74: 
+L75: 【88†Responsible Drinking】
+L76: 
+L77: 【89†Calorie Counter】
+L78: 
+L79: 【90†Champagne, Fundamentals】
+L80: 
+L81: 【91†Cellar visites】
+L82: ### 【1†Houses】
+L83: 
+L84:   * 【2†The Champagne Houses】
+L85:   * 【83†Cellar Visits】
+L86:   * 【84†Heritage】
+L87:   * 【85†The art of tasting】
+L88: 
+L89: ### 【92†Appellation】
+L90: 
+L91:   * 【93†Geographical area】
+L92:   * 【94†Stages in winemaking】
+L93:   * 【95†The Champagne Terroir: A living heritage】
+L94:   * 【96†Definition and protection】
+L95:   * 【97†The Champagne month by month】
+L96: 
+L97: ### 【98†Industry】
+L98: 
+L99:   * 【99†Sustainable development】
+L100:   * 【100†Organisation】
+L101:   * 【101†Professional Associations】
+L102:   * 【102†News】
+L103: ### 【103†Encyclopedias】
+L104: 
+L105:   * 【104†Champagne Guest Book】
+L106:   * 【105†Photothèque UMC】
+L107:   * 【106†Video Library】
+L108:   * 【107†Books about vines and wines】
+L109:   * 【108†Exceptional vintages】
+L110:   * 【109†The grand history of the Champagne Houses】
+L111:   * 【110†World’s Fairs】
+L112:   * 【111†Champagne, star of the seventh art】
+L113:   * 【112†Champagne and the arts】
+L114:   * 【113†Champagne people】
+L115: ### 【114†Professional】
+L116: 
+L117:   * 【115†UMC】
+L118: 
+L119:   * 【115†Contact】
+L120:   * 【116†Site map】
+L121:   * 【117†CGU】
+L122:   * 【118†alphamosa.fr†alphamosa.fr】
+L123:   * The abuse of alcohol is harmful to your health – consume in moderation
+L124:   * 【115†Contact】
+L125: 
+L126: 【116†Plan du site】
+L127: 
+L128: 【117†Mentions légales】
+L129: 
+L130: 【119†Politique de confidentialité】
+L131: 
+L132: 【118†alphamosa.fr†alphamosa.fr】
+L133: 
+L134: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+
+Maison Lanson - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/lanson)
+【turn110view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/lanson","lineno":null}); Total lines: 173
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Lanson
+L3: 
+L4: ## Lanson
+L5: 
+L6: 66 rue de Courlancy
+L7: 51100 REIMS
+L8: 
+L9: Tel. (33) 326 78 50 50
+L10: 
+L11: info@lanson.com
+L12: 
+L13: 【3†Cellar visits†www.lanson.com】 【4†Official website†www.lanson.com】
+L14: 
+L15: 【5†Image】
+L16: 
+L17: 【6†Image】
+L18: 
+L19: 【7†Image】
+L20: 
+L21: 【8†Image】
+L22: 
+L23: 【9†Image】
+L24: 
+L25: 【10†Image】
+L26: 
+L27: 【11†Image】
+L28: 
+L29: 【12†Image】
+L30: 
+L31: 【13†Image】
+L32: 
+L33: 【14†Image】
+L34: 
+L35: 【15†Image】
+L36: 
+L37: ### Key Figures
+L38: 
+L39: Salaried staff: 103
+L40: Vineyard estate: 57 ha
+L41: ### Identity
+L42: 
+L43: Date of foundation: 1760
+L44: Group: Lanson-BCC
+L45: Profile: S.A.S
+L46: Company Registration Number: 345 001 333 00037
+L47: 
+L48: ### Flow chart
+L49: 
+L50: #### Management
+L51: 
+L52: P.-D.G.: 【16†Bruno Paillard】
+L53: Chairman: 【17†François Van Aal】
+L54: 
+L55: #### Grape supply
+L56: 
+L57: 【18†Hervé Dantan】
+L58: Vineyard estate: 【18†Hervé Dantan】
+L59: Vineyard estate: Eugénie Gianoncelli
+L60: Winegrower collaboration: 【18†Hervé Dantan】
+L61: 
+L62: #### Financial and Administrative management
+L63: 
+L64: Finance: Brice Simphal
+L65: Human Resources: Barbara Jourdan Moine
+L66: 
+L67: #### Brand Home
+L68: 
+L69: Céline Voide
+L70: #### Winemaking
+L71: 
+L72: Cellar master: 【18†Hervé Dantan】
+L73: Oenologist: 【18†Hervé Dantan】
+L74: Production: Frank Vergnaud
+L75: 
+L76: #### Commercialization
+L77: 
+L78: France: Nicolas Mathieu
+L79: France: Arnaud Maymil
+L80: Export: Emmanuel Gantet
+L81: Export: Thibault Marronnier
+L82: Export: Robert Rand
+L83: 
+L84: #### Marketing
+L85: 
+L86: Julie Renault
+L87: Marie Pochat
+L88: 
+L89: #### CSR
+L90: 
+L91: CSE: Julie Renault
+L92: 
+L93: #### Communication
+L94: 
+L95: Julie Renault
+L96: ### Cuvees
+L97: 
+L98: - Champagne Lanson : Le Black Création, Le Rosé Création, Le Black Réserve, le Blanc de Blancs, Le Green Bio Organic, Le Vintage, Le Clos Lanson, Noble Champagne.
+L99: #### 【1†Houses】
+L100: 
+L101: [Button: The Champagne Houses]
+L102: 【19†Abelé 1757】 【20†Alfred Gratien】 【21†Ayala】 【22†Barons de Rothschild】 【23†Besserat de Bellefon】 【24†Billecart-Salmon】 【25†Bissinger & C°】 【26†Boizel】 【27†Bollinger】 【28†Brice】 【29†Bruno Paillard】 【30†Burtin】 【31†Canard-Duchêne】 【32†Cattier】 【33†Chanoine Frères】 【34†Charles de Cazanove】 【35†Charles Heidsieck】 【36†Charles Lafitte】 【37†Charles Mignon】 【38†Chaudron】 【39†Collery】 【40†Cristian Senez】 【41†Cuperly】 【42†de Castellane】 【43†de Venoge】 【44†Delamotte】 【45†Deutz】 【46†Dom Pérignon】 【47†Duval-Leroy】 【48†Edouard Brun & C°】 【49†Eugène Ralle】 【50†Ferdinand Bonnet】 【51†G.H.
+L103: Martel & Co】 【52†Gardet】 【53†Gosset】 【54†Gremillet】 【55†Heidsieck & C° Monopole】 【56†Henri Giraud】 【57†Henriot】 【58†Irroy】 【59†Jacquesson】 【60†Jacquinot & Fils】 【61†Janisson & Fils】 【62†Joseph Perrier】 【63†Krug】 【64†Lallier】 【65†Lanson】 【66†Laurent-Perrier】 【67†Leclerc Briant】 【68†Lenoble】 【69†Lombard】 【70†Louis de Sacy】 【71†Louis Massing】 【72†Louis Roederer】 【73†Malard】 【74†Mansard】 【75†Marie Stuart】 【76†Mercier】 【77†Moët & Chandon】 【78†Moutard】 【79†Mumm & Cie】 【80†Nicolas Gueusquin】 【81†Perrier Jouët】 【82†Philipponnat】 【83†Pierre Mignon】 【84†Piper-Heidsieck】 【85†Pol Roger】 【86†Pommery】 【87†Ruinart】 【88†Salon】 【89†Soutiran】 【90†Taittinger】 【91†Telmont】 【92†Thiénot】 【93†Veuve Cheurlin (J.Arnoult)】 【94†Veuve Clicquot】 【95†Vranken】
+L104: 【96†Cellar Visits】
+L105: 
+L106: 【97†Heritage】
+L107: 
+L108: 【98†The art of tasting】
+L109: 
+L110:   * 【99†Works (12)】
+L111:   * 【100†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L112: 
+L113: 【101†Responsible Drinking】
+L114: 
+L115: 【102†Calorie Counter】
+L116: 
+L117: 【103†Champagne, Fundamentals】
+L118: 
+L119: 【104†Cellar visites】
+L120: ### 【1†Houses】
+L121: 
+L122:   * 【2†The Champagne Houses】
+L123:   * 【96†Cellar Visits】
+L124:   * 【97†Heritage】
+L125:   * 【98†The art of tasting】
+L126: 
+L127: ### 【105†Appellation】
+L128: 
+L129:   * 【106†Geographical area】
+L130:   * 【107†Stages in winemaking】
+L131:   * 【108†The Champagne Terroir: A living heritage】
+L132:   * 【109†Definition and protection】
+L133:   * 【110†The Champagne month by month】
+L134: 
+L135: ### 【111†Industry】
+L136: 
+L137:   * 【112†Sustainable development】
+L138:   * 【113†Organisation】
+L139:   * 【114†Professional Associations】
+L140:   * 【115†News】
+L141: ### 【116†Encyclopedias】
+L142: 
+L143:   * 【117†Champagne Guest Book】
+L144:   * 【118†Photothèque UMC】
+L145:   * 【119†Video Library】
+L146:   * 【120†Books about vines and wines】
+L147:   * 【121†Exceptional vintages】
+L148:   * 【122†The grand history of the Champagne Houses】
+L149:   * 【123†World’s Fairs】
+L150:   * 【124†Champagne, star of the seventh art】
+L151:   * 【125†Champagne and the arts】
+L152:   * 【126†Champagne people】
+L153: ### 【127†Professional】
+L154: 
+L155:   * 【128†UMC】
+L156: 
+L157:   * 【128†Contact】
+L158:   * 【129†Site map】
+L159:   * 【130†CGU】
+L160:   * 【131†alphamosa.fr†alphamosa.fr】
+L161:   * The abuse of alcohol is harmful to your health – consume in moderation
+L162:   * 【128†Contact】
+L163: 
+L164: 【129†Plan du site】
+L165: 
+L166: 【130†Mentions légales】
+L167: 
+L168: 【132†Politique de confidentialité】
+L169: 
+L170: 【131†alphamosa.fr†alphamosa.fr】
+L171: 
+L172: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+--------------------------------------------------------------------------------
+Maison Laurent-Perrier - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/laurent-perrier)
+【turn110view1】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/laurent-perrier","lineno":null}); Total lines: 152
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Laurent-Perrier
+L3: 
+L4: ## Laurent-Perrier
+L5: 
+L6: Avenue de Champagne - BP 3
+L7: 51150 TOURS SUR MARNE
+L8: 
+L9: Tel. (33) 326 58 91 22
+L10: 
+L11: contact@laurent-perrier.fr
+L12: 
+L13: 【3†Official website†www.laurent-perrier.fr】
+L14: 
+L15: 【4†Image】
+L16: 
+L17: 【5†Image】
+L18: 
+L19: 【6†Image】
+L20: 
+L21: 【7†Image】
+L22: 
+L23: 【8†Image】
+L24: 
+L25: 【9†Image】
+L26: 
+L27: ### Key Figures
+L28: 
+L29: Salaried staff: 196
+L30: Vineyard estate: NC ha
+L31: ### Identity
+L32: 
+L33: Date of foundation: 1812
+L34: Group: Laurent-Perrier
+L35: Profile: S.A. à Directoire et Conseil de Surveillance
+L36: Company Registration Number: 335 680 096 00021
+L37: 
+L38: ### Flow chart
+L39: 
+L40: #### Management
+L41: 
+L42: Chairman of the Board: 【10†Stéphane Dalyac】
+L43: Management Board: Alexandra Pereyre de Nonancourt
+L44: Management Board: Stéphanie Meneux de Nonancourt
+L45: Chairman of the Supervisory board: Patrick Thomas
+L46: 
+L47: #### Grape supply
+L48: 
+L49: Vineyard estate: Emmanuel Robinet
+L50: Winegrower collaboration: Emmanuel Robinet
+L51: #### Financial and Administrative management
+L52: 
+L53: Finance: Nathalie Dubecq
+L54: Human Resources: Corinne Boscher
+L55: Legal: Flore Steinmetz
+L56: 
+L57: #### Winemaking
+L58: 
+L59: Cellar master: 【11†Michel Fauconnet】
+L60: Production: 【11†Michel Fauconnet】
+L61: 
+L62: #### Commercialization
+L63: 
+L64: France: Olivier Kanengieser
+L65: Export: cf. Direction Générale
+L66: 
+L67: #### Marketing
+L68: 
+L69: Arnaud Richard
+L70: 
+L71: #### Communication
+L72: 
+L73: Arnaud Richard
+L74: ### Cuvees
+L75: 
+L76: Grand Siècle par Laurent-Perrier ; Cuvée Rosé Laurent-Perrier ; Ultra Brut ; Laurent-Perrier La Cuvée ; Laurent-Perrier Brut Millésimé ; Blanc de Blancs Brut Nature ; Alexandra Rosé ; Héritage.
+L77: #### 【1†Houses】
+L78: 
+L79: [Button: The Champagne Houses]
+L80: 【12†Abelé 1757】 【13†Alfred Gratien】 【14†Ayala】 【15†Barons de Rothschild】 【16†Besserat de Bellefon】 【17†Billecart-Salmon】 【18†Bissinger & C°】 【19†Boizel】 【20†Bollinger】 【21†Brice】 【22†Bruno Paillard】 【23†Burtin】 【24†Canard-Duchêne】 【25†Cattier】 【26†Chanoine Frères】 【27†Charles de Cazanove】 【28†Charles Heidsieck】 【29†Charles Lafitte】 【30†Charles Mignon】 【31†Chaudron】 【32†Collery】 【33†Cristian Senez】 【34†Cuperly】 【35†de Castellane】 【36†de Venoge】 【37†Delamotte】 【38†Deutz】 【39†Dom Pérignon】 【40†Duval-Leroy】 【41†Edouard Brun & C°】 【42†Eugène Ralle】 【43†Ferdinand Bonnet】 【44†G.H.
+L81: Martel & Co】 【45†Gardet】 【46†Gosset】 【47†Gremillet】 【48†Heidsieck & C° Monopole】 【49†Henri Giraud】 【50†Henriot】 【51†Irroy】 【52†Jacquesson】 【53†Jacquinot & Fils】 【54†Janisson & Fils】 【55†Joseph Perrier】 【56†Krug】 【57†Lallier】 【58†Lanson】 【59†Laurent-Perrier】 【60†Leclerc Briant】 【61†Lenoble】 【62†Lombard】 【63†Louis de Sacy】 【64†Louis Massing】 【65†Louis Roederer】 【66†Malard】 【67†Mansard】 【68†Marie Stuart】 【69†Mercier】 【70†Moët & Chandon】 【71†Moutard】 【72†Mumm & Cie】 【73†Nicolas Gueusquin】 【74†Perrier Jouët】 【75†Philipponnat】 【76†Pierre Mignon】 【77†Piper-Heidsieck】 【78†Pol Roger】 【79†Pommery】 【80†Ruinart】 【81†Salon】 【82†Soutiran】 【83†Taittinger】 【84†Telmont】 【85†Thiénot】 【86†Veuve Cheurlin (J.Arnoult)】 【87†Veuve Clicquot】 【88†Vranken】
+L82: 【89†Cellar Visits】
+L83: 
+L84: 【90†Heritage】
+L85: 
+L86: 【91†The art of tasting】
+L87: 
+L88:   * 【92†Works (9)】
+L89:   * 【93†Heritage (1)】
+L90:   * 【94†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L91: 
+L92: 【95†Responsible Drinking】
+L93: 
+L94: 【96†Calorie Counter】
+L95: 
+L96: 【97†Champagne, Fundamentals】
+L97: 
+L98: 【98†Cellar visites】
+L99: ### 【1†Houses】
+L100: 
+L101:   * 【2†The Champagne Houses】
+L102:   * 【89†Cellar Visits】
+L103:   * 【90†Heritage】
+L104:   * 【91†The art of tasting】
+L105: 
+L106: ### 【99†Appellation】
+L107: 
+L108:   * 【100†Geographical area】
+L109:   * 【101†Stages in winemaking】
+L110:   * 【102†The Champagne Terroir: A living heritage】
+L111:   * 【103†Definition and protection】
+L112:   * 【104†The Champagne month by month】
+L113: 
+L114: ### 【105†Industry】
+L115: 
+L116:   * 【106†Sustainable development】
+L117:   * 【107†Organisation】
+L118:   * 【108†Professional Associations】
+L119:   * 【109†News】
+L120: ### 【110†Encyclopedias】
+L121: 
+L122:   * 【111†Champagne Guest Book】
+L123:   * 【112†Photothèque UMC】
+L124:   * 【113†Video Library】
+L125:   * 【114†Books about vines and wines】
+L126:   * 【115†Exceptional vintages】
+L127:   * 【116†The grand history of the Champagne Houses】
+L128:   * 【117†World’s Fairs】
+L129:   * 【118†Champagne, star of the seventh art】
+L130:   * 【119†Champagne and the arts】
+L131:   * 【120†Champagne people】
+L132: ### 【121†Professional】
+L133: 
+L134:   * 【122†UMC】
+L135: 
+L136:   * 【122†Contact】
+L137:   * 【123†Site map】
+L138:   * 【124†CGU】
+L139:   * 【125†alphamosa.fr†alphamosa.fr】
+L140:   * The abuse of alcohol is harmful to your health – consume in moderation
+L141:   * 【122†Contact】
+L142: 
+L143: 【123†Plan du site】
+L144: 
+L145: 【124†Mentions légales】
+L146: 
+L147: 【126†Politique de confidentialité】
+L148: 
+L149: 【125†alphamosa.fr†alphamosa.fr】
+L150: 
+L151: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+--------------------------------------------------------------------------------
+Maison Louis Roederer - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/louis-roederer)
+【turn110view2】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/louis-roederer","lineno":null}); Total lines: 155
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Louis Roederer
+L3: 
+L4: ## Louis Roederer
+L5: 
+L6: 21 boulevard Lundy - CS 40014
+L7: 51722 Reims Cedex
+L8: 
+L9: 【3†https://www.louis-roederer.com/fr/contact†www.louis-roederer.com】
+L10: 
+L11: Tel. (33) 326 40 42 11
+L12: 
+L13: com@champagne-roederer.com
+L14: 
+L15: 【4†Official website†www.louis-roederer.com】
+L16: 
+L17: 【5†Image】
+L18: 
+L19: 【6†Image】
+L20: 
+L21: 【7†Image】
+L22: 
+L23: 【8†Image】
+L24: 
+L25: 【9†Image】
+L26: 
+L27: 【10†Image】
+L28: 
+L29: ### Key Figures
+L30: 
+L31: Salaried staff: 200
+L32: Vineyard estate: 244 ha
+L33: ### Identity
+L34: 
+L35: Date of foundation: 1776
+L36: Group: Roederer Collection
+L37: Profile: S.A.
+L38: Company Registration Number: 335 681 169 00017
+L39: 
+L40: ### Flow chart
+L41: 
+L42: #### Management
+L43: 
+L44: Chairman: 【11†Frédéric Rouzaud】
+L45: Deputy Managing Director: 【12†Jean-Baptiste Lecaillon】
+L46: 
+L47: #### Grape supply
+L48: 
+L49: Vineyard estate: 【12†Jean-Baptiste Lecaillon】
+L50: Vineyard estate: Johann Merle
+L51: Winegrower collaboration: 【11†Frédéric Rouzaud】
+L52: Winegrower collaboration: 【12†Jean-Baptiste Lecaillon】
+L53: #### Financial and Administrative management
+L54: 
+L55: Finance: Laurent Bourdier
+L56: Human Resources: Frédéric Hérault
+L57: Legal: Frédéric Hérault
+L58: 
+L59: #### Winemaking
+L60: 
+L61: Cellar master: 【12†Jean-Baptiste Lecaillon】
+L62: Oenologist: 【12†Jean-Baptiste Lecaillon】
+L63: Production: 【12†Jean-Baptiste Lecaillon】
+L64: 
+L65: #### Commercialization
+L66: 
+L67: France: Mathieu Brecy
+L68: Export: Thierry Wallaert
+L69: 
+L70: #### Marketing
+L71: 
+L72: Cédric Petit
+L73: 
+L74: #### Communication
+L75: 
+L76: Cédric Petit
+L77: ### Cuvees
+L78: 
+L79: Collection, Vintage, Rosé Vintage, Vintage Blanc de Blancs, Carte Blanche, Cristal, Cristal Rosé, Cristal Vinothèque, Cristal Vinothèque Rosé, Brut Nature, Brut Nature Rosé.
+L80: #### 【1†Houses】
+L81: 
+L82: [Button: The Champagne Houses]
+L83: 【13†Abelé 1757】 【14†Alfred Gratien】 【15†Ayala】 【16†Barons de Rothschild】 【17†Besserat de Bellefon】 【18†Billecart-Salmon】 【19†Bissinger & C°】 【20†Boizel】 【21†Bollinger】 【22†Brice】 【23†Bruno Paillard】 【24†Burtin】 【25†Canard-Duchêne】 【26†Cattier】 【27†Chanoine Frères】 【28†Charles de Cazanove】 【29†Charles Heidsieck】 【30†Charles Lafitte】 【31†Charles Mignon】 【32†Chaudron】 【33†Collery】 【34†Cristian Senez】 【35†Cuperly】 【36†de Castellane】 【37†de Venoge】 【38†Delamotte】 【39†Deutz】 【40†Dom Pérignon】 【41†Duval-Leroy】 【42†Edouard Brun & C°】 【43†Eugène Ralle】 【44†Ferdinand Bonnet】 【45†G.H.
+L84: Martel & Co】 【46†Gardet】 【47†Gosset】 【48†Gremillet】 【49†Heidsieck & C° Monopole】 【50†Henri Giraud】 【51†Henriot】 【52†Irroy】 【53†Jacquesson】 【54†Jacquinot & Fils】 【55†Janisson & Fils】 【56†Joseph Perrier】 【57†Krug】 【58†Lallier】 【59†Lanson】 【60†Laurent-Perrier】 【61†Leclerc Briant】 【62†Lenoble】 【63†Lombard】 【64†Louis de Sacy】 【65†Louis Massing】 【66†Louis Roederer】 【67†Malard】 【68†Mansard】 【69†Marie Stuart】 【70†Mercier】 【71†Moët & Chandon】 【72†Moutard】 【73†Mumm & Cie】 【74†Nicolas Gueusquin】 【75†Perrier Jouët】 【76†Philipponnat】 【77†Pierre Mignon】 【78†Piper-Heidsieck】 【79†Pol Roger】 【80†Pommery】 【81†Ruinart】 【82†Salon】 【83†Soutiran】 【84†Taittinger】 【85†Telmont】 【86†Thiénot】 【87†Veuve Cheurlin (J.Arnoult)】 【88†Veuve Clicquot】 【89†Vranken】
+L85: 【90†Cellar Visits】
+L86: 
+L87: 【91†Heritage】
+L88: 
+L89: 【92†The art of tasting】
+L90: 
+L91:   * 【93†Works (15)】
+L92:   * 【94†Heritage (6)】
+L93:   * 【95†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L94: 
+L95: 【96†Responsible Drinking】
+L96: 
+L97: 【97†Calorie Counter】
+L98: 
+L99: 【98†Champagne, Fundamentals】
+L100: 
+L101: 【99†Cellar visites】
+L102: ### 【1†Houses】
+L103: 
+L104:   * 【2†The Champagne Houses】
+L105:   * 【90†Cellar Visits】
+L106:   * 【91†Heritage】
+L107:   * 【92†The art of tasting】
+L108: 
+L109: ### 【100†Appellation】
+L110: 
+L111:   * 【101†Geographical area】
+L112:   * 【102†Stages in winemaking】
+L113:   * 【103†The Champagne Terroir: A living heritage】
+L114:   * 【104†Definition and protection】
+L115:   * 【105†The Champagne month by month】
+L116: 
+L117: ### 【106†Industry】
+L118: 
+L119:   * 【107†Sustainable development】
+L120:   * 【108†Organisation】
+L121:   * 【109†Professional Associations】
+L122:   * 【110†News】
+L123: ### 【111†Encyclopedias】
+L124: 
+L125:   * 【112†Champagne Guest Book】
+L126:   * 【113†Photothèque UMC】
+L127:   * 【114†Video Library】
+L128:   * 【115†Books about vines and wines】
+L129:   * 【116†Exceptional vintages】
+L130:   * 【117†The grand history of the Champagne Houses】
+L131:   * 【118†World’s Fairs】
+L132:   * 【119†Champagne, star of the seventh art】
+L133:   * 【120†Champagne and the arts】
+L134:   * 【121†Champagne people】
+L135: ### 【122†Professional】
+L136: 
+L137:   * 【123†UMC】
+L138: 
+L139:   * 【123†Contact】
+L140:   * 【124†Site map】
+L141:   * 【125†CGU】
+L142:   * 【126†alphamosa.fr†alphamosa.fr】
+L143:   * The abuse of alcohol is harmful to your health – consume in moderation
+L144:   * 【123†Contact】
+L145: 
+L146: 【124†Plan du site】
+L147: 
+L148: 【125†Mentions légales】
+L149: 
+L150: 【127†Politique de confidentialité】
+L151: 
+L152: 【126†alphamosa.fr†alphamosa.fr】
+L153: 
+L154: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+
+Maison Moët & Chandon - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/moet-chandon)
+【turn111view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/moet-chandon","lineno":null}); Total lines: 153
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Moët & Chandon
+L3: ## Moët & Chandon
+L4: 
+L5: 20 avenue de Champagne - BP 140
+L6: 51333 EPERNAY Cedex
+L7: 
+L8: 【3†https://www.moet.com/fr-fr/nous-contacter†www.moet.com】
+L9: 
+L10: Tel. (33) 326 51 20 00
+L11: 
+L12: 【4†Cellar visits†www.moet.com】 【5†Official website†www.moet.com】
+L13: 
+L14: 【6†© Michel Jolyot】
+L15: 
+L16: 【7†Muselet© Philippe Galowich / Moët & Chandon】
+L17: 
+L18: 【8†Borne© Michel Jolyot / Moët & Chandon】
+L19: 
+L20: 【9†Hôtel Moët© Andreas Achmann / Moët & Chandon】
+L21: 
+L22: 【10†Image】
+L23: 
+L24: 【11†Image: Muselet】
+L25: 
+L26: 【12†Image: Borne】
+L27: 
+L28: 【13†Image: Hôtel Moët】
+L29: 
+L30: 【14†Image】
+L31: ### Key Figures
+L32: 
+L33: Salaried staff: NC
+L34: Vineyard estate: 1 600 (consolidé MHCS) ha
+L35: 
+L36: ### Identity
+L37: 
+L38: Date of foundation: 1743
+L39: Group: MHCS
+L40: Profile: SA
+L41: Company Registration Number: 509 553 459
+L42: 
+L43: ### Flow chart
+L44: 
+L45: #### Management
+L46: 
+L47: Chairman MHCS: 【15†Jean-Jacques Guiony】
+L48: Deputy Managing Director MHCS: 【16†Frédéric Dufour】
+L49: Chairman: 【17†Sibylle Scherer】
+L50: 
+L51: #### Grape supply
+L52: 
+L53: 【18†Frédéric Gallois】
+L54: Vineyard estate: 【18†Frédéric Gallois】
+L55: Winegrower collaboration: Yann-Marie du Bourblanc
+L56: #### Financial and Administrative management
+L57: 
+L58: Finance: Jennifer Skorupka
+L59: Human Resources: Damien de Colombel
+L60: 
+L61: #### Winemaking
+L62: 
+L63: Cellar master: 【19†Benoit Gouez】
+L64: Production: Ghislain Bonnet
+L65: QSE: Didier de Amorin
+L66: 
+L67: #### Commercialization
+L68: 
+L69: International: Renaud Butel
+L70: 
+L71: #### Marketing
+L72: 
+L73: Isabel May
+L74: 
+L75: #### Communication
+L76: 
+L77: Isabel May
+L78: #### 【1†Houses】
+L79: 
+L80: [Button: The Champagne Houses]
+L81: 【20†Abelé 1757】 【21†Alfred Gratien】 【22†Ayala】 【23†Barons de Rothschild】 【24†Besserat de Bellefon】 【25†Billecart-Salmon】 【26†Bissinger & C°】 【27†Boizel】 【28†Bollinger】 【29†Brice】 【30†Bruno Paillard】 【31†Burtin】 【32†Canard-Duchêne】 【33†Cattier】 【34†Chanoine Frères】 【35†Charles de Cazanove】 【36†Charles Heidsieck】 【37†Charles Lafitte】 【38†Charles Mignon】 【39†Chaudron】 【40†Collery】 【41†Cristian Senez】 【42†Cuperly】 【43†de Castellane】 【44†de Venoge】 【45†Delamotte】 【46†Deutz】 【47†Dom Pérignon】 【48†Duval-Leroy】 【49†Edouard Brun & C°】 【50†Eugène Ralle】 【51†Ferdinand Bonnet】 【52†G.H.
+L82: Martel & Co】 【53†Gardet】 【54†Gosset】 【55†Gremillet】 【56†Heidsieck & C° Monopole】 【57†Henri Giraud】 【58†Henriot】 【59†Irroy】 【60†Jacquesson】 【61†Jacquinot & Fils】 【62†Janisson & Fils】 【63†Joseph Perrier】 【64†Krug】 【65†Lallier】 【66†Lanson】 【67†Laurent-Perrier】 【68†Leclerc Briant】 【69†Lenoble】 【70†Lombard】 【71†Louis de Sacy】 【72†Louis Massing】 【73†Louis Roederer】 【74†Malard】 【75†Mansard】 【76†Marie Stuart】 【77†Mercier】 【78†Moët & Chandon】 【79†Moutard】 【80†Mumm & Cie】 【81†Nicolas Gueusquin】 【82†Perrier Jouët】 【83†Philipponnat】 【84†Pierre Mignon】 【85†Piper-Heidsieck】 【86†Pol Roger】 【87†Pommery】 【88†Ruinart】 【89†Salon】 【90†Soutiran】 【91†Taittinger】 【92†Telmont】 【93†Thiénot】 【94†Veuve Cheurlin (J.Arnoult)】 【95†Veuve Clicquot】 【96†Vranken】
+L83: 【97†Cellar Visits】
+L84: 
+L85: 【98†Heritage】
+L86: 
+L87: 【99†The art of tasting】
+L88: 
+L89:   * 【100†Works (52)】
+L90:   * 【101†Heritage (7)】
+L91:   * 【102†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L92: 
+L93: 【103†Responsible Drinking】
+L94: 
+L95: 【104†Calorie Counter】
+L96: 
+L97: 【105†Champagne, Fundamentals】
+L98: 
+L99: 【106†Cellar visites】
+L100: ### 【1†Houses】
+L101: 
+L102:   * 【2†The Champagne Houses】
+L103:   * 【97†Cellar Visits】
+L104:   * 【98†Heritage】
+L105:   * 【99†The art of tasting】
+L106: 
+L107: ### 【107†Appellation】
+L108: 
+L109:   * 【108†Geographical area】
+L110:   * 【109†Stages in winemaking】
+L111:   * 【110†The Champagne Terroir: A living heritage】
+L112:   * 【111†Definition and protection】
+L113:   * 【112†The Champagne month by month】
+L114: 
+L115: ### 【113†Industry】
+L116: 
+L117:   * 【114†Sustainable development】
+L118:   * 【115†Organisation】
+L119:   * 【116†Professional Associations】
+L120:   * 【117†News】
+L121: ### 【118†Encyclopedias】
+L122: 
+L123:   * 【119†Champagne Guest Book】
+L124:   * 【120†Photothèque UMC】
+L125:   * 【121†Video Library】
+L126:   * 【122†Books about vines and wines】
+L127:   * 【123†Exceptional vintages】
+L128:   * 【124†The grand history of the Champagne Houses】
+L129:   * 【125†World’s Fairs】
+L130:   * 【126†Champagne, star of the seventh art】
+L131:   * 【127†Champagne and the arts】
+L132:   * 【128†Champagne people】
+L133: ### 【129†Professional】
+L134: 
+L135:   * 【130†UMC】
+L136: 
+L137:   * 【130†Contact】
+L138:   * 【131†Site map】
+L139:   * 【132†CGU】
+L140:   * 【133†alphamosa.fr†alphamosa.fr】
+L141:   * The abuse of alcohol is harmful to your health – consume in moderation
+L142:   * 【130†Contact】
+L143: 
+L144: 【131†Plan du site】
+L145: 
+L146: 【132†Mentions légales】
+L147: 
+L148: 【134†Politique de confidentialité】
+L149: 
+L150: 【133†alphamosa.fr†alphamosa.fr】
+L151: 
+L152: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+--------------------------------------------------------------------------------
+Maison Perrier Jouët - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/perrier-jouet)
+【turn111view1】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/perrier-jouet","lineno":null}); Total lines: 154
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Perrier Jouët
+L3: 
+L4: ## Perrier Jouët
+L5: 
+L6: 28 avenue de Champagne - BP 31
+L7: 51201 EPERNAY CEDEX
+L8: 
+L9: Tel. (33) 326 53 38 00
+L10: 
+L11: info@perrier-jouet.fr
+L12: 
+L13: 【3†Official website†www.perrier-jouet.com】
+L14: 
+L15: 【4†Image】
+L16: 
+L17: 【5†Image】
+L18: 
+L19: 【6†Image】
+L20: 
+L21: 【7†Image】
+L22: 
+L23: 【8†Image】
+L24: 
+L25: 【9†Image】
+L26: 
+L27: 【10†Image】
+L28: 
+L29: 【11†Image】
+L30: 
+L31: ### Key Figures
+L32: 
+L33: Salaried staff: 472 (Consolidé Groupe)
+L34: Vineyard estate: 65 ha
+L35: ### Identity
+L36: 
+L37: Date of foundation: 1811
+L38: Group: Pernod Ricard
+L39: Profile: S.A.
+L40: Company Registration Number: 095 750 261 00018
+L41: 
+L42: ### Flow chart
+L43: 
+L44: #### Management
+L45: 
+L46: P.-D.G.: Nodjame Fouad
+L47: Director of the House: 【12†François-Xavier Morizot】
+L48: 
+L49: #### Grape supply
+L50: 
+L51: Stéphane Varet
+L52: Vineyard estate: Julien Bacrot
+L53: Winegrower collaboration: Julien Bacrot
+L54: 
+L55: #### Financial and Administrative management
+L56: 
+L57: Finance: Pierre Edouard Miot
+L58: Human Resources: Claire Percheron
+L59: #### Winemaking
+L60: 
+L61: Cellar master: 【13†Séverine Frerson-Gomez】
+L62: Production: Alexandra Viart
+L63: 
+L64: #### Commercialization
+L65: 
+L66: cf. Direction Générale
+L67: 
+L68: #### Marketing
+L69: 
+L70: Marie Cazals de Vries
+L71: 
+L72: #### Communication
+L73: 
+L74: Marie Cazals de Vries
+L75: 
+L76: ### Cuvees
+L77: 
+L78: - Blason Grand Brut, Blason Rosé, Blason Blanc de Blancs, Belle Epoque, Belle Epoque Rosé, Belle Epoque Blanc de Blancs.
+L79: #### 【1†Houses】
+L80: 
+L81: [Button: The Champagne Houses]
+L82: 【14†Abelé 1757】 【15†Alfred Gratien】 【16†Ayala】 【17†Barons de Rothschild】 【18†Besserat de Bellefon】 【19†Billecart-Salmon】 【20†Bissinger & C°】 【21†Boizel】 【22†Bollinger】 【23†Brice】 【24†Bruno Paillard】 【25†Burtin】 【26†Canard-Duchêne】 【27†Cattier】 【28†Chanoine Frères】 【29†Charles de Cazanove】 【30†Charles Heidsieck】 【31†Charles Lafitte】 【32†Charles Mignon】 【33†Chaudron】 【34†Collery】 【35†Cristian Senez】 【36†Cuperly】 【37†de Castellane】 【38†de Venoge】 【39†Delamotte】 【40†Deutz】 【41†Dom Pérignon】 【42†Duval-Leroy】 【43†Edouard Brun & C°】 【44†Eugène Ralle】 【45†Ferdinand Bonnet】 【46†G.H.
+L83: Martel & Co】 【47†Gardet】 【48†Gosset】 【49†Gremillet】 【50†Heidsieck & C° Monopole】 【51†Henri Giraud】 【52†Henriot】 【53†Irroy】 【54†Jacquesson】 【55†Jacquinot & Fils】 【56†Janisson & Fils】 【57†Joseph Perrier】 【58†Krug】 【59†Lallier】 【60†Lanson】 【61†Laurent-Perrier】 【62†Leclerc Briant】 【63†Lenoble】 【64†Lombard】 【65†Louis de Sacy】 【66†Louis Massing】 【67†Louis Roederer】 【68†Malard】 【69†Mansard】 【70†Marie Stuart】 【71†Mercier】 【72†Moët & Chandon】 【73†Moutard】 【74†Mumm & Cie】 【75†Nicolas Gueusquin】 【76†Perrier Jouët】 【77†Philipponnat】 【78†Pierre Mignon】 【79†Piper-Heidsieck】 【80†Pol Roger】 【81†Pommery】 【82†Ruinart】 【83†Salon】 【84†Soutiran】 【85†Taittinger】 【86†Telmont】 【87†Thiénot】 【88†Veuve Cheurlin (J.Arnoult)】 【89†Veuve Clicquot】 【90†Vranken】
+L84: 【91†Cellar Visits】
+L85: 
+L86: 【92†Heritage】
+L87: 
+L88: 【93†The art of tasting】
+L89: 
+L90:   * 【94†Works (78)】
+L91:   * 【95†Heritage (3)】
+L92:   * 【96†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L93: 
+L94: 【97†Responsible Drinking】
+L95: 
+L96: 【98†Calorie Counter】
+L97: 
+L98: 【99†Champagne, Fundamentals】
+L99: 
+L100: 【100†Cellar visites】
+L101: ### 【1†Houses】
+L102: 
+L103:   * 【2†The Champagne Houses】
+L104:   * 【91†Cellar Visits】
+L105:   * 【92†Heritage】
+L106:   * 【93†The art of tasting】
+L107: 
+L108: ### 【101†Appellation】
+L109: 
+L110:   * 【102†Geographical area】
+L111:   * 【103†Stages in winemaking】
+L112:   * 【104†The Champagne Terroir: A living heritage】
+L113:   * 【105†Definition and protection】
+L114:   * 【106†The Champagne month by month】
+L115: 
+L116: ### 【107†Industry】
+L117: 
+L118:   * 【108†Sustainable development】
+L119:   * 【109†Organisation】
+L120:   * 【110†Professional Associations】
+L121:   * 【111†News】
+L122: ### 【112†Encyclopedias】
+L123: 
+L124:   * 【113†Champagne Guest Book】
+L125:   * 【114†Photothèque UMC】
+L126:   * 【115†Video Library】
+L127:   * 【116†Books about vines and wines】
+L128:   * 【117†Exceptional vintages】
+L129:   * 【118†The grand history of the Champagne Houses】
+L130:   * 【119†World’s Fairs】
+L131:   * 【120†Champagne, star of the seventh art】
+L132:   * 【121†Champagne and the arts】
+L133:   * 【122†Champagne people】
+L134: ### 【123†Professional】
+L135: 
+L136:   * 【124†UMC】
+L137: 
+L138:   * 【124†Contact】
+L139:   * 【125†Site map】
+L140:   * 【126†CGU】
+L141:   * 【127†alphamosa.fr†alphamosa.fr】
+L142:   * The abuse of alcohol is harmful to your health – consume in moderation
+L143:   * 【124†Contact】
+L144: 
+L145: 【125†Plan du site】
+L146: 
+L147: 【126†Mentions légales】
+L148: 
+L149: 【128†Politique de confidentialité】
+L150: 
+L151: 【127†alphamosa.fr†alphamosa.fr】
+L152: 
+L153: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+--------------------------------------------------------------------------------
+Maison Philipponnat - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/philipponnat)
+【turn111view2】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/philipponnat","lineno":null}); Total lines: 160
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Philipponnat
+L3: 
+L4: ## Philipponnat
+L5: 
+L6: 13 rue du Pont - BP 2
+L7: 51160 MAREUIL-sur-AY
+L8: 
+L9: Tel. (33) 326 56 93 00
+L10: 
+L11: contact@philipponnat.com
+L12: 
+L13: 【3†Official website†www.philipponnat.com】
+L14: 
+L15: 【4†Image】
+L16: 
+L17: 【5†Image】
+L18: 
+L19: 【6†Image】
+L20: 
+L21: 【7†Image】
+L22: 
+L23: 【8†Image】
+L24: 
+L25: 【9†Image】
+L26: 
+L27: 【10†Image】
+L28: 
+L29: 【11†Image】
+L30: 
+L31: 【12†Image】
+L32: 
+L33: ### Key Figures
+L34: 
+L35: Salaried staff: 27
+L36: Vineyard estate: 20 ha
+L37: 
+L38: ### Identity
+L39: 
+L40: Date of foundation: 1910
+L41: Group: Lanson-BCC
+L42: Profile: S.A.
+L43: Company Registration Number: 335 580 874 000 48
+L44: ### Flow chart
+L45: 
+L46: #### Management
+L47: 
+L48: Chairman: 【13†Charles Philipponnat】
+L49: Managing Director: 【13†Charles Philipponnat】
+L50: 
+L51: #### Grape supply
+L52: 
+L53: Vineyard estate: Teddy Gérard
+L54: Winegrower collaboration: Teddy Gérard
+L55: 
+L56: #### Financial and Administrative management
+L57: 
+L58: Finance: Olivier Poulet
+L59: Human Resources: cf. Direction Générale
+L60: 
+L61: #### Winemaking
+L62: 
+L63: Cellar master: 【14†Thierry Garnier】
+L64: Oenologist: 【14†Thierry Garnier】
+L65: Production: Carine Charbault
+L66: #### Commercialization
+L67: 
+L68: France: Nicolas Ayme
+L69: France: Antoine Juillard
+L70: Europe: Thomas Jorez
+L71: Europe: François Philipponnat
+L72: America: François Philipponnat
+L73: Asia/Japan: Thomas Jorez
+L74: 
+L75: #### Marketing
+L76: 
+L77: Nicoletta de Nicolo
+L78: 
+L79: #### Communication
+L80: 
+L81: Nicoletta de Nicolo
+L82: 
+L83: ### Cuvees
+L84: 
+L85: Philipponnat, Clos des Goisses, De Saint Marceaux.
+L86: #### 【1†Houses】
+L87: 
+L88: [Button: The Champagne Houses]
+L89: 【15†Abelé 1757】 【16†Alfred Gratien】 【17†Ayala】 【18†Barons de Rothschild】 【19†Besserat de Bellefon】 【20†Billecart-Salmon】 【21†Bissinger & C°】 【22†Boizel】 【23†Bollinger】 【24†Brice】 【25†Bruno Paillard】 【26†Burtin】 【27†Canard-Duchêne】 【28†Cattier】 【29†Chanoine Frères】 【30†Charles de Cazanove】 【31†Charles Heidsieck】 【32†Charles Lafitte】 【33†Charles Mignon】 【34†Chaudron】 【35†Collery】 【36†Cristian Senez】 【37†Cuperly】 【38†de Castellane】 【39†de Venoge】 【40†Delamotte】 【41†Deutz】 【42†Dom Pérignon】 【43†Duval-Leroy】 【44†Edouard Brun & C°】 【45†Eugène Ralle】 【46†Ferdinand Bonnet】 【47†G.H.
+L90: Martel & Co】 【48†Gardet】 【49†Gosset】 【50†Gremillet】 【51†Heidsieck & C° Monopole】 【52†Henri Giraud】 【53†Henriot】 【54†Irroy】 【55†Jacquesson】 【56†Jacquinot & Fils】 【57†Janisson & Fils】 【58†Joseph Perrier】 【59†Krug】 【60†Lallier】 【61†Lanson】 【62†Laurent-Perrier】 【63†Leclerc Briant】 【64†Lenoble】 【65†Lombard】 【66†Louis de Sacy】 【67†Louis Massing】 【68†Louis Roederer】 【69†Malard】 【70†Mansard】 【71†Marie Stuart】 【72†Mercier】 【73†Moët & Chandon】 【74†Moutard】 【75†Mumm & Cie】 【76†Nicolas Gueusquin】 【77†Perrier Jouët】 【78†Philipponnat】 【79†Pierre Mignon】 【80†Piper-Heidsieck】 【81†Pol Roger】 【82†Pommery】 【83†Ruinart】 【84†Salon】 【85†Soutiran】 【86†Taittinger】 【87†Telmont】 【88†Thiénot】 【89†Veuve Cheurlin (J.Arnoult)】 【90†Veuve Clicquot】 【91†Vranken】
+L91: 【92†Cellar Visits】
+L92: 
+L93: 【93†Heritage】
+L94: 
+L95: 【94†The art of tasting】
+L96: 
+L97:   * 【95†Works (3)】
+L98:   * 【96†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L99: 
+L100: 【97†Responsible Drinking】
+L101: 
+L102: 【98†Calorie Counter】
+L103: 
+L104: 【99†Champagne, Fundamentals】
+L105: 
+L106: 【100†Cellar visites】
+L107: ### 【1†Houses】
+L108: 
+L109:   * 【2†The Champagne Houses】
+L110:   * 【92†Cellar Visits】
+L111:   * 【93†Heritage】
+L112:   * 【94†The art of tasting】
+L113: 
+L114: ### 【101†Appellation】
+L115: 
+L116:   * 【102†Geographical area】
+L117:   * 【103†Stages in winemaking】
+L118:   * 【104†The Champagne Terroir: A living heritage】
+L119:   * 【105†Definition and protection】
+L120:   * 【106†The Champagne month by month】
+L121: 
+L122: ### 【107†Industry】
+L123: 
+L124:   * 【108†Sustainable development】
+L125:   * 【109†Organisation】
+L126:   * 【110†Professional Associations】
+L127:   * 【111†News】
+L128: ### 【112†Encyclopedias】
+L129: 
+L130:   * 【113†Champagne Guest Book】
+L131:   * 【114†Photothèque UMC】
+L132:   * 【115†Video Library】
+L133:   * 【116†Books about vines and wines】
+L134:   * 【117†Exceptional vintages】
+L135:   * 【118†The grand history of the Champagne Houses】
+L136:   * 【119†World’s Fairs】
+L137:   * 【120†Champagne, star of the seventh art】
+L138:   * 【121†Champagne and the arts】
+L139:   * 【122†Champagne people】
+L140: ### 【123†Professional】
+L141: 
+L142:   * 【124†UMC】
+L143: 
+L144:   * 【124†Contact】
+L145:   * 【125†Site map】
+L146:   * 【126†CGU】
+L147:   * 【127†alphamosa.fr†alphamosa.fr】
+L148:   * The abuse of alcohol is harmful to your health – consume in moderation
+L149:   * 【124†Contact】
+L150: 
+L151: 【125†Plan du site】
+L152: 
+L153: 【126†Mentions légales】
+L154: 
+L155: 【128†Politique de confidentialité】
+L156: 
+L157: 【127†alphamosa.fr†alphamosa.fr】
+L158: 
+L159: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+
+Maison Piper-Heidsieck - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/piper-heidsieck)
+【turn112view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/piper-heidsieck","lineno":null}); Total lines: 157
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Piper-Heidsieck
+L3: 
+L4: ## Piper-Heidsieck
+L5: 
+L6: 12 allée du Vignoble - CS 90024
+L7: 51726 REIMS Cedex
+L8: 
+L9: Tel. (33) 326 84 43 00
+L10: 
+L11: contact@piper-heidsieck.com
+L12: 
+L13: 【3†Official website†www.piper-heidsieck.com】
+L14: 
+L15: 【4†Image】
+L16: 
+L17: 【5†Image】
+L18: 
+L19: 【6†Image】
+L20: 
+L21: 【7†Image】
+L22: 
+L23: 【8†Image】
+L24: 
+L25: 【9†Image】
+L26: 
+L27: 【10†Image】
+L28: 
+L29: 【11†Image】
+L30: 
+L31: 【12†Image】
+L32: 
+L33: ### Key Figures
+L34: 
+L35: Salaried staff: 140 (Consolidé PH-CH)
+L36: Vineyard estate: 65 (consolidé Piper & Charles) ha
+L37: ### Identity
+L38: 
+L39: Date of foundation: 1785
+L40: Group: Piper & Charles Heidsieck - EPI
+L41: Profile: S.A.S.
+L42: Company Registration Number: 879 810 695 00012
+L43: 
+L44: ### Flow chart
+L45: 
+L46: #### Management
+L47: 
+L48: Chairman: 【13†Nicolas Beckers】
+L49: Director of the House: Stéphane Decaux
+L50: 
+L51: #### Grape supply
+L52: 
+L53: Vineyard estate: Thierry Gomerieux
+L54: Vineyard estate: 【14†Emilien Erard】
+L55: Winegrower collaboration: Thierry Gomerieux
+L56: Winegrower collaboration: 【14†Emilien Erard】
+L57: #### Financial and Administrative management
+L58: 
+L59: Finance: Patrice Proth
+L60: Human Resources: Marie-Laure Barrault
+L61: 
+L62: #### Winemaking
+L63: 
+L64: Cellar master: 【15†Emilien Boutillat】
+L65: Production: Thierry Gomerieux
+L66: 
+L67: #### Commercialization
+L68: 
+L69: France: Antoine Trémel
+L70: America: Tim Norris
+L71: Asia: Céline Machado
+L72: Latin America: Philippe Bourrat
+L73: 
+L74: #### Marketing
+L75: 
+L76: Julie Kinsman
+L77: 
+L78: #### Communication
+L79: 
+L80: Julie Kinsman
+L81: #### 【1†Houses】
+L82: 
+L83: [Button: The Champagne Houses]
+L84: 【16†Abelé 1757】 【17†Alfred Gratien】 【18†Ayala】 【19†Barons de Rothschild】 【20†Besserat de Bellefon】 【21†Billecart-Salmon】 【22†Bissinger & C°】 【23†Boizel】 【24†Bollinger】 【25†Brice】 【26†Bruno Paillard】 【27†Burtin】 【28†Canard-Duchêne】 【29†Cattier】 【30†Chanoine Frères】 【31†Charles de Cazanove】 【32†Charles Heidsieck】 【33†Charles Lafitte】 【34†Charles Mignon】 【35†Chaudron】 【36†Collery】 【37†Cristian Senez】 【38†Cuperly】 【39†de Castellane】 【40†de Venoge】 【41†Delamotte】 【42†Deutz】 【43†Dom Pérignon】 【44†Duval-Leroy】 【45†Edouard Brun & C°】 【46†Eugène Ralle】 【47†Ferdinand Bonnet】 【48†G.H.
+L85: Martel & Co】 【49†Gardet】 【50†Gosset】 【51†Gremillet】 【52†Heidsieck & C° Monopole】 【53†Henri Giraud】 【54†Henriot】 【55†Irroy】 【56†Jacquesson】 【57†Jacquinot & Fils】 【58†Janisson & Fils】 【59†Joseph Perrier】 【60†Krug】 【61†Lallier】 【62†Lanson】 【63†Laurent-Perrier】 【64†Leclerc Briant】 【65†Lenoble】 【66†Lombard】 【67†Louis de Sacy】 【68†Louis Massing】 【69†Louis Roederer】 【70†Malard】 【71†Mansard】 【72†Marie Stuart】 【73†Mercier】 【74†Moët & Chandon】 【75†Moutard】 【76†Mumm & Cie】 【77†Nicolas Gueusquin】 【78†Perrier Jouët】 【79†Philipponnat】 【80†Pierre Mignon】 【81†Piper-Heidsieck】 【82†Pol Roger】 【83†Pommery】 【84†Ruinart】 【85†Salon】 【86†Soutiran】 【87†Taittinger】 【88†Telmont】 【89†Thiénot】 【90†Veuve Cheurlin (J.Arnoult)】 【91†Veuve Clicquot】 【92†Vranken】
+L86: 【93†Cellar Visits】
+L87: 
+L88: 【94†Heritage】
+L89: 
+L90: 【95†The art of tasting】
+L91: 
+L92:   * 【96†Works (16)】
+L93:   * 【97†Heritage (1)】
+L94: 
+L95: 【98†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L96: 
+L97: 【99†Responsible Drinking】
+L98: 
+L99: 【100†Calorie Counter】
+L100: 
+L101: 【101†Champagne, Fundamentals】
+L102: 
+L103: 【102†Cellar visites】
+L104: ### 【1†Houses】
+L105: 
+L106:   * 【2†The Champagne Houses】
+L107:   * 【93†Cellar Visits】
+L108:   * 【94†Heritage】
+L109:   * 【95†The art of tasting】
+L110: 
+L111: ### 【103†Appellation】
+L112: 
+L113:   * 【104†Geographical area】
+L114:   * 【105†Stages in winemaking】
+L115:   * 【106†The Champagne Terroir: A living heritage】
+L116:   * 【107†Definition and protection】
+L117:   * 【108†The Champagne month by month】
+L118: 
+L119: ### 【109†Industry】
+L120: 
+L121:   * 【110†Sustainable development】
+L122:   * 【111†Organisation】
+L123:   * 【112†Professional Associations】
+L124:   * 【113†News】
+L125: ### 【114†Encyclopedias】
+L126: 
+L127:   * 【115†Champagne Guest Book】
+L128:   * 【116†Photothèque UMC】
+L129:   * 【117†Video Library】
+L130:   * 【118†Books about vines and wines】
+L131:   * 【119†Exceptional vintages】
+L132:   * 【120†The grand history of the Champagne Houses】
+L133:   * 【121†World’s Fairs】
+L134:   * 【122†Champagne, star of the seventh art】
+L135:   * 【123†Champagne and the arts】
+L136:   * 【124†Champagne people】
+L137: ### 【125†Professional】
+L138: 
+L139:   * 【126†UMC】
+L140: 
+L141:   * 【126†Contact】
+L142:   * 【127†Site map】
+L143:   * 【128†CGU】
+L144:   * 【129†alphamosa.fr†alphamosa.fr】
+L145:   * The abuse of alcohol is harmful to your health – consume in moderation
+L146:   * 【126†Contact】
+L147: 
+L148: 【127†Plan du site】
+L149: 
+L150: 【128†Mentions légales】
+L151: 
+L152: 【130†Politique de confidentialité】
+L153: 
+L154: 【129†alphamosa.fr†alphamosa.fr】
+L155: 
+L156: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+--------------------------------------------------------------------------------
+Maison Pol Roger - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/pol-roger)
+【turn112view1】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/pol-roger","lineno":null}); Total lines: 150
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Pol Roger
+L3: 
+L4: ## Pol Roger
+L5: 
+L6: 1 rue Winston Churchill
+L7: 51200 EPERNAY
+L8: 
+L9: Tel. (33) 326 59 58 00
+L10: 
+L11: polroger@polroger.fr
+L12: 
+L13: 【3†Official website†www.polroger.com】
+L14: 
+L15: 【4†Image】
+L16: 
+L17: 【5†Image】
+L18: 
+L19: 【6†Image】
+L20: 
+L21: 【7†Image】
+L22: 
+L23: 【8†Image】
+L24: 
+L25: 【9†Image】
+L26: 
+L27: ### Key Figures
+L28: 
+L29: Salaried staff: 60
+L30: Vineyard estate: 92 ha
+L31: 
+L32: ### Identity
+L33: 
+L34: Date of foundation: 1849
+L35: Profile: S.A.
+L36: Company Registration Number: 095 750 113 00029
+L37: 
+L38: ### Flow chart
+L39: #### Management
+L40: 
+L41: Chairman of the Board: 【10†Hadrien Mouflard】
+L42: Management Board: Hubert de Billy
+L43: Management Board: 【11†Damien Cambres】
+L44: Management Board: Isabelle Gautier
+L45: Chairman of the Supervisory board: 【12†Thierry Budin】
+L46: General Secretary: 【13†Bastien Collard de Billy】
+L47: 
+L48: #### Grape supply
+L49: 
+L50: Vineyard estate: Lucile Perard
+L51: Winegrower collaboration: Lucile Perard
+L52: 
+L53: #### Financial and Administrative management
+L54: 
+L55: Finance: Isabelle Gautier
+L56: Human Resources: Véronique Maronet
+L57: #### Winemaking
+L58: 
+L59: Cellar master: 【11†Damien Cambres】
+L60: Production: 【11†Damien Cambres】
+L61: 
+L62: #### Commercialization
+L63: 
+L64: France: cf. Direction Générale
+L65: Export: 【13†Bastien Collard de Billy】
+L66: Export: Arthur Camut
+L67: 
+L68: #### Marketing
+L69: 
+L70: Chloé Verrat
+L71: 
+L72: #### Communication
+L73: 
+L74: Chloé Verrat
+L75: #### 【1†Houses】
+L76: 
+L77: [Button: The Champagne Houses]
+L78: 【14†Abelé 1757】 【15†Alfred Gratien】 【16†Ayala】 【17†Barons de Rothschild】 【18†Besserat de Bellefon】 【19†Billecart-Salmon】 【20†Bissinger & C°】 【21†Boizel】 【22†Bollinger】 【23†Brice】 【24†Bruno Paillard】 【25†Burtin】 【26†Canard-Duchêne】 【27†Cattier】 【28†Chanoine Frères】 【29†Charles de Cazanove】 【30†Charles Heidsieck】 【31†Charles Lafitte】 【32†Charles Mignon】 【33†Chaudron】 【34†Collery】 【35†Cristian Senez】 【36†Cuperly】 【37†de Castellane】 【38†de Venoge】 【39†Delamotte】 【40†Deutz】 【41†Dom Pérignon】 【42†Duval-Leroy】 【43†Edouard Brun & C°】 【44†Eugène Ralle】 【45†Ferdinand Bonnet】 【46†G.H.
+L79: Martel & Co】 【47†Gardet】 【48†Gosset】 【49†Gremillet】 【50†Heidsieck & C° Monopole】 【51†Henri Giraud】 【52†Henriot】 【53†Irroy】 【54†Jacquesson】 【55†Jacquinot & Fils】 【56†Janisson & Fils】 【57†Joseph Perrier】 【58†Krug】 【59†Lallier】 【60†Lanson】 【61†Laurent-Perrier】 【62†Leclerc Briant】 【63†Lenoble】 【64†Lombard】 【65†Louis de Sacy】 【66†Louis Massing】 【67†Louis Roederer】 【68†Malard】 【69†Mansard】 【70†Marie Stuart】 【71†Mercier】 【72†Moët & Chandon】 【73†Moutard】 【74†Mumm & Cie】 【75†Nicolas Gueusquin】 【76†Perrier Jouët】 【77†Philipponnat】 【78†Pierre Mignon】 【79†Piper-Heidsieck】 【80†Pol Roger】 【81†Pommery】 【82†Ruinart】 【83†Salon】 【84†Soutiran】 【85†Taittinger】 【86†Telmont】 【87†Thiénot】 【88†Veuve Cheurlin (J.Arnoult)】 【89†Veuve Clicquot】 【90†Vranken】
+L80: 【91†Cellar Visits】
+L81: 
+L82: 【92†Heritage】
+L83: 
+L84: 【93†The art of tasting】
+L85: 
+L86:   * 【94†Works (14)】
+L87:   * 【95†Heritage (1)】
+L88:   * 【96†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L89: 
+L90: 【97†Responsible Drinking】
+L91: 
+L92: 【98†Calorie Counter】
+L93: 
+L94: 【99†Champagne, Fundamentals】
+L95: 
+L96: 【100†Cellar visites】
+L97: ### 【1†Houses】
+L98: 
+L99:   * 【2†The Champagne Houses】
+L100:   * 【91†Cellar Visits】
+L101:   * 【92†Heritage】
+L102:   * 【93†The art of tasting】
+L103: 
+L104: ### 【101†Appellation】
+L105: 
+L106:   * 【102†Geographical area】
+L107:   * 【103†Stages in winemaking】
+L108:   * 【104†The Champagne Terroir: A living heritage】
+L109:   * 【105†Definition and protection】
+L110:   * 【106†The Champagne month by month】
+L111: 
+L112: ### 【107†Industry】
+L113: 
+L114:   * 【108†Sustainable development】
+L115:   * 【109†Organisation】
+L116:   * 【110†Professional Associations】
+L117:   * 【111†News】
+L118: ### 【112†Encyclopedias】
+L119: 
+L120:   * 【113†Champagne Guest Book】
+L121:   * 【114†Photothèque UMC】
+L122:   * 【115†Video Library】
+L123:   * 【116†Books about vines and wines】
+L124:   * 【117†Exceptional vintages】
+L125:   * 【118†The grand history of the Champagne Houses】
+L126:   * 【119†World’s Fairs】
+L127:   * 【120†Champagne, star of the seventh art】
+L128:   * 【121†Champagne and the arts】
+L129:   * 【122†Champagne people】
+L130: ### 【123†Professional】
+L131: 
+L132:   * 【124†UMC】
+L133: 
+L134:   * 【124†Contact】
+L135:   * 【125†Site map】
+L136:   * 【126†CGU】
+L137:   * 【127†alphamosa.fr†alphamosa.fr】
+L138:   * The abuse of alcohol is harmful to your health – consume in moderation
+L139:   * 【124†Contact】
+L140: 
+L141: 【125†Plan du site】
+L142: 
+L143: 【126†Mentions légales】
+L144: 
+L145: 【128†Politique de confidentialité】
+L146: 
+L147: 【127†alphamosa.fr†alphamosa.fr】
+L148: 
+L149: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+--------------------------------------------------------------------------------
+Maison Pommery - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/pommery)
+【turn112view2】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/pommery","lineno":null}); Total lines: 172
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Pommery
+L3: ## Pommery
+L4: 
+L5: Domaine Vranken Pommery
+L6: 5 Place du Général Gouraud
+L7: 51100 Reims
+L8: 
+L9: Tel. (33) 326 61 62 63
+L10: 
+L11: info@vrankenpommery.fr
+L12: 
+L13: 【3†Cellar visits†www.vrankenpommery.com】 【4†Official website†www.champagnepommery.com】
+L14: 
+L15: 【5†Cécil Mathieu】
+L16: 
+L17: 【6†Domaine Pommery extérieur】
+L18: 
+L19: 【7†Domaine Pommery by night】
+L20: 
+L21: 【8†Domaine Pommery Cécil Mathieu】
+L22: 
+L23: 【9†Domaine Pommery - Les Clos Pompadour】
+L24: 
+L25: 【10†Pommery œnothèque】
+L26: 
+L27: 【11†Eric Flogny】
+L28: 
+L29: 【12†Image】
+L30: 
+L31: 【13†Image: Domaine Pommery extérieur】
+L32: 
+L33: 【14†Image: Domaine Pommery by night】
+L34: 【15†Image: Domaine Pommery】
+L35: 
+L36: 【16†Image: Domaine Pommery - Les Clos Pompadour】
+L37: 
+L38: 【17†Image: Pommery œnothèque】
+L39: 
+L40: 【18†Image】
+L41: 
+L42: 【19†Image】
+L43: 
+L44: 【20†Image】
+L45: ### Key Figures
+L46: 
+L47: Salaried staff: 246 (consolidé groupe)
+L48: Vineyard estate: 280 (consolidé groupe) ha
+L49: 
+L50: ### Identity
+L51: 
+L52: Date of foundation: 1836
+L53: Group: Maison Pommery & Associés
+L54: Profile: S.A.S.
+L55: Company Registration Number: 441 990 132 00025
+L56: 
+L57: ### Flow chart
+L58: 
+L59: #### Management
+L60: 
+L61: P.-D.G.: 【21†Nathalie Vranken】
+L62: 
+L63: #### Grape supply
+L64: 
+L65: Vineyard estate: 【22†Clément Pierlot】
+L66: Winegrower collaboration: 【22†Clément Pierlot】
+L67: 
+L68: #### Financial and Administrative management
+L69: 
+L70: Finance: Franck Delval
+L71: Human Resources: Anne Chenal
+L72: #### Brand Home
+L73: 
+L74: Cyrille Laupie
+L75: 
+L76: #### Winemaking
+L77: 
+L78: Cellar master: 【22†Clément Pierlot】
+L79: Production: 【22†Clément Pierlot】
+L80: 
+L81: #### Commercialization
+L82: 
+L83: cf. Direction Générale
+L84: 
+L85: #### Marketing
+L86: 
+L87: 【21†Nathalie Vranken】
+L88: 
+L89: #### Communication
+L90: 
+L91: 【21†Nathalie Vranken】
+L92: 
+L93: ### Cuvees
+L94: 
+L95: Pommery Brut Royal - Brut Silver - Brut Rosé - Brut Millésimé - Louise Brut - Louise Rosé - Greno - POP - Apanage Rosé - Royal Blue Sky - Apanage Brut - Apanage Blanc de Blancs - Apanage Blanc de Noirs - Clos Pompadour
+L96: #### 【1†Houses】
+L97: 
+L98: [Button: The Champagne Houses]
+L99: 【23†Abelé 1757】 【24†Alfred Gratien】 【25†Ayala】 【26†Barons de Rothschild】 【27†Besserat de Bellefon】 【28†Billecart-Salmon】 【29†Bissinger & C°】 【30†Boizel】 【31†Bollinger】 【32†Brice】 【33†Bruno Paillard】 【34†Burtin】 【35†Canard-Duchêne】 【36†Cattier】 【37†Chanoine Frères】 【38†Charles de Cazanove】 【39†Charles Heidsieck】 【40†Charles Lafitte】 【41†Charles Mignon】 【42†Chaudron】 【43†Collery】 【44†Cristian Senez】 【45†Cuperly】 【46†de Castellane】 【47†de Venoge】 【48†Delamotte】 【49†Deutz】 【50†Dom Pérignon】 【51†Duval-Leroy】 【52†Edouard Brun & C°】 【53†Eugène Ralle】 【54†Ferdinand Bonnet】 【55†G.H.
+L100: Martel & Co】 【56†Gardet】 【57†Gosset】 【58†Gremillet】 【59†Heidsieck & C° Monopole】 【60†Henri Giraud】 【61†Henriot】 【62†Irroy】 【63†Jacquesson】 【64†Jacquinot & Fils】 【65†Janisson & Fils】 【66†Joseph Perrier】 【67†Krug】 【68†Lallier】 【69†Lanson】 【70†Laurent-Perrier】 【71†Leclerc Briant】 【72†Lenoble】 【73†Lombard】 【74†Louis de Sacy】 【75†Louis Massing】 【76†Louis Roederer】 【77†Malard】 【78†Mansard】 【79†Marie Stuart】 【80†Mercier】 【81†Moët & Chandon】 【82†Moutard】 【83†Mumm & Cie】 【84†Nicolas Gueusquin】 【85†Perrier Jouët】 【86†Philipponnat】 【87†Pierre Mignon】 【88†Piper-Heidsieck】 【89†Pol Roger】 【90†Pommery】 【91†Ruinart】 【92†Salon】 【93†Soutiran】 【94†Taittinger】 【95†Telmont】 【96†Thiénot】 【97†Veuve Cheurlin (J.Arnoult)】 【98†Veuve Clicquot】 【99†Vranken】
+L101: 【100†Cellar Visits】
+L102: 
+L103: 【101†Heritage】
+L104: 
+L105: 【102†The art of tasting】
+L106: 
+L107:   * 【103†Works (43)】
+L108:   * 【104†Heritage (7)】
+L109: 
+L110: 【105†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L111: 
+L112: 【106†Responsible Drinking】
+L113: 
+L114: 【107†Calorie Counter】
+L115: 
+L116: 【108†Champagne, Fundamentals】
+L117: 
+L118: 【109†Cellar visites】
+L119: ### 【1†Houses】
+L120: 
+L121:   * 【2†The Champagne Houses】
+L122:   * 【100†Cellar Visits】
+L123:   * 【101†Heritage】
+L124:   * 【102†The art of tasting】
+L125: 
+L126: ### 【110†Appellation】
+L127: 
+L128:   * 【111†Geographical area】
+L129:   * 【112†Stages in winemaking】
+L130:   * 【113†The Champagne Terroir: A living heritage】
+L131:   * 【114†Definition and protection】
+L132:   * 【115†The Champagne month by month】
+L133: 
+L134: ### 【116†Industry】
+L135: 
+L136:   * 【117†Sustainable development】
+L137:   * 【118†Organisation】
+L138:   * 【119†Professional Associations】
+L139:   * 【120†News】
+L140: ### 【121†Encyclopedias】
+L141: 
+L142:   * 【122†Champagne Guest Book】
+L143:   * 【123†Photothèque UMC】
+L144:   * 【124†Video Library】
+L145:   * 【125†Books about vines and wines】
+L146:   * 【126†Exceptional vintages】
+L147:   * 【127†The grand history of the Champagne Houses】
+L148:   * 【128†World’s Fairs】
+L149:   * 【129†Champagne, star of the seventh art】
+L150:   * 【130†Champagne and the arts】
+L151:   * 【131†Champagne people】
+L152: ### 【132†Professional】
+L153: 
+L154:   * 【133†UMC】
+L155: 
+L156:   * 【133†Contact】
+L157:   * 【134†Site map】
+L158:   * 【135†CGU】
+L159:   * 【136†alphamosa.fr†alphamosa.fr】
+L160:   * The abuse of alcohol is harmful to your health – consume in moderation
+L161:   * 【133†Contact】
+L162: 
+L163: 【134†Plan du site】
+L164: 
+L165: 【135†Mentions légales】
+L166: 
+L167: 【137†Politique de confidentialité】
+L168: 
+L169: 【136†alphamosa.fr†alphamosa.fr】
+L170: 
+L171: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+
+Maison Ruinart - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/ruinart)
+【turn113view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/ruinart","lineno":null}); Total lines: 159
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Ruinart
+L3: 
+L4: ## Ruinart
+L5: 
+L6: 4 rue des Crayères
+L7: 51053 REIMS Cedex
+L8: 
+L9: 【3†https://www.ruinart.com/fr-fr/contact-us†www.ruinart.com】
+L10: 
+L11: Tel. (33) 326 77 51 51
+L12: 
+L13: 【4†Cellar visits†www.ruinart.com】 【5†Official website†www.ruinart.com】
+L14: 
+L15: 【6†Image】
+L16: 
+L17: 【7†Image】
+L18: 
+L19: 【8†Image】
+L20: 
+L21: 【9†Image】
+L22: 
+L23: 【10†Image】
+L24: 
+L25: 【11†Image】
+L26: 
+L27: 【12†Image】
+L28: 
+L29: 【13†Image】
+L30: 
+L31: ### Key Figures
+L32: 
+L33: Salaried staff: 2 379 (consolidé MHCS)
+L34: Vineyard estate: 1 600 (consolidé MHCS) ha
+L35: ### Identity
+L36: 
+L37: Date of foundation: 1729
+L38: Group: MHCS
+L39: Profile: S.C.S.
+L40: Company Registration Number: 335 681 136 00016
+L41: 
+L42: ### Flow chart
+L43: 
+L44: #### Management
+L45: 
+L46: Chairman MHCS: 【14†Jean-Jacques Guiony】
+L47: Deputy Managing Director MHCS: 【15†Frédéric Dufour】
+L48: Chairman: 【15†Frédéric Dufour】
+L49: 
+L50: #### Grape supply
+L51: 
+L52: 【16†Frédéric Gallois】
+L53: Vineyard estate: 【16†Frédéric Gallois】
+L54: Winegrower collaboration: Yann-Marie du Bourblanc
+L55: #### Financial and Administrative management
+L56: 
+L57: Finance: Jennifer Skorupka
+L58: Human Resources: Damien de Colombel
+L59: 
+L60: #### Winemaking
+L61: 
+L62: Cellar master: Caroline Fiot
+L63: Production: Ghislain Bonnet
+L64: QSE & R&D: Didier de Amorin
+L65: 
+L66: #### Commercialization
+L67: 
+L68: MH International network: Vincent Pagès
+L69: France: Matthieu Heidsieck
+L70: 
+L71: #### Marketing
+L72: 
+L73: Violaine Basse
+L74: 
+L75: #### Communication
+L76: 
+L77: Violaine Basse
+L78: 
+L79: #### Art & Culture
+L80: 
+L81: Fabien Vallérian
+L82: Caroline Carton
+L83: #### 【1†Houses】
+L84: 
+L85: [Button: The Champagne Houses]
+L86: 【17†Abelé 1757】 【18†Alfred Gratien】 【19†Ayala】 【20†Barons de Rothschild】 【21†Besserat de Bellefon】 【22†Billecart-Salmon】 【23†Bissinger & C°】 【24†Boizel】 【25†Bollinger】 【26†Brice】 【27†Bruno Paillard】 【28†Burtin】 【29†Canard-Duchêne】 【30†Cattier】 【31†Chanoine Frères】 【32†Charles de Cazanove】 【33†Charles Heidsieck】 【34†Charles Lafitte】 【35†Charles Mignon】 【36†Chaudron】 【37†Collery】 【38†Cristian Senez】 【39†Cuperly】 【40†de Castellane】 【41†de Venoge】 【42†Delamotte】 【43†Deutz】 【44†Dom Pérignon】 【45†Duval-Leroy】 【46†Edouard Brun & C°】 【47†Eugène Ralle】 【48†Ferdinand Bonnet】 【49†G.H.
+L87: Martel & Co】 【50†Gardet】 【51†Gosset】 【52†Gremillet】 【53†Heidsieck & C° Monopole】 【54†Henri Giraud】 【55†Henriot】 【56†Irroy】 【57†Jacquesson】 【58†Jacquinot & Fils】 【59†Janisson & Fils】 【60†Joseph Perrier】 【61†Krug】 【62†Lallier】 【63†Lanson】 【64†Laurent-Perrier】 【65†Leclerc Briant】 【66†Lenoble】 【67†Lombard】 【68†Louis de Sacy】 【69†Louis Massing】 【70†Louis Roederer】 【71†Malard】 【72†Mansard】 【73†Marie Stuart】 【74†Mercier】 【75†Moët & Chandon】 【76†Moutard】 【77†Mumm & Cie】 【78†Nicolas Gueusquin】 【79†Perrier Jouët】 【80†Philipponnat】 【81†Pierre Mignon】 【82†Piper-Heidsieck】 【83†Pol Roger】 【84†Pommery】 【85†Ruinart】 【86†Salon】 【87†Soutiran】 【88†Taittinger】 【89†Telmont】 【90†Thiénot】 【91†Veuve Cheurlin (J.Arnoult)】 【92†Veuve Clicquot】 【93†Vranken】
+L88: 【94†Cellar Visits】
+L89: 
+L90: 【95†Heritage】
+L91: 
+L92: 【96†The art of tasting】
+L93: 
+L94:   * 【97†Works (33)】
+L95:   * 【98†Heritage (1)】
+L96: 
+L97: 【99†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L98: 
+L99: 【100†Responsible Drinking】
+L100: 
+L101: 【101†Calorie Counter】
+L102: 
+L103: 【102†Champagne, Fundamentals】
+L104: 
+L105: 【103†Cellar visites】
+L106: ### 【1†Houses】
+L107: 
+L108:   * 【2†The Champagne Houses】
+L109:   * 【94†Cellar Visits】
+L110:   * 【95†Heritage】
+L111:   * 【96†The art of tasting】
+L112: 
+L113: ### 【104†Appellation】
+L114: 
+L115:   * 【105†Geographical area】
+L116:   * 【106†Stages in winemaking】
+L117:   * 【107†The Champagne Terroir: A living heritage】
+L118:   * 【108†Definition and protection】
+L119:   * 【109†The Champagne month by month】
+L120: 
+L121: ### 【110†Industry】
+L122: 
+L123:   * 【111†Sustainable development】
+L124:   * 【112†Organisation】
+L125:   * 【113†Professional Associations】
+L126:   * 【114†News】
+L127: ### 【115†Encyclopedias】
+L128: 
+L129:   * 【116†Champagne Guest Book】
+L130:   * 【117†Photothèque UMC】
+L131:   * 【118†Video Library】
+L132:   * 【119†Books about vines and wines】
+L133:   * 【120†Exceptional vintages】
+L134:   * 【121†The grand history of the Champagne Houses】
+L135:   * 【122†World’s Fairs】
+L136:   * 【123†Champagne, star of the seventh art】
+L137:   * 【124†Champagne and the arts】
+L138:   * 【125†Champagne people】
+L139: ### 【126†Professional】
+L140: 
+L141:   * 【127†UMC】
+L142: 
+L143:   * 【127†Contact】
+L144:   * 【128†Site map】
+L145:   * 【129†CGU】
+L146:   * 【130†alphamosa.fr†alphamosa.fr】
+L147:   * The abuse of alcohol is harmful to your health – consume in moderation
+L148:   * 【127†Contact】
+L149: 
+L150: 【128†Plan du site】
+L151: 
+L152: 【129†Mentions légales】
+L153: 
+L154: 【131†Politique de confidentialité】
+L155: 
+L156: 【130†alphamosa.fr†alphamosa.fr】
+L157: 
+L158: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+--------------------------------------------------------------------------------
+Maison Salon - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/salon)
+【turn113view1】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/salon","lineno":null}); Total lines: 156
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Salon
+L3: 
+L4: ## Salon
+L5: 
+L6: SOCIETE A.S.
+L7: 5-7 rue de la Brèche d’Oger
+L8: CS40006
+L9: 51190 Le Mesnil-sur-Oger
+L10: 
+L11: Tel. (33) 326 57 51 65
+L12: 
+L13: champagne@salondelamotte.com
+L14: 
+L15: 【3†Official website†www.champagne-salon.fr】
+L16: 
+L17: 【4†Serge CHAPUIS】
+L18: 
+L19: 【5†copyright Leif Carlsson】
+L20: 
+L21: 【6†copyright Leif Carlsson】
+L22: 
+L23: 【7†copyright Leif Carlsson】
+L24: 
+L25: 【8†Image】
+L26: 
+L27: 【9†Image】
+L28: 
+L29: 【10†Image】
+L30: 
+L31: 【11†Image】
+L32: 
+L33: 【12†Image】
+L34: 
+L35: 【13†Image】
+L36: 
+L37: ### Key Figures
+L38: 
+L39: Salaried staff: 7 (Consolidé Sté A.S.)
+L40: ### Identity
+L41: 
+L42: Date of foundation: 1921
+L43: Group: Laurent-Perrier
+L44: Profile: S.A.
+L45: Company Registration Number: 095 751 038 00019
+L46: 
+L47: ### Flow chart
+L48: 
+L49: #### Management
+L50: 
+L51: Chairman: Stéphanie Meneux de Nonancourt
+L52: Managing Director: Stéphanie Meneux de Nonancourt
+L53: 
+L54: #### Grape supply
+L55: 
+L56: Vineyard estate: 【14†Michel Fauconnet】
+L57: Winegrower collaboration: Emmanuel Robinet
+L58: 
+L59: #### Financial and Administrative management
+L60: 
+L61: Finance: cf. Direction Générale
+L62: Human Resources: cf. Direction Générale
+L63: Legal: Flore Steinmetz
+L64: #### Winemaking
+L65: 
+L66: Cellar master: 【14†Michel Fauconnet】
+L67: Oenologist: 【14†Michel Fauconnet】
+L68: Production: 【14†Michel Fauconnet】
+L69: 
+L70: #### Commercialization
+L71: 
+L72: 【15†Didier Depond】
+L73: 
+L74: #### Marketing
+L75: 
+L76: 【15†Didier Depond】
+L77: 
+L78: #### Communication
+L79: 
+L80: 【15†Didier Depond】
+L81: PR: cf. Direction Générale
+L82: #### 【1†Houses】
+L83: 
+L84: [Button: The Champagne Houses]
+L85: 【16†Abelé 1757】 【17†Alfred Gratien】 【18†Ayala】 【19†Barons de Rothschild】 【20†Besserat de Bellefon】 【21†Billecart-Salmon】 【22†Bissinger & C°】 【23†Boizel】 【24†Bollinger】 【25†Brice】 【26†Bruno Paillard】 【27†Burtin】 【28†Canard-Duchêne】 【29†Cattier】 【30†Chanoine Frères】 【31†Charles de Cazanove】 【32†Charles Heidsieck】 【33†Charles Lafitte】 【34†Charles Mignon】 【35†Chaudron】 【36†Collery】 【37†Cristian Senez】 【38†Cuperly】 【39†de Castellane】 【40†de Venoge】 【41†Delamotte】 【42†Deutz】 【43†Dom Pérignon】 【44†Duval-Leroy】 【45†Edouard Brun & C°】 【46†Eugène Ralle】 【47†Ferdinand Bonnet】 【48†G.H.
+L86: Martel & Co】 【49†Gardet】 【50†Gosset】 【51†Gremillet】 【52†Heidsieck & C° Monopole】 【53†Henri Giraud】 【54†Henriot】 【55†Irroy】 【56†Jacquesson】 【57†Jacquinot & Fils】 【58†Janisson & Fils】 【59†Joseph Perrier】 【60†Krug】 【61†Lallier】 【62†Lanson】 【63†Laurent-Perrier】 【64†Leclerc Briant】 【65†Lenoble】 【66†Lombard】 【67†Louis de Sacy】 【68†Louis Massing】 【69†Louis Roederer】 【70†Malard】 【71†Mansard】 【72†Marie Stuart】 【73†Mercier】 【74†Moët & Chandon】 【75†Moutard】 【76†Mumm & Cie】 【77†Nicolas Gueusquin】 【78†Perrier Jouët】 【79†Philipponnat】 【80†Pierre Mignon】 【81†Piper-Heidsieck】 【82†Pol Roger】 【83†Pommery】 【84†Ruinart】 【85†Salon】 【86†Soutiran】 【87†Taittinger】 【88†Telmont】 【89†Thiénot】 【90†Veuve Cheurlin (J.Arnoult)】 【91†Veuve Clicquot】 【92†Vranken】
+L87: 【93†Cellar Visits】
+L88: 
+L89: 【94†Heritage】
+L90: 
+L91: 【95†The art of tasting】
+L92: 
+L93:   * 【96†Works (1)】
+L94:   * 【97†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L95: 
+L96: 【98†Responsible Drinking】
+L97: 
+L98: 【99†Calorie Counter】
+L99: 
+L100: 【100†Champagne, Fundamentals】
+L101: 
+L102: 【101†Cellar visites】
+L103: ### 【1†Houses】
+L104: 
+L105:   * 【2†The Champagne Houses】
+L106:   * 【93†Cellar Visits】
+L107:   * 【94†Heritage】
+L108:   * 【95†The art of tasting】
+L109: 
+L110: ### 【102†Appellation】
+L111: 
+L112:   * 【103†Geographical area】
+L113:   * 【104†Stages in winemaking】
+L114:   * 【105†The Champagne Terroir: A living heritage】
+L115:   * 【106†Definition and protection】
+L116:   * 【107†The Champagne month by month】
+L117: 
+L118: ### 【108†Industry】
+L119: 
+L120:   * 【109†Sustainable development】
+L121:   * 【110†Organisation】
+L122:   * 【111†Professional Associations】
+L123:   * 【112†News】
+L124: ### 【113†Encyclopedias】
+L125: 
+L126:   * 【114†Champagne Guest Book】
+L127:   * 【115†Photothèque UMC】
+L128:   * 【116†Video Library】
+L129:   * 【117†Books about vines and wines】
+L130:   * 【118†Exceptional vintages】
+L131:   * 【119†The grand history of the Champagne Houses】
+L132:   * 【120†World’s Fairs】
+L133:   * 【121†Champagne, star of the seventh art】
+L134:   * 【122†Champagne and the arts】
+L135:   * 【123†Champagne people】
+L136: ### 【124†Professional】
+L137: 
+L138:   * 【125†UMC】
+L139: 
+L140:   * 【125†Contact】
+L141:   * 【126†Site map】
+L142:   * 【127†CGU】
+L143:   * 【128†alphamosa.fr†alphamosa.fr】
+L144:   * The abuse of alcohol is harmful to your health – consume in moderation
+L145:   * 【125†Contact】
+L146: 
+L147: 【126†Plan du site】
+L148: 
+L149: 【127†Mentions légales】
+L150: 
+L151: 【129†Politique de confidentialité】
+L152: 
+L153: 【128†alphamosa.fr†alphamosa.fr】
+L154: 
+L155: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+--------------------------------------------------------------------------------
+Maison Taittinger - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/taittinger)
+【turn113view2】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/taittinger","lineno":null}); Total lines: 159
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Taittinger
+L3: 
+L4: ## Taittinger
+L5: 
+L6: 9 place Saint Nicaise - BP 2741
+L7: 51061 REIMS Cedex
+L8: 
+L9: 【3†https://theinstantwhen.taittinger.fr/†theinstantwhen.taittinger.fr】
+L10: 
+L11: Tel. (33) 326 85 45 35
+L12: 
+L13: contactez-nous@taittinger.fr
+L14: 
+L15: 【4†Cellar visits†www.taittinger.com】 【5†Official website†www.taittinger.fr】
+L16: 
+L17: 【6†Image】
+L18: 
+L19: 【7†Image】
+L20: 
+L21: 【8†Image】
+L22: 
+L23: 【9†Image】
+L24: 
+L25: 【10†Image】
+L26: 
+L27: 【11†Image】
+L28: 
+L29: ### Key Figures
+L30: 
+L31: Salaried staff: 203
+L32: Vineyard estate: 288 ha
+L33: ### Identity
+L34: 
+L35: Date of foundation: 1932
+L36: Group: Taittinger
+L37: Profile: S.A.S
+L38: Capital: 344 034 900
+L39: Company Registration Number: 490 341 062 000 35
+L40: 
+L41: ### Flow chart
+L42: 
+L43: #### Management
+L44: 
+L45: Chairman: 【12†Vitalie Taittinger】
+L46: Managing Director: 【13†Damien le Sueur】
+L47: Managing Director (sales and marketing): 【14†Clovis Taittinger】
+L48: Deputy Managing Director (sales and marketing): 【15†Maxime Andriveau】
+L49: 
+L50: #### Grape supply
+L51: 
+L52: Vineyard estate: 【16†Christelle Rinville】
+L53: Winegrower collaboration: 【13†Damien le Sueur】
+L54: #### Financial and Administrative management
+L55: 
+L56: Finance: Olivier Holveck
+L57: Human Resources: Capucine de Beauvais
+L58: 
+L59: #### Brand Home
+L60: 
+L61: Audrey Malacain
+L62: 
+L63: #### Winemaking
+L64: 
+L65: Cellar master: 【17†Alexandre Ponnavoy】
+L66: Production: Louis Picard
+L67: 
+L68: #### Commercialization
+L69: 
+L70: 【14†Clovis Taittinger】
+L71: 【15†Maxime Andriveau】
+L72: 
+L73: #### Marketing
+L74: 
+L75: 【14†Clovis Taittinger】
+L76: 
+L77: #### Communication
+L78: 
+L79: 【14†Clovis Taittinger】
+L80: ### Cuvees
+L81: 
+L82: Taittinger Brut Réserve, Brut Prestige Rosé, Brut Millésimé, Prélude "Grands Crus", Les Folies de la Marquetterie, Nocture Sec, Comtes de Champagne Blanc de Blancs, Comtes de Champagne Rosé, Taittinger Collection.
+L83: #### 【1†Houses】
+L84: 
+L85: [Button: The Champagne Houses]
+L86: 【18†Abelé 1757】 【19†Alfred Gratien】 【20†Ayala】 【21†Barons de Rothschild】 【22†Besserat de Bellefon】 【23†Billecart-Salmon】 【24†Bissinger & C°】 【25†Boizel】 【26†Bollinger】 【27†Brice】 【28†Bruno Paillard】 【29†Burtin】 【30†Canard-Duchêne】 【31†Cattier】 【32†Chanoine Frères】 【33†Charles de Cazanove】 【34†Charles Heidsieck】 【35†Charles Lafitte】 【36†Charles Mignon】 【37†Chaudron】 【38†Collery】 【39†Cristian Senez】 【40†Cuperly】 【41†de Castellane】 【42†de Venoge】 【43†Delamotte】 【44†Deutz】 【45†Dom Pérignon】 【46†Duval-Leroy】 【47†Edouard Brun & C°】 【48†Eugène Ralle】 【49†Ferdinand Bonnet】 【50†G.H.
+L87: Martel & Co】 【51†Gardet】 【52†Gosset】 【53†Gremillet】 【54†Heidsieck & C° Monopole】 【55†Henri Giraud】 【56†Henriot】 【57†Irroy】 【58†Jacquesson】 【59†Jacquinot & Fils】 【60†Janisson & Fils】 【61†Joseph Perrier】 【62†Krug】 【63†Lallier】 【64†Lanson】 【65†Laurent-Perrier】 【66†Leclerc Briant】 【67†Lenoble】 【68†Lombard】 【69†Louis de Sacy】 【70†Louis Massing】 【71†Louis Roederer】 【72†Malard】 【73†Mansard】 【74†Marie Stuart】 【75†Mercier】 【76†Moët & Chandon】 【77†Moutard】 【78†Mumm & Cie】 【79†Nicolas Gueusquin】 【80†Perrier Jouët】 【81†Philipponnat】 【82†Pierre Mignon】 【83†Piper-Heidsieck】 【84†Pol Roger】 【85†Pommery】 【86†Ruinart】 【87†Salon】 【88†Soutiran】 【89†Taittinger】 【90†Telmont】 【91†Thiénot】 【92†Veuve Cheurlin (J.Arnoult)】 【93†Veuve Clicquot】 【94†Vranken】
+L88: 【95†Cellar Visits】
+L89: 
+L90: 【96†Heritage】
+L91: 
+L92: 【97†The art of tasting】
+L93: 
+L94:   * 【98†Works (22)】
+L95:   * 【99†Heritage (7)】
+L96: 
+L97: 【100†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L98: 
+L99: 【101†Responsible Drinking】
+L100: 
+L101: 【102†Calorie Counter】
+L102: 
+L103: 【103†Champagne, Fundamentals】
+L104: 
+L105: 【104†Cellar visites】
+L106: ### 【1†Houses】
+L107: 
+L108:   * 【2†The Champagne Houses】
+L109:   * 【95†Cellar Visits】
+L110:   * 【96†Heritage】
+L111:   * 【97†The art of tasting】
+L112: 
+L113: ### 【105†Appellation】
+L114: 
+L115:   * 【106†Geographical area】
+L116:   * 【107†Stages in winemaking】
+L117:   * 【108†The Champagne Terroir: A living heritage】
+L118:   * 【109†Definition and protection】
+L119:   * 【110†The Champagne month by month】
+L120: 
+L121: ### 【111†Industry】
+L122: 
+L123:   * 【112†Sustainable development】
+L124:   * 【113†Organisation】
+L125:   * 【114†Professional Associations】
+L126:   * 【115†News】
+L127: ### 【116†Encyclopedias】
+L128: 
+L129:   * 【117†Champagne Guest Book】
+L130:   * 【118†Photothèque UMC】
+L131:   * 【119†Video Library】
+L132:   * 【120†Books about vines and wines】
+L133:   * 【121†Exceptional vintages】
+L134:   * 【122†The grand history of the Champagne Houses】
+L135:   * 【123†World’s Fairs】
+L136:   * 【124†Champagne, star of the seventh art】
+L137:   * 【125†Champagne and the arts】
+L138:   * 【126†Champagne people】
+L139: ### 【127†Professional】
+L140: 
+L141:   * 【128†UMC】
+L142: 
+L143:   * 【128†Contact】
+L144:   * 【129†Site map】
+L145:   * 【130†CGU】
+L146:   * 【131†alphamosa.fr†alphamosa.fr】
+L147:   * The abuse of alcohol is harmful to your health – consume in moderation
+L148:   * 【128†Contact】
+L149: 
+L150: 【129†Plan du site】
+L151: 
+L152: 【130†Mentions légales】
+L153: 
+L154: 【132†Politique de confidentialité】
+L155: 
+L156: 【131†alphamosa.fr†alphamosa.fr】
+L157: 
+L158: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+
+Maison Telmont - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/telmont)
+【turn114view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/telmont","lineno":null}); Total lines: 148
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Telmont
+L3: 
+L4: ## Telmont
+L5: 
+L6: 1 avenue de Champagne - CS 80017
+L7: 51480 DAMERY
+L8: 
+L9: Tel. (33) 326 58 40 33
+L10: 
+L11: aurelie.nanquette@champagne-telmont.com
+L12: 
+L13: 【3†Cellar visits†champagne-telmont.com】 【4†Official website†www.champagne-de-telmont.com】
+L14: 
+L15: 【5†Facade】
+L16: 
+L17: 【6†Image: Facade】
+L18: 
+L19: 【7†Image】
+L20: 
+L21: 【8†Image】
+L22: 
+L23: 【9†Image】
+L24: 
+L25: 【10†Image】
+L26: 
+L27: 【11†Image】
+L28: 
+L29: 【12†Image】
+L30: 
+L31: 【13†Image】
+L32: 
+L33: ### Key Figures
+L34: 
+L35: Salaried staff: NC
+L36: Vineyard estate: 25 ha
+L37: ### Identity
+L38: 
+L39: Date of foundation: 1912
+L40: Group: Rémy Cointreau
+L41: Profile: S.A.
+L42: Company Registration Number: 095 450 300 00025
+L43: 
+L44: ### Flow chart
+L45: 
+L46: #### Management
+L47: 
+L48: Chairman: 【14†Ludovic du Plessis】
+L49: Managing Director: Justin Meade
+L50: 
+L51: #### Grape supply
+L52: 
+L53: 【15†Brice Bezin】
+L54: 
+L55: #### Financial and Administrative management
+L56: 
+L57: Finance: Laurine Gagelin
+L58: Human Resources: Damien Récopé
+L59: 
+L60: #### Winemaking
+L61: 
+L62: Cellar master: 【15†Brice Bezin】
+L63: Production: Sylvain Pithois
+L64: 
+L65: #### Commercialization
+L66: 
+L67: Alexis Lyon
+L68: 
+L69: #### Marketing
+L70: 
+L71: Alexis Lyon
+L72: #### Communication
+L73: 
+L74: Isabelle Kroun
+L75: #### 【1†Houses】
+L76: 
+L77: [Button: The Champagne Houses]
+L78: 【16†Abelé 1757】 【17†Alfred Gratien】 【18†Ayala】 【19†Barons de Rothschild】 【20†Besserat de Bellefon】 【21†Billecart-Salmon】 【22†Bissinger & C°】 【23†Boizel】 【24†Bollinger】 【25†Brice】 【26†Bruno Paillard】 【27†Burtin】 【28†Canard-Duchêne】 【29†Cattier】 【30†Chanoine Frères】 【31†Charles de Cazanove】 【32†Charles Heidsieck】 【33†Charles Lafitte】 【34†Charles Mignon】 【35†Chaudron】 【36†Collery】 【37†Cristian Senez】 【38†Cuperly】 【39†de Castellane】 【40†de Venoge】 【41†Delamotte】 【42†Deutz】 【43†Dom Pérignon】 【44†Duval-Leroy】 【45†Edouard Brun & C°】 【46†Eugène Ralle】 【47†Ferdinand Bonnet】 【48†G.H.
+L79: Martel & Co】 【49†Gardet】 【50†Gosset】 【51†Gremillet】 【52†Heidsieck & C° Monopole】 【53†Henri Giraud】 【54†Henriot】 【55†Irroy】 【56†Jacquesson】 【57†Jacquinot & Fils】 【58†Janisson & Fils】 【59†Joseph Perrier】 【60†Krug】 【61†Lallier】 【62†Lanson】 【63†Laurent-Perrier】 【64†Leclerc Briant】 【65†Lenoble】 【66†Lombard】 【67†Louis de Sacy】 【68†Louis Massing】 【69†Louis Roederer】 【70†Malard】 【71†Mansard】 【72†Marie Stuart】 【73†Mercier】 【74†Moët & Chandon】 【75†Moutard】 【76†Mumm & Cie】 【77†Nicolas Gueusquin】 【78†Perrier Jouët】 【79†Philipponnat】 【80†Pierre Mignon】 【81†Piper-Heidsieck】 【82†Pol Roger】 【83†Pommery】 【84†Ruinart】 【85†Salon】 【86†Soutiran】 【87†Taittinger】 【88†Telmont】 【89†Thiénot】 【90†Veuve Cheurlin (J.Arnoult)】 【91†Veuve Clicquot】 【92†Vranken】
+L80: 【93†Cellar Visits】
+L81: 
+L82: 【94†Heritage】
+L83: 
+L84: 【95†The art of tasting】
+L85: 
+L86:   * 【96†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L87: 
+L88: 【97†Responsible Drinking】
+L89: 
+L90: 【98†Calorie Counter】
+L91: 
+L92: 【99†Champagne, Fundamentals】
+L93: 
+L94: 【100†Cellar visites】
+L95: ### 【1†Houses】
+L96: 
+L97:   * 【2†The Champagne Houses】
+L98:   * 【93†Cellar Visits】
+L99:   * 【94†Heritage】
+L100:   * 【95†The art of tasting】
+L101: 
+L102: ### 【101†Appellation】
+L103: 
+L104:   * 【102†Geographical area】
+L105:   * 【103†Stages in winemaking】
+L106:   * 【104†The Champagne Terroir: A living heritage】
+L107:   * 【105†Definition and protection】
+L108:   * 【106†The Champagne month by month】
+L109: 
+L110: ### 【107†Industry】
+L111: 
+L112:   * 【108†Sustainable development】
+L113:   * 【109†Organisation】
+L114:   * 【110†Professional Associations】
+L115:   * 【111†News】
+L116: ### 【112†Encyclopedias】
+L117: 
+L118:   * 【113†Champagne Guest Book】
+L119:   * 【114†Photothèque UMC】
+L120:   * 【115†Video Library】
+L121:   * 【116†Books about vines and wines】
+L122:   * 【117†Exceptional vintages】
+L123:   * 【118†The grand history of the Champagne Houses】
+L124:   * 【119†World’s Fairs】
+L125:   * 【120†Champagne, star of the seventh art】
+L126:   * 【121†Champagne and the arts】
+L127:   * 【122†Champagne people】
+L128: ### 【123†Professional】
+L129: 
+L130:   * 【124†UMC】
+L131: 
+L132:   * 【124†Contact】
+L133:   * 【125†Site map】
+L134:   * 【126†CGU】
+L135:   * 【127†alphamosa.fr†alphamosa.fr】
+L136:   * The abuse of alcohol is harmful to your health – consume in moderation
+L137:   * 【124†Contact】
+L138: 
+L139: 【125†Plan du site】
+L140: 
+L141: 【126†Mentions légales】
+L142: 
+L143: 【128†Politique de confidentialité】
+L144: 
+L145: 【127†alphamosa.fr†alphamosa.fr】
+L146: 
+L147: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+
+--------------------------------------------------------------------------------
+Maison Veuve Clicquot - Union des Maisons de Champagne (https://maisons-champagne.com/en/house/veuve-clicquot)
+【turn114view1】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://maisons-champagne.com/en/house/veuve-clicquot","lineno":null}); Total lines: 147
+L0: #
+L1: 
+L2: 【0†Home】 > 【1†Houses】 > 【2†The Champagne Houses】 > Veuve Clicquot
+L3: 
+L4: ## Veuve Clicquot
+L5: 
+L6: 12 rue du Temple - BP 2714
+L7: 51054 REIMS CEDEX
+L8: 
+L9: 【3†https://www.veuveclicquot.com/fr-fr/contact-us†www.veuveclicquot.com】
+L10: 
+L11: Tel. (33) 326 89 54 40
+L12: 
+L13: 【4†Cellar visits†www.veuve-clicquot.com】 【5†Official website†www.veuveclicquot.com】
+L14: 
+L15: 【6†Image】
+L16: 
+L17: 【7†Image】
+L18: 
+L19: 【8†Image】
+L20: 
+L21: 【9†Image】
+L22: 
+L23: 【10†Image】
+L24: 
+L25: 【11†Image】
+L26: 
+L27: ### Key Figures
+L28: 
+L29: Salaried staff: NC
+L30: Vineyard estate: 1 600 (consolidé MHCS) ha
+L31: ### Identity
+L32: 
+L33: Date of foundation: 1772
+L34: Group: MHCS
+L35: Profile: SA
+L36: Company Registration Number: 509 553 459
+L37: 
+L38: ### Flow chart
+L39: 
+L40: #### Management
+L41: 
+L42: P.-D.G.: 【12†Thomas Mulliez】
+L43: Chairman MHCS: 【13†Jean-Jacques Guiony】
+L44: Deputy Managing Director MHCS: 【14†Frédéric Dufour】
+L45: 
+L46: #### Grape supply
+L47: 
+L48: 【15†Didier Mariotti】
+L49: Vineyard estate: Julie Perry
+L50: Winegrower collaboration: Christophe Sacotte
+L51: 
+L52: #### Financial and Administrative management
+L53: 
+L54: Finance: Jennifer Skorupka
+L55: Human Resources: Valérie Demange
+L56: #### Winemaking
+L57: 
+L58: Cellar master: 【15†Didier Mariotti】
+L59: Production: Baptiste Jupin
+L60: 
+L61: #### Commercialization
+L62: 
+L63: International: Louis Bonte
+L64: 
+L65: #### Marketing
+L66: 
+L67: Chloé Stefani
+L68: 
+L69: #### Communication
+L70: 
+L71: Chloé Stefani
+L72: #### 【1†Houses】
+L73: 
+L74: [Button: The Champagne Houses]
+L75: 【16†Abelé 1757】 【17†Alfred Gratien】 【18†Ayala】 【19†Barons de Rothschild】 【20†Besserat de Bellefon】 【21†Billecart-Salmon】 【22†Bissinger & C°】 【23†Boizel】 【24†Bollinger】 【25†Brice】 【26†Bruno Paillard】 【27†Burtin】 【28†Canard-Duchêne】 【29†Cattier】 【30†Chanoine Frères】 【31†Charles de Cazanove】 【32†Charles Heidsieck】 【33†Charles Lafitte】 【34†Charles Mignon】 【35†Chaudron】 【36†Collery】 【37†Cristian Senez】 【38†Cuperly】 【39†de Castellane】 【40†de Venoge】 【41†Delamotte】 【42†Deutz】 【43†Dom Pérignon】 【44†Duval-Leroy】 【45†Edouard Brun & C°】 【46†Eugène Ralle】 【47†Ferdinand Bonnet】 【48†G.H.
+L76: Martel & Co】 【49†Gardet】 【50†Gosset】 【51†Gremillet】 【52†Heidsieck & C° Monopole】 【53†Henri Giraud】 【54†Henriot】 【55†Irroy】 【56†Jacquesson】 【57†Jacquinot & Fils】 【58†Janisson & Fils】 【59†Joseph Perrier】 【60†Krug】 【61†Lallier】 【62†Lanson】 【63†Laurent-Perrier】 【64†Leclerc Briant】 【65†Lenoble】 【66†Lombard】 【67†Louis de Sacy】 【68†Louis Massing】 【69†Louis Roederer】 【70†Malard】 【71†Mansard】 【72†Marie Stuart】 【73†Mercier】 【74†Moët & Chandon】 【75†Moutard】 【76†Mumm & Cie】 【77†Nicolas Gueusquin】 【78†Perrier Jouët】 【79†Philipponnat】 【80†Pierre Mignon】 【81†Piper-Heidsieck】 【82†Pol Roger】 【83†Pommery】 【84†Ruinart】 【85†Salon】 【86†Soutiran】 【87†Taittinger】 【88†Telmont】 【89†Thiénot】 【90†Veuve Cheurlin (J.Arnoult)】 【91†Veuve Clicquot】 【92†Vranken】
+L77: 【93†Cellar Visits】
+L78: 
+L79: 【94†Heritage】
+L80: 
+L81: 【95†The art of tasting】
+L82: 
+L83:   * 【96†Works (46)】
+L84:   * 【97†Heritage (6)】
+L85:   * 【98†“Better Together” — Champagne’s move toward Corporate Social Responsibility】
+L86: 
+L87: 【99†Responsible Drinking】
+L88: 
+L89: 【100†Calorie Counter】
+L90: 
+L91: 【101†Champagne, Fundamentals】
+L92: 
+L93: 【102†Cellar visites】
+L94: ### 【1†Houses】
+L95: 
+L96:   * 【2†The Champagne Houses】
+L97:   * 【93†Cellar Visits】
+L98:   * 【94†Heritage】
+L99:   * 【95†The art of tasting】
+L100: 
+L101: ### 【103†Appellation】
+L102: 
+L103:   * 【104†Geographical area】
+L104:   * 【105†Stages in winemaking】
+L105:   * 【106†The Champagne Terroir: A living heritage】
+L106:   * 【107†Definition and protection】
+L107:   * 【108†The Champagne month by month】
+L108: 
+L109: ### 【109†Industry】
+L110: 
+L111:   * 【110†Sustainable development】
+L112:   * 【111†Organisation】
+L113:   * 【112†Professional Associations】
+L114:   * 【113†News】
+L115: ### 【114†Encyclopedias】
+L116: 
+L117:   * 【115†Champagne Guest Book】
+L118:   * 【116†Photothèque UMC】
+L119:   * 【117†Video Library】
+L120:   * 【118†Books about vines and wines】
+L121:   * 【119†Exceptional vintages】
+L122:   * 【120†The grand history of the Champagne Houses】
+L123:   * 【121†World’s Fairs】
+L124:   * 【122†Champagne, star of the seventh art】
+L125:   * 【123†Champagne and the arts】
+L126:   * 【124†Champagne people】
+L127: ### 【125†Professional】
+L128: 
+L129:   * 【126†UMC】
+L130: 
+L131:   * 【126†Contact】
+L132:   * 【127†Site map】
+L133:   * 【128†CGU】
+L134:   * 【129†alphamosa.fr†alphamosa.fr】
+L135:   * The abuse of alcohol is harmful to your health – consume in moderation
+L136:   * 【126†Contact】
+L137: 
+L138: 【127†Plan du site】
+L139: 
+L140: 【128†Mentions légales】
+L141: 
+L142: 【130†Politique de confidentialité】
+L143: 
+L144: 【129†alphamosa.fr†alphamosa.fr】
+L145: 
+L146: L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
+

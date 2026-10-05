@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-30",
+  "before": {
+    "estates": 132,
+    "wines": 192
+  },
+  "after": {
+    "estates": 360,
+    "wines": 442
+  },
+  "newEstates": 228,
+  "newWineProfiles": 250,
+  "existingMangaIdentitiesPreserved": 69,
+  "scope": {
+    "gccRed": 61,
+    "gccSweet": 27,
+    "saintEmilion": 85,
+    "graves": 14,
+    "champagne": 26,
+    "other": 64
+  },
+  "scopeNote": "Lists overlap; winery/brand entries are not a census of all French estates. Some profiles are directory-only. Membership history is distinguished from foundation history.",
+  "newEstatePhotos": 7,
+  "newLabels": 3
+}

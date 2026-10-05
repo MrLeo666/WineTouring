@@ -1,0 +1,15 @@
+import fs from 'node:fs';
+export function enrichManga(final,rows,key,original){
+ const jp=JSON.parse(fs.readFileSync('research/japanese-index.json'));const corrections=JSON.parse(fs.readFileSync('research/manga-corrections.json'));const redirects=JSON.parse(fs.readFileSync('research/wine-id-aliases.json'));
+ const byKey=new Map(final.map(n=>[n.mangaKey,n]));let compared=0,yearsAdded=0;
+ for(const v of jp.filter(v=>v.series==='kami')){const en=rows.filter(r=>r.volume===v.volume);if(en.length!==v.rows.length)throw Error('Japanese alignment differs: '+v.volume);for(let i=0;i<en.length;i++){const r=en[i],j=v.rows[i],n=byKey.get(key(r.name,r.producer));if(!n)continue;compared++;n.japaneseNames=[...new Set([...(n.japaneseNames||[]),j.nameJa])];n.japaneseRegion=j.regionJa;
+ const a=n.manga.find(a=>a.volume===v.volume&&a.vintage===r.vintage);if(a){a.otherSource=j.source;a.sourceNameJa=j.nameJa;a.sourceProducerJa=j.producerJa;a.sourceVintageJa=j.vintage;a.status='lists-compared';if(!a.vintage&&j.vintage){a.vintage=j.vintage;a.vintageSource=j.source;yearsAdded++;}else if(a.vintage&&j.vintage&&a.vintage!==j.vintage){a.conflict=`酒单年份不一致：${a.vintage} / ${j.vintage}`;}}
+ if(!n.apostle&&j.typeJa){n.type=/泡/.test(j.typeJa)?'起泡酒':/ロゼ/.test(j.typeJa)?'桃红葡萄酒':/白/.test(j.typeJa)?'白葡萄酒':/赤/.test(j.typeJa)?'红葡萄酒':n.type;}
+ }}
+ const regionRules=JSON.parse(fs.readFileSync('research/region-centroids.json'));
+ for(const n of final){if(n.lat==null&&n.japaneseRegion){const g=regionRules.find(g=>n.japaneseRegion.includes(g.match));if(g){Object.assign(n,{lat:g.lat,lng:g.lng,place:g.place,placeId:g.placeId||null,geoPrecision:'大产区示意点 · 二手酒单产地，待生产者复核',geoSource:n.manga.find(x=>x.otherSource)?.otherSource});}}}
+ for(const c of corrections){const n=final.find(n=>n.id===c.id);if(!n)throw Error('Missing correction '+c.id);Object.assign(n,c.set);n.corrections=[...(n.corrections||[]),{note:c.note,sources:c.sources}];}
+ // Identity-only aliases explicitly reviewed; old IDs continue to resolve favorites.
+ for(const [oldId,newId] of Object.entries(redirects)){const old=final.find(n=>n.id===oldId),target=final.find(n=>n.id===newId)||original.find(n=>n.id===newId);if(!old||!target)continue;let n=final.find(n=>n.id===newId);if(!n){n={...old,...target,manga:[],japaneseNames:[],geoPrecision:'既有地图关联点'};final.push(n);}n.manga||=[];for(const a of old.manga){const same=n.manga.find(b=>a.series===b.series&&a.volume===b.volume&&a.vintage===b.vintage);if(!same)n.manga.push(a);else Object.assign(same,a);}n.japaneseNames=[...new Set([...(n.japaneseNames||[]),...(old.japaneseNames||[])])];n.corrections=[...(n.corrections||[]),...(old.corrections||[])];final.splice(final.indexOf(old),1);}
+ const summary={comparedOccurrences:compared,comparedVolumes:44,additionalVintageRecords:yearsAdded,correctedRecords:corrections.length,aliasRedirects:Object.keys(redirects).length,sequelIndexedOccurrences:jp.filter(x=>x.series==='mariage').reduce((s,x)=>s+x.rows.length,0),sequelVolumes:26,originalPageVerified:false,sourceIndependenceVerified:false};fs.writeFileSync('research/review-status.json',JSON.stringify(summary,null,2));return summary;
+}

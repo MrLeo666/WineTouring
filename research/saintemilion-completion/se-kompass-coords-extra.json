@@ -1,0 +1,114 @@
+[
+  {
+    "id": "balestard-la-tonnelle",
+    "name": "Château Balestard la Tonnelle",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000028.html",
+    "mapLinks": [
+      "https://maps.app.goo.gl/d3m7T92mwHeNeKKc7"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+Balestard+La+Tonnelle/@44.8982351,-0.1481855,1065m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd5551da22740e7d:0x8343a3fcee35979e!8m2!3d44.8982351!4d-0.1456052!16s%2Fg%2F11c5s4v_kt?entry=tts&g_ep=EgoyMDI1MDQwMi4xIPu8ASoASAFQAw%3D%3D&skid=e0c6e1a4-e9ea-4ec4-9685-f3954edd173f",
+    "coordinates": [
+      [
+        "44.8982351",
+        "-0.1456052"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "haut-sarpe",
+    "name": "Château Haut-Sarpe",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000525.html",
+    "mapLinks": [
+      "https://goo.gl/maps/KYpXYFMmfJk"
+    ],
+    "resolved": "https://www.google.de/maps/place/37+Rue+Pline+Parmentier,+33500+Libourne,+Frankreich/@44.9176651,-0.2401615,17z/data=!3m1!4b1!4m2!3m1!1s0xd55495b7a7be559:0xe6e3953029482f36?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.9176651",
+        "-0.2401615"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "laniote",
+    "name": "Château Laniote",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000596.html",
+    "mapLinks": [
+      "https://goo.gl/maps/VaXpAsrRiG82"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+Laniote/@44.9049966,-0.162901,17z/data=!3m1!4b1!4m2!3m1!1s0xd554e1845113307:0xf592055b8dfc6baf?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.9049966",
+        "-0.162901"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "ripeau",
+    "name": "Château Ripeau",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000850.html",
+    "mapLinks": [
+      "https://goo.gl/maps/A1HKJMbo8Br"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+Ripeau/@44.9177795,-0.1869405,15z/data=!4m2!3m1!1s0xd554e7a8c4923b1:0xb0a6d48ee1dbbf74?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.9177795",
+        "-0.1869405"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "soutard",
+    "name": "Château Soutard",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000936.html",
+    "mapLinks": [
+      "https://goo.gl/maps/GRWQmZsTiV42"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+Soutard,+33330+Saint-%C3%89milion,+Frankreich/@44.9015546,-0.1510607,17z/data=!3m1!4b1!4m2!3m1!1s0xd5551d8b38cc515:0xd3a81ef341b8d4fe?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.9015546",
+        "-0.1510607"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "de-ferrand",
+    "name": "Château de Ferrand",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000362.html",
+    "mapLinks": [
+      "https://goo.gl/maps/5qL5zWhKJx92"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+de+Ferrand/@44.883484,-0.1202047,17z/data=!3m1!4b1!4m2!3m1!1s0x47915c7cde603bfd:0xfbd4bc0fb2b758ea?hl=de&shorturl=1",
+    "coordinates": [
+      [
+        "44.883484",
+        "-0.1202047"
+      ]
+    ],
+    "mapTextCandidates": []
+  },
+  {
+    "id": "la-tour-figeac",
+    "name": "Château la Tour Figeac",
+    "source": "https://bordeaux-kompass.de/wp-content/BDX_PRO/BDX/CHATEAUX/000966.html",
+    "mapLinks": [
+      "https://goo.gl/maps/Zt65C8AM1US2"
+    ],
+    "resolved": "https://www.google.de/maps/place/Ch%C3%A2teau+de+la+Tour+Figeac/@44.9148532,-0.2040179,1553m/data=!3m1!1e3!4m5!1m2!2m1!1sCh%C3%A2teau+de+la+tour+figeac!3m1!1s0xd554e8379cc78d5:0xff70ab55cd76d1e6?shorturl=1",
+    "coordinates": [
+      [
+        "44.9148532",
+        "-0.2040179"
+      ]
+    ],
+    "mapTextCandidates": []
+  }
+]

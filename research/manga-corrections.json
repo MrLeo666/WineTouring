@@ -1,0 +1,676 @@
+[
+  {
+    "id": "manga-a6a2a23d0f17",
+    "set": {
+      "en": "Bourgogne Hautes-Côtes de Beaune Rouge",
+      "name": "Bourgogne Hautes-Côtes de Beaune Rouge"
+    },
+    "note": "英文索引误简化为Bourgogne Rouge，日文第1卷列上伯恩丘红。",
+    "sources": [
+      "https://kaminoshizuku.com/kami001/",
+      "https://zen5354.blogspot.com/2014/08/blog-post.html"
+    ]
+  },
+  {
+    "id": "manga-00b33184fc38",
+    "set": {
+      "en": "Chambolle-Musigny",
+      "name": "Chambolle-Musigny",
+      "lat": 47.187,
+      "lng": 4.953,
+      "place": "法国 · 勃艮第 · Chambolle-Musigny",
+      "geoPrecision": "产区示意点 · 产区归属已补充核对",
+      "geoSource": "https://kaminoshizuku.com/kami001/"
+    },
+    "note": "日文第1卷列Chambolle-Musigny，英文索引误写Bourgogne Rouge；尚待原页核验。",
+    "sources": [
+      "https://kaminoshizuku.com/kami001/"
+    ]
+  },
+  {
+    "id": "manga-321b4fe72dbf",
+    "set": {
+      "en": "Vosne-Romanée Les Jachées",
+      "name": "Vosne-Romanée Les Jachées"
+    },
+    "note": "Les Jacquines为该酒单的翻译误写；并入Bizot Les Jachées。",
+    "sources": [
+      "https://kaminoshizuku.com/kami005/",
+      "https://domainebizot.com/"
+    ]
+  },
+  {
+    "id": "manga-42df019e5e0c",
+    "set": {
+      "en": "Nuits-Saint-Georges Premier Cru Les Bousselots",
+      "name": "Nuits-Saint-Georges Premier Cru Les Bousselots"
+    },
+    "note": "日文ブスロ对应Bousselots，英文索引误配Boudots。",
+    "sources": [
+      "https://kaminoshizuku.com/kami014/",
+      "https://www.christies.com/lot/nuits-saint-georges-les-saint-georges-vintage-1990-3-nuits-saint-georges-les-damodes-vintage-5618796/"
+    ]
+  },
+  {
+    "id": "manga-d2b7325bcb04",
+    "set": {
+      "producer": "Château Nénin · Domaines Delon"
+    },
+    "note": "修正Dourthe误配；日文作Delon。",
+    "sources": [
+      "https://kaminoshizuku.com/kami014/",
+      "https://www.domaines-delon.com/ajax/pdf.php?id=99&langue="
+    ]
+  },
+  {
+    "id": "manga-4dbd2d318e7f",
+    "set": {
+      "en": "Tomi Blanc",
+      "name": "Tomi Blanc"
+    },
+    "note": "日文列登美白2004；与登美红分开。",
+    "sources": [
+      "https://kaminoshizuku.com/kami014/"
+    ]
+  },
+  {
+    "id": "manga-964047534a6e",
+    "set": {
+      "producer": "Château Moulin Haut-Laroque",
+      "lat": 44.944,
+      "lng": -0.27,
+      "place": "法国 · 波尔多 · Fronsac",
+      "geoPrecision": "产区示意点 · 产区归属已补充核对",
+      "geoSource": "https://www.vins-fronsac.com/en/fiche/chateau-moulin-haut-laroque/"
+    },
+    "note": "修正误配Château Moulin-à-Vent，属于Fronsac。",
+    "sources": [
+      "https://kaminoshizuku.com/kami021/",
+      "https://www.vins-fronsac.com/en/fiche/chateau-moulin-haut-laroque/"
+    ]
+  },
+  {
+    "id": "manga-01664f4d5d4b",
+    "set": {
+      "producer": "Château Bel-Air La Royère",
+      "lat": 45.128,
+      "lng": -0.624,
+      "place": "法国 · 波尔多 · Blaye",
+      "geoPrecision": "产区示意点 · 产区归属已补充核对",
+      "geoSource": "https://chateaubelairlaroyere.com/produit/chateau-bel-air-la-royere-blanc/"
+    },
+    "note": "修正误配Belair-Monange，属于Blaye。",
+    "sources": [
+      "https://kaminoshizuku.com/kami021/",
+      "https://chateaubelairlaroyere.com/produit/chateau-bel-air-la-royere-blanc/"
+    ]
+  },
+  {
+    "id": "manga-3cbb87d414d2",
+    "set": {
+      "producer": "Domaine Coillot"
+    },
+    "note": "日文コワイヨ对应Coillot，非Coquard。",
+    "sources": [
+      "https://kaminoshizuku.com/kami032/",
+      "https://www.trimboliwines.com/_files/ugd/4303b1_891920abc1184dfd9e225b7ebe71a401.pdf"
+    ]
+  },
+  {
+    "id": "manga-e9f234b47f61",
+    "set": {
+      "en": "Morey-Saint-Denis 1er Cru Aux Cheseaux",
+      "name": "Morey-Saint-Denis 1er Cru Aux Cheseaux",
+      "producer": "Vincent Jeanniard"
+    },
+    "note": "修正生产者误配Vincent Girardin。",
+    "sources": [
+      "https://kaminoshizuku.com/kami032/",
+      "https://www.idealwine.com/fr/acheter-vin/B2134386-4566-1-bouteille-Morey-Saint-Denis-1er-Cru-Aux-Cheseaux-Vincent-Jeanniard-2004-Rouge"
+    ]
+  },
+  {
+    "id": "manga-f1e9b20189e1",
+    "set": {
+      "en": "Dut' Un",
+      "name": "Dut' Un"
+    },
+    "note": "修正Deutz Un误译，非Deutz香槟。",
+    "sources": [
+      "https://kaminoshizuku.com/kami034/",
+      "https://viediromans.it/en/wines/dut-un/"
+    ]
+  },
+  {
+    "id": "manga-3f2805faeccb",
+    "set": {
+      "en": "Château La Clusière",
+      "name": "Château La Clusière"
+    },
+    "note": "英文酒名误译；日文与生产者栏均指La Clusière。",
+    "sources": [
+      "https://kaminoshizuku.com/kami035/"
+    ]
+  },
+  {
+    "id": "manga-cf8eecd8cdbf",
+    "set": {
+      "en": "Aruga Branca Brilhante",
+      "name": "Aruga Branca Brilhante",
+      "lat": 35.66,
+      "lng": 138.73,
+      "place": "日本 · 山梨 · 胜沼",
+      "geoPrecision": "产区示意点 · 产区归属已补充核对",
+      "geoSource": "https://www.katsunuma-winery.com/"
+    },
+    "note": "统一官方拼写；英文索引另将同款误写Argiolas。",
+    "sources": [
+      "https://kaminoshizuku.com/kami026/",
+      "https://www.katsunuma-winery.com/"
+    ]
+  },
+  {
+    "id": "manga-85ebc82618f3",
+    "set": {
+      "en": "Aruga Branca Brilhante",
+      "name": "Aruga Branca Brilhante"
+    },
+    "note": "日文为アルガブランカ・ブリリャンテ，与26卷同款。",
+    "sources": [
+      "https://kaminoshizuku.com/kami039/",
+      "https://www.katsunuma-winery.com/"
+    ]
+  },
+  {
+    "id": "manga-303de4a762b5",
+    "set": {
+      "producer": "Ca N'Estruc"
+    },
+    "note": "日文生产者和酒名前缀均为Ca N’Estruc；去除Ca N’Estella误配，待生产者原始资料补证。",
+    "sources": [
+      "https://kaminoshizuku.com/kami037/"
+    ]
+  },
+  {
+    "id": "manga-ab430f445def",
+    "set": {
+      "producer": "Jean Bourdy"
+    },
+    "note": "修正Jean Boudy拼写；日文ブルディ。",
+    "sources": [
+      "https://kaminoshizuku.com/kami027/"
+    ]
+  },
+  {
+    "id": "manga-95efc9cf7f4a",
+    "set": {
+      "en": "Château Haut-Meneau",
+      "name": "Château Haut-Meneau",
+      "producer": "Château Haut-Meneau"
+    },
+    "note": "同卷日文同名，合并英文Mounau/Meneau拼写。",
+    "sources": [
+      "https://kaminoshizuku.com/kami024/"
+    ]
+  },
+  {
+    "id": "manga-2d22be10b5dd",
+    "set": {
+      "producer": "Château Haut-Meneau"
+    },
+    "note": "补充生产者拉丁拼写。",
+    "sources": [
+      "https://kaminoshizuku.com/kami024/"
+    ]
+  },
+  {
+    "id": "manga-0387b3843295",
+    "set": {
+      "lat": -41.22,
+      "lng": 175.45,
+      "place": "新西兰 · 马丁堡",
+      "geoSource": "https://atarangi.co.nz/vineyards",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://atarangi.co.nz/vineyards"
+    ]
+  },
+  {
+    "id": "manga-a5a49a0552b6",
+    "set": {
+      "lat": -41.22,
+      "lng": 175.45,
+      "place": "新西兰 · 马丁堡 · 具体酒款待核验",
+      "geoSource": "https://atarangi.co.nz/vineyards",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://atarangi.co.nz/vineyards"
+    ]
+  },
+  {
+    "id": "manga-20c1b3666a2e",
+    "set": {
+      "lat": -33.61,
+      "lng": -70.57,
+      "place": "智利 · 迈坡谷 · Puente Alto",
+      "geoSource": "https://www.almavivawinery.com/terroir",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://www.almavivawinery.com/terroir"
+    ]
+  },
+  {
+    "id": "manga-bcd27d78e19c",
+    "set": {
+      "lat": -41.51,
+      "lng": 173.9,
+      "place": "新西兰 · 马尔堡",
+      "geoSource": "https://www.cloudybay.com/en-us/our-wines/pinot-noir/pinot-noir-2021/",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://www.cloudybay.com/en-us/our-wines/pinot-noir/pinot-noir-2021/"
+    ]
+  },
+  {
+    "id": "manga-225089c58c14",
+    "set": {
+      "lat": 46.23,
+      "lng": 7.35,
+      "place": "瑞士 · 瓦莱",
+      "geoSource": "https://www.provins.ch/shop/fr/gammes-grand-m-tral/6725-fendant-aoc-valais.html",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://www.provins.ch/shop/fr/gammes-grand-m-tral/6725-fendant-aoc-valais.html"
+    ]
+  },
+  {
+    "id": "manga-f032f6e00371",
+    "set": {
+      "lat": -44.7,
+      "lng": 169.1,
+      "place": "新西兰 · 中奥塔哥 · Wanaka",
+      "geoSource": "https://rippon.co.nz/collections/wine/white",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://rippon.co.nz/collections/wine/white"
+    ]
+  },
+  {
+    "id": "manga-49bb655ff0bc",
+    "set": {
+      "lat": 49.66,
+      "lng": 6.62,
+      "place": "德国 · 摩泽尔 · 萨尔 · Wiltingen",
+      "geoSource": "https://www.egon-mueller.de/en_US/contact",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://www.egon-mueller.de/en_US/contact"
+    ]
+  },
+  {
+    "id": "manga-91e390bee86e",
+    "set": {
+      "lat": -34.53,
+      "lng": 138.95,
+      "place": "澳大利亚 · 巴罗萨",
+      "geoSource": "https://torbreck.com/blogs/reviews/woodcutters-shiraz-vertical",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://torbreck.com/blogs/reviews/woodcutters-shiraz-vertical"
+    ]
+  },
+  {
+    "id": "manga-388b9966e89a",
+    "set": {
+      "lat": -34.53,
+      "lng": 138.95,
+      "place": "澳大利亚 · 巴罗萨谷",
+      "geoSource": "https://glaetzer.com/wp-content/uploads/2016/12/tasting-amon_ra-2014.pdf",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://glaetzer.com/wp-content/uploads/2016/12/tasting-amon_ra-2014.pdf"
+    ]
+  },
+  {
+    "id": "manga-9825e07b9668",
+    "set": {
+      "lat": -35.22,
+      "lng": 138.55,
+      "place": "澳大利亚 · 麦克拉伦谷",
+      "geoSource": "https://www.darenberg.com.au/red-blends/",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://www.darenberg.com.au/red-blends/"
+    ]
+  },
+  {
+    "id": "manga-f28228d2b07a",
+    "set": {
+      "lat": -34.9,
+      "lng": 138.8,
+      "place": "澳大利亚 · 南澳 · 多产区混酿",
+      "geoSource": "https://www.penfolds.com/en/wines/featured/grange-collection",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://www.penfolds.com/en/wines/featured/grange-collection"
+    ]
+  },
+  {
+    "id": "manga-a74558d29c9a",
+    "set": {
+      "lat": -33.61,
+      "lng": -70.57,
+      "place": "智利 · 迈坡谷 · Puente Alto",
+      "geoSource": "https://donmelchor.com/en/consistent-vintage-for-don-melchor/",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://donmelchor.com/en/consistent-vintage-for-don-melchor/"
+    ]
+  },
+  {
+    "id": "manga-a696580ee65b",
+    "set": {
+      "lat": -33.35,
+      "lng": -69.2,
+      "place": "阿根廷 · 门多萨",
+      "geoSource": "https://catenazapata.com/catena-zapata-malbec-argentino-2004-es/",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://catenazapata.com/catena-zapata-malbec-argentino-2004-es/"
+    ]
+  },
+  {
+    "id": "manga-de3fa3be5aff",
+    "set": {
+      "lat": 41.42,
+      "lng": 1.79,
+      "place": "西班牙 · 佩内德斯 · Sant Sadurní d’Anoia",
+      "geoSource": "https://gramona.com/coleccion/gramona-imperial/",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://gramona.com/coleccion/gramona-imperial/"
+    ]
+  },
+  {
+    "id": "manga-f06ca03721d7",
+    "set": {
+      "lat": 41.52,
+      "lng": -5.4,
+      "place": "西班牙 · 托罗",
+      "geoSource": "https://www.numanthia.com/en-ww/our-wines/termanthia-wine",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://www.numanthia.com/en-ww/our-wines/termanthia-wine"
+    ]
+  },
+  {
+    "id": "manga-3c0d5368af86",
+    "set": {
+      "lat": 38.84,
+      "lng": -7.59,
+      "place": "葡萄牙 · 阿连特茹 · Estremoz",
+      "geoSource": "https://www.bacalhoa.pt/en/quinta-do-carmo",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://www.bacalhoa.pt/en/quinta-do-carmo"
+    ]
+  },
+  {
+    "id": "manga-6447885c8705",
+    "set": {
+      "lat": 42.3,
+      "lng": -8.1,
+      "place": "西班牙 · 加利西亚 · Ribeiro",
+      "geoSource": "https://www.ribeiro.wine/es/bodegas-y-colleiteiros/lagar-do-merens",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://www.ribeiro.wine/es/bodegas-y-colleiteiros/lagar-do-merens"
+    ]
+  },
+  {
+    "id": "manga-4ea37ba720a4",
+    "set": {
+      "lat": -33.64,
+      "lng": 19.01,
+      "place": "南非 · 惠灵顿",
+      "geoSource": "https://www.napier-vineyards.co.za/wines/red-medallion-2017/",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://www.napier-vineyards.co.za/wines/red-medallion-2017/"
+    ]
+  },
+  {
+    "id": "manga-a97480441375",
+    "set": {
+      "lat": -33.2,
+      "lng": -68.9,
+      "place": "阿根廷 · 门多萨",
+      "geoSource": "https://chakanawines.com/en/nuestros-vinos/estate-selection/",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://chakanawines.com/en/nuestros-vinos/estate-selection/"
+    ]
+  },
+  {
+    "id": "manga-9ac2baaecfa0",
+    "set": {
+      "lat": -34.4,
+      "lng": -71.16,
+      "place": "智利 · 卡恰波阿尔 · Peumo",
+      "geoSource": "https://conchaytoro.com/blog/carmin-de-peumo-2021-recibe-extraordinarios-93-puntos-en-wine-spectator/",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://conchaytoro.com/blog/carmin-de-peumo-2021-recibe-extraordinarios-93-puntos-en-wine-spectator/"
+    ]
+  },
+  {
+    "id": "manga-02eec1bfd697",
+    "set": {
+      "lat": 46.07,
+      "lng": 11.12,
+      "place": "意大利 · 特伦蒂诺 · Trento",
+      "geoSource": "https://www.ferraritrento.com/en/collection/classic/ferrari-rose/",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://www.ferraritrento.com/en/collection/classic/ferrari-rose/"
+    ]
+  },
+  {
+    "id": "manga-0ab6157c6c7c",
+    "set": {
+      "lat": -33.89,
+      "lng": 138.6,
+      "place": "澳大利亚 · 克莱尔谷",
+      "geoSource": "https://kirrihill.com.au/",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://kirrihill.com.au/"
+    ]
+  },
+  {
+    "id": "manga-722ce5c5644b",
+    "set": {
+      "lat": 41.64,
+      "lng": -4.05,
+      "place": "西班牙 · 杜埃罗河岸 · Pesquera de Duero",
+      "geoSource": "https://familiafernandezrivera.com/tienda-online/vinos/tinto-pesquera/tinto-pesquera-crianza-2021/",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://familiafernandezrivera.com/tienda-online/vinos/tinto-pesquera/tinto-pesquera-crianza-2021/"
+    ]
+  },
+  {
+    "id": "manga-e8e2ba2b15f6",
+    "set": {
+      "lat": 49.98,
+      "lng": 7,
+      "place": "德国 · 摩泽尔 · Ürzig",
+      "geoSource": "https://www.moselweine.shop/en/content/christoffel",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://www.moselweine.shop/en/content/christoffel"
+    ]
+  },
+  {
+    "id": "manga-3052697823e0",
+    "set": {
+      "lat": -34.53,
+      "lng": 138.95,
+      "place": "澳大利亚 · 巴罗萨谷",
+      "geoSource": "https://www.wineenthusiast.com/buying-guide/the-colonial-estate-2005-exile-shiraz-barossa-valley/",
+      "geoPrecision": "产区示意点 · 已补充产地来源，非庄园精确坐标"
+    },
+    "note": "补充产区来源；坐标为人工选择的区域示意点。来源其他年份仅用于核对产区，不替代漫画年份。",
+    "sources": [
+      "https://www.wineenthusiast.com/buying-guide/the-colonial-estate-2005-exile-shiraz-barossa-valley/"
+    ]
+  },
+  {
+    "id": "manga-f215a805a5bc",
+    "set": {
+      "name": "楼兰葡萄酒",
+      "en": "Loulan Wine",
+      "producer": "Loulan Wine",
+      "lat": 42.87,
+      "lng": 90.22,
+      "place": "中国 · 新疆 · 吐鲁番 · 鄯善",
+      "geoSource": "https://syjd.xjau.edu.cn/2024/1018/c333a103724/page.htm",
+      "geoPrecision": "区域示意点 · 非庄园或葡萄园精确坐标"
+    },
+    "note": "仅确认品牌所在地，漫画未明确具体酒款。",
+    "sources": [
+      "https://syjd.xjau.edu.cn/2024/1018/c333a103724/page.htm"
+    ]
+  },
+  {
+    "id": "manga-14d60162f76b",
+    "set": {
+      "name": "Broncone",
+      "en": "Broncone",
+      "producer": "La Fucina di Leonardo",
+      "lat": 43.4,
+      "lng": 11.3,
+      "place": "意大利 · 托斯卡纳",
+      "geoSource": "https://www.winebid.com/BuyWine/Item/Auction/278068/2001-La-Fucina-di-Leonardo-Broncone-1-bottle-Lot-W~",
+      "geoPrecision": "区域示意点 · 非庄园或葡萄园精确坐标"
+    },
+    "note": "补充生产者名称和大产区。",
+    "sources": [
+      "https://www.winebid.com/BuyWine/Item/Auction/278068/2001-La-Fucina-di-Leonardo-Broncone-1-bottle-Lot-W~"
+    ]
+  },
+  {
+    "id": "manga-939fb769fb0b",
+    "set": {
+      "name": "Cahors Cuvée Mythologia",
+      "en": "Cahors Cuvée Mythologia",
+      "producer": "Primo Palatum · Xavier Copel",
+      "lat": 44.45,
+      "lng": 1.35,
+      "place": "法国 · 西南 · Cahors",
+      "geoSource": "https://copelwines.com/wp-content/uploads/2022/04/CHEZ-COPEL-Livre-de-Cave-20220325.pdf",
+      "geoPrecision": "区域示意点 · 非庄园或葡萄园精确坐标"
+    },
+    "note": "纠正Mitroja拼写为Mythologia。",
+    "sources": [
+      "https://copelwines.com/wp-content/uploads/2022/04/CHEZ-COPEL-Livre-de-Cave-20220325.pdf"
+    ]
+  },
+  {
+    "id": "manga-8248b61a4021",
+    "set": {
+      "name": "Clos de Fa",
+      "en": "Clos de Fa",
+      "producer": "Dionysos Wines / Viña Marty",
+      "lat": -33.67,
+      "lng": -70.58,
+      "place": "智利 · Alto Maipo · Pirque",
+      "geoSource": "https://en.vinamarty.cl/clos-de-fa",
+      "geoPrecision": "区域示意点 · 非庄园或葡萄园精确坐标"
+    },
+    "note": "修正Clos des Fées误写为Clos de Fa，保留漫画时期生产者名。",
+    "sources": [
+      "https://en.vinamarty.cl/clos-de-fa"
+    ]
+  },
+  {
+    "id": "manga-ce04e17bfd46",
+    "set": {
+      "name": "Jacob’s Creek",
+      "en": "Jacob’s Creek",
+      "producer": "Jacob’s Creek",
+      "lat": -34.6,
+      "lng": 138.93,
+      "place": "澳大利亚 · 巴罗萨 · 品牌所在地",
+      "geoSource": "https://jacobscreek.com/en-ca/pages/contact",
+      "geoPrecision": "区域示意点 · 非庄园或葡萄园精确坐标"
+    },
+    "note": "漫画仅列品牌，地图显示品牌所在地，不代表未明确酒款的葡萄来源。",
+    "sources": [
+      "https://jacobscreek.com/en-ca/pages/contact"
+    ]
+  },
+  {
+    "id": "manga-c569f8d445e0",
+    "set": {
+      "producer": "Philippe Carrille",
+      "place": "法国 · 波尔多 · Castillon Côtes de Bordeaux",
+      "lat": 44.877,
+      "lng": -0.064,
+      "geoPrecision": "Sainte-Colombe 村镇示意点，非酒庄精确坐标",
+      "geoSource": "https://www.castillon-cotesdebordeaux.com/vigneron/chateau-poupille/"
+    },
+    "note": "产区官方资料确认生产者为 Philippe Carrille；Poupille 与 Château Poupille 为不同酒款，未合并。",
+    "sources": [
+      "https://www.castillon-cotesdebordeaux.com/vigneron/chateau-poupille/"
+    ]
+  }
+]

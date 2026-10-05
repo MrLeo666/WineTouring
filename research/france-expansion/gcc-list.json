@@ -1,0 +1,524 @@
+[
+  {
+    "name": "Château LA LAGUNE",
+    "place": "Haut-Médoc",
+    "rank": "Troisième Cru",
+    "hash": "chateau-la-lagune"
+  },
+  {
+    "name": "Château LA TOUR CARNET",
+    "place": "Haut-Médoc",
+    "rank": "Quatrième Cru",
+    "hash": "chateau-la-tour-carnet"
+  },
+  {
+    "name": "Château BELGRAVE",
+    "place": "Haut-Médoc",
+    "rank": "Cinquième Cru",
+    "hash": "chateau-belgrave"
+  },
+  {
+    "name": "Château de CAMENSAC",
+    "place": "Haut-Médoc",
+    "rank": "Cinquième Cru",
+    "hash": "chateau-de-camensac"
+  },
+  {
+    "name": "Château CANTEMERLE",
+    "place": "Haut-Médoc",
+    "rank": "Cinquième Cru",
+    "hash": "chateau-cantemerle"
+  },
+  {
+    "name": "Château MARGAUX",
+    "place": "Margaux",
+    "rank": "Premier Cru",
+    "hash": "chateau-margaux"
+  },
+  {
+    "name": "Château RAUZAN-SEGLA",
+    "place": "Margaux",
+    "rank": "Second Cru",
+    "hash": "chateau-rauzan-segla"
+  },
+  {
+    "name": "Château RAUZAN-GASSIES",
+    "place": "Margaux",
+    "rank": "Second Cru",
+    "hash": "chateau-rauzan-gassies"
+  },
+  {
+    "name": "Château DURFORT-VIVENS",
+    "place": "Margaux",
+    "rank": "Second Cru",
+    "hash": "chateau-durfort-vivens"
+  },
+  {
+    "name": "Château LASCOMBES",
+    "place": "Margaux",
+    "rank": "Second Cru",
+    "hash": "chateau-lascombes"
+  },
+  {
+    "name": "Château BRANE-CANTENAC",
+    "place": "Margaux",
+    "rank": "Second Cru",
+    "hash": "chateau-brane-cantenac"
+  },
+  {
+    "name": "Château KIRWAN",
+    "place": "Margaux",
+    "rank": "Troisième Cru",
+    "hash": "chateau-kirwan"
+  },
+  {
+    "name": "Château D’ISSAN",
+    "place": "Margaux",
+    "rank": "Troisième Cru",
+    "hash": "chateau-dissan"
+  },
+  {
+    "name": "Château GISCOURS",
+    "place": "Margaux",
+    "rank": "Troisième Cru",
+    "hash": "chateau-giscours"
+  },
+  {
+    "name": "Château MALESCOT SAINT-EXUPERY",
+    "place": "Margaux",
+    "rank": "Troisième Cru",
+    "hash": "chateau-malescot-saint-exupery"
+  },
+  {
+    "name": "Château BOYD-CANTENAC",
+    "place": "Margaux",
+    "rank": "Troisième Cru",
+    "hash": "chateau-boyd-cantenac"
+  },
+  {
+    "name": "Château CANTENAC BROWN",
+    "place": "Margaux",
+    "rank": "Troisième Cru",
+    "hash": "chateau-cantenac-brown"
+  },
+  {
+    "name": "Château PALMER",
+    "place": "Margaux",
+    "rank": "Troisième Cru",
+    "hash": "chateau-palmer"
+  },
+  {
+    "name": "Château DESMIRAIL",
+    "place": "Margaux",
+    "rank": "Troisième Cru",
+    "hash": "chateau-desmirail"
+  },
+  {
+    "name": "Château FERRIERE",
+    "place": "Margaux",
+    "rank": "Troisième Cru",
+    "hash": "chateau-ferriere"
+  },
+  {
+    "name": "Château MARQUIS D’ALESME BECKER",
+    "place": "Margaux",
+    "rank": "Troisième Cru",
+    "hash": "chateau-marquis-dalesme-becker"
+  },
+  {
+    "name": "Château POUGET",
+    "place": "Margaux",
+    "rank": "Quatrième Cru",
+    "hash": "chateau-pouget"
+  },
+  {
+    "name": "Château PRIEURE-LICHINE",
+    "place": "Margaux",
+    "rank": "Quatrième Cru",
+    "hash": "chateau-prieure-lichine"
+  },
+  {
+    "name": "Château MARQUIS DE TERME",
+    "place": "Margaux",
+    "rank": "Quatrième Cru",
+    "hash": "chateau-marquis-de-terme"
+  },
+  {
+    "name": "Château DAUZAC",
+    "place": "Margaux",
+    "rank": "Cinquième Cru",
+    "hash": "chateau-dauzac"
+  },
+  {
+    "name": "Château DU TERTRE",
+    "place": "Margaux",
+    "rank": "Cinquième Cru",
+    "hash": "chateau-du-tertre"
+  },
+  {
+    "name": "Château LAFITE-ROTHSCHILD",
+    "place": "Pauillac",
+    "rank": "Premier Cru",
+    "hash": "chateau-lafite-rothschild"
+  },
+  {
+    "name": "Château LATOUR",
+    "place": "Pauillac",
+    "rank": "Premier Cru",
+    "hash": "chateau-latour"
+  },
+  {
+    "name": "Château MOUTON ROTHSCHILD",
+    "place": "Pauillac",
+    "rank": "Premier Cru",
+    "hash": "chateau-mouton-rothschild"
+  },
+  {
+    "name": "Château PICHON BARON",
+    "place": "Pauillac",
+    "rank": "Second Cru",
+    "hash": "chateau-pichon-baron"
+  },
+  {
+    "name": "Château PICHON LONGUEVILLE COMTESSE DE LALANDE",
+    "place": "Pauillac",
+    "rank": "Second Cru",
+    "hash": "chateau-pichon-longueville-comtesse-de-lalande"
+  },
+  {
+    "name": "Château DUHART-MILON",
+    "place": "Pauillac",
+    "rank": "Quatrième Cru",
+    "hash": "chateau-duhart-milon"
+  },
+  {
+    "name": "Château PONTET-CANET",
+    "place": "Pauillac",
+    "rank": "Cinquième Cru",
+    "hash": "chateau-pontet-canet"
+  },
+  {
+    "name": "Château BATAILLEY",
+    "place": "Pauillac",
+    "rank": "Cinquième Cru",
+    "hash": "chateau-batailley"
+  },
+  {
+    "name": "Château HAUT-BATAILLEY",
+    "place": "Pauillac",
+    "rank": "Cinquième Cru",
+    "hash": "chateau-haut-batailley"
+  },
+  {
+    "name": "Château GRAND-PUY-LACOSTE",
+    "place": "Pauillac",
+    "rank": "Cinquième Cru",
+    "hash": "chateau-grand-puy-lacoste"
+  },
+  {
+    "name": "Château GRAND-PUY DUCASSE",
+    "place": "Pauillac",
+    "rank": "Cinquième Cru",
+    "hash": "chateau-grand-puy-ducasse"
+  },
+  {
+    "name": "Château LYNCH-BAGES",
+    "place": "Pauillac",
+    "rank": "Cinquième Cru",
+    "hash": "chateau-lynch-bages"
+  },
+  {
+    "name": "Château LYNCH-MOUSSAS",
+    "place": "Pauillac",
+    "rank": "Cinquième Cru",
+    "hash": "chateau-lynch-moussas"
+  },
+  {
+    "name": "Château D’ARMAILHAC",
+    "place": "Pauillac",
+    "rank": "Cinquième Cru",
+    "hash": "chateau-darmailhac"
+  },
+  {
+    "name": "Château HAUT-BAGES LIBERAL",
+    "place": "Pauillac",
+    "rank": "Cinquième Cru",
+    "hash": "chateau-haut-bages-liberal"
+  },
+  {
+    "name": "Château PEDESCLAUX",
+    "place": "Pauillac",
+    "rank": "Cinquième Cru",
+    "hash": "chateau-pedesclaux"
+  },
+  {
+    "name": "Château CLERC MILON",
+    "place": "Pauillac",
+    "rank": "Cinquième Cru",
+    "hash": "chateau-clerc-milon"
+  },
+  {
+    "name": "Château CROIZET-BAGES",
+    "place": "Pauillac",
+    "rank": "Cinquième Cru",
+    "hash": "chateau-croizet-bages"
+  },
+  {
+    "name": "Château HAUT-BRION",
+    "place": "Pessac",
+    "rank": "Premier Cru",
+    "hash": "chateau-haut-brion"
+  },
+  {
+    "name": "Château COS D’ESTOURNEL",
+    "place": "Saint-Estèphe",
+    "rank": "Second Cru",
+    "hash": "chateau-cos-destournel"
+  },
+  {
+    "name": "Château MONTROSE",
+    "place": "Saint-Estèphe",
+    "rank": "Second Cru",
+    "hash": "chateau-montrose"
+  },
+  {
+    "name": "Château CALON SEGUR",
+    "place": "Saint-Estèphe",
+    "rank": "Troisième Cru",
+    "hash": "chateau-calon-segur"
+  },
+  {
+    "name": "Château LAFON-ROCHET",
+    "place": "Saint-Estèphe",
+    "rank": "Quatrième Cru",
+    "hash": "chateau-lafon-rochet"
+  },
+  {
+    "name": "Château COS LABORY",
+    "place": "Saint-Estèphe",
+    "rank": "Cinquième Cru",
+    "hash": "chateau-cos-labory"
+  },
+  {
+    "name": "Château LEOVILLE-POYFERRE",
+    "place": "Saint-Julien",
+    "rank": "Second Cru",
+    "hash": "chateau-leoville-poyferre"
+  },
+  {
+    "name": "Château LEOVILLE BARTON",
+    "place": "Saint-Julien",
+    "rank": "Second Cru",
+    "hash": "chateau-leoville-barton"
+  },
+  {
+    "name": "Château GRUAUD LAROSE",
+    "place": "Saint-Julien",
+    "rank": "Second Cru",
+    "hash": "chateau-gruaud-larose"
+  },
+  {
+    "name": "Château DUCRU-BEAUCAILLOU",
+    "place": "Saint-Julien",
+    "rank": "Second Cru",
+    "hash": "chateau-ducru-beaucaillou"
+  },
+  {
+    "name": "Château LAGRANGE",
+    "place": "Saint-Julien",
+    "rank": "Troisième Cru",
+    "hash": "chateau-lagrange"
+  },
+  {
+    "name": "Château LANGOA BARTON",
+    "place": "Saint-Julien",
+    "rank": "Troisième Cru",
+    "hash": "chateau-langoa-barton"
+  },
+  {
+    "name": "Château SAINT-PIERRE",
+    "place": "Saint-Julien",
+    "rank": "Quatrième Cru",
+    "hash": "chateau-saint-pierre"
+  },
+  {
+    "name": "Château TALBOT",
+    "place": "Saint-Julien",
+    "rank": "Quatrième Cru",
+    "hash": "chateau-talbot"
+  },
+  {
+    "name": "Château BRANAIRE-DUCRU",
+    "place": "Saint-Julien",
+    "rank": "Quatrième Cru",
+    "hash": "chateau-branaire-ducru"
+  },
+  {
+    "name": "Château BEYCHEVELLE",
+    "place": "Saint-Julien",
+    "rank": "Quatrième Cru",
+    "hash": "chateau-beychevelle"
+  },
+  {
+    "name": "Château d’YQUEM",
+    "place": "Sauternes",
+    "rank": "Premier Cru Supérieur",
+    "hash": "chateau-dyquem"
+  },
+  {
+    "name": "Château LA TOUR BLANCHE",
+    "place": "Sauternes",
+    "rank": "Premier Cru",
+    "hash": "chateau-la-tour-blanche"
+  },
+  {
+    "name": "Château LAFAURIE-PEYRAGUEY",
+    "place": "Sauternes",
+    "rank": "Premier Cru",
+    "hash": "chateau-lafaurie-peyraguey"
+  },
+  {
+    "name": "Clos HAUT-PEYRAGUEY",
+    "place": "Sauternes",
+    "rank": "Premier Cru",
+    "hash": "clos-haut-peyraguey"
+  },
+  {
+    "name": "Château de RAYNE-VIGNEAU",
+    "place": "Sauternes",
+    "rank": "Premier Cru",
+    "hash": "chateau-de-rayne-vigneau"
+  },
+  {
+    "name": "Château SUDUIRAUT",
+    "place": "Sauternes",
+    "rank": "Premier Cru",
+    "hash": "chateau-suduiraut"
+  },
+  {
+    "name": "Château GUIRAUD",
+    "place": "Sauternes",
+    "rank": "Premier Cru",
+    "hash": "chateau-guiraud"
+  },
+  {
+    "name": "Château RIEUSSEC",
+    "place": "Sauternes",
+    "rank": "Premier Cru",
+    "hash": "chateau-rieussec"
+  },
+  {
+    "name": "Château RABAUD-PROMIS",
+    "place": "Sauternes",
+    "rank": "Premier Cru",
+    "hash": "chateau-rabaud-promis"
+  },
+  {
+    "name": "Château SIGALAS-RABAUD",
+    "place": "Sauternes",
+    "rank": "Premier Cru",
+    "hash": "chateau-sigalas-rabaud"
+  },
+  {
+    "name": "Château d’ARCHE",
+    "place": "Sauternes",
+    "rank": "Second Cru",
+    "hash": "chateau-darche"
+  },
+  {
+    "name": "Château FILHOT",
+    "place": "Sauternes",
+    "rank": "Second Cru",
+    "hash": "chateau-filhot"
+  },
+  {
+    "name": "Château de MALLE",
+    "place": "Sauternes",
+    "rank": "Second Cru",
+    "hash": "chateau-de-malle"
+  },
+  {
+    "name": "Château ROMER",
+    "place": "Sauternes",
+    "rank": "Second Cru",
+    "hash": "chateau-romer"
+  },
+  {
+    "name": "Château ROMER-DU-HAYOT",
+    "place": "Sauternes",
+    "rank": "Second Cru",
+    "hash": "chateau-romer-du-hayot"
+  },
+  {
+    "name": "Château LAMOTHE",
+    "place": "Sauternes",
+    "rank": "Second Cru",
+    "hash": "chateau-lamothe"
+  },
+  {
+    "name": "Château LAMOTHE-GUIGNARD",
+    "place": "Sauternes",
+    "rank": "Second Cru",
+    "hash": "chateau-lamothe-guignard"
+  },
+  {
+    "name": "Château COUTET",
+    "place": "Barsac",
+    "rank": "Premier Cru",
+    "hash": "chateau-coutet"
+  },
+  {
+    "name": "Château CLIMENS",
+    "place": "Barsac",
+    "rank": "Premier Cru",
+    "hash": "chateau-climens"
+  },
+  {
+    "name": "Château de MYRAT",
+    "place": "Barsac",
+    "rank": "Second Cru",
+    "hash": "chateau-de-myrat"
+  },
+  {
+    "name": "Château DOISY DAËNE",
+    "place": "Barsac",
+    "rank": "Second Cru",
+    "hash": "chateau-doisy-daene"
+  },
+  {
+    "name": "Château DOISY-DUBROCA",
+    "place": "Barsac",
+    "rank": "Second Cru",
+    "hash": "chateau-doisy-dubroca"
+  },
+  {
+    "name": "Château DOISY-VEDRINES",
+    "place": "Barsac",
+    "rank": "Second Cru",
+    "hash": "chateau-doisy-vedrines"
+  },
+  {
+    "name": "Château BROUSTET",
+    "place": "Barsac",
+    "rank": "Second Cru",
+    "hash": "chateau-broustet"
+  },
+  {
+    "name": "Château NAIRAC",
+    "place": "Barsac",
+    "rank": "Second Cru",
+    "hash": "chateau-nairac"
+  },
+  {
+    "name": "Château CAILLOU",
+    "place": "Barsac",
+    "rank": "Second Cru",
+    "hash": "chateau-caillou"
+  },
+  {
+    "name": "Château SUAU",
+    "place": "Barsac",
+    "rank": "Second Cru",
+    "hash": "chateau-suau"
+  }
+]

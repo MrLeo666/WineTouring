@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Château Beau-Séjour Bécot",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-beau-sejour-becot-2/",
+    "group": "premier"
+  },
+  {
+    "name": "Château Beauséjour Duffau-Lagarrosse",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-beausejour-heritiers-duffau-lagarrosse-2/",
+    "group": "premier"
+  },
+  {
+    "name": "Château Bélair-Monange",
+    "group": "premier"
+  },
+  {
+    "name": "Château Canon",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-canon-2/",
+    "group": "premier"
+  },
+  {
+    "name": "Château Canon la Gaffelière",
+    "group": "premier"
+  },
+  {
+    "name": "Clos Fourtet",
+    "url": "https://vins-saint-emilion.com/en/castle/clos-fourtet-2/",
+    "group": "premier"
+  },
+  {
+    "name": "Château Figeac (A)",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-figeac-2/",
+    "group": "premier"
+  },
+  {
+    "name": "La Mondotte",
+    "url": "https://vins-saint-emilion.com/en/castle/la-mondotte-2/",
+    "group": "premier"
+  },
+  {
+    "name": "Château Larcis Ducasse",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-larcis-ducasse-2/",
+    "group": "premier"
+  },
+  {
+    "name": "Château Pavie (A)",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-pavie-2/",
+    "group": "premier"
+  },
+  {
+    "name": "Château Pavie Macquin",
+    "group": "premier"
+  },
+  {
+    "name": "Château Trolong Mondot",
+    "group": "premier"
+  },
+  {
+    "name": "Château Trottevieille",
+    "group": "premier"
+  },
+  {
+    "name": "Château Valandraud",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-valandraud-2/",
+    "group": "premier"
+  },
+  {
+    "name": "Château Badette",
+    "url": "https://vins-saint-emilion.com/en/welcome-in-the-vineyard/the-2022-classification/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Balestard la Tonnelle",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-balestard-la-tonnelle-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Barde-Haut",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-barde-haut-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Bellefont Belcier",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-bellefont-belcier-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Bellevue",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-bellevue-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Berliquet",
+    "url": "https://vins-saint-emilion.com/en/welcome-in-the-vineyard/the-2022-classification/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Boutisse",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-boutisse-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Cadet-Bon",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-cadet-bon-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Cap de Mourlin",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-cap-de-mourlin-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Chauvin",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-chauvin-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Clos de Sarpe",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-clos-de-sarpe-5/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Corbin",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-corbin-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Corbin Michotte",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-corbin-michotte-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Croix de Labrie",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-croix-de-labrie-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Côte de Baleau",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-cote-de-baleau-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Dassault",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-dassault-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Destieux",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-destieux-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Faugères",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-faugeres-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Fleur Cardinale",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-fleur-cardinale-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Fombrauge",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-fombrauge-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Fonplégade",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-fonplegade-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Fonroque",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-fonroque-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Franc Mayne",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-franc-mayne-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Grand Corbin",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-grand-corbin-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Grand Corbin-Despagne",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-grand-corbin-despagne-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Grand Mayne",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-grand-mayne-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Guadet",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-guadet-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Haut-Sarpe",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-haut-sarpe-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Jean Faure",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-jean-faure-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château La Fleur Morange",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-la-fleur-morange-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Laniote",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-laniote-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Larmande",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-larmande-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Laroque",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-laroque-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Laroze",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-laroze-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Le Prieuré",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-le-prieure-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Mangot",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-mangot-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Monbousquet",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-monbousquet-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Montlabert",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-montlabert-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Montlisse",
+    "url": "https://vins-saint-emilion.com/en/welcome-in-the-vineyard/the-2022-classification/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Moulin du Cadet",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-moulin-du-cadet-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Peby Faugères",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-peby-faugeres-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Petit Faurie de Soutard",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-petit-faurie-de-soutard-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Ripeau",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-ripeau-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Rochebelle",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-rochebelle-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Rol Valentin",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-rol-valentin-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Saint-Georges-Cote-Pavie",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-saint-georges-cote-pavie-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Sansonnet",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-sansonnet-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Soutard",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-soutard-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Tour Baladoz",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-tour-baladoz-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Tour Saint-Christophe",
+    "url": "https://vins-saint-emilion.com/en/castle/tour-saint-christophe-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Villemaurine",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-villemaurine-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château Yon-Figeac",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-yon-figeac-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château de Ferrand",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-de-ferrand-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château de Pressac",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-de-pressac/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château la Commanderie",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-la-commanderie-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château la Confession",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-la-confession-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château la Couspaude",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-la-couspaude-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château la Croizille",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-la-croizille-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château la Dominique",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-la-dominique-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château la Marzelle",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-la-marzelle-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château la Serre",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-la-serre-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château la Tour Figeac",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-la-tour-figeac-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Château le Chatelet",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-le-chatelet-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Clos Badon Thunevin",
+    "url": "https://vins-saint-emilion.com/en/welcome-in-the-vineyard/the-2022-classification/",
+    "group": "gcc"
+  },
+  {
+    "name": "Clos Dubreuil",
+    "url": "https://vins-saint-emilion.com/en/castle/clos-dubreuil-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Clos Saint-Julien",
+    "url": "https://vins-saint-emilion.com/en/castle/clos-saint-julien-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Clos Saint-Martin",
+    "url": "https://vins-saint-emilion.com/en/castle/clos-saint-martin-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Clos de l'Oratoire",
+    "url": "https://vins-saint-emilion.com/en/castle/clos-de-loratoire-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Clos des Jacobins",
+    "url": "https://vins-saint-emilion.com/en/castle/clos-des-jacobins-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Couvent des Jacobins",
+    "url": "https://vins-saint-emilion.com/en/castle/couvent-des-jacobins-2/",
+    "group": "gcc"
+  },
+  {
+    "name": "Lassegue",
+    "url": "https://vins-saint-emilion.com/en/castle/chateau-lassegue-2/",
+    "group": "gcc"
+  }
+]

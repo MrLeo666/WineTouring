@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="rotate(22.5 256 256)">
+    <circle cx="256" cy="256" r="200" fill="#F4F1EA"/>
+    <g fill="#7A2430">
+      <g transform="translate(196,256) scale(0.92) translate(-256,-250)">
+        <path d="M241 118 h30 c2 0 4 2 4 5 v6 h-38 v-6 c0-3 2-5 4-5z M247 132 h18 v70 c0 8 2 16 7 24 c18 30 36 48 42 82 v70 c0 8-7 14-14 14 h-88 c-7 0-14-6-14-14 v-70 c6-34 24-52 42-82 c5-8 7-16 7-24z"/>
+      </g>
+      <g transform="translate(316,256) scale(0.92) rotate(180) translate(-256,-250)">
+        <path d="M241 118 h30 c2 0 4 2 4 5 v6 h-38 v-6 c0-3 2-5 4-5z M247 132 h18 v70 c0 8 2 16 7 24 c18 30 36 48 42 82 v70 c0 8-7 14-14 14 h-88 c-7 0-14-6-14-14 v-70 c6-34 24-52 42-82 c5-8 7-16 7-24z"/>
+      </g>
+    </g>
+  </g>
+</svg>

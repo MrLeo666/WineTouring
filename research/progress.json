@@ -1,0 +1,62 @@
+{
+  "review": {
+    "comparedOccurrences": 691,
+    "comparedVolumes": 44,
+    "additionalVintageRecords": 6,
+    "correctedRecords": 49,
+    "aliasRedirects": 21,
+    "sequelIndexedOccurrences": 267,
+    "sequelVolumes": 26,
+    "originalPageVerified": false,
+    "sourceIndependenceVerified": false
+  },
+  "sequel": {
+    "volumes": 26,
+    "sourceOccurrences": 267,
+    "wineOccurrences": 266,
+    "uniqueWines": 238,
+    "newCatalogEntries": 198,
+    "joinedExisting": 40,
+    "excluded": [
+      {
+        "titleJa": "越後鶴亀 ワイン酵母仕込み 純米吟醸",
+        "nameJa": "越後鶴亀 ワイン酵母仕込み 純米吟醸",
+        "producerJa": "越後鶴亀",
+        "typeJa": "日本酒",
+        "regionJa": "日本　新潟",
+        "vintage": null,
+        "volume": 21,
+        "series": "mariage",
+        "source": "https://kaminoshizuku.com/mariage021/",
+        "reason": "日本清酒，非葡萄酒"
+      }
+    ],
+    "scope": "最终章26卷 · 单一公开酒单索引，未完成原页核验"
+  },
+  "originalUniqueWines": 506,
+  "sourceOccurrences": 959,
+  "volumes": 70,
+  "uniqueWines": 704,
+  "existingMatches": 38,
+  "mapped": 636,
+  "pendingLocations": 68,
+  "excludedSpirits": [
+    "Fine de Bourgogne"
+  ],
+  "scope": "原作44卷＋最终章26卷 · 公开酒单索引，非全量逐页核验",
+  "updated": "2026-09-29",
+  "originalVolumesCompared": 44,
+  "mariageVolumesIndexed": 26,
+  "apostleLabels": 10,
+  "additionalMangaLabels": 6,
+  "originalPageVerification": false,
+  "sourceIndependenceVerified": false,
+  "complete": false,
+  "scheduledWork": false,
+  "remaining": [
+    "68 wine locations require verification",
+    "2 apostle labels missing",
+    "Other manga labels incomplete",
+    "Original-page verification and later sequel inventory incomplete"
+  ]
+}
